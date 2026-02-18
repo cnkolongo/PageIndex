@@ -1,0 +1,134 @@
+{
+  "slug": "AM-044-08-12-2006-2006",
+  "bundle_path": "backups/all_bundles/code/AM-044-08-12-2006-2006.json",
+  "document_id": "c4d244c0-1124-4d6d-8acc-1466f94a645c",
+  "document_title": "AM.044.08.12.2006",
+  "tree_json": {
+    "doc_name": "AM-044-08-12-2006-2006",
+    "structure": [
+      {
+        "title": "AM.044.08.12.2006",
+        "node_id": "0000",
+        "prefix_summary": "# AM.044.08.12.2006",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "The partial document defines key terms and institutional structures related to environmental and social assessment in the Democratic Republic of Congo. It establishes the \"Groupe d'Etudes Environnementales du Congo\" (GEEC) as the coordinating body and outlines the main procedural documents, including technical manuals, the Environmental Permit, Environmental and Social Impact Studies (EIES), Environmental and Social Management Plans (PGES and PGESO), the Environmental Attestation, and the Environmental Dashboard (TBE).",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial document outlines the transfer of assets, liabilities, and responsibilities from the environmental unit of the PMURR (and related projects) to the GEEC. The main points are:\n\n1.  The complete assets and liabilities of the PMURR's environmental unit are automatically transferred to the GEEC.\n2.  All commitments and agreements made by that unit with various partners and other government programs are also transferred to the GEEC.\n3.  All assets acquired by the SOFRECO project for the PMURR's environmental and social assessment, along with all other PMURR outputs, documents, and intellectual property rights, are automatically transferred to the GEEC's assets.",
+            "line_num": 47
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nSont abrog�es toutes les dispositions ant�rieures contraires au pr�sent\nArr�t�.",
+            "line_num": 63
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLe Secr�taire G�n�ral � l'Environnement, Conservation de la Nature, Eaux et\nFor�ts est charg� de l'ex�cution du pr�sent arr�t� qui entre en vigueur � la\ndate de sa signature.\nFait � Kinshasa, le 08 d�cembre 2006\nElias Mulungula Hobigera Nalwindi.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 69
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0005",
+            "summary": "This partial document covers Article 2 of an official decree from the Democratic Republic of the Congo. Its main points are:\n1. The creation, organization, and functioning of the GEEC (Environmental and Social Evaluation Committee), a technical government body.\n2. The GEEC's mandate to conduct and coordinate all activities related to Environmental and Social Evaluation (EIA).\n3. A listing of the GEEC's specific missions, which include defining the EIA process, ensuring compliance with environmental and social norms in development projects, promoting capacity building, fostering public consultation and training, and presenting an annual environmental dashboard.\n4. A detailed outline of the GEEC's purposes, which include contributing to good environmental governance, strengthening institutional capacities, ensuring transparency among stakeholders, acting as an evaluator to prevent negative impacts, and collecting environmental data across the country.",
+            "line_num": 83
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0006",
+            "summary": "This partial document is an official decree (Arrêté) that transfers the responsibilities for environmental and social evaluation of the PMURR project. The main points covered are:\n\n1.  The contract with the external firm SOFRECO for this evaluation is ending on February 7, 2007.\n2.  The responsibility for conducting the PMURR's environmental and social evaluation is formally transferred from the project's \"cellule environnement\" to the GEEC (likely a government or internal unit).\n3.  The GEEC is now the designated contact point for the project's steering committee and executing agencies on these matters.\n4.  The decree allows the GEEC to arrange special collaborations with external national or international experts if needed to finalize specific projects requiring specialized environmental management expertise.",
+            "line_num": 133
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0007",
+            "summary": "###### Article 4\n\ndu Congo � GEEC �.\nLe personnel du Groupe d'Etudes Environnementales du Congo � GEEC� est\ncompos� de cadres de commandement de collaboration et d'ex�cution.\nLe GEEC est dirig� par un Directeur G�n�ral assist� d'un Directeur G�n�ral\nAdjoint.\nDans le cadre de son fonctionnement, il est compos� des Directeurs ci-apr�s:\n1) la direction juridique et contentieux\n2) la direction administrative et financi�re\n3) la direction technique\nL'organigramme annex� au pr�sent arr�t� d�crit la structure fonctionnelle du\nGEEC comprenant la Direction G�n�rale, les Directions ainsi que les\nDivisions Techniques.",
+            "line_num": 155
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0008",
+            "summary": "This partial document outlines the appointment and recruitment procedures for the management and staff of the GEEC (likely a government environmental agency or body). It specifies that the Director General and Deputy Director General are appointed by ministerial decree for renewable five-year terms. The recruitment of senior staff is to be conducted competitively by an independent consultant, with final selections approved by the Minister. Current staff from an existing environmental unit are automatically transferred, while the recruitment of other staff is managed by the Director General according to internal regulations.",
+            "line_num": 171
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0009",
+            "summary": "This partial document covers Article 6 of a regulation, outlining the mission and tasks of the General Directorate of GEEC (likely an environmental and social evaluation body) in the Democratic Republic of Congo. The main points are the core duties of the General Director and the delegated tasks of GEEC's managerial staff.\n\nThe specific duties include:\n*   Conducting and coordinating environmental and social evaluations for all investment projects.\n*   Recommending measures to mitigate negative impacts and enhance positive ones.\n*   Developing sector-specific evaluation methodologies.\n*   Updating technical procedure manuals.\n*   Contributing to capacity building for public administration and investors.\n*   Managing GEEC's administrative, financial, and legal affairs.\n*   Finalizing environmental framework laws and developing implementing measures.\n*   The possibility of hiring national and international experts under specific conditions.\n\nFor GEEC's managers, their delegated tasks involve:\n*   Conducting the evaluations.\n*   Ensuring proper execution of procedures as defined in technical and administrative manuals.\n*   Ensuring capacity building for public and private investors.",
+            "line_num": 193
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0010",
+            "summary": "###### Article 7\n\nLes budgets d'investissement et de fonctionnement du GEEC sont constitu�s\ndes r�trocessions des taxes, de l'apport budg�taire de l'Etat, des\nfinancements des partenaires bilat�raux et multilat�raux ainsi que des dons\net legs.\nLes coordonn�es budg�taires de la cellule environnement du PMURR dont le\nnum�ro du chapitre (5660&) de la section 56 Minist�re de l'environnement\ndeviennent les r�f�rences du GEEC aux budgets de l'Etat congolais.",
+            "line_num": 237
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0011",
+            "summary": "###### Article 8\n\nDans chaque instance publique concern�e par l'�valuation environnementale et\nsociale, il sera institu� un poste de Point Focal Environnement (PFE) agr�e\npar le directeur g�n�ral du GEEC.",
+            "line_num": 248
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0012",
+            "summary": "###### Article 9\n\nSous la conduite du GEEC, les structures publiques et priv�es, la soci�t�\ncivile, les communaut�s de base, les ONG, les agences d'ex�cution et les\nbureaux d'�tudes participent, chacun en ce qui le concerne, aux activit�s\nrelatives � l'�valuation environnementale et sociale des projets et/ou\nprogrammes de d�veloppement en ex�cution en R�publique D�mocratique du\nCongo.\nLa direction g�n�rale du GEEC en d�finira le cadre et les modalit�s de\ncollaboration conform�ment aux dispositions cn vigueur.",
+            "line_num": 255
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "d4b66a76-f848-48bf-a90c-08fda24f6cd4"
+    ],
+    "0002": [
+      "e632f38e-001d-47ae-9b9c-3b51cdab05bb"
+    ],
+    "0003": [
+      "cd953bec-1dbf-4195-8b21-4378755e715b"
+    ],
+    "0004": [
+      "5d08bdf4-1495-420f-abc6-a8538ad0f3dc"
+    ],
+    "0005": [
+      "5ed6a3cb-a3fd-4fd7-baf5-19fc6066aec5"
+    ],
+    "0006": [
+      "dedf2e16-b570-477c-aeb7-cbf7b7994b21"
+    ],
+    "0007": [
+      "08bd8e89-e389-4ddb-847f-7bfa94225a66"
+    ],
+    "0008": [
+      "04bcc3d9-71c5-42cd-82f2-4975b8650d6b"
+    ],
+    "0009": [
+      "60dbb751-f0b8-4814-b159-4ca7a62787ef"
+    ],
+    "0010": [
+      "119c051c-2124-4b97-bc4b-8724d784db5e"
+    ],
+    "0011": [
+      "5aebf654-f7be-45b4-99ad-13e60824f2ab"
+    ],
+    "0012": [
+      "aa5970a3-77bd-40a1-a20f-21168e1655d0"
+    ]
+  },
+  "node_count": 13,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:25:05.918368",
+  "article_count": 12,
+  "generation_time_s": 13.781486988067627
+}

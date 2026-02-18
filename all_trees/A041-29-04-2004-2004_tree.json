@@ -1,0 +1,795 @@
+{
+  "slug": "A041-29-04-2004-2004",
+  "bundle_path": "backups/all_bundles/code/A041-29-04-2004-2004.json",
+  "document_id": "19010481-4ec8-4b09-8f45-d71def459bb5",
+  "document_title": "A041.29.04.2004",
+  "tree_json": {
+    "doc_name": "A041-29-04-2004-2004",
+    "doc_description": "This document is a 2004 ministerial decree (Arrêté) from the Democratic Republic of Congo that comprehensively regulates hunting, detailing the procedures for obtaining various permits (sport, tourism, scientific, commercial), the licensing of hunting guides, and the specific firearms and ammunition authorized for use.",
+    "structure": [
+      {
+        "title": "A041.29.04.2004",
+        "node_id": "0000",
+        "prefix_summary": "# A041.29.04.2004",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLa Compagnie de Chasse introduit la demande d�utilisation, d�importation et\nexportation d�armes � feu de chasse repris � l�annexe XXI conform�ment �\nl�article 21 de la Loi n� 82-002 du 28 mai 1982, en sp�cifiant les\ncaract�ristiques des fusils qui feront l�objet d�usage au cours de l�exp�dition.",
+            "line_num": 4
+          },
+          {
+            "title": "Chapitre d",
+            "node_id": "0002",
+            "prefix_summary": "#### Chapitre d",
+            "line_num": 12,
+            "nodes": [
+              {
+                "title": "Article 11",
+                "node_id": "0003",
+                "summary": "###### Article 11\n\nLe Ministre ayant la chasse dans ses attributions proc�de � l�examen et\nagr�ation de la liste d�armes � feu de chasse (au plus 3 armes) faisant l�objet\nde la demande ainsi que l�agr�ation de la liste aupr�s du Ministre des Affaires\nInt�rieures et S�curit� pour accorder des autorisations requises en la mati�re\n(permis import-export d�armes � feu de chasse).\neuxi�me : Des permis de chasse\nSection 1 : Des permis ordinaires\nSous-section 1 : Des permis sportifs de chasse",
+                "line_num": 15
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nLe permis sportif\nde petite chasse, conforme au mod�le repris � l�annexe 5, est d�livr� par\nl�administrateur du Territoire, sur avis du service de chasse, et donne � son\ntitulaire le droit de chasser dans le territoire, mais en dehors des r�serves et\ndomaines de chasse, des oiseaux et des mammif�res non prot�g�s repris � l�annexe\n4 du pr�sent Arr�t�.",
+                "line_num": 27
+              },
+              {
+                "title": "Section 2 : De la p�riode de chasse",
+                "node_id": "0005",
+                "prefix_summary": "##### Section 2 : De la p�riode de chasse",
+                "line_num": 37,
+                "nodes": [
+                  {
+                    "title": "Article 12",
+                    "node_id": "0006",
+                    "summary": "###### Article 12",
+                    "line_num": 40
+                  },
+                  {
+                    "title": "Article 13",
+                    "node_id": "0007",
+                    "summary": "###### Article 13\n\nLe permis sportif de grande chasse dont\nle mod�le est repris � l�annexe 6 est d�livr� par le Gouverneur de province ou\nson d�l�gu�, sur avis de l�administration provinciale de la chasse, et permet �\nson titulaire de chasser dans la province, mais en dehors des r�serves et\ndomaines de chasse, des oiseaux des mammif�res non prot�g�s repris �  l�annexe 4\nainsi que ceux partiellement prot�g�s repris � l�annexe 3 du pr�sent Arr�t�.\nSous section 2 : Des permis de tourisme",
+                    "line_num": 43
+                  },
+                  {
+                    "title": "Article 14",
+                    "node_id": "0008",
+                    "summary": "###### Article 14\n\nLe petit permis\nde tourisme dont le mod�le est repris � l�annexe 7 est d�livr� par le R�gisseur\nd�un domaine de chasse pour chasser dans les aires relevant de sa comp�tence.\nIl peut aussi �tre d�livr� par le Gouverneur de province ou son\nd�l�gu� � un non-r�sident pour chasser dans la province, mais en dehors des\nr�serves et domaines de chasse.",
+                    "line_num": 54
+                  },
+                  {
+                    "title": "Article 15",
+                    "node_id": "0009",
+                    "summary": "###### Article 15\n\nLe petit permis du tourisme conf�re � son titulaire le droit de\nchasser dans l�aire qu�il d�termine des animaux non prot�g�s.",
+                    "line_num": 64
+                  },
+                  {
+                    "title": "Sous-section 3 : Du permis et du permis collectif de chasse",
+                    "node_id": "0010",
+                    "summary": "###### Sous-section 3 : Du permis et du permis collectif de chasse",
+                    "line_num": 70
+                  },
+                  {
+                    "title": "Article 16",
+                    "node_id": "0011",
+                    "summary": "###### Article 16\n\nLe grand permis du tourisme dont le mod�le est repris �\nl�annexe 8 est d�livr� par le R�gisseur d�un domaine de chasse pour chasser dans\nles aires relevant de sa comp�tence et donne � son titulaire le droit de chasser\ndes animaux non prot�g�s et partiellement prot�g�s.",
+                    "line_num": 73
+                  },
+                  {
+                    "title": "Article 17",
+                    "node_id": "0012",
+                    "summary": "###### Article 17\n\nLe permis rural\nde chasse, dont le mod�le est repris � l�annexe 9 du pr�sent Arr�t�, est d�livr�\npar  l�administrateur de territoire � tout congolais habitant sa juridiction et\nlui donne le droit de chasser, uniquement dans le ressort du territoire, des\nanimaux non prot�g�s inscrits � l�annexe 4 du pr�sent Arr�t�.",
+                    "line_num": 81
+                  },
+                  {
+                    "title": "Article 18",
+                    "node_id": "0013",
+                    "summary": "###### Article 18\n\nLe permis collectif de chasse est d�livr� par l�administrateur\nde territoire au chef de secteur et doit �tre conforme � l�annexe 10.\nLe permis\ncollectif de chasse n�autorise que l�usage d�engins coutumiers tels que, lance,\nsagaie, arc, arbal�te, fronde et pi�ge, confectionn�s avec des mat�riaux locaux,\n� l�exclusion de toute arme � feu, de pi�ges et c�bles m�talliques.",
+                    "line_num": 90
+                  }
+                ]
+              },
+              {
+                "title": "Section 2 : Des permis sp�ciaux",
+                "node_id": "0014",
+                "prefix_summary": "##### Section 2 : Des permis sp�ciaux",
+                "line_num": 100,
+                "nodes": [
+                  {
+                    "title": "Article 19",
+                    "node_id": "0015",
+                    "summary": "###### Article 19\n\nLe permis collectif de chasse n�autorise\nque la chasse d�animaux repris � l�annexe 4 et dont le nombre par esp�ce est\nfix� annuellement, pour une  p�riode de chasse, en fonction de la densit� locale\ndu  gibier par l�administrateur de territoire, sur avis de  service local de\nchasse.\n\nSous-section 1 : Du permis scientifique",
+                    "line_num": 103
+                  },
+                  {
+                    "title": "Article 1er",
+                    "node_id": "0016",
+                    "summary": "###### Article 1er\n\nEst consid�r� comme acte de chasse, toutes man�uvres employ�es\npour capturer ou abattre le gibier, pour le rechercher ou le poursuivre en vue\nde sa capture ou de son abattage, d�en pr�lever les �ufs, les nids, les couv�es,\nles jeunes.\nLe fait de l�abattre pour le compte d�un titulaire de permis de\nchasse ne constitue toutefois pas un acte de chasse.",
+                    "line_num": 114
+                  },
+                  {
+                    "title": "Article 2",
+                    "node_id": "0017",
+                    "summary": "###### Article 2\n\nL�ensemble du territoire national sauf en dehors des aires\nprot�g�es except� les r�serves de chasse (cfr. Loi n� 82-002 du 28/05/1982",
+                    "line_num": 124
+                  },
+                  {
+                    "title": "Article 20",
+                    "node_id": "0018",
+                    "summary": "###### Article 20\n\nLe permis\nscientifique est conforme au mod�le repris � l�annexe II.\nIl est valable\npour une dur�e ne d�passant pas six mois et peut, selon les circonstances, �tre\nd�livr� en dehors de la p�riode d�ouverture de la chasse.",
+                    "line_num": 130
+                  },
+                  {
+                    "title": "Sous-section 2 : Du permis administratif",
+                    "node_id": "0019",
+                    "summary": "###### Sous-section 2 : Du permis administratif",
+                    "line_num": 139
+                  },
+                  {
+                    "title": "Article 21",
+                    "node_id": "0020",
+                    "summary": "###### Article 21\n\nLe permis scientifique est d�livr� par le Ministre ayant la\nchasse dans ses attributions, donne � son titulaire le droit de capturer ou\nd�abattre uniquement les animaux qu�il mentionne.\nL�obligation est\nfaite au titulaire de pr�senter son rapport � la fin de ses op�rations et de ses\nrecherches.",
+                    "line_num": 142
+                  },
+                  {
+                    "title": "Sous-section 3 : Du permis de capture commerciale",
+                    "node_id": "0021",
+                    "summary": "###### Sous-section 3 : Du permis de capture commerciale",
+                    "line_num": 152
+                  },
+                  {
+                    "title": "Article 22",
+                    "node_id": "0022",
+                    "summary": "###### Article 22\n\nLe permis administratif de chasse ne d�passant pas trois mois\net peut �tre d�livr� m�me en dehors de la p�riode d�ouverture de la chasse.\nCe permis\nautorise le refoulement ou, en cas de n�cessit� imp�rieuse, l�abattage ou la\ncapture de tout animal qui se r�v�le dangereux.",
+                    "line_num": 155
+                  },
+                  {
+                    "title": "Article 23",
+                    "node_id": "0023",
+                    "summary": "###### Article 23\n\nLe permis de capture commerciale, dont le mod�le est repris �\nl�annexe 13 du pr�sent Arr�t�, est d�livr� par le Secr�taire g�n�ral qui a la\nchasse dans ses attributions ou son d�l�gu�.\nIl est valable\npour une dur�e ne d�passant pas six mois et au cours de la p�riode d�ouverture\nde chasse.\nIl autorise � son\ntitulaire de ne capturer ou de ne collecter que des animaux non prot�g�s ou\npartiellement prot�g�s dont il d�termine les esp�ces, le sexe et le nombre dans\nun registre tenu � cet effet.",
+                    "line_num": 164
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Des dispositions communes aux permis",
+                "node_id": "0024",
+                "prefix_summary": "##### Section 3 : Des dispositions communes aux permis",
+                "line_num": 178,
+                "nodes": [
+                  {
+                    "title": "Article 24",
+                    "node_id": "0025",
+                    "summary": "###### Article 24\n\nPour des op�rations particuli�res et\nlimit�es, le Ministre comp�tent peut exceptionnellement autoriser le titulaire\ndu permis de capture commerciale � utiliser des proc�d�s ou engins prohib�s,\ntels que filets de tenderie et trappes diverses.\n\nSous-section 1 : Des conditions d�octroi",
+                    "line_num": 181
+                  },
+                  {
+                    "title": "Article 25",
+                    "node_id": "0026",
+                    "summary": "###### Article 25\n\nToute demande de\npermis ordinaire de chasse doit se faire sur un formulaire �tabli par\nl�administration de la chasse et dont le mod�le est repris � l�annexe 14 du\npr�sent Arr�t�.",
+                    "line_num": 191
+                  },
+                  {
+                    "title": "Article 26",
+                    "node_id": "0027",
+                    "summary": "###### Article 26\n\nLa demande d�un permis scientifique ou d�un permis de capture\ncommerciale se fait sur un formulaire conforme au mod�le unique repris �\nl�annexe 15 du pr�sent Arr�t�.",
+                    "line_num": 199
+                  },
+                  {
+                    "title": "Sous-section 2 : De la d�claration et de l�enregistrement",
+                    "node_id": "0028",
+                    "summary": "###### Sous-section 2 : De la d�claration et de l�enregistrement",
+                    "line_num": 206
+                  },
+                  {
+                    "title": "Article 27",
+                    "node_id": "0029",
+                    "summary": "###### Article 27\n\nLa demande du permis administratif est adress�e directement �\nl�autorit� de l�entit� administrative d�centralis�e concern�e. Mais l�autorit�\nde l�entit� administrative d�centralis�e concern�e prendra soin d�en r�server\ncopie aux services provinciaux et de district comp�tents en mati�re de chasse.",
+                    "line_num": 209
+                  },
+                  {
+                    "title": "Article 28",
+                    "node_id": "0030",
+                    "summary": "###### Article 28\n\nAu plus tard 48\nheures apr�s la capture ou l�abattage d�un animal, le titulaire de tout permis\nde chasse doit l�inscrire dans son carnet de chasse en mentionnant la date, le\nlieu, la zone administrative d�abattage ou de capture ainsi que l�esp�ce et le\nnom vernaculaire de l�animal.",
+                    "line_num": 217
+                  },
+                  {
+                    "title": "Article 29",
+                    "node_id": "0031",
+                    "summary": "###### Article 29\n\nTout animal de chasse inscrit � l�annexe 3 ou tout troph�e de\ncet animal, obtenu en vertu d�un permis sportif de grande chasse ou d�un grand\npermis de tourisme est enregistr� au chef-lieu du territoire dans lequel ont eu\nlieu l�abattage ou la capture ou aupr�s du R�gisseur lorsque l�animal provient\nd�un domaine de chasse.\nUn certificat\nd�enregistrement conforme au mod�le repris � l�annexe 16 du pr�sent Arr�t� est\nd�livr� sur pr�sentation de la preuve de paiement de la taxe d�abattage ou de\ncapture.",
+                    "line_num": 226
+                  },
+                  {
+                    "title": "Article 3",
+                    "node_id": "0032",
+                    "summary": "###### Article 3\n\nChaque ann�e, la chasse est en principe ouverte et ferm�e selon\nle calendrier pr�vu � l�annexe 1 du pr�sent Arr�t� sauf pour la chasse sportive\ndont la dur�e ne d�passe pas 6 mois..\nEn pratique et chaque ann�e, le Gouverneur de province peut\nd�cider l�ouverture et la fermeture de la chasse dans la province conform�ment\nau calendrier pr�vu ci-dessus.",
+                    "line_num": 239
+                  },
+                  {
+                    "title": "Article 30",
+                    "node_id": "0033",
+                    "summary": "###### Article 30\n\nLe titulaire du permis scientifique de chasse est tenu de faire\nenregistrer les animaux abattus ou captur�s conform�ment aux articles  26 et 27\nci-dessus.\nL�enregistrement\nest gratuit, sauf en ce qui concerne l�ivoire.",
+                    "line_num": 249
+                  },
+                  {
+                    "title": "Article 31",
+                    "node_id": "0034",
+                    "summary": "###### Article 31\n\nA la fin de\nchaque op�ration de capture et au plus tard dans les quinze jours suivants, le\ntitulaire du permis de capture commerciale doit faire enregistrer les animaux au\nchef-lieu du territoire o� il les a  captur�s, collect�s ou �ventuellement\nabattus.",
+                    "line_num": 258
+                  },
+                  {
+                    "title": "Article 32",
+                    "node_id": "0035",
+                    "summary": "###### Article 32\n\nLa validit� du\ncertificat d�enregistrement est de 180 jours (6 mois) � partir de la date de sa\nd�livrance.\nIl tient lieu de\ncertificat d�origine pour les animaux totalement ou partiellement obtenus en\nvertu des permis scientifique ou de capture commerciale.",
+                    "line_num": 267
+                  },
+                  {
+                    "title": "Article 33",
+                    "node_id": "0036",
+                    "summary": "This partial document outlines the regulations for obtaining a \"certificat de légitime détention\" (certificate of lawful possession) for game animals and their by-products in the Democratic Republic of Congo. It specifies that the issuance of this certificate requires the presentation of the animal's registration certificate. It then lists the five authorities empowered to issue the certificate, detailing their respective jurisdictions based on the type of animal (partially protected or non-protected) and the location (Kinshasa, a province, or a territory).",
+                    "line_num": 277
+                  },
+                  {
+                    "title": "Article 34",
+                    "node_id": "0037",
+                    "summary": "###### Article 34\n\nL�animal vivant\nfaisant l�objet d�un certificat de l�gitime d�tention  est contr�l�\nannuellement.\nCe contr�le donne\nlieu � la d�livrance d�un nouveau certificat.\nLe d�tenteur de\nl�animal est r�guli�rement tenu de le faire examiner par le service v�t�rinaire\net �viter les risques de blessure, de maladie ou de mauvais traitement.",
+                    "line_num": 306
+                  },
+                  {
+                    "title": "Article 35",
+                    "node_id": "0038",
+                    "summary": "###### Article 35\n\nLa cession de tout animal d�tenu\nr�guli�rement est d�clar�e aupr�s de l�autorit� administrative comp�tente et\ndonne lieu � la d�livrance d�un nouveau certificat de l�gitime d�tention au\nprofit du nouveau d�tenteur, moyennant paiement d�une taxe.",
+                    "line_num": 318
+                  },
+                  {
+                    "title": "Article 36",
+                    "node_id": "0039",
+                    "summary": "###### Article 36\n\nLe titulaire de tout permis de chasse\nest tenu  de remettre � l�autorit� comp�tente et dans un    d�lai maximum de 180\njours, tout troph�e trouv� par   lui-m�me ou par son personnel, dans la zone\nde    capture ou l�abattage et pendant la p�riode de validit�  du  permis ainsi\nque tout troph�e provenant      d�animaux  trouv�s morts ou abattus sous le\ncouvert de   la l�gitime d�fense au cours de la   m�me   p�riode.",
+                    "line_num": 326
+                  }
+                ]
+              },
+              {
+                "title": "Section 2 : De la d�tention dans un but commercial",
+                "node_id": "0040",
+                "prefix_summary": "##### Section 2 : De la d�tention dans un but commercial",
+                "line_num": 336,
+                "nodes": [
+                  {
+                    "title": "Article 37",
+                    "node_id": "0041",
+                    "summary": "###### Article 37\n\nLa viande des animaux abattus par l�gitime d�fense ou en vertu\ndu permis administratif ne peut, en aucun cas, �tre vendue. Elle est distribu�e\ngratuitement � la population r�sidant dans le voisinage imm�diat de l�aire\nd�abattage.",
+                    "line_num": 339
+                  },
+                  {
+                    "title": "Article 38",
+                    "node_id": "0042",
+                    "summary": "###### Article 38\n\nQuiconque d�sire exploiter les animaux sauvages ainsi que leurs\nsous-produits dans un but commercial est tenu d�obtenir une licence d�agr�ment\nconforme au mod�le repris � l�annexe 18b et d�livr� par le secr�taire g�n�ral\nayant la chasse dans ses attributions ou son d�l�gu�, moyennant paiement d�une\ntaxe.",
+                    "line_num": 347
+                  },
+                  {
+                    "title": "Article 39",
+                    "node_id": "0043",
+                    "summary": "The partial document outlines the eligibility requirements for obtaining a hunting license (licence d'agrément) in the Democratic Republic of the Congo. The main points cover the applicant's nationality or legal status, general business conditions, a clean legal record regarding hunting laws, basic wildlife knowledge or professional assistance, and the requirement for adequate animal holding facilities at both the capture location and the exit point in Kinshasa.",
+                    "line_num": 356
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Des instruments et proc�d�s de chasse",
+                "node_id": "0044",
+                "prefix_summary": "##### Section 3 : Des instruments et proc�d�s de chasse",
+                "line_num": 371,
+                "nodes": [
+                  {
+                    "title": "Article 4",
+                    "node_id": "0045",
+                    "summary": "###### Article 4\n\nLe calendrier pr�vu � l�article 3 ci-dessous peut �tre modifi�\npar le Ministre ayant la chasse dans ses attributions, selon les besoins de\nreconstitution de la faune et sur proposition de l�administration centrale de la\nchasse.",
+                    "line_num": 374
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Des permis d�importation et d�exportation",
+                "node_id": "0046",
+                "prefix_summary": "##### Section 3 : Des permis d�importation et d�exportation",
+                "line_num": 382,
+                "nodes": [
+                  {
+                    "title": "Article 40",
+                    "node_id": "0047",
+                    "summary": "###### Article 40\n\nLes animaux sauvages vivants d�tenus dans un but commercial\nsont plac�s dans une quarantaine publique ou priv�e agr��e par le service\ncomp�tent avant leur commercialisation.",
+                    "line_num": 385
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0048",
+                    "summary": "###### Article 41\n\nLe permis\nd�importation, d�exportation et de r�exportation de tout animal sauvage, m�me\napprivois�, est d�livr� par l�organe de gestion (CITES) ayant la faune dans ses\nattributions sur avis de l�administration comp�tente et moyennant paiement d�une\ntaxe appropri�e sans pr�judice des dispositions pr�vues � l�article 33\nci-dessus.\nLe permis\nd�importation, d�exportation et de r�exportation est conforme au mod�le repris �\nl�annexe 19 au pr�sent Arr�t�.",
+                    "line_num": 392
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0049",
+                    "summary": "###### Article 42\n\nLa demande du permis d�importation,\nd�exportation et de r�exportation est introduite aupr�s de l�administration de\nla chasse et doit contenir les indications suivantes :\n- L�identit� compl�te du requ�rant ;\n- Fournir le permis CITES du pays d�exploitation ou le certificat\nd�origine selon l�esp�ce ;\n- Indiquer l�esp�ce qui fait l�objet de l�importation,\nl�exportation et de re-exportation;\n- Le requ�rant doit prouver qu�il dispose de l�infrastructure\nad�quate pour l�accueil des sp�cimens ;\n- Pr�ciser le but ou l�int�r�t de l�importation, l�exportation et\nde r�exportations.",
+                    "line_num": 405
+                  },
+                  {
+                    "title": "Article 43",
+                    "node_id": "0050",
+                    "summary": "###### Article 43\n\nLe permis d�exportation, d�importation, et de r�exportation de\ntout animal sauvage est soumis aux prescrits de la Convention CITES.",
+                    "line_num": 421
+                  }
+                ]
+              },
+              {
+                "title": "Section 1 : Des dispositions g�n�rales.",
+                "node_id": "0051",
+                "prefix_summary": "##### Section 1 : Des dispositions g�n�rales.",
+                "line_num": 427,
+                "nodes": [
+                  {
+                    "title": "Article 44",
+                    "node_id": "0052",
+                    "summary": "###### Article 44\n\nL�exclusivit� de l��mission des documents de valeurs repris en\nannexe du pr�sent Arr�t� est r�serv�e au Ministre ayant la chasse dans ses\nattributions.\nChapitre Troisi�me : De la profession de guide de chasse.",
+                    "line_num": 430
+                  },
+                  {
+                    "title": "Article 45",
+                    "node_id": "0053",
+                    "summary": "###### Article 45\n\nEst consid�r�\ncomme guide de chasse, quiconque se charge de guider des exp�ditions de chasse �\ntitre on�reux, pour son propre compte ou pour le compte d�une entreprise de\ntourisme cyn�g�tique.",
+                    "line_num": 438
+                  }
+                ]
+              },
+              {
+                "title": "Section 2 : De la p�riode d�apprentissage",
+                "node_id": "0054",
+                "prefix_summary": "##### Section 2 : De la p�riode d�apprentissage",
+                "line_num": 446,
+                "nodes": [
+                  {
+                    "title": "Article 46",
+                    "node_id": "0055",
+                    "summary": "The partial document outlines the eligibility criteria for obtaining a hunting guide license in Congo. It lists seven specific conditions, including being a Congolese national (with possible ministerial exception), being at least 21 years old, having good morals, no prior hunting offense convictions, completing a required apprenticeship period, passing a probationary examination, and having first aid knowledge.",
+                    "line_num": 449
+                  },
+                  {
+                    "title": "Article 47",
+                    "node_id": "0056",
+                    "summary": "###### Article 47\n\nLa p�riode\nd�apprentissage du candidat � la profession de guide de chasse est de 36 mois.\nDurant cette\np�riode, l�apprenti doit accompagner des exp�ditions de chasse sous la\nresponsabilit� et en compagnie d�un guide de chasse titulaire d�une licence.",
+                    "line_num": 470
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : De",
+                "node_id": "0057",
+                "prefix_summary": "##### Section 3 : De",
+                "line_num": 479,
+                "nodes": [
+                  {
+                    "title": "Article 48",
+                    "node_id": "0058",
+                    "summary": "###### Article 48\n\nLe Ministre ayant la chasse dans ses attributions peut\ndispenser de la p�riode d�apprentissage et de l�examen probatoire cons�cutif\ntout candidat d�tenteur d�une licence obtenue dans un Etat Africain au Sud du\nSahara.\nApr�s\nv�rification, le secr�taire g�n�ral ayant la chasse dans ses attributions\nd�livre une licence provisoire autorisant l�int�ress� � exercer la profession.\n\nl�examen probatoire",
+                    "line_num": 482
+                  },
+                  {
+                    "title": "Article 49",
+                    "node_id": "0059",
+                    "summary": "###### Article 49\n\nA la fin de la p�riode d�apprentissage, le candidat subit un\nexamen probatoire devant une commission d�experts convoqu�e par le Ministre\nayant la chasse dans ses attributions ou par son d�l�gu�.\nCette commission\ncomprend :\n1.\nun agent du minist�re ayant la chasse dans ses attributions et qui\nest de droit pr�sident;\n2.\nun repr�sentant de l�Institut Congolais pour la Conservation de la\nNature (ICCN) ;\n3.\nun repr�sentant des guides de chasse, d�sign� par les membres de la\nprofession ;\n4.\nun repr�sentant de l�office national de tourisme.",
+                    "line_num": 495
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0060",
+                    "summary": "###### Article 5\n\nSont �galement prohib�s aux termes de l�article 21 de la Loi n�\n82-002 du 28 mai 1982 portant r�glementation de la chasse :\n-  tout\npi�ge form� de lance ou d��pieux suspendus ou charg� de poids;\n-  toute\nfosse.",
+                    "line_num": 515
+                  },
+                  {
+                    "title": "Article 50",
+                    "node_id": "0061",
+                    "summary": "###### Article 50\n\nLa commission\npeut recourir aux services d�examinateurs quelle juge utiles. Elle se prononce �\nla majorit� absolue des voix, celle du pr�sident �tant pr�pond�rante.",
+                    "line_num": 525
+                  },
+                  {
+                    "title": "Article 51",
+                    "node_id": "0062",
+                    "summary": "This partial document outlines the structure and content of a qualifying examination (probatoire) for a candidate, likely in the field of professional hunting or wildlife guiding. The main points covered are:\n\n1.  **Exam Composition:** The exam consists of three parts: a theoretical test, a practical test, and an assessment of the candidate's activities during their apprenticeship period.\n\n2.  **Theoretical Test Subjects:** It details four subjects for the theoretical test, each with a specified weight (coefficient):\n    *   Zoology, biology, ecology of wild animals, and hunting knowledge (highest weight).\n    *   Geography of hunting regions.\n    *   Proficiency in specified languages (French, English, Lingala, Kikongo, Tshiluba, Swahili).\n    *   Photography and cinematography.\n\n3.  **Practical Test Subjects:** It lists three mandatory practical subjects with their weights:\n    *   Vehicle repair/breakdown assistance.\n    *   Target shooting (highest weight in the practical section).\n    *   First aid knowledge.",
+                    "line_num": 532
+                  }
+                ]
+              },
+              {
+                "title": "Section 4 : De la licence de guide de chasse",
+                "node_id": "0063",
+                "prefix_summary": "##### Section 4 : De la licence de guide de chasse",
+                "line_num": 554,
+                "nodes": [
+                  {
+                    "title": "Article 52",
+                    "node_id": "0064",
+                    "summary": "###### Article 52\n\nChaque mati�re examin�e donne lieu �\nl�attribution d�une note chiffr�e allant de z�ro � dix.\nPour obtenir la\nlicence de guide de chasse, le candidat est tenu d�obtenir au total 60 % des\npoints au moins.\nLes r�sultats de\nl�examen probatoire sont consign�s dans un proc�s-verbal sign� par tous les\nmembres de la commission et publi�s dans un palmar�s.\nCe proc�s-verbal\npr�cise, pour le candidat auquel on ne peut accorder la licence de guide de\nchasse, si celui-ci peut �tre autoris� � prolonger son apprentissage d�une\nnouvelle p�riode de 12 mois.",
+                    "line_num": 557
+                  }
+                ]
+              },
+              {
+                "title": "Section 5 : Des obligations du guide de chasse",
+                "node_id": "0065",
+                "prefix_summary": "##### Section 5 : Des obligations du guide de chasse",
+                "line_num": 573,
+                "nodes": [
+                  {
+                    "title": "Article 53",
+                    "node_id": "0066",
+                    "summary": "###### Article 53\n\nLa licence de\nguide de chasse est octroy�e par le secr�taire g�n�ral ayant la chasse dans ses\nattributions ou son d�l�gu� sur paiement d�une taxe appropri�e.\nElle est �tablie\nconform�ment au mod�le repris � l�annexe 20 du pr�sent Arr�t� et extraite d�un\ncarnet � souches aux feuillets num�rot�s.\nLa licence de\nguide de chasse est d�finitive, sauf d�cision de retrait prise en vertu des\narticles 63, 64 et 65 du pr�sent Arr�t�.",
+                    "line_num": 576
+                  },
+                  {
+                    "title": "Article 54",
+                    "node_id": "0067",
+                    "summary": "The partial document outlines the mandatory obligations of a hunting guide, as specified in Article 54. The main points covered are the guide's duties to present their contract, ensure clients follow hunting and wildlife protection regulations, protect clients from dangerous animals, finish off wounded animals, only shoot an animal with explicit client consent (with exceptions), uphold the sporting nature of the hunt, and always maintain proper conduct and appearance towards clients, staff, and local populations.",
+                    "line_num": 589
+                  },
+                  {
+                    "title": "Article 55",
+                    "node_id": "0068",
+                    "summary": "###### Article 55\n\nEn cas d�accident, le guide de chasse est tenu d�en aviser\nimm�diatement l�autorit� administrative la plus proche qui proc�de aussit�t �\nune enqu�te.",
+                    "line_num": 607
+                  },
+                  {
+                    "title": "Article 56",
+                    "node_id": "0069",
+                    "summary": "###### Article 56\n\nLa guide de chasse est tenue de d�clarer chaque exp�dition �\nl�autorit� administrative locale comp�tente en mati�re de la chasse.\nCette d�claration\ndoit parvenir � l�autorit� ci-indiqu�e 7 jours au moins avant le d�but de\nl�exp�dition, sauf cas de force majeure dont la  preuve incombe au guide de\nchasse.",
+                    "line_num": 614
+                  },
+                  {
+                    "title": "Article 57",
+                    "node_id": "0070",
+                    "summary": "###### Article 57\n\nLe guide de\nchasse et l�apprenti guide de chasse ne peuvent pas participer � une exp�dition\nde chasse sans �tre munie d�un permis sportif de chasse ou d�un permis de\ntourisme de leur client.",
+                    "line_num": 624
+                  },
+                  {
+                    "title": "Article 58",
+                    "node_id": "0071",
+                    "summary": "###### Article 58\n\nEn vue de bien\nassurer la protection de ses clients, le guide de chasse est tenu de poss�der au\nmoins une carabine d�un calibre �gal ou sup�rieur � 9 mm et tirant des munitions\nd�veloppant une �nergie �quivalente ou sup�rieure � 68 km/h et dont les\ncaract�ristiques sont  reprises � l�annexe 21 du pr�sent Arr�t�.",
+                    "line_num": 632
+                  },
+                  {
+                    "title": "Article 59",
+                    "node_id": "0072",
+                    "summary": "This partial document outlines the legal obligations of a hunting guide regarding wounded animals. The main points covered are: the guide's duty to find and finish off any animal wounded by clients; the requirement to report any unretrieved dangerous animal to local authorities within 24 hours; the rule that wounded but unrecovered animals count toward the hunter's bag limit and are subject to the hunting tax; and the stipulation that animals finished by the guide or apprentice must be recorded in the client's hunting logbook.",
+                    "line_num": 641
+                  },
+                  {
+                    "title": "Article 6",
+                    "node_id": "0073",
+                    "summary": "###### Article 6\n\nIl est interdit d�approcher les animaux de chasse � l�aide d�un\na�ronef � moteur ou de les chasser � partir de cet engin.",
+                    "line_num": 656
+                  }
+                ]
+              },
+              {
+                "title": "Section 6 : Des entreprises de tourisme cyn�g�tique",
+                "node_id": "0074",
+                "prefix_summary": "##### Section 6 : Des entreprises de tourisme cyn�g�tique",
+                "line_num": 662,
+                "nodes": [
+                  {
+                    "title": "Article 60",
+                    "node_id": "0075",
+                    "summary": "###### Article 60\n\nLe Ministre ayant la chasse dans ses attributions ou le\ngouverneur de province peut requ�rir les guides de chasse pour des exp�ditions\ncyn�g�tiques, telles que l�abattage d�animaux devenus dangereux, la capture pour\ndes raisons d�ordre scientifique, l�abattage d�animaux en  vue de la protection\ndes cultures.\nL�autorit�\npr�cit�e d�termine la nature exacte de ces missions et la proc�dure selon\nlaquelle il sera fait appel aux guides de chasse. Il fixe le montant des primes\nou indemnit�s qui peuvent �tre allou�s en contrepartie de ces prestations.",
+                    "line_num": 665
+                  },
+                  {
+                    "title": "Article 61",
+                    "node_id": "0076",
+                    "summary": "###### Article 61\n\nAucune entreprise\nde tourisme cyn�g�tique ne peut s'�tablir et exercer ses activit�s sur le\nterritoire national si elle n�est pas pourvue d�un personnel qualifi�.\nA cet effet,\nl�entreprise cyn�g�tique conclut un contrat appropri�  avec l�institution\ncharg�e de la gestion du domaine de chasse concern�.\nLe contrat est\napprouv� par le Ministre ayant la chasse dans ses attributions.",
+                    "line_num": 678
+                  },
+                  {
+                    "title": "Article 62",
+                    "node_id": "0077",
+                    "summary": "###### Article 62\n\nUne association de chasseurs professionnels ne\npeut guider des exp�ditions de chasse que si chacun  de ses membres est\ntitulaire d�une licence de guide  de chasse obtenue en vertu des dispositions\ndu  pr�sent  Arr�t�.\nChapitre quatri�me : Des dispositions p�nales",
+                    "line_num": 690
+                  },
+                  {
+                    "title": "Article 63",
+                    "node_id": "0078",
+                    "summary": "This partial document covers the legal responsibilities and penalties for a hunting guide regarding offenses committed by their clients. The main points are: 1) The guide is held responsible for any hunting infractions committed by clients during an expedition they organized or guided. 2) The guide can avoid a prison sentence if they immediately report the offense to the authorities and an investigation proves they did not commit, order, or consent to the infraction. 3) If the guide allowed clients to hunt in violation of regulations, their license may be revoked in addition to other penalties. 4) In case of a repeat offense, the license revocation is mandatory.",
+                    "line_num": 699
+                  },
+                  {
+                    "title": "Article 64",
+                    "node_id": "0079",
+                    "summary": "###### Article 64\n\nToute infraction\n� la r�glementation de la chasse commise par  un guide de chasse et constat�e\npar un proc�s-verbal entra�ne la suspension imm�diate de la licence.\nS�il y a\ncondamnation, la licence sera retir�e d�finitivement.",
+                    "line_num": 717
+                  },
+                  {
+                    "title": "Article 65",
+                    "node_id": "0080",
+                    "summary": "###### Article 65\n\nSans pr�judice\ndes poursuites p�nales �ventuelles, le secr�taire g�n�ral ayant la chasse dans\nses attributions ou son d�l�gu� retire la  licence de guide de chasse, s�il est\n�tabli que son titulaire l�a obtenu en trompant la bonne foi des fonctionnaires\nayant propos� son octroi.\nLe secr�taire\ng�n�ral ou son d�l�gu� retire aussi la licence, sur proposition de\nl�administration de la chasse, si son titulaire s�av�re incapable d�exercer la\nprofession ou s�il se comporte de fa�on indigne et incompatible avec celle-ci.",
+                    "line_num": 726
+                  },
+                  {
+                    "title": "Article 66",
+                    "node_id": "0081",
+                    "summary": "###### Article 66\n\nLorsque l�infraction � la r�glementation de la chasse est\ncommise au cours d�une exp�dition de chasse, celle-ci est imm�diatement arr�t�e\npar l�autorit� comp�tente, sans pr�judice des sanctions pr�vues par la Loi.",
+                    "line_num": 739
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre ci",
+            "node_id": "0082",
+            "prefix_summary": "#### Chapitre ci",
+            "line_num": 746,
+            "nodes": [
+              {
+                "title": "Article 67",
+                "node_id": "0083",
+                "summary": "###### Article 67\n\nToute infraction aux dispositions du pr�sent\nArr�t� est punie des peines pr�vues par les dispositions de la Loi n� 82-002 du\n28 mai 1982 portant r�glementation, de la chasse.\nnqui�me : Des dispositions finales",
+                "line_num": 749
+              },
+              {
+                "title": "Article 68",
+                "node_id": "0084",
+                "summary": "###### Article 68\n\nToutes les dispositions ant�rieures contraires\nau pr�sent Arr�t� sont abrog�es.",
+                "line_num": 757
+              },
+              {
+                "title": "Article 69",
+                "node_id": "0085",
+                "summary": "This partial document appears to be the final section of a legal decree or ministerial order (Arrêté) from the Democratic Republic of Congo, dated 2004. The main points covered are:\n1.  **Assignment of Responsibilities:** It charges the Secretary-General (responsible for hunting) and the delegated Administrator-General of the Congolese Institute for Nature Conservation (ICCN) with the execution of the order.\n2.  **Effective Date:** The order enters into force on the date of its signature.\n3.  **Formal Closing:** It includes the place (Kinshasa), date of signing, and the signature of Anselme Enerung.\n4.  **Reference to Annexes:** It lists specific articles and tables from Annexes 3 and 4, which detail categories of animals (Partially Protected and Not Yet Protected).\n5.  **Website Disclaimer:** A note states that the text is from a website under construction, that the texts merely reflect those held by associations, and that the associations are not responsible for them.",
+                "line_num": 763
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0086",
+                "summary": "###### Article 7\n\nLes caract�ristiques des armes � feu autoris�es vis�es par\nl�article 41 de la Loi n� 82-002 du 28 mai 1982 portant r�glementation de la\nchasse sont notamment :\n- le fusil � canon lisse simple et � coup, de type � silex �;\n- le fusil � canon lisse simple et � r�p�tition par la man�uvre\nd�une poign�e;\n- la carabine � canon ray� et � verrou du � Syst�me Mauser �;\n- la carabine � canon ray� et � levier de sous-garde du type �\nWinchester �;\n- les armes � canon ray� et � bascule ou � express �",
+                "line_num": 784
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0087",
+                "summary": "This partial document outlines the specific ammunition regulations for hunting with smoothbore firearms. It lists the permitted calibers (12, 16, 20, 28, and 410/12mm) and specifies that lead shot or buckshot can only be used for hunting birds, certain monkeys, and small animals, excluding protected mammals and reptiles. It also states that animals listed in Annex 3 require rifles with a caliber greater than 9mm, while smoothbore guns loaded with slug ammunition can be used for animals listed in Annex 4.",
+                "line_num": 798
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0088",
+                "summary": "###### Article 9\n\nLes armes � feu non perfectionn�es vis�es par l�article 53 de\nla Loi n� 82-002 du 28 mai 1982 sont de deux types principaux :\n- le fusil � silex dont la mise � feu est faite par un silex\n(pierre � fusil) frappant sur une pi�ce d�acier et produisant une �tincelle qui\nmet le feu � une charge de poudre au fond du canon ;\n- le fusil � piston qui se charge par la bouche du canon avec de la\npoudre noire mise � feu par une amorce (capsule) fulminante sur laquelle vient\nfrapper le chien de l�engin, les projectiles pouvant �tre des balles de m�tal ou\ntoute autre pi�ce m�tallique.",
+                "line_num": 821
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "6030a894-33c2-4f06-9223-7c14a500b8f9"
+    ],
+    "0003": [
+      "597ff38d-8ef0-4792-a152-7257ffd166fe"
+    ],
+    "0004": [
+      "3bb20975-a9bc-4fbf-9c54-98e19effd637",
+      "26e6d6d0-dd8e-4b94-a8f9-eb24c8d71dd7"
+    ],
+    "0006": [
+      "3bb20975-a9bc-4fbf-9c54-98e19effd637",
+      "26e6d6d0-dd8e-4b94-a8f9-eb24c8d71dd7"
+    ],
+    "0007": [
+      "e40dbc97-729a-4f92-94b4-74c85159ead7"
+    ],
+    "0008": [
+      "adeb7787-5fb8-40f2-9653-121fd0ca4096"
+    ],
+    "0009": [
+      "29568cc8-7fd5-44bf-a673-0b5e0e4f45f2"
+    ],
+    "0011": [
+      "d4e7b34f-a752-499c-9885-f3b83b88a16a"
+    ],
+    "0012": [
+      "7123defc-a6a5-4567-8906-0530ea05f3b9"
+    ],
+    "0013": [
+      "673d83d2-b778-4cbb-a37d-9d4251ac4512"
+    ],
+    "0015": [
+      "51414f0a-6d34-426d-8609-42deeab38703"
+    ],
+    "0016": [
+      "bc961d70-cd04-40ff-9974-036156c760d3"
+    ],
+    "0017": [
+      "6dc829d2-4ce6-40c4-ae08-5801468f8d44"
+    ],
+    "0018": [
+      "67e60cd1-a375-4b60-b330-6879010a7f27"
+    ],
+    "0020": [
+      "01ae4b37-777c-4f78-a017-a9f7d4b2edd7"
+    ],
+    "0022": [
+      "409af4e1-9ff6-4189-a68a-eca102022214"
+    ],
+    "0023": [
+      "aa43244b-58c6-420f-b8a7-b47f0f5f1fa4"
+    ],
+    "0025": [
+      "5f95c469-af37-4775-827f-89b1921e2d0b"
+    ],
+    "0026": [
+      "bc644a2b-059b-48ca-a37b-bc7788558de8"
+    ],
+    "0027": [
+      "ea1c15d5-207d-4537-867b-9c6ddde09477"
+    ],
+    "0029": [
+      "06ed5135-a71b-4cfc-b432-f29869643df2"
+    ],
+    "0030": [
+      "cacd1da8-86ee-4e85-bbcb-914f74eff69b"
+    ],
+    "0031": [
+      "14d6ea77-f80f-4152-ba83-24483a38e147"
+    ],
+    "0032": [
+      "a4b3a5eb-9929-4d7a-9948-ed6f8dd389ea"
+    ],
+    "0033": [
+      "0c189c49-7772-4d36-9e3d-78c151b08806"
+    ],
+    "0034": [
+      "4759f7d3-3556-4fa2-a8ab-fd2415262fe6"
+    ],
+    "0035": [
+      "686b6715-96db-4cb4-987b-887593aa1453"
+    ],
+    "0036": [
+      "42520b53-879f-4b4f-8b04-be9f30f7c867"
+    ],
+    "0037": [
+      "f7b895f9-2210-4480-b2ff-8547d5e5e5c4"
+    ],
+    "0038": [
+      "99c45a20-d712-4aea-9359-fba9adba6494"
+    ],
+    "0039": [
+      "c1b78aba-14a6-4fc6-a611-d4bbde2478b1"
+    ],
+    "0041": [
+      "ba25566e-e69b-4e36-8474-cf84821b5dfa"
+    ],
+    "0042": [
+      "b85efc84-115f-41c6-846d-1887b47a0a33"
+    ],
+    "0043": [
+      "a2f91a5b-d873-40da-a497-e24493fc7549"
+    ],
+    "0045": [
+      "dad75740-6075-4d69-ba08-145d394523ec"
+    ],
+    "0047": [
+      "729c6be1-fe4f-45de-b552-16cefdce7e97"
+    ],
+    "0048": [
+      "f1721cf9-98db-4f4b-a467-22fc0731d619"
+    ],
+    "0049": [
+      "b30021a2-947b-456a-8ef1-f676a3c2bb41"
+    ],
+    "0050": [
+      "06f6fb7d-460f-4e1e-9a88-fcbfb5da328f"
+    ],
+    "0052": [
+      "47371129-38bd-40e8-9de7-3f45110edf78"
+    ],
+    "0053": [
+      "5b8efd16-5a72-483e-ba77-4d0918c86c82"
+    ],
+    "0055": [
+      "9d4e4b47-32be-4928-a19e-97a41ec241d2"
+    ],
+    "0056": [
+      "38786db0-b1df-4257-8282-c7e74510c5e0"
+    ],
+    "0058": [
+      "e0b47af3-358d-4db9-8d6a-bdcda727b79a"
+    ],
+    "0059": [
+      "10aad10b-f8c1-4e8b-b1f3-27a3a9f88d0b"
+    ],
+    "0060": [
+      "92a35644-da86-425f-84ae-3bb3ea0c17eb"
+    ],
+    "0061": [
+      "fd9041de-195c-484a-aa00-118e213131fb"
+    ],
+    "0062": [
+      "a63f0405-8eab-4373-bc47-91e49afaca21"
+    ],
+    "0064": [
+      "2f90d5e9-c84d-4c85-9120-cdf9da1e8119"
+    ],
+    "0066": [
+      "c9aefcee-3204-41a6-92ad-f51a05397a1b"
+    ],
+    "0067": [
+      "e26ac0c8-27ef-430d-a9c9-be26a7484d91"
+    ],
+    "0068": [
+      "b9c690ba-6427-4a70-b234-969820b56079"
+    ],
+    "0069": [
+      "80fe01d0-3cdd-4a4b-ae3a-744204917de3"
+    ],
+    "0070": [
+      "7df6adad-d471-4a7a-8942-9c06ab77dc73"
+    ],
+    "0071": [
+      "914a8cab-ab52-4a27-8ad1-6cbde831f766"
+    ],
+    "0072": [
+      "69d2d36d-809b-4150-b7db-7e93b47a7102"
+    ],
+    "0073": [
+      "869d44d5-203e-49cd-b31d-56d8ccf6307f"
+    ],
+    "0075": [
+      "d05ecb87-17d7-42d1-aded-fa4ff0ddf823"
+    ],
+    "0076": [
+      "ef8fbadd-fa0c-4a5c-a1f6-95aad4fa8e4c"
+    ],
+    "0077": [
+      "2fbca72d-f6b9-4928-9a26-1f140eacb546"
+    ],
+    "0078": [
+      "29bfe125-516d-4f4a-b97d-b5b900d7c01a"
+    ],
+    "0079": [
+      "54fa5453-a157-4ba1-9e18-6ce7465845af"
+    ],
+    "0080": [
+      "9d2107f9-7d54-4042-bc77-1022e03b3cda"
+    ],
+    "0081": [
+      "ad03a2ae-eb34-4b56-aa1b-b9da88419072"
+    ],
+    "0083": [
+      "44b6d44e-f488-4bf7-b637-18b31c37f7b1"
+    ],
+    "0084": [
+      "79619a54-a4b0-4864-97bb-cd9b22eff5d3"
+    ],
+    "0085": [
+      "51940bf5-0043-4d88-b168-4effddabc35b"
+    ],
+    "0086": [
+      "0cb412a7-5498-4d75-9075-e35f17344fbe"
+    ],
+    "0087": [
+      "7ffafca2-ecad-48e6-a4ee-3bd9bcf9737a"
+    ],
+    "0088": [
+      "6dbf226f-0e61-4c13-b918-10a385d2c801"
+    ]
+  },
+  "node_count": 89,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:43:08.065254",
+  "article_count": 70,
+  "generation_time_s": 29.32995319366455
+}

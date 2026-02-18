@@ -1,0 +1,372 @@
+{
+  "slug": "AM-037-2022-11-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-037-2022-11-07-2022-2022.json",
+  "document_id": "61db8080-994c-498a-a31a-9a8708fd9332",
+  "document_title": "AM.037.2022.11.07.2022",
+  "tree_json": {
+    "doc_name": "AM-037-2022-11-07-2022-2022",
+    "structure": [
+      {
+        "title": "AM.037.2022.11.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.037.2022.11.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� a pour\nobjet de fixer, conform�ment aux articles 34, 45 et 49 de la Loi n�20/017 du\n25 novembre 2020 relative aux T�l�communications et aux Technologies de\nl'Information et de la Communication, les conditions et la proc�dure\nd'octroi des licences de concession, ainsi que les modalit�s de leur\nrenouvellement.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "The partial document outlines the required components for an application dossier, supplementing conditions from a referenced Article 5. The main points specify that the application must include: a formal request letter; a duly completed information form from the Regulatory Authority; detailed technical documentation (including a descriptive network architecture diagram and information proving equipment conformity with essential requirements); a business plan based on the Regulatory Authority's model; and proof of financial capacity, certified by a bank headquartered in the Democratic Republic of the Congo, for establishing the network and/or providing telecommunications and ICT services.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nL'instruction de toute\ndemande de licence de concession est conditionn�e au paiement des frais\nd'�tudes aupr�s de l�Autorit� de r�gulation.",
+            "line_num": 37
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "The partial document describes procedural steps and timelines for the examination of an application dossier by a regulatory authority. It specifies that only complete dossiers will be reviewed, sets a 30-day deadline for the authority's decision, outlines a 5-day follow-up deadline if the authority fails to act, and details that applicants may be asked for additional information and will receive a reasoned final decision.",
+            "line_num": 44
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\n� Le refus\n�ventuel est motiv� et notifi� au requ�rant par le Ministre ;\n� Le requ�rant\npeut r�introduire une demande r�vis�e apr�s les modifications n�cessaires.\nCette demande n'est pas assujettie au paiement des frais d'�tudes du dossier\n;\n� Apr�s deux\nrefus, le requ�rant est tenu d'introduire une nouvelle demande sans paiement\ndes frais d��tudes du dossier.\nIV.2 : De la proc�dure\nd'octroi par appel d'offre",
+            "line_num": 61
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\nLa proc�dure d'appel\nd'offre pour l'octroi des licences de concession se d�roule conform�ment �\nla proc�dure appliqu�e en mati�re de d�l�gation de service, fix�e par la loi\nsur les march�s publics et ses mesures d'applications.",
+            "line_num": 76
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nLe d�lai de d�p�t des\nsoumissions ne peut �tre inf�rieur � vingt (20) jours calendaires, � compter\nde la date de publication de l'avis d'appel d'offre.\nIV.3. De la proc�dure\nd'ench�res\nIV.3.1. De l'appel �\nmanifestation d'int�r�t et du d�p�t des dossiers de candidature",
+            "line_num": 84
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "The partial document covers the initial procedural steps for a public auction of radio frequency licenses, as stipulated by a regulatory authority. Specifically, it details the requirement for publishing a call for interest, the timeframe for interested parties to respond, and the formal application submission process.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0009",
+            "summary": "###### Article 18\n\nA l'expiration du d�lai\nfix� pour le d�p�t des candidatures, l'Autorit� de r�gulation dispose de\nsoixante-douze (72) heures pour proc�der � la publication de la liste des\ncandidats ayant manifest� l'int�r�t de participer � la proc�dure d'ench�res.\nIV.3.2. De l'instruction\ndes dossiers de candidature\nIV.3.2.a. De la\nrecevabilit�",
+            "line_num": 117
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0010",
+            "summary": "This partial document outlines the eligibility requirements and mandatory contents for a candidate's application file. It specifies that applications must be submitted on time, written entirely in French, and in two copies. The required documents include a signed license request letter, proof of the signatory's authorization, company registration proof, notarized statutes, technical/commercial/financial project documentation, a signed commitment form, and a list of any licenses already held by the candidate. The text then transitions to a new section on a qualification phase.",
+            "line_num": 129
+          },
+          {
+            "title": "Titre II : Des cat�gories",
+            "node_id": "0011",
+            "prefix_summary": "#### Titre II : Des cat�gories",
+            "line_num": 158,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0012",
+                "summary": "This partial document is Article 2 of a regulation or decree. Its main purpose is to provide key definitions for terms used within the full legal text. The definitions covered include:\n*   **Regulatory Authority:** The state body responsible for regulation as per the referenced law.\n*   **Law n°20/017:** The specific law on Telecommunications and Information and Communication Technologies (ICT).\n*   **Minister:** The minister in charge of Posts, Telecommunications, and ICT.\n*   **Operator:** Any legal entity operating a public telecommunications/ICT network or providing such a public service.\n*   **TIC (ICT):** Information and Communication Technologies.\n\nThe document fragment ends by introducing the next topic, which concerns \"licenses.\"",
+                "line_num": 161
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\nLa phase de qualification\na pour objet d'identifier, � partir des dossiers de candidature, les\ncandidats remplissant les conditions requises pour participer aux ench�res.\nPendant cette phase,\nl'Autorit� de r�gulation s'assure notamment de :\n� la capacit�\ntechnique et financi�re du candidat � satisfaire aux obligations r�sultant\nde l'utilisation de la licence � laquelle il postule et � assurer\ndurablement le service attach� � ladite licence ;\n� L�inexistence de\ntoute situation de contr�le au sens d'un candidat sur un autre.",
+                "line_num": 187
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "###### Article 21\n\nLes conditions de\nqualification sont mises � jour par l'Autorit� de r�gulation qui en tient\ncompte lors de chaque proc�dure d'ench�res.",
+                "line_num": 202
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nA l'issue de la phase de\nqualification et dans un d�lai n'exc�dant pas trente (30) jours calendaires\n� dater de la publication de la liste des candidats ayant manifest�\nl'int�r�t de participer � la vente aux ench�res, l'Autorit� de r�gulation\npublie, dans les m�mes conditions pr�vues � l�article 16 alin�a premier du\npr�sent Arr�t�, la liste des candidats retenus pour participer � la vente\naux ench�res des fr�quences.\nIV.2.3. Des ench�res",
+                "line_num": 209
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nL'ench�re d�bute � la\ndate communiqu�e aux candidats qualifi�s.",
+                "line_num": 221
+              }
+            ]
+          },
+          {
+            "title": "Titre V : De la",
+            "node_id": "0017",
+            "prefix_summary": "#### Titre V : De la",
+            "line_num": 227,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0018",
+                "summary": "###### Article 24\n\nL'Autorit� de r�gulation\nd�termine la proc�dure d'ench�re pour chaque octroi des licences comportant\nles ressources en fr�quences radio�lectriques, selon les r�sultats attendus.\n\nd�livrance, de la r�vision de la dur�e et du renouvellement des licences",
+                "line_num": 230
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0019",
+                "summary": "This partial document outlines the procedures following a favorable decision to grant a license. It specifies that the Regulatory Authority makes the decision and forwards the file to the Minister for signature and issuance within 10 business days. The Minister may return the file for further instruction or modification. Once satisfied, the Minister issues the license via an Order, tasked to the Secretary General for notification. The license is prepared in five original copies.",
+                "line_num": 239
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0020",
+                "summary": "###### Article 26\n\nLe Secr�taire g�n�ral\ninforme le requ�rant de l'aboutissement de la proc�dure. La licence est\nremise � ce dernier, contre preuve de paiement de droits dus au Tr�sor\npublic.\nUn exemplaire original de\nla licence d�livr�e � l�op�rateur est transmis � l�Autorit� de R�gulation\npar le Secr�taire g�n�ral.",
+                "line_num": 258
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0021",
+                "summary": "###### Article 27\n\nLa dur�e des licences est fix�e\nrespectivement de la mani�re suivante et prend court � la date de la\nsignature :",
+                "line_num": 269
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0022",
+                "summary": "###### Article 28\n\nLa demande de la r�vision\nd�une licence par l�op�rateur est adress�e au Ministre avec copie r�serv�e �\nl�Autorit� de r�gulation.\nSans pr�judice des\ndispositions de l�article 50 de la loi, la r�vision de la licence � l�initiative\nde l�op�rateur intervient notamment dans les cas ci-apr�s :\n- Fusion ;\n- Changement d�actionnariat majoritaire ;\n- Changement de la d�nomination sociale ;\n- Augmentation ou r�duction des fr�quences.",
+                "line_num": 276
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0023",
+                "summary": "###### Article 29\n\nLe renouvellement de la\nlicence de concession se fait sur demande expresse de l'op�rateur dans les douze\n(12) mois avant la date de l'�ch�ance sous peine de caducit�.\nLa licence est renouvel�e\npour une dur�e �quivalente � celle de sa validit� initiale.",
+                "line_num": 290
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0024",
+                "summary": "###### Article 3\n\nAux termes de la Loi\nn�20/017, il existe les cat�gories suivantes :\n� Licence de\nr�seau et services des t�l�communications ;\n� Licence d�infrastructures de r�seau ;\n� Licence de services et des applications ;\n� Licence\nd��tablissement ou d�exploitations d�une station de radiodiffusion ou\nt�l�visuelle ;\n� Licence de r�seau d�infrastructures de base.",
+                "line_num": 299
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0025",
+                "summary": "###### Article 30\n\nToute demande de\nrenouvellement de la licence de concession est adress�e aupr�s du Ministre avec\ncopie � l'Autorit� de r�gulation.",
+                "line_num": 313
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0026",
+                "summary": "###### Article 31\n\nLa demande de renouvellement\nde la licence est analys�e par l'Autorit� de r�gulation en tenant compte,\nnotamment :\n- du respect par\nl�op�rateur des obligations d�coulant de son cahier des charges ant�rieures, de\nla pr�sentation par l�Op�rateur des justificatifs de paiement des taxes et\nredevances li�es � la Licence � renouveler ;\n- du rapport\nd�exploitation des activit�s autoris�es par la Licence soumise au\nrenouvellement.",
+                "line_num": 320
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0027",
+                "summary": "###### Article 32\n\nEn cas de refus de\nrenouvellement d'une licence, l'op�rateur peut introduire le recours gracieux\naupr�s du Ministre, pr�alablement � la saisine du Conseil d'Etat. Ce recours est\nsuspensif de la d�cision de refus de renouvellement du Ministre.",
+                "line_num": 334
+              }
+            ]
+          },
+          {
+            "title": "Titre VI : Dispositions",
+            "node_id": "0028",
+            "prefix_summary": "#### Titre VI : Dispositions",
+            "line_num": 342,
+            "nodes": [
+              {
+                "title": "Article 33",
+                "node_id": "0029",
+                "summary": "###### Article 33\n\nTout op�rateur dont la\nlicence a expir�, poursuit la fourniture des services, s�il a introduit la\ndemande de renouvellement de sa licence dans le d�lai fix� � l'article 29 du\npr�sent Arr�t� et continue � remplir les conditions de sa licence, conform�ment\n� la r�glementation en vigueur.\n\nfinales",
+                "line_num": 345
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0030",
+                "summary": "###### Article 34\n\nSont abrog�es, toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+                "line_num": 356
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0031",
+                "summary": "###### Article 35\n\nLe pr�sident du coll�ge de\nl�Autorit� de R�gulation ainsi que le Secr�taire g�n�ral aux Postes,\nT�l�communications et Nouvelles Technologies de l'Information et de la\nCommunication, sont charg�s chacun en ce qui le concerne, de l'ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 11\njuillet 2022.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 362
+              }
+            ]
+          },
+          {
+            "title": "Titre III : Des",
+            "node_id": "0032",
+            "prefix_summary": "#### Titre III : Des",
+            "line_num": 379,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0033",
+                "summary": "The partial document lists the scope of activities covered by a telecommunications license, including network installation and operation, service provision to operators, infrastructure management, and the operation of broadcasting stations. It also mentions conditions for granting licenses.",
+                "line_num": 382
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0034",
+                "summary": "This partial document outlines the eligibility requirements for obtaining a concession under Congolese law. The main points specify that eligible entities must be legal persons under Congolese law, meet conditions such as having their headquarters in the Democratic Republic of Congo, being registered in the Trade Register, demonstrating technical and financial capacity, and being constituted as a Société anonyme (S.A.). It also details a mandatory ownership structure: at least 30% of the company's capital must be held by Congolese individuals or entities, with a specific breakdown of 25% for Congolese nationals and 5% reserved for Congolese employees of the company, with a provision for the employee share if the 25% threshold is not met.",
+                "line_num": 409
+              }
+            ]
+          },
+          {
+            "title": "Titre IV : De la",
+            "node_id": "0035",
+            "prefix_summary": "#### Titre IV : De la",
+            "line_num": 439,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0036",
+                "summary": "###### Article 6\n\nToute candidature d�pos�e\ndoit �tre accompagn�e d'un justificatif de paiement des frais d'�tudes du\ndossier � l'Autorit� de r�gulation dont le taux est fix� par un Arr�t� du\nMinistre, sur proposition de l�Autorit� de r�gulation.\n\nproc�dure d�octroi des licences",
+                "line_num": 442
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0037",
+                "summary": "###### Article 7\n\nLa licence de concession\nne n�cessitant aucune fr�quence radio�lectrique (ou autre ressource rare)\ncontingent�e est attribu�e, selon le cas, � la suite d'une proc�dure\nd'attribution au fil de l'eau ou d'une proc�dure d'attribution par appel\nd'offre conduite par l'Autorit� de r�gulation.\nUn mod�le de cahier des\ncharges sera publi� et mise � disposition des requ�rants par l�Autorit� de\nr�gulation.",
+                "line_num": 452
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0038",
+                "summary": "###### Article 8\n\nLa licence de concession\nn�cessitant de nouvelles ressources en fr�quences radio�lectriques\ncontingent�es\nest attribu�e suivant la\nproc�dure d'ench�res conduite par l'Autorit� de r�gulation.\nIV.1 : De la proc�dure\nd'attribution au fil de l'eau",
+                "line_num": 464
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0039",
+                "summary": "This partial document outlines the procedural requirements for applying for a concession license. It specifies that applications must be submitted to the Minister with a copy to the Regulatory Authority, can be submitted in French via physical delivery, postal mail, or electronically, and details timelines for submitting physical documents after electronic applications and for forwarding the application to the Regulatory Authority for processing.",
+                "line_num": 475
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "8fcd41eb-f12c-4ba3-a758-fb44e77053cf"
+    ],
+    "0002": [
+      "a2c0bd00-b8de-487c-83f8-96ecbd521bb4"
+    ],
+    "0003": [
+      "bcccfb74-db0c-44f1-972b-44f134d6d017"
+    ],
+    "0004": [
+      "8aafbc18-7785-4878-b741-cbf0b7ac09fa"
+    ],
+    "0005": [
+      "10760897-e833-4953-9716-7519fb641fce"
+    ],
+    "0006": [
+      "e4f2c477-a105-4803-90f3-be50fbb4c68f"
+    ],
+    "0007": [
+      "57dd23c8-400b-45df-97e2-65292ca99f7e"
+    ],
+    "0008": [
+      "a33b6757-7779-44b0-8229-624aeea0187b"
+    ],
+    "0009": [
+      "8007f98f-8cc4-49ea-a739-371743966259"
+    ],
+    "0010": [
+      "e583ebae-97ec-4458-8f44-aa99cc8774d1"
+    ],
+    "0012": [
+      "fc59abc1-ea12-41d6-a725-f734b8dc9d37"
+    ],
+    "0013": [
+      "486eb631-fd92-4280-aa9d-76668af00b1a"
+    ],
+    "0014": [
+      "8238bc91-7e9b-412a-976d-f98e853907f5"
+    ],
+    "0015": [
+      "68a664cf-6b20-4d0d-bde7-20a3a6b167d9"
+    ],
+    "0016": [
+      "8a5da021-d3e9-4da2-b6d5-42e5633bdbc9"
+    ],
+    "0018": [
+      "83d5cec1-cc1e-43d6-bad1-7c606517d9da"
+    ],
+    "0019": [
+      "db746d3d-9da1-4dc5-9f29-6038b148d4b4"
+    ],
+    "0020": [
+      "9dfdff4c-d5bb-4fee-ba3b-fbd19d6ecd8c"
+    ],
+    "0021": [
+      "2639d16a-817e-437b-9e21-c93a6d1ac650"
+    ],
+    "0022": [
+      "4a5ad9b2-eb62-4056-844f-157fcdb8df10"
+    ],
+    "0023": [
+      "a2ebdb45-25b3-4836-a33f-ca93ae8b726d"
+    ],
+    "0024": [
+      "b7cfc684-48b5-43e5-b9c2-f50f953414e2"
+    ],
+    "0025": [
+      "1e46324c-710a-47f1-ade7-d7897e72459a"
+    ],
+    "0026": [
+      "d4d54040-dba5-4411-8930-439932b3f3ef"
+    ],
+    "0027": [
+      "b3e6fec5-e6d5-4263-b7c7-892914dd6040"
+    ],
+    "0029": [
+      "23671151-792d-47c9-b6ab-c16b7aa608c0"
+    ],
+    "0030": [
+      "f82eea57-c172-4a19-b5f9-5ac2e47e517a"
+    ],
+    "0031": [
+      "4ce3009d-b592-4fea-9deb-d0e49fcc71c8"
+    ],
+    "0033": [
+      "79b746ef-b926-462d-bc6a-2d879b46c50c"
+    ],
+    "0034": [
+      "562d70e8-25c2-4128-93e3-aa31b193cba9"
+    ],
+    "0036": [
+      "42b3d3bc-9486-4f52-858e-e7eb48297351"
+    ],
+    "0037": [
+      "dfec7637-2df0-4140-9914-05cbc5ef4315"
+    ],
+    "0038": [
+      "fa827fd5-4ef8-4a47-8884-9f38e5b04c3d"
+    ],
+    "0039": [
+      "ec8d62c1-8623-491c-b73f-46f16cfe4fe7"
+    ]
+  },
+  "node_count": 40,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:23:39.261257",
+  "article_count": 34,
+  "generation_time_s": 16.992472887039185
+}

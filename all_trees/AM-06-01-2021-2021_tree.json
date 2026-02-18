@@ -1,0 +1,107 @@
+{
+  "slug": "AM-06-01-2021-2021",
+  "bundle_path": "backups/all_bundles/code/AM-06-01-2021-2021.json",
+  "document_id": "bd0ff05e-1604-4c27-b164-d3871b7c8805",
+  "document_title": "AM.06.01.2021",
+  "tree_json": {
+    "doc_name": "AM-06-01-2021-2021",
+    "structure": [
+      {
+        "title": "AM.06.01.2021",
+        "node_id": "0000",
+        "prefix_summary": "# AM.06.01.2021",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nDes dispositions g�n�rales\nLe pr�sent Arr�t� minist�riel\na pour objet de fixer les modalit�s de gestion des d�rogations � octroyer aussi\nbien aux entreprises principales qu'aux entreprises sous-traitantes, en\napplication des dispositions de l'article 6 de la Loi n� 17/001 du 08 f�vrier\n2017 fixant les r�gles applicables � la sous-traitance dans le secteur priv�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nDe l'objet des d�rogations\nLes d�rogations vis�es par le\npr�sent Arr�t� ont pour objet de permettre aussi bien � une entreprise\nprincipale qu'� une entreprise non �ligible � la sous-traitance suivant les\nconditions prescrites par la l�gislation en vigueur, de conclure des contrats ou\ndes march�s de sous-traitance dans le secteur priv�.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nDe la dur�e\nEn application des\ndispositions de l'article 6 de la Loi, toute d�rogation ne peut �tre accord�e\nque pour une dur�e maximum de six mois.\nToutefois, en raison de la\nsp�cificit� de certains march�s, certaines d�rogations peuvent �tre accord�es\npar l'ARSP de mani�re permanente ou pour une dur�e sup�rieure � six mois.",
+            "line_num": 24
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "The partial document outlines the conditions and required documents for obtaining a derogation (exception/waiver) related to subcontracting in the Democratic Republic of the Congo. It specifies that the application must be submitted by either the main company or the subcontracting company and lists eight mandatory supporting documents, including company statutes, registration number, social security affiliation proof, tax certificate, and evidence of local representation for foreign companies. It also requires justification for using subcontracting and proof of an internal training policy for Congolese personnel.",
+            "line_num": 35
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nDes engagements de\nl'entreprise b�n�ficiaire\nToute entreprise principale\nou sous-traitante, b�n�ficiaire d'une d�rogation, est tenue de souscrire un\nengagement formel � former le personnel congolais dans la fili�re concern�e.",
+            "line_num": 64
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nDes modalit�s d'octroi\nL'autorisation de d�roger est\noctroy�e, sans frais, par D�cision du Directeur g�n�ral de l'ARSP prise � la\nsuite d'une requ�te introduite par une entreprise principale ou une entreprise\nsous-traitante.\nL'autorisation de d�roger est\noctroy�e dans un d�lai maximum de trente jours ouvrables � compter du d�p�t de\nla demande.\nTout refus d'octroyer une\nd�rogation doit �tre d�ment motiv�. Il peut faire l'objet de recours suivant la\nl�gislation en vigueur.",
+            "line_num": 73
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nDes effets de la d�rogation\nLa d�rogation est octroy�e �\ntitre personnel. Elle ne peut �tre c�d�e � toute autre personne morale ou\nphysique.\nLe b�n�ficiaire d'une\nd�rogation n'encourt aucune des sanctions pr�vues � l'article 28 de la Loi n�\n17/001 du 08 f�vrier 2017 fixant les r�gles applicables � la Sous-traitance dans\nle secteur priv�, du fait de cette d�rogation.",
+            "line_num": 88
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nDes droits dus � l'ARSP\nToute entreprise b�n�ficiaire\nd'une d�rogation est soumise aux m�mes conditions de paiement pr�vues par les\ndispositions de l'article 18 point 2 du D�cret n�20/025 du 12 octobre 2020\nmodifiant et compl�tant le D�cret n� 18/019 du 24 mai 2018 portant cr�ation,\norganisation et fonctionnement de l'Autorit� de R�gulation de la Sous-traitance\ndans le Secteur Priv� (ARSP).",
+            "line_num": 100
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0009",
+            "summary": "###### Article 9\n\nDes dispositions finales\nLe Directeur g�n�ral de\nl'Autorit� de R�gulation de la Sous-traitance dans le Secteur Priv� est charg�\nde l'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 06\njanvier 2021.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 111
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "ed7ade66-a138-44f8-ba00-52e72e7baab6"
+    ],
+    "0002": [
+      "d7c4ee25-1ac4-4276-b47a-de4389c0c063"
+    ],
+    "0003": [
+      "15fa95a5-6eb2-49f0-857c-4151e61c1efb"
+    ],
+    "0004": [
+      "d3e98236-379a-4be4-ac53-7c136d5d66b9"
+    ],
+    "0005": [
+      "7454cd26-65ee-4422-bb77-a7842da1e86f"
+    ],
+    "0006": [
+      "09f50511-86e9-433b-a8e9-7f72d088f3e0"
+    ],
+    "0007": [
+      "2bb96c08-002d-44f1-9a6e-9fadb601e39e"
+    ],
+    "0008": [
+      "26903cc2-39d3-44a3-a28b-855fb6fbd43a"
+    ],
+    "0009": [
+      "0ffc0f8e-1739-4bd7-ad80-0ffbfa083a52"
+    ]
+  },
+  "node_count": 10,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:20:10.768883",
+  "article_count": 9,
+  "generation_time_s": 5.824177980422974
+}

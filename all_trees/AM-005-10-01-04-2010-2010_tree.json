@@ -1,0 +1,80 @@
+{
+  "slug": "AM-005-10-01-04-2010-2010",
+  "bundle_path": "backups/all_bundles/code/AM-005-10-01-04-2010-2010.json",
+  "document_id": "64827102-e917-4aa0-8316-f06047db200e",
+  "document_title": "AM.005.10.01.04.2010",
+  "tree_json": {
+    "doc_name": "AM-005-10-01-04-2010-2010",
+    "structure": [
+      {
+        "title": "AM.005.10.01.04.2010",
+        "node_id": "0000",
+        "prefix_summary": "# AM.005.10.01.04.2010",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nTout chef d'entreprise ou d'�tablissement est\ntenu, conform�ment � l'article 216 de la loi n�015/2002 du16 octobre 2002\nportant Code du Travail, de faire parvenir � la division provinciale de\nl'Inspection du travail et au Bureau provincial de l'Office National de\nl'Emploi, au plus tard le 31 janvier de chaque ann�e, une d�claration de la\nsituation de la main-d'�uvre nationale et �trang�re qu'il emploie.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nCette d�claration doit �tre �tablie en quatre\nexemplaires sur un formulaire d� d�claration conforme au mod�le annex� au\npr�sent arr�t�.\nDeux de ces exemplaires dat�s et sign�s doivent\n�tre exp�di�s � l'Inspecteur du travail du ressort sous pli recommand� avec\naccus� de r�ception ou d�pos�s � ses bureaux contre accus� de r�ception et dans\nles m�mes conditions un de ces exemplaires dat�s et sign�s doit �tre adress� �\nl'Office National de l'Emploi du ressort.\nLe quatri�me exemplaire est conserv� par le\nd�clarant pour �tre pr�sent� aux Inspecteurs et Contr�leurs du Travail en cas de\ncontr�le.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLes employeurs peuvent se procurer les\nformulaires de d�clarations aupr�s des bureaux provinciaux de l'office national\nde l'emploi et de l'inspection du travail.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes infractions aux dispositions du pr�sent\narr�t� sont punies des peines pr�vues � l'article 321 du Code du Travail.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nToutes les dispositions ant�rieures contraires\nau pr�sent arr�t�, sont abrog�es.",
+            "line_num": 42
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe Secr�taire G�n�ral � l'Emploi et au Travail\nest charg� de l'ex�cution du pr�sent arr�t� qui entre en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 01 avril 2010 Mobutu Nzanga\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 48
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f13739d4-6ed0-4754-a93e-7cdd5df1c52e"
+    ],
+    "0002": [
+      "6252d00d-979a-419b-88dd-a450ea06dbdf"
+    ],
+    "0003": [
+      "3b0c7121-a9ad-4124-b3b1-77eef4544e26"
+    ],
+    "0004": [
+      "ec7f0424-9655-470e-94be-cad219611887"
+    ],
+    "0005": [
+      "62f2c437-263f-4c0a-9c8b-b0e6acb678b9"
+    ],
+    "0006": [
+      "8d49d20b-35b1-4267-9970-b8e754f9dd3e"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:20:04.684157",
+  "article_count": 6,
+  "generation_time_s": 0.009412765502929688
+}

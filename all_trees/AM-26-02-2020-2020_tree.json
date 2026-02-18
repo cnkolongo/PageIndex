@@ -1,0 +1,115 @@
+{
+  "slug": "AM-26-02-2020-2020",
+  "bundle_path": "backups/all_bundles/code/AM-26-02-2020-2020.json",
+  "document_id": "469f7fec-576c-4b6a-9453-06b993d5b42e",
+  "document_title": "AM.26.02.2020",
+  "tree_json": {
+    "doc_name": "AM-26-02-2020-2020",
+    "structure": [
+      {
+        "title": "AM.26.02.2020",
+        "node_id": "0000",
+        "prefix_summary": "# AM.26.02.2020",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nArr�t�\nminist�riel\nn�",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "summary": "###### Article S2\n\nCAB/MIN/FINANCES/\n2020/005 du\n26\nf�vrier\n2020\nmodifiant\net\ncompl�tant\nl'Arr�t�\nminist�riel\nn�\nCAB/MIN/",
+            "line_num": 11
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "summary": "This partial document is the beginning of an official decree (likely from the Democratic Republic of Congo's Ministry of Finance) regarding the Computer Usage Fee (RRI). It primarily lists the legal references and foundational documents that authorize and empower the Minister of Finance to issue this decree. These include the Constitution, the Customs Code, the Excise Code, ordinances on government organization, ministerial attributions, and appointments, as well as decrees and orders related to the General Directorate of Customs and Excises (DGDA).",
+            "line_num": 27
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0004",
+            "summary": "This partial document is a ministerial order (Arrêté) from the Democratic Republic of the Congo, amending the rules for a customs IT fee (Redevance Rémunératoire Informatique - RRI). The main points covered are:\n\n1.  **Legal Basis:** It references an existing 2016 ministerial order and a 2015 contract (and its 2020 amendment) with a private company, Africa Union Financial Services/RDC (AUFS/RDC), for the modernization of Congolese customs.\n\n2.  **Justifications for the Amendment:** The order states the amendments are necessary to:\n    *   Strengthen customs' fight against fraud and border security.\n    *   Support staff training and logistics to optimize revenue collection.\n    *   Ensure the sustainability of the customs IT system, which simplifies procedures and facilitates trade.\n    *   Guarantee regular payments to the contracted company (AUFS/RDC) so it can meet its obligations.\n\n3.  **Specific Amendments:** It modifies Articles 2, 3, 4, and 5 of the 2016 order. The provided text shows the new rates for the RRI fee:\n    *   **For imports:** 2.25% of the CIF value.\n    *   **For exports:** 0.25% of the FOB value.\n    *   It also introduces a new **Article 2 bis**, which states that the 2.25% import fee is to be subdivided or allocated (the breakdown is not shown in this partial text).",
+            "line_num": 206
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0005",
+            "summary": "This partial document outlines amendments to a contract or agreement, primarily detailing the allocation of a fee (redevance rémunératoire informatique) levied on imports and exports in the Democratic Republic of Congo.\n\nThe main points covered are:\n1.  **Fee Allocation:** It specifies the distribution of a 1.25% fee: 1% for investments by AUFS/RDC to cover all contractual sites and border posts, and the remaining 0.25% (combined with another 0.25% from exports) is split between the DGDA (General Directorate of Customs), AUFS/RDC for service remuneration, and committees overseeing the contract and a customs IT program.\n2.  **Oversight Committee Role:** It defines the role of a contract monitoring committee in allocating investment funds based on needs identified by a technical committee and other strategic requirements.\n3.  **Exemption Clarification:** It adds an exemption for \"agricultural inputs and products\" from the fee.\n4.  **Payment Procedure:** It states that the fee is settled during customs clearance based on a liquidation slip and collected via banking channels, following standard procedures for state payments.",
+            "line_num": 444
+          },
+          {
+            "title": "Article S6",
+            "node_id": "0006",
+            "summary": "###### Article S6\n\nAUSFS/RDC\nlui\nsera\nvers�e\nchaque\njour\ndans son compte\nbancaire\nau fur\net\n�\nmesure\ndes perceptions\npar\nles\nReceveurs\nde\nla\nDGDA, de\nla\nredevance\nr�mun�ratoire\ninformatique.\nLes\ncopies\ndes   preuves\nde   perception\nde\nla\nredevance\net\nde\nreversement\nde\nla\npart\nrevenant",
+            "line_num": 669
+          },
+          {
+            "title": "titre",
+            "node_id": "0007",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 710,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0008",
+                "summary": "###### Article S7\n\n� AUFS/RDC\nlui\nseront\nremises\n�\nla\nfin\nde\nchaque\nsemaine,\npour\nv�rification,\npar\nles\nbanques\ncommerciales,\n� partir\ndes\ncomptes\ncentralisateurs\nde cette\nredevance.\nA\nla\nfin\nde chaque\nmois,\nun\nrelev�\ndes paiements\neffectu�s\nau\ne\ncette\nr�mun�ration\nsera\ntransmis\npar la\nDGDA\nau Comit�\nde\nSuivi\nde l'ex�cution\ndu contrat.\nCe\nrelev�\nsera\nconfront�\naux\npreuves\nde\npaiement\nremises\n�",
+                "line_num": 714
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0009",
+                "summary": "###### Article S8\n\nAUFS/RDC.\n�\nArticle\n2\nL'article\n5\nde\nl'Arr�t�\nminist�riel\nn� CAB/MIN/",
+                "line_num": 772
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0010",
+                "summary": "This partial document contains the final articles of a legal decree or order. It states the suppression of a specific IT-related fee (Redevance Rémunératoire Informatique - RRI), repeals all previous contradictory provisions, assigns responsibility for execution to the Director General of Customs and Excise, and specifies the effective date as the date of its signature in Kinshasa on February 26, 2020. A disclaimer notes the text is unofficial and the site is under construction.",
+                "line_num": 786
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "2d919df0-2041-4c07-9eb6-c822187053ef"
+    ],
+    "0002": [
+      "c8a6fb61-1462-46a0-a428-1799df70b8a7"
+    ],
+    "0003": [
+      "4646947c-1c6f-43a7-af04-a6105ded5c35"
+    ],
+    "0004": [
+      "7de98ff4-386b-4dcc-8908-7332ba09d20b"
+    ],
+    "0005": [
+      "f023e899-4aee-489c-b631-5777234f81aa"
+    ],
+    "0006": [
+      "fa65cc98-31c3-4274-a217-68b10b51fd6b"
+    ],
+    "0008": [
+      "4eadf987-3134-46e2-894c-d9866d931c4f"
+    ],
+    "0009": [
+      "4afc2a83-1003-49ab-8e26-386ef4b57eda"
+    ],
+    "0010": [
+      "8f4291a7-783c-4500-95eb-10dc4ff25f4e"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:22:54.104082",
+  "article_count": 9,
+  "generation_time_s": 13.899432897567749
+}

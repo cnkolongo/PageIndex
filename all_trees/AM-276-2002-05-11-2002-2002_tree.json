@@ -1,0 +1,33 @@
+{
+  "slug": "AM-276-2002-05-11-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-276-2002-05-11-2002-2002.json",
+  "document_id": "3d295c1b-6533-46ae-a722-85d49f81f5e1",
+  "document_title": "AM.276.2002.05.11.2002",
+  "tree_json": {
+    "doc_name": "AM-276-2002-05-11-2002-2002",
+    "structure": [
+      {
+        "title": "AM.276.2002.05.11.2002",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "99826d52-2561-4b1a-a015-43068363b636"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:46:27.017965",
+  "article_count": 1,
+  "generation_time_s": 0.0024929046630859375
+}

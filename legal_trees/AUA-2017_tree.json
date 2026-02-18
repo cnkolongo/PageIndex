@@ -1,0 +1,548 @@
+{
+  "tree": {
+    "doc_name": "AUA-2017",
+    "doc_description": "This document is the OHADA Uniform Act on Arbitration Law (AUA), adopted in 2017, which establishes a comprehensive legal framework for arbitration proceedings, including the constitution of tribunals, procedural rules, arbitral awards, and their recognition and enforcement, for all member states of the Organization for the Harmonization of Business Law in Africa.",
+    "structure": [
+      {
+        "title": "OHADA - Acte uniforme sur l'arbitrage (AUA)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Acte uniforme sur l'arbitrage (AUA)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Preambule",
+            "node_id": "0001",
+            "summary": "This partial document is the preamble and initial section of the Uniform Act on Arbitration Law adopted by OHADA (Organization for the Harmonization of Business Law in Africa). The main points covered are:\n\n1.  The formal identification and publication details of the \"Uniform Act Relating to Arbitration Law,\" including its adoption date (November 23, 2017, in Conakry, Guinea) and official publication reference.\n2.  The legal authority enacting the act: the Council of Ministers of OHADA.\n3.  The legal basis for the act, citing the revised OHADA Treaty (Port-Louis 1993, Québec 2008) and an advisory opinion from the Common Court of Justice and Arbitration.\n4.  A statement that the act was adopted unanimously by the present and voting Member States.\n5.  The beginning of the act's substantive content, starting with Chapter 1 on its \"Scope of Application\" (Champ d'application).",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1",
+            "node_id": "0002",
+            "summary": "###### Article 1\n\nLe présent Acte uniforme a vocation à s'appliquer à tout arbitrage lorsque le siège du tribunal arbitral se trouve\ndans l'un des Etats Parties.",
+            "line_num": 34
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nToute personne physique ou morale peut recourir à l'arbitrage sur les droits dont elle a la libre disposition.\n\nLes Etats, les autres collectivités publiques territoriales, les établissements publics et toute autre personne morale\nde droit public peuvent également être parties à un arbitrage, quelle que soit la nature juridique du contrat, sans\npouvoir invoquer leur propre droit pour contester l'arbitrabilité d'un différend, leur capacité à compromettre ou la\nvalidité de la convention d'arbitrage.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nL'arbitrage peut être fondé sur une convention d'arbitrage ou sur un instrument relatif aux investissements,\nnotamment un code des investissements ou un traité bilatéral ou multilatéral relatif aux investissements.",
+            "line_num": 50
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0005",
+            "summary": "This partial document defines the two forms of an arbitration agreement under the OHADA Uniform Act on Arbitration Law: the arbitration clause (for future disputes arising from a contract) and the compromise (for submitting an existing dispute to arbitration). It also states the requirement for the agreement to be in writing or in a form that provides proof of its existence.",
+            "line_num": 56
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0006",
+            "summary": "###### Article 4\n\nLa convention d'arbitrage est indépendante du contrat principal.\n\nSa validité n'est pas affectée par la nullité de ce contrat et elle est appréciée d'après la commune volonté des\nparties, sans référence nécessaire à un droit étatique.\n\nLes parties ont toujours la faculté, d'un commun accord, de recourir à l'arbitrage, même lorsqu'une instance a déjà\nété engagée devant une juridiction étatique.\n\nChapitre 2 - Constitution du tribunal arbitral",
+            "line_num": 76
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0007",
+            "summary": "###### Article 5\n\nLa mission d'arbitre ne peut être confiée qu'à une personne physique.\n\nLe tribunal arbitral est constitué soit d'un seul arbitre, soit de trois arbitres. A défaut d'accord entre les parties, le\ntribunal arbitral est constitué d'un arbitre unique.",
+            "line_num": 89
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0008",
+            "summary": "###### Article 6\n\nLes arbitres sont nommés, révoqués ou remplacés conformément à la convention des parties.\n\nLorsque les parties ont prévu la désignation de deux arbitres nonobstant les dispositions de l'",
+            "line_num": 97
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0009",
+            "summary": "This partial document covers the procedures for appointing arbitrators under the OHADA Uniform Act on Arbitration Law. The main points are:\n\n1.  **Completing a Tribunal:** It outlines how to appoint a third arbitrator to complete a tribunal if the parties initially agreed on a method that fails, or to replace an arbitrator who is recused, incapacitated, dies, resigns, or is removed.\n\n2.  **Default Appointment Procedures:** It specifies the steps when parties have no agreement or an insufficient agreement on the appointment process:\n    *   For a three-arbitrator tribunal: Each party appoints one, and those two choose the third. If a party fails to appoint within 30 days or the two arbitrators cannot agree on the third within 30 days, the competent court in the Member State will appoint upon request.\n    *   For a sole arbitrator: If the parties cannot agree, the competent court will appoint upon request.\n\n3.  **Court Intervention:** It establishes the role of the competent national court as a fallback authority to make appointments when the party-driven process stalls, and sets a 15-day deadline (unless national law is shorter) for the court to decide. This court decision is final and cannot be appealed.",
+            "line_num": 104
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0010",
+            "summary": "This partial document outlines the duties and qualifications of an arbitrator. The main points covered are: the formal acceptance of the arbitrator's role, the commitment to see the process through, and the fundamental requirements of civil rights, independence, and impartiality. It details the obligation for a prospective arbitrator to disclose any circumstances that could raise doubts about their impartiality, requiring unanimous written consent from the parties to proceed. Furthermore, it mandates the continuous duty to disclose any such issues that may arise throughout the entire arbitration procedure.",
+            "line_num": 136
+          },
+          {
+            "title": "partie l",
+            "node_id": "0011",
+            "prefix_summary": "## partie l",
+            "line_num": 153,
+            "nodes": [
+              {
+                "title": "Article 8",
+                "node_id": "0012",
+                "summary": "This partial document covers procedures for challenging and replacing arbitrators under OHADA arbitration rules. It specifies that if parties have no agreed procedure, a competent court must rule on a challenge within 30 days, after which jurisdiction transfers to the Common Court of Justice and Arbitration. It sets a 30-day deadline from discovery for raising a challenge, limits challenges to causes revealed after the arbitrator's appointment, and outlines the process for appointing a replacement arbitrator if a mandate is terminated.",
+                "line_num": 156
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0013",
+                "summary": "###### Article 8\n\n-1\n\nEn présence d'une convention imposant aux parties de suivre une étape de résolution du différend préalable à\nl'arbitrage, le tribunal examine la question du respect de l'étape préalable si l'une des parties en fait la demande et\nrenvoie, le cas échéant, à l'accomplissement de l'étape préalable.\n\nSi l'étape préalable n'a pas été engagée, le tribunal arbitral suspend la procédure pendant un délai qu'il estime\nconvenable, afin de permettre à la partie la plus diligente de mettre en œuvre cette étape.\n\nSi l'étape préalable a effectivement été engagée, le tribunal arbitral constate, le cas échéant, son échec.",
+                "line_num": 185
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0014",
+                "summary": "###### Article 9\n\nLes parties doivent être traitées sur un pied d'égalité et chaque partie doit avoir toute possibilité de faire valoir ses\ndroits.",
+                "line_num": 199
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0015",
+                "summary": "###### Article 10\n\nLe fait pour les parties de s'en remettre à un organisme d'arbitrage les engage à appliquer le Règlement d'arbitrage\nde cet organisme, sauf pour les parties à en écarter expressément certaines dispositions, en accord avec ledit\norganisme.\n\nLa procédure arbitrale commence à la date à laquelle l'une des par ties engage la procédure de constitution du\ntribunal arbitral.",
+                "line_num": 205
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0016",
+                "summary": "###### Article 11\n\nLe tribunal arbitral est seul compétent pour statuer sur sa propre compétence, y compris sur toutes questions\nrelatives à l'existence ou à la validité de la convention d'arbitrage.\n\nL'exception d'incompétence doit être soulevée avant toute défense au fond, sauf si les faits sur lesquels elle est\nfondée ont été révélés ultérieurement.\n\nLe tribunal arbitral peut statuer sur sa propre compétence dans la sentence au fond ou dans une sentence partielle\nsujette au recours en annulation.",
+                "line_num": 215
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0017",
+                "summary": "This partial document covers provisions from Article 12 of the OHADA Uniform Act on Arbitration Law. It specifies the default duration of an arbitral tribunal's mission and the rules for extending the arbitration deadline. The main points are:\n1.  If the arbitration agreement does not set a deadline, the arbitral tribunal's mission is limited to six months from the acceptance by the last arbitrator.\n2.  The arbitration deadline, whether set by law or agreement, can be extended either by party agreement or, upon request by a party or the tribunal, by the competent court of a Member State.",
+                "line_num": 227
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0018",
+                "summary": "This partial document, Article 13, outlines the principle of judicial non-interference in favor of arbitration. It mandates that state courts must decline jurisdiction when a dispute subject to an arbitration agreement is brought before them, if a party so requests. It specifies procedures for when the arbitration has not yet commenced and sets a short deadline for the court's final decision on its jurisdiction if the arbitration agreement is challenged as manifestly null or inapplicable. The article also explicitly prohibits courts from raising their own lack of jurisdiction *sua sponte*. Finally, it carves out an exception for state courts to grant urgent interim or conservatory measures, provided these do not involve a review of the merits of the dispute.",
+                "line_num": 241
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0019",
+                "summary": "This partial document covers Article 14 of the OHADA Uniform Act on Arbitration Law. The main points addressed are the procedural rules for arbitration. It establishes that the parties can define the procedure by agreement or by reference to arbitration rules; failing that, the arbitral tribunal has the discretion to conduct the arbitration as it sees fit. It outlines the parties' duties to allege and prove their claims, act with diligence and in good faith, and avoid dilatory tactics.\n\nThe article details the consequences of a party's default (e.g., failure to present a claim or defense, or to appear at a hearing) and the tribunal's powers to invite explanations and evidence. It emphasizes the principles of adversarial proceedings and the right to be heard, prohibiting the tribunal from basing its decision on grounds raised on its own motion without first hearing the parties.\n\nFurthermore, it covers the tribunal's ability to seek judicial assistance for evidence collection, the waiver of procedural irregularities, the power to rule on document forgery incidents, the appointment of experts, and the authority to order provisional or conservatory measures (with the exception of certain judicial seizures which remain with state courts).",
+                "line_num": 261
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0020",
+                "summary": "###### Article 15\n\nLe tribunal arbitral tranche le fond du différend conformément aux règles de droit choisies par les parties. A défaut\nde choix par les parties, le tribunal arbitral applique les règles de droit qu'il estime les plus appropriées en tenant\ncompte, le cas échéant, des usages du commerce international.\n\nIl peut également statuer en amiable compositeur lorsque les parties lui ont conféré ce pouvoir.",
+                "line_num": 315
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0021",
+                "summary": "The partial document covers Article 16 of the OHADA Uniform Act on Arbitration Law. It details the ways in which an arbitration procedure is terminated. The main points are that arbitration ends either with a final award or with a closure order. The article lists the specific circumstances under which the arbitral tribunal must issue a closure order, including: the claimant's withdrawal (unless opposed by the defendant with a legitimate interest), agreement by the parties, the procedure becoming unnecessary or impossible, the expiration of the arbitration time limit, and cases of acquiescence, withdrawal, or settlement.",
+                "line_num": 324
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0022",
+                "summary": "###### Article 17\n\nLe tribunal arbitral fixe la date à laquelle l'affaire sera mise en délibéré.\n\nAprès cette date, aucune demande ne peut être formée ni aucun moyen soulevé.\n\nAucune observation ne peut être présentée, ni aucune pièce produite s1 ce n'est à la demande expresse et par\nécrit du tribunal arbitral.",
+                "line_num": 350
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0023",
+                "summary": "###### Article 18\n\nLes délibérations du tribunal arbitral sont secrètes.\n\nChapitre 4 - La sentence arbitrale",
+                "line_num": 360
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0024",
+                "summary": "###### Article 19\n\nLa sentence arbitrale est rendue selon la procédure et les formes convenues par les parties.\n\nA défaut d'une telle convention, la sentence est rendue à la majorité des voix lorsque le tribunal est composé de\ntrois arbitres.\n\nSi les parties se mettent d'accord au cours de la procédure arbitrale, elles peuvent demander au tribunal arbitral\nque cet accord soit constaté en la forme d'une sentence rendue d'accord parties. Cette sentence a le même statut\net produit les mêmes effets que toute autre sentence mettant fin au différend.",
+                "line_num": 367
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0025",
+                "summary": "The partial document outlines the mandatory content that an arbitral award (sentence arbitrale) must contain under the OHADA uniform arbitration law. The main points covered are the list of required formal elements for the award, including the identification of the arbitrators, the date, the seat of arbitration, the parties' details, and a summary of the parties' claims, arguments, and procedural steps. It also states that the award must be reasoned and includes a provision for awards rendered by arbitrators acting as *amiable compositeurs* (settling the dispute ex aequo et bono).",
+                "line_num": 379
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0026",
+                "summary": "###### Article 21\n\nLa sentence arbitrale est signée par le ou les arbitres.\n\nToutefois, si une minorité d'entre eux refuse de la signer, il doit en être fait mention et la sentence a le même effet\nque si elle avait été signée par tous les arbitres.",
+                "line_num": 407
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0027",
+                "summary": "###### Article 22\n\nLa sentence dessaisit le tribunal arbitral du différend.\n\nLe tribunal arbitral a néanmoins le pouvoir d'interpréter la sentence ou de rectifier les erreurs et omissions\nmatérielles qui l'affectent.\n\nLorsqu'il a omis de statuer sur un chef de demande, il peut le faire par une sentence additionnelle.\n\nDans l'un ou l'autre cas susvisé, la requête doit être formulée dans le délai de trente (30) jours à compter de la\nnotification de la sentence. Le tribunal arbitral dispose d'un délai de quarante-cinq (45) jours pour statuer.\n\nSi le tribunal arbitral ne peut à nouveau être réuni, il appartient à la juridiction compétente dans l'Etat Partie de\nstatuer.",
+                "line_num": 415
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0028",
+                "summary": "###### Article 23\n\nLa sentence arbitrale a, dès qu'elle est rendue, l'autorité de la chose jugée relativement à la contestation qu'elle\ntranche.",
+                "line_num": 431
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0029",
+                "summary": "###### Article 24\n\nLe tribunal arbitral peut, si l'exécution provisoire de la sentence arbitrale a été sollicitée, l'accorder ou la refuser par\ndécision motivée.\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 9 / 13\n\f ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE\n Adopté le 23/11/2017 à Conakry (GUINEE)\n Publié au Journal Officiel n° Spécial du 15/12/2017\n\nChapitre 5 - Recours contre la sentence arbitrale",
+                "line_num": 437
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0030",
+                "summary": "This partial document outlines the legal remedies and challenges available against an arbitral award under a specific treaty or law (likely the OHADA Uniform Act on Arbitration). The main points covered are:\n\n1.  The general principle that an arbitral award is final and not subject to ordinary appeals.\n2.  The primary remedy is an action for annulment (set-aside) before the competent court of a Member State.\n3.  Parties may waive this right to annulment, unless the award violates international public policy.\n4.  A decision on annulment can only be appealed to the Common Court of Justice and Arbitration (CCJA).\n5.  Third parties prejudiced by the award may challenge it through a \"tierce opposition.\"\n6.  The award may be revised (re-opened) by the arbitral tribunal or a national court if new, decisive facts are discovered after the award is rendered.",
+                "line_num": 450
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0031",
+                "summary": "###### Article 26\n\nLe recours en annulation n'est recevable que :\n\n a) si le tribunal arbitral a statué sans convention d'arbitrage ou sur une convention nulle ou expirée ;\n\n b) si le tribunal arbitral a été irrégulièrement composé ou l'arbitre unique irrégulièrement désigné ;\n\n c) si le tribunal arbitral a statué sans se conformer à la mission qui lui a été confiée ;\n\n d) si le principe du contradictoire n'a pas été respecté ;\n\n e) si la sentence arbitrale est contraire à l'ordre public international ;\n\n f) si la sentence arbitrale est dépourvue de toute motivation.",
+                "line_num": 473
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0032",
+                "summary": "This partial document covers procedural rules and deadlines for an \"action for annulment\" (recours en annulment) of an arbitral award under the OHADA Uniform Act on Arbitration Law. The main points are:\n\n1.  The timeframe for filing an annulment action: it is admissible immediately after the award is rendered but must be filed within one month of the award being served with an enforcement order (*exequatur*).\n2.  The jurisdiction and deadlines for deciding the action: the competent court has three months to rule. If it fails to do so, jurisdiction is transferred to the Common Court of Justice and Arbitration (CCJA).\n3.  The procedure before the CCJA: the appeal must be filed with the CCJA within 15 days of the lower court's inaction, and the CCJA must then rule within a maximum of six months.\n4.  An acceleration of proceedings: in this specific scenario, the procedural timelines set by the CCJA's rules of procedure are reduced by half.",
+                "line_num": 490
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0033",
+                "summary": "###### Article 28\n\nSauf si l'exécution provisoire de la sentence a été ordonnée par le tribunal arbitral, l'exercice du recours en\nannulation suspend l'exécution de la sentence arbitrale jusqu'à ce que la juridiction compétente dans l'Etat Partie\nou la Cour Commune de Justice et d'Arbitrage, selon le cas, ait statué.\n\nCette juridiction est également compétente pour statuer sur le contentieux de l'exécution provisoire.",
+                "line_num": 511
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0034",
+                "summary": "###### Article 29\n\nEn cas d'annulation de la sentence arbitrale et sauf lorsque ladite annulation est fondée sur le fait que le tribunal\narbitral a statué sans convention d'arbitrage ou sur une convention nulle ou expirée, il appartient à la partie la plus\ndiligente d'engager, si elle le souhaite, une nouvelle procédure arbitrale, conformément au présent Acte uniforme.\n\nChapitre 6 - Reconnaissance et exécution des sentences arbitrales",
+                "line_num": 520
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0035",
+                "summary": "###### Article 30\n\nLa sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une décision d'exequatur rendue par la\njuridiction compétente dans l'Etat Partie.",
+                "line_num": 529
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0036",
+                "summary": "This partial document outlines the procedural requirements for the recognition and enforcement (exequatur) of an arbitral award under the OHADA Uniform Act on Arbitration Law. The main points covered are:\n\n1.  **Proof of Award:** The party seeking enforcement must prove the existence of the arbitral award by providing the original award and arbitration agreement (or authenticated copies).\n2.  **Translation Requirement:** If these documents are not in the official language(s) of the country where enforcement is sought, a certified translation must be provided.\n3.  **Ground for Refusal:** Recognition and enforcement must be refused if the award is manifestly contrary to international public policy.\n4.  **Court Decision Timeline:** The state court must rule on an application for recognition or enforcement within a strict deadline of 15 days from receipt.\n5.  **Automatic Grant:** If the court does not rule within this 15-day period, the exequatur is deemed to have been granted.\n6.  **Formalization of Enforcement:** Once exequatur is granted (or deemed granted), the winning party can request the court clerk to affix the enforcement formula to the award. The procedure for the exequatur request itself is non-adversarial.",
+                "line_num": 535
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0037",
+                "summary": "###### Article 32\n\nLa décision qui refuse l'exequatur n'est susceptible que de pourvoi en cassation devant la Cour Commune de\nJustice et d'Arbitrage.\n\nLa décision qui accorde l'exequatur n'est susceptible d'aucun recours.\n\nToutefois, le recours en annulation de la sentence emporte, de plein droit, dans les limites de la saisine de la\njuridiction compétente de l'Etat Partie, recours contre la décision ayant accordé l'exequatur.",
+                "line_num": 566
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0038",
+                "summary": "###### Article 33\n\nLe rejet du recours en annulation emporte, de plein droit, validité de la sentence arbitrale ainsi que de la décision\nayant accordé l'exequatur.",
+                "line_num": 577
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0039",
+                "summary": "###### Article 34\n\nLes sentences arbitrales rendues sur le fondement de règles différentes de celles prévues par le présent Acte\nuniforme sont reconnues dans les Etats Parties, dans les conditions prévues par les conventions internationales\néventuellement applicables et, à défaut, dans les mêmes conditions que celles prévues par les dispositions du\nprésent Acte uniforme.\n\nChapitre 7 - Dispositions finales",
+                "line_num": 583
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0040",
+                "summary": "###### Article 35\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 12 / 13\n\f ACTE UNIFORME RELATIF AU DROIT DE L'ARBITRAGE\n Adopté le 23/11/2017 à Conakry (GUINEE)\n Publié au Journal Officiel n° Spécial du 15/12/2017\n\n Le présent Acte uniforme tient lieu de loi relative à l'arbitrage dans les Etats Parties.\n\n Il n'est applicable qu'aux procédures arbitrales commencées après son entrée en vigueur.",
+                "line_num": 593
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0041",
+                "summary": "###### Article 36\n\nLe présent Acte uniforme, qui abroge l'Acte uniforme du 11 mars 1999 relatif au droit de l'arbitrage, sera publié au\n Journal Officiel de l'OHADA dans un délai de soixante (60) jours à compter de son adoption. Il sera également\n publié au Journal Officiel des Etats Parties.\n\n Il entre en vigueur quatre-vingt-dix (90) jours à compter de sa publication au Journal Officiel de l'OHADA.\n\n Fait à Conakry, le 23 novembre 2017.\n\n https://www.ohada.com/textes-ohada/actes-uniformes.html page 13 / 13\n\nPowered by TCPDF (www.tcpdf.org)",
+                "line_num": 605
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0002",
+      "node_title": "Article 1",
+      "article_ids": [
+        "1ce95ba8-c207-4e6d-9474-cbd057465795"
+      ]
+    },
+    {
+      "node_id": "0003",
+      "node_title": "Article 2",
+      "article_ids": [
+        "2e7d40c0-18e2-4391-a0f7-94520d32677b"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article 3",
+      "article_ids": [
+        "e758cdf8-e339-458b-a91e-f5b3d269014b",
+        "29de4d1b-6cb5-485f-8d0e-61ffecd8a7ec"
+      ]
+    },
+    {
+      "node_id": "0005",
+      "node_title": "Article 3",
+      "article_ids": [
+        "e758cdf8-e339-458b-a91e-f5b3d269014b",
+        "29de4d1b-6cb5-485f-8d0e-61ffecd8a7ec"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article 4",
+      "article_ids": [
+        "56ce9fc7-c400-4330-ae21-141199eefce2"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article 5",
+      "article_ids": [
+        "365fca15-231f-4327-b3c4-80b0a09d0a40",
+        "c818bc7f-b8f7-4c9c-a56d-5e8e20478896"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article 6",
+      "article_ids": [
+        "975839c1-3396-4cc4-8804-2b839384b4a8"
+      ]
+    },
+    {
+      "node_id": "0009",
+      "node_title": "Article 5",
+      "article_ids": [
+        "365fca15-231f-4327-b3c4-80b0a09d0a40",
+        "c818bc7f-b8f7-4c9c-a56d-5e8e20478896"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article 7",
+      "article_ids": [
+        "eaa1d32e-92c5-46ef-811c-a2eed6a5e690"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article 8",
+      "article_ids": [
+        "b3f8eb04-dc0b-46d9-a3a5-2f43bd438c70",
+        "845c712b-3b08-43b4-9759-8a60098ce97b"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article 8",
+      "article_ids": [
+        "b3f8eb04-dc0b-46d9-a3a5-2f43bd438c70",
+        "845c712b-3b08-43b4-9759-8a60098ce97b"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article 9",
+      "article_ids": [
+        "eb79bbbd-875d-41cf-b944-22d269f85018"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article 10",
+      "article_ids": [
+        "bd8de3fd-340a-43ce-9375-599feedbf79b"
+      ]
+    },
+    {
+      "node_id": "0016",
+      "node_title": "Article 11",
+      "article_ids": [
+        "087a5054-0b65-4ae5-b316-19ed08adda1d"
+      ]
+    },
+    {
+      "node_id": "0017",
+      "node_title": "Article 12",
+      "article_ids": [
+        "b83b333b-8079-449b-bcc9-4485696411f2"
+      ]
+    },
+    {
+      "node_id": "0018",
+      "node_title": "Article 13",
+      "article_ids": [
+        "17779cf9-1533-4b31-8100-67273ccb3d0a"
+      ]
+    },
+    {
+      "node_id": "0019",
+      "node_title": "Article 14",
+      "article_ids": [
+        "6577d43f-e754-46a7-b3ca-21ff393e7cea"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article 15",
+      "article_ids": [
+        "8669f5a0-c611-4d09-b718-1e2299c37cab"
+      ]
+    },
+    {
+      "node_id": "0021",
+      "node_title": "Article 16",
+      "article_ids": [
+        "e0498781-0222-4e78-aa33-87dbb15fe6cc"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article 17",
+      "article_ids": [
+        "0af488de-5534-43b1-9904-3bbcc8e1c9ec"
+      ]
+    },
+    {
+      "node_id": "0023",
+      "node_title": "Article 18",
+      "article_ids": [
+        "976353ad-ad59-4c8e-8c30-09403a70e5f5"
+      ]
+    },
+    {
+      "node_id": "0024",
+      "node_title": "Article 19",
+      "article_ids": [
+        "06533558-9886-4512-adb8-a71292536295"
+      ]
+    },
+    {
+      "node_id": "0025",
+      "node_title": "Article 20",
+      "article_ids": [
+        "18f3588a-260c-45d8-89b1-f776b741fdab"
+      ]
+    },
+    {
+      "node_id": "0026",
+      "node_title": "Article 21",
+      "article_ids": [
+        "6d031890-44c0-4c92-9b2c-ae374db90b31"
+      ]
+    },
+    {
+      "node_id": "0027",
+      "node_title": "Article 22",
+      "article_ids": [
+        "0fcda1a3-55aa-48bd-82bf-0696c5407cb2"
+      ]
+    },
+    {
+      "node_id": "0028",
+      "node_title": "Article 23",
+      "article_ids": [
+        "5f065e61-f237-4d5e-b193-38c9f3b45281"
+      ]
+    },
+    {
+      "node_id": "0029",
+      "node_title": "Article 24",
+      "article_ids": [
+        "d0130050-f1a5-44c6-9fbc-ed01acf4c136"
+      ]
+    },
+    {
+      "node_id": "0030",
+      "node_title": "Article 25",
+      "article_ids": [
+        "c10d9d5c-6e39-4eae-bc08-97aa50c74a79"
+      ]
+    },
+    {
+      "node_id": "0031",
+      "node_title": "Article 26",
+      "article_ids": [
+        "fa341855-5528-402e-9cdb-598e3b736d1d"
+      ]
+    },
+    {
+      "node_id": "0032",
+      "node_title": "Article 27",
+      "article_ids": [
+        "ec458021-7620-420d-90c9-eee367940523"
+      ]
+    },
+    {
+      "node_id": "0033",
+      "node_title": "Article 28",
+      "article_ids": [
+        "7c3d4ace-fa8a-41d1-bf0f-f04181bb8874"
+      ]
+    },
+    {
+      "node_id": "0034",
+      "node_title": "Article 29",
+      "article_ids": [
+        "d666a9f9-9b4e-4205-aad5-793267f01b7a"
+      ]
+    },
+    {
+      "node_id": "0035",
+      "node_title": "Article 30",
+      "article_ids": [
+        "040605b0-0289-4111-be8c-376ee7db0f17"
+      ]
+    },
+    {
+      "node_id": "0036",
+      "node_title": "Article 31",
+      "article_ids": [
+        "ca9f5595-a445-4d7e-a031-b04c0b37e900"
+      ]
+    },
+    {
+      "node_id": "0037",
+      "node_title": "Article 32",
+      "article_ids": [
+        "7a18e55a-3066-48b8-aabe-0b1762cc4996"
+      ]
+    },
+    {
+      "node_id": "0038",
+      "node_title": "Article 33",
+      "article_ids": [
+        "7a00b704-b269-4da0-9008-0cdea48358e6"
+      ]
+    },
+    {
+      "node_id": "0039",
+      "node_title": "Article 34",
+      "article_ids": [
+        "b074758e-b014-4191-b582-4bf186e62b09"
+      ]
+    },
+    {
+      "node_id": "0040",
+      "node_title": "Article 35",
+      "article_ids": [
+        "6bd9f593-ca8a-4b10-9327-8bd64603a0b4"
+      ]
+    },
+    {
+      "node_id": "0041",
+      "node_title": "Article 36",
+      "article_ids": [
+        "2f8c6a0f-08af-43c6-b8d4-a397bc78b3bc"
+      ]
+    }
+  ],
+  "bundle_path": "backups/ohada_bundles/AUA-2017.json",
+  "document_id": "c55e6567-38d1-436f-8dee-eb8dd0ab048c",
+  "document_title": "OHADA - Acte uniforme sur l'arbitrage (AUA)"
+}

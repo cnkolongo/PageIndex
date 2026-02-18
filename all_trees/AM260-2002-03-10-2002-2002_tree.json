@@ -1,0 +1,80 @@
+{
+  "slug": "AM260-2002-03-10-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM260-2002-03-10-2002-2002.json",
+  "document_id": "a1acd719-c6fa-488a-8c45-460a5ba93971",
+  "document_title": "AM260.2002.03.10.2002",
+  "tree_json": {
+    "doc_name": "AM260-2002-03-10-2002-2002",
+    "structure": [
+      {
+        "title": "AM260.2002.03.10.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM260.2002.03.10.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 2",
+            "node_id": "0001",
+            "summary": "###### Article 2\n\nLe directeur de\nl�administration centrale charg�e des for�ts est autoris� � transiger, avant\njugement, pour les infractions foresti�res pouvant entra�ner une amende maximum\nde 500.000 francs congolais constants.\nPour les\ninfractions passibles d�une amende sup�rieure � 500.000 francs congolais\nconstants, seuls le Ministre charg� des for�ts et, par d�l�gation, le secr�taire\ng�n�ral du minist�re sont habilit�s � proc�der aux transactions.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0002",
+            "summary": "###### Article 3\n\nLe d�linquant peut se lib�rer d�une transaction\nqui lui est consentie soit par un paiement en esp�ces, soit par l�ex�cution des\ntravaux d�int�r�t forestier.\nSous r�serve des\ndispositions de l�article 137 alin�a 3, le d�linquant r�cidiviste ne peut\nb�n�ficier d�une transaction.",
+            "line_num": 16
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0003",
+            "summary": "###### Article 4\n\nLorsque le\nd�linquant accepte de se lib�rer par des travaux de caract�re exclusivement\nforestier et ex�cut�s sous la direction d�un personnel technique comp�tent, le\nproc�s-verbal de transaction pr�cise le nombre de journ�es de travail �\nex�cuter, le d�lai et le lieu de leur r�alisation.\nDe telles\ntransactions portent au maximum, chaque ann�e, sur 150 journ�es de travail.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0004",
+            "summary": "###### Article 5\n\nPour �tre\nvalable, tout proc�s-verbal de transaction est contresign� par le d�linquant.\nUne copie du\nproc�s-verbal de la transaction est adress�e � l�officier du minist�re public.\nL�officier du\nminist�re public est inform� de la suite donn�e par le d�linquant � la\ntransaction aux fins de pouvoir reprendre ou suspendre d�finitivement l�instance\njudiciaire.\nLa transaction\nsuspend provisoirement les poursuites, la suspension ne devenant d�finitive\nqu�apr�s paiement effectif du montant de la transaction ou l�ex�cution des\ntravaux d�int�r�t forestier pr�vus dans les d�lais fix�s.",
+            "line_num": 37
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0005",
+            "summary": "###### Article 6\n\nDans les d�lais\nfix�s par le proc�s-verbal de transaction, le montant des transactions\nconsenties doit �tre acquitt� en esp�ces conform�ment � la r�glementation en\nvigueur sur les mode de paiement des dettes envers l�Etat ou les travaux\nex�cut�s, faute de quoi, il est proc�d� aux poursuites.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0006",
+            "summary": "###### Article 7\n\nLe Secr�taire\nG�n�ral � l�Environnement et Conservation de la Nature est charg� de l�ex�cution\ndu pr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 03 octobre 2002.\nSalomon BANAMUHERE BALIENE\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 62
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "6319fec7-ffda-4187-961a-3ffd6691500a"
+    ],
+    "0002": [
+      "fc8ab79c-72fb-49c3-9606-bfe64c8292b5"
+    ],
+    "0003": [
+      "422b48b8-f929-49a1-876b-c80abe2397aa"
+    ],
+    "0004": [
+      "cd876f35-b0fe-48d0-9a91-0fcfab15cb62"
+    ],
+    "0005": [
+      "008838a5-7be3-49b5-912a-e10891283d25"
+    ],
+    "0006": [
+      "2687cb81-1338-4c6e-83b4-8e2029536944"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:23.712487",
+  "article_count": 6,
+  "generation_time_s": 0.01171565055847168
+}

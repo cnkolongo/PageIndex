@@ -1,0 +1,116 @@
+{
+  "slug": "AIM-03-07-13-2013",
+  "bundle_path": "backups/all_bundles/code/AIM-03-07-13-2013.json",
+  "document_id": "c08708e0-43a2-49cb-b93a-0def04f9749d",
+  "document_title": "AIM.03.07.13",
+  "tree_json": {
+    "doc_name": "AIM-03-07-13-2013",
+    "structure": [
+      {
+        "title": "AIM.03.07.13",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.03.07.13",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document is a legal article from the Democratic Republic of the Congo. It establishes the official rates for fees, duties, and charges on state-owned land parcels designated for residential, commercial, industrial, mixed-use, and agro-pastoral purposes. These rates are applicable to land within the country's land jurisdictions that is being marketed according to a specific procedure outlined in a 1974 ordinance. The definitive rates are listed in three annexed tables (I, II, and III) attached to this decree.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLe pr�sent\nArr�t� entre en vigueur\n�\nla date de\nsa signature.\nFait �\nKinshasa, le 03 juillet 2013.\nLe\nMinistre D�l�gu� aupr�s du Premier Ministre, Charg� des Finances,\nAnnexe\n1: Portant sur les droits fiXes et proportionnels.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "This partial document defines how different land use categories are classified for the application of tax rates. It specifies that for tax purposes:\n\n*   Land used for artisanal, hotel, motel, restaurant, gas station, and similar activities is classified as residential and commercial land.\n*   Land used for flammable liquid storage, quarrying, brickworks, explosives depots, construction sites, material depots, and similar uses is classified as industrial land.\n*   Land used for fish farming, small farms or livestock operations, the purchase and storage of agricultural products, and land used by employers for subsistence farming for their staff is classified as agricultural and livestock land.",
+            "line_num": 50
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLa\nredevance annuelle due pour la construction des canaux ou aqueducs � l'usage du\nsecteur priv�, pour l'�tablissement des chemins de fer, des lignes t�l�phoniques\nou �lectriques, d'ol�oducs ou autres voies de transports ou de communications\nsur terres domaniales, est fix�e au tableau de 1 'annexe II du pr�sent Arr�t�.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nLes taux\ndes droits proportionnels d'enregistrement sont repris\n�\n1 'annexe\n1.\nTout\nrapport d'expertise-�valuation pr�sent� par un expert ind�pendant doit �tre vis�\npar une commission constitu�e des trois experts immobiliers de\nl�Administration\nFonci�re.",
+            "line_num": 91
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nLa\nredevance annuelle sur les concessions ordinaires dont les taux sont fix�s aux\nannexes II\net\nIII\ndu pr�sent\nArr�t�\nconcerne les �trangers et les personnes morales conform�ment � la Loi n� 73-021\ndu 20 juillet 1973, telle\nque\nmodifi�e et compl�t�e\n�\nce jour.",
+            "line_num": 105
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nLe d�p�t\nde la d�claration des �l�ments constitutifs (contrat de concession ordinaire et\ncertificat\nd'enregistrement ordinaire) du dossier de la concession ordinaire doit\nintervenir au plus tard le 31 janvier de chaque ann�e.\nLe\npaiement de la redevance annuelle est payable au plus tard le 31 mars de chaque\nann�e.",
+            "line_num": 122
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLes taux\ndes taxes, droits et redevances repris aux annexes du pr�sent Arr�t� sont\nacquitt�s en Francs Congolais au taux officiel de la Banque Centrale du Congo.",
+            "line_num": 134
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nSont\nabrog� les Arr�t�s interminist�riels n�129/CAB/MIN/AFF.FONC/2011 et\n095/CAB/MIN/FINANCES/2011 du 29 mars 2011 portant fixation de prix de r�f�rence\net redevance des parcelles domaniales situ�es dans les circonscriptions\nfonci�res et n� 0001/CAB/MIN/AFF.FONC/2013 et n� CAB/MIN/ FINANCES/20 13/806 du\n04 mai 2013 portant fixation des droits fixes proportionnels taxes, frais\ntechniques et cadastraux\n�\npercevoir\n�\nl'initiative du Minist�re des Affaires Fonci�res ainsi que toutes autres\ndispositions ant�rieures au pr�sent Arr�t�.",
+            "line_num": 141
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nLe\nSecr�taire g�n�ral aux Affaires Fonci�res et le Directeur G�n�ral des Recettes\nAdministratives,\nDomaniales, Judiciaires et de Participations sont charg�s, chacun en ce qui le\nconcerne, de l'ex�cution du pr�sent Arr�t�.",
+            "line_num": 157
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "820e2282-8d44-4f86-8b02-5da850a4bb5d"
+    ],
+    "0002": [
+      "9e7778d2-d9da-402e-9ae7-936a545c8059"
+    ],
+    "0003": [
+      "86729d0d-22cf-4440-80e9-8e602d8f3b8a"
+    ],
+    "0004": [
+      "bfa06120-ce74-4453-855b-20c42c4f0c30"
+    ],
+    "0005": [
+      "c5bac313-af47-4775-b49e-c6950e08a04e"
+    ],
+    "0006": [
+      "0a0332c1-cb55-48ee-aa7f-d9f0b4a1f281"
+    ],
+    "0007": [
+      "a0acde6b-4911-41bc-84ba-1b4bd7eaccfd"
+    ],
+    "0008": [
+      "13110b10-2dcb-4c99-b55d-58ae3bb382ce"
+    ],
+    "0009": [
+      "f2276a58-a9cc-45d1-b7c8-8e8e68e4feaa"
+    ],
+    "0010": [
+      "87056e10-35fb-4f77-8908-b7929e05bd4e"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:00:34.474810",
+  "article_count": 10,
+  "generation_time_s": 21.87562894821167
+}

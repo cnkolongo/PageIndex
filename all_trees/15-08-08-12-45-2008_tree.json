@@ -1,0 +1,295 @@
+{
+  "slug": "15-08-08-12-45-2008",
+  "bundle_path": "backups/all_bundles/code/15-08-08-12-45-2008.json",
+  "document_id": "155b095f-1eb1-4d30-8835-90279deb9b69",
+  "document_title": "15.08.08.12.45",
+  "tree_json": {
+    "doc_name": "15-08-08-12-45-2008",
+    "structure": [
+      {
+        "title": "15.08.08.12.45",
+        "node_id": "0000",
+        "prefix_summary": "# 15.08.08.12.45",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "The partial document covers child labor regulations, specifically prohibiting the assignment of children under 18 to certain types of work. It details maximum weight limits for manual transport tasks that can be performed by children aged 16 to 18, differentiating between boys and girls for occasional manual carrying, transport using a wheelbarrow, transport using a three- or four-wheeled vehicle, and transport using a flat-track railway wagon. The limits are set per gender and per transport method, with a maximum daily duration specified for railway wagon transport.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nIl est interdit d'employer des enfants du sexe féminin au transport\ndes charges sur véhicules porteurs à pédales et sur charrettes à bras.",
+            "line_num": 27
+          },
+          {
+            "title": "Section 3 : Des travaux dangereux ou insalubres",
+            "node_id": "0003",
+            "prefix_summary": "##### Section 3 : Des travaux dangereux ou insalubres",
+            "line_num": 33,
+            "nodes": [
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nLe transport sur diables ou véhicules analogues est interdit aux\nenfants de deux sexes âgés de moins de 18 ans.",
+                "line_num": 36
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0005",
+                "summary": "This partial document, Article 13, lists specific types of work that are prohibited for children under the age of 18. The prohibitions focus on protecting minors from physical danger, harmful substances, and exploitative conditions. The main points covered are:\n\n1.  **Operating or working near machinery:** Prohibition of controlling, cleaning, or repairing running machinery, and being in areas with unguarded dangerous machine parts.\n2.  **Operating vehicles and equipment:** Ban on driving or maneuvering lifting apparatus, engines, vehicles, and mechanical devices.\n3.  **Hazardous manual labor:** Prohibition of work involving pedals, cranks, levers, and manual shaking tables.\n4.  **Work with dangerous tools:** Ban on using circular saws, band saws, mechanical shears, sharp blades, and grinding wheels.\n5.  **Exposure to dangerous substances:** Prohibition of work with explosives, flammable materials, lead-based paints (like white lead), and in battery manufacturing/repair.\n6.  **Physically dangerous environments:** Ban on work underground, underwater, at dangerous heights, in confined spaces, and in unhealthy environments (exposure to harmful substances, noise, vibrations, extreme temperatures).\n7.  **Abusive and exploitative conditions:** Prohibition of work that exposes children to physical, psychological, or sexual abuse, and work under particularly difficult conditions (excessively long hours, night work, unjustified confinement on employer's premises).\n8.  **General authority:** A final clause grants the Labor Inspector the authority to broadly prohibit any other work deemed dangerous or unhealthy.",
+                "line_num": 42
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nIl est interdit également d'employer des enfants de moins de 18 ans\ncomme soutiers ou chauffeurs à bord des navires ainsi qu'à tous travaux\nsusceptibles d'altérer leur santé ou présentant des risques particuliers\nd'accidents.",
+                "line_num": 100
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V: Des travaux légers et salubres autorises pour les",
+            "node_id": "0007",
+            "prefix_summary": "#### Chapitre V: Des travaux légers et salubres autorises pour les",
+            "line_num": 108,
+            "nodes": [
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nL'emploi des enfants de moins de 18 ans est interdit dans les bars\net autres lieux publics où sont consommées des boissons alcoolisées\n\npersonnes âgées de moins de 18 ans\nSection 1 : Du contrôle de l'âge du travailleur ou de l'apprenti à\ndéfaut d'Etat Civil.",
+                "line_num": 111
+              },
+              {
+                "title": "Section 2 : Des travaux légers et salubres.",
+                "node_id": "0009",
+                "prefix_summary": "##### Section 2 : Des travaux légers et salubres.",
+                "line_num": 121,
+                "nodes": [
+                  {
+                    "title": "Article 16",
+                    "node_id": "0010",
+                    "summary": "###### Article 16\n\nA défaut d'attestation de naissance, l'âge du travailleur ou apprenti\nest déterminé par un examen pratiqué par un médecin du travail ou, à\ndéfaut par un médecin. Les frais résultant de l'examen sont à charge de\nl'employeur ou du maître d'apprentissage.",
+                    "line_num": 124
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI : De l'embauchage des enfants",
+            "node_id": "0011",
+            "prefix_summary": "#### Chapitre VI : De l'embauchage des enfants",
+            "line_num": 132,
+            "nodes": [
+              {
+                "title": "Article 17",
+                "node_id": "0012",
+                "summary": "This partial document lists the permitted light and sanitary work activities for individuals under 18 years old. It includes tasks such as harvesting certain seeds, leaves, and fruits from the ground; manual processing of plant products; making nursery ties; basket weaving; tending small livestock; light surveillance duties; selling newspapers or peddling without heavy transport; and any other work authorized by the local Inspector.",
+                "line_num": 135
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII: Des dérogations",
+            "node_id": "0013",
+            "prefix_summary": "#### Chapitre VII: Des dérogations",
+            "line_num": 164,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0014",
+                "summary": "###### Article 18\n\nTout embauchage des personnes âgées de moins de 18 ans, quel\nque soit leur sexe, doit donner lieu à l'établissement par l'employeur\nd'une liste indiquant les noms, prénoms et date de naissance de chaque\ntravailleur ainsi que l'emploi occupé.\nCopie de cette liste, portant mention des certificats d'aptitude au\ntravail établis, doit être adressée, dans les huit jours de l'embauchage, à\nl'Inspecteur du Travail du ressort.",
+                "line_num": 167
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VIII : Des dispositions finales",
+            "node_id": "0015",
+            "prefix_summary": "#### Chapitre VIII : Des dispositions finales",
+            "line_num": 178,
+            "nodes": [
+              {
+                "title": "Article 19",
+                "node_id": "0016",
+                "summary": "###### Article 19\n\nLorsque des raisons impérieuses de formation professionnelle\nl'exigent, l'Inspecteur du Travail du ressort peut accorder des\ndérogations temporaires aux dispositions de l'article 12 au profit des\nenfants de moins de 16 ans révolus et de moins de 18 ans, et ce sur\ndemande de l'employeur.\nCelles-ci ne sont pas applicables aux travailleurs du sexe féminin.",
+                "line_num": 181
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0017",
+                "summary": "###### Article 1er\n\nIl est interdit à tout employeur, personne physique ou morale\nd'occuper des enfants à des travaux excédant leurs forces, les exposant à\ndes risques professionnels élevés, ou qui par leur nature ou par les\nconditions dans lesquelles ils sont effectués, sont susceptibles de blesser\nleur moralité.",
+                "line_num": 191
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0018",
+                "summary": "###### Article 2\n\nAu sens du présent Arrêté, l'expression « enfant» désigne toute\npersonne âgée de moins de 18 ans.",
+                "line_num": 200
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0019",
+                "summary": "###### Article 20\n\nLes infractions aux dispositions du présent Arrêté sont punies des\npeines prévues aux articles 321 a) et 328 b) du Code du Travail.",
+                "line_num": 206
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0020",
+                "summary": "###### Article 21\n\nLe Secrétaire Général à l'Emploi et au Travail et l'Inspecteur\nGénéral du Travail sont chargés, chacun en ce qui le concerne de\nl'exécution du présent Arrêté qui entre en vigueur à la date de sa\nsignature.\nFait à Kinshasa le 08 août 2008\nMarie Ange Lukiana Mufwankolo\nMinistre\n__________\n5\n\n\n\n\n\n\n\n6",
+                "line_num": 212
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0021",
+                "summary": "###### Article 3\n\nAu sens du présent Arrêté, l'expression «transport manuel des\ncharges» désigne tout transport où le poids de la charge est entièrement\nsupporté par le travailleur; elle comprend également le soulèvement et\nla pose de la charge.",
+                "line_num": 233
+              }
+            ]
+          },
+          {
+            "title": "Chapitre Il: De la durée du travail",
+            "node_id": "0022",
+            "prefix_summary": "#### Chapitre Il: De la durée du travail",
+            "line_num": 241,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0023",
+                "summary": "###### Article 4\n\nAu sens du présent Arrêté, l'expression « transport manuel régulier\ndes charges désigne toute activité consacrée de manière continuelle ou :\nessentielle au transport manuel des charges ou comportant,\nnormalement, même de manière discontinue, le transport manuel des\ncharges.",
+                "line_num": 244
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : Du travail de samedi de dimanche et de nuit",
+            "node_id": "0024",
+            "prefix_summary": "#### Chapitre III : Du travail de samedi de dimanche et de nuit",
+            "line_num": 253,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0025",
+                "summary": "###### Article 5\n\nLes enfants âgés de moins de 18 ans ne pourront effectuer plus de\n8 heures de travail effectif par jour.\nLorsque la durée du travail effectif dépasse 4 heures par jour, celle-\nci 1 doit être coupée d'un ou plusieurs repos dont la durée totale ne peut\nêtre inférieure à une heure.",
+                "line_num": 256
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0026",
+                "summary": "###### Article 6\n\nAucun enfant âgé de moins de 18 ans ne peut être occupé le samedi\net le dimanche.",
+                "line_num": 265
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV: Les travaux interdits aux enfants",
+            "node_id": "0027",
+            "prefix_summary": "#### Chapitre IV: Les travaux interdits aux enfants",
+            "line_num": 271,
+            "nodes": [
+              {
+                "title": "Article 7",
+                "node_id": "0028",
+                "summary": "###### Article 7\n\nLe travail de nuit est interdit à tout enfant âgé de moins de 18 ans.\n\nSection 1 : Des pires formes de travail des enfants",
+                "line_num": 274
+              },
+              {
+                "title": "Section 2 : De travaux pouvant excéder les forces des enfants",
+                "node_id": "0029",
+                "prefix_summary": "##### Section 2 : De travaux pouvant excéder les forces des enfants",
+                "line_num": 281,
+                "nodes": [
+                  {
+                    "title": "Article 8",
+                    "node_id": "0030",
+                    "summary": "This partial document defines and prohibits the worst forms of child labor. It lists specific prohibited categories, including slavery and forced labor (including child soldiers), child exploitation for prostitution or pornography, using children for illicit activities like drug trafficking, work that harms a child's health, safety, or morals, and involving children in the production or sale of obscene or morally objectionable materials. It also bans employing children in any work within the same premises where these prohibited activities occur.",
+                    "line_num": 284
+                  },
+                  {
+                    "title": "Article 9",
+                    "node_id": "0031",
+                    "summary": "###### Article 9\n\nL'affectation des enfants de deux sexes âgés de moins de 18 ans au\ntransport manuel régulier des charges est interdite. Toutefois, cette\ninterdiction ne s'applique pas dans le cas de récolte de semences, de\nfeuilles et de fruits à l'exception des bananes et des fruits de palmier\npour autant que le travail de cueillette s'effectue sur le sol.",
+                    "line_num": 328
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "d0958b88-622e-44e5-b24b-e8971c18e3fa"
+    ],
+    "0002": [
+      "bdc0b156-40aa-4368-b059-ad84c99731bc"
+    ],
+    "0004": [
+      "7b245239-40d7-4fc2-b254-27f6cad609ea"
+    ],
+    "0005": [
+      "74d4606a-d13d-4366-bdea-d9329b682ccc"
+    ],
+    "0006": [
+      "989cec02-0057-4964-92c0-f7e2ec5b9278"
+    ],
+    "0008": [
+      "69d715d9-fe30-4568-adf0-6b5d9861e113"
+    ],
+    "0010": [
+      "165b90da-cecb-45aa-ad4a-b161014f8e55"
+    ],
+    "0012": [
+      "55decfcb-c758-4d69-b247-6754de0bb1f2"
+    ],
+    "0014": [
+      "492e4b19-c6a6-4797-9e23-5e8ea22334d8"
+    ],
+    "0016": [
+      "33511ad5-fbf8-48fa-9970-a585c565300c"
+    ],
+    "0017": [
+      "2a933564-8665-450b-9c2a-fe4fd3c83a36"
+    ],
+    "0018": [
+      "eb54f151-7a20-42e4-ab82-4c9a3b9a75a9"
+    ],
+    "0019": [
+      "2f1a7227-761b-414b-bcf8-bec9a101ba7e"
+    ],
+    "0020": [
+      "9109bceb-e0d1-4016-83df-b40d11a5275c"
+    ],
+    "0021": [
+      "d4fa6356-ebfb-48a9-93c3-b3f7dde0b4c0"
+    ],
+    "0023": [
+      "48f9796b-787d-49e2-bc73-48dba19671e4"
+    ],
+    "0025": [
+      "c73db97a-0554-48fa-9e94-c1b815197ad8"
+    ],
+    "0026": [
+      "ddfcefdc-78fd-4483-b772-74d8c4ba58e9"
+    ],
+    "0028": [
+      "0ea6ac12-2deb-48d8-896e-93d035873d59"
+    ],
+    "0030": [
+      "14d9dfc0-9c9a-4826-ba6b-0c7baa2404bf"
+    ],
+    "0031": [
+      "5d6d54dd-48c5-409f-9b6a-2bd614023f62"
+    ]
+  },
+  "node_count": 32,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:34:32.358400",
+  "article_count": 21,
+  "generation_time_s": 18.958470106124878
+}

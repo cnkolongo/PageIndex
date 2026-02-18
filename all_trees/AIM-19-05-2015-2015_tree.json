@@ -1,0 +1,188 @@
+{
+  "slug": "AIM-19-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AIM-19-05-2015-2015.json",
+  "document_id": "570360f2-2f61-4161-ac77-250d88c314f7",
+  "document_title": "AIM.19.05.2015",
+  "tree_json": {
+    "doc_name": "AIM-19-05-2015-2015",
+    "structure": [
+      {
+        "title": "AIM.19.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.19.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nmodalit�s d�identification et de souscription � l�abonnement aux services\npublics de t�l�phonie et d�acc�s � l�internet, ainsi que les conditions\nd�activation, de d�sactivation et de r�activation des abonn�s en R�publique\nD�mocratique du Congo",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nil appartient au c�dant de d�clarer sa cession aupr�s de l�exploitant ou du\nfournisseur.\nLe cessionnaire est tenu de se faire identifier � son tour,\nconform�ment aux dispositions r�glementaires en vigueur.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "This partial document outlines legal obligations for public telecommunications operators regarding subscriber data retention. It specifies that operators must retain subscriber identification records and associated IMEI numbers in digital format for the duration of a subscription. After a subscription is terminated, the digital records can be removed from the database six months later. Furthermore, the document mandates that operators must communicate all subscriber identification data from their database to competent state authorities before any deletion, removal, or overwriting of the data occurs.",
+            "line_num": 20
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "This partial document outlines the legal obligations and penalties for telecommunications operators and public service providers regarding subscriber identification. It states that failure to properly identify subscribers or to cut off service to unidentified users can lead to sanctions, fees, and penalties as defined by law. The specific rates for these fees and penalties are set by an inter-ministerial decree from the finance and telecommunications ministries. Furthermore, the operator or provider is required to pay the corresponding fees into the public treasury account in accordance with applicable legal and regulatory provisions.",
+            "line_num": 38
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nd�faut ou insuffisance d�identification, paiera des droits et p�nalit�s\nconform�ment � la loi, pr�alablement au r�tablissement de son service. Les taux\ndes droits et p�nalit�s sont fix�s par Arr�t� interminist�riel des Ministres\nayant les finances et les t�l�communications dans leurs attributions. Les droits\net p�nalit�s sont vers�s au compte du Tr�sor public par l�abonn� concern�.\nL�exploitant du\nr�seau ou le fournisseur des services de t�l�communications ne pourra r�activer\nle service que sur pr�sentation de la preuve de paiement par l�abonn�\nsanctionn�.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\ncas d�atteinte � la s�ret� de l�Etat ou de violation grave de la loi ou des\ntextes r�glementaires en mati�re d�identification et de souscription �\nl�abonnement aux services de t�l�communications ou � l�acc�s aux services\nd�internet, l�exploitant ou le fournisseur peut �tre soumis � la limitation de\nses droits d�exploitation, � la suspension ou au retrait de son autorisation\nd�exploitation ou de sa licence de concession, conform�ment � la l�gislation en\nvigueur en R�publique D�mocratique du Congo.",
+            "line_num": 66
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nl�article 46 de la Loi-cadre n�013/2002 du 16 octobre 2002 sur les\nt�l�communications en R�publique D�mocratique du Congo, la proc�dure\nd�activation, de d�sactivation provisoire ou d�finitive ainsi que de\nr�activation est reprise � l�annexe 3 au pr�sent Arr�t� interminist�riel.",
+            "line_num": 77
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "This partial document describes the establishment and composition of a joint commission tasked with overseeing the implementation of mandatory subscriber identification measures for telecommunications services. The commission is composed of experts from relevant government ministries, regulatory authorities, private sector delegates from telecommunications operators and business federations, and representatives of the public operator. The specific missions, organization, and functioning of the commission are to be defined by an interministerial decree.",
+            "line_num": 85
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0009",
+            "summary": "###### Article 17\n\nant�rieures contraires au pr�sent Arr�t� interminist�riel.",
+            "line_num": 111
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0010",
+            "summary": "This partial document is an annex to an interministerial decree in the Democratic Republic of Congo, dated May 19, 2015. It outlines detailed procedures for telecommunications services. The main points covered are:\n\n1. **Activation Procedure:** A two-step process involving prior identification of the subscriber (postpaid or prepaid) and activation of the number or connection.\n\n2. **Deactivation Procedure:** Distinguishes between \"old\" and \"new\" subscribers based on activation date relative to the decree's signature. It specifies processes for deactivation due to:\n    - Non-identification of old subscribers.\n    - Insufficient identification of old subscribers.\n    These processes involve verification, joint reports, service interruption, and final deactivation, all initiated by a formal request from a competent Authority.\n\n3. **Reactivation Procedure:** Describes the steps for reactivating a number or connection previously deactivated due to lack or insufficiency of identification, including identification after proof of payment, communication to a mixed commission, reactivation, and notification.\n\n4. **Payment of Fees and Penalties:** States that fees and penalties are levied for non-compliance with specific articles of the decree, as recorded by a mixed commission report. These payments must be made to the public treasury according to relevant legislation.\n\nThe document also lists the government officials responsible for executing the decree.",
+            "line_num": 116
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\nexploitant d�un r�seau de t�l�communications ouvert au public ou tout\nfournisseur des services d�acc�s � l�internet est tenu d�identifier ses abonn�s\nau moment de la souscription aux services de t�l�communications en mode\npost-pay� ou pr�pay�.\nA cet effet, il tient les fiches signal�tiques d�ment\nremplies par ses abonn�s contenant obligatoirement les mentions substantielles\nreprises dans l�article 3 du pr�sent Arr�t� interminist�riel. Sont interdites :\n- L�identification par procuration, appel t�l�phonique,\nSMS, courriers �lectroniques ou tout mode autre que la fiche signal�tique\nphysique ;\n- La pr�-activation de toute SIM avant l�identification de\nson abonn�.",
+            "line_num": 240
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0012",
+            "summary": "This partial document, Article 3, specifies the mandatory minimum information required for a subscriber's identification file (\"fiche signalétique\").\n\nThe main points covered are:\n1.  The distinct required details for **legal entities** (e.g., company name, registration numbers, statutory agent's details, and a signed commitment acknowledging penal responsibility for false information).\n2.  The distinct required details for **natural persons** (e.g., full name, address, nationality, identity document details, and a similar signed commitment acknowledging penal responsibility).\n3.  A general obligation for the subscriber to notify their network operator or service provider within 15 working days if any of this essential information changes.",
+            "line_num": 256
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0013",
+            "summary": "###### Article 4\n\ndevront tenir � jour la liste des personnes physiques utilisatrices des num�ros\nou des connexions dont ils ont souscrit l�abonnement.",
+            "line_num": 293
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0014",
+            "summary": "This partial document outlines the identity verification requirements for subscribing to a service in the Democratic Republic of Congo. It details the accepted identity documents for different categories of applicants: national citizens, foreign nationals (residents and non-residents), and legal entities (both domestic and foreign-based). It also specifies the rules for minors, requiring subscription by a parent or guardian.",
+            "line_num": 299
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0015",
+            "summary": "This partial document covers Article 6 of an interministerial decree in the Democratic Republic of the Congo. The main points are the mandatory identification of users before activating any public phone number or internet connection, the sanctions for providers who activate services without prior identification, and the immediate obligation to deactivate any such number or connection upon discovery.",
+            "line_num": 325
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0016",
+            "summary": "This partial document outlines the confidentiality obligations of public telecommunications operators in the Democratic Republic of the Congo. It states that operators must keep subscriber information secret and face legal sanctions for unauthorized disclosure. However, it establishes an exception: operators must comply with duly signed requisitions from competent authorities for reasons of state security (internal/external) or for judicial investigations and proceedings.",
+            "line_num": 342
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0017",
+            "summary": "This partial document covers Article 8 of an interministerial decree. It outlines the obligations and liabilities related to subscriber identification for public telecommunications services. The main points are:\n1. The operator/provider must immediately suspend the service (phone number or connection) of any subscriber found to be unidentified or insufficiently identified, following a specific procedure.\n2. The operator/provider is not liable to the subscriber for any penalties, refunds, or damages resulting from this service interruption due to the subscriber's failure to meet identification requirements.",
+            "line_num": 356
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0018",
+            "summary": "This partial document outlines the procedure for suspending and ultimately terminating a public telecommunications service when a subscriber fails to identify themselves. It specifies a 30-day grace period after service suspension for identification, followed by a phased disconnection of outgoing calls, incoming calls, and finally customer service/emergency calls. It also states that the operator is not held legally liable for reallocating the number after non-identification.",
+            "line_num": 372
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e19934ce-91cc-4aad-a21f-fc1b0a0e86f0"
+    ],
+    "0002": [
+      "d86eb7d7-0c6c-48f9-9bbe-bb46ddc12f53"
+    ],
+    "0003": [
+      "32b2c0d0-85d7-4707-a519-ddf77a0f654f"
+    ],
+    "0004": [
+      "32ba05dd-fed2-4a48-a516-5ae6b98f1098"
+    ],
+    "0005": [
+      "9b666fed-17f8-4d9b-8856-be1ea56ca872"
+    ],
+    "0006": [
+      "35853a3c-b309-4d51-b811-9aa3cda84743"
+    ],
+    "0007": [
+      "f52f121d-f77a-47a9-9e7d-007360c0a4e8"
+    ],
+    "0008": [
+      "f0af7dd1-3cbb-4b11-a611-acf702ceeecb"
+    ],
+    "0009": [
+      "ea1f65ef-7f56-41ca-8d38-58291721e7d3"
+    ],
+    "0010": [
+      "62a471b5-160b-4275-875d-866e6416df96"
+    ],
+    "0011": [
+      "f6aa015e-c757-4274-a852-09369cfda042"
+    ],
+    "0012": [
+      "9067727b-043d-4a7b-919e-4737cece47d6"
+    ],
+    "0013": [
+      "1a7cedf7-748f-40e8-b3b7-d1225a569153"
+    ],
+    "0014": [
+      "f2a9ae7a-54cd-4000-81ab-a2ab9ffd94f1"
+    ],
+    "0015": [
+      "31d50ec3-8ef7-423c-aa56-df40fac161b6"
+    ],
+    "0016": [
+      "54aeec3f-7f80-4463-8f81-ea138504a1dd"
+    ],
+    "0017": [
+      "95387106-a4d5-42d2-b971-b6b817af198a"
+    ],
+    "0018": [
+      "e98d765c-0ccf-4668-9ac9-fab121800bcd"
+    ]
+  },
+  "node_count": 19,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:01:41.676073",
+  "article_count": 18,
+  "generation_time_s": 27.96609616279602
+}

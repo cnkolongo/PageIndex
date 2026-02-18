@@ -1,0 +1,116 @@
+{
+  "slug": "AIM-24-07-2020",
+  "bundle_path": "backups/all_bundles/code/AIM-24-07-2020.json",
+  "document_id": "956d82d7-2c0b-4cf5-8720-3434bd851bb6",
+  "document_title": "AIM.24.07",
+  "tree_json": {
+    "doc_name": "AIM-24-07-2020",
+    "structure": [
+      {
+        "title": "AIM.24.07",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.24.07",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� fixe les\ntaux des droits, taxes et redevances sur les installations class�es de la\ncat�gorie I.a � percevoir � l'initiative du Minist�re de l'Environnement et\nD�veloppement Durable.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nSont abrog�es toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLe Secr�taire g�n�ral �\nl�Environnement et D�veloppement Durable ainsi que le Directeur g�n�ral des\nrecettes administratives, sont charg�s, chacun en ce qui le concerne, de\nl�ex�cution du pr�sent Arr�t�.\nFait � Kinshasa, le 24 juillet 2020.\nANNEXES\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 18
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0004",
+            "summary": "###### Article 2\n\nLes taux des droits, taxes et\nredevances � percevoir en mati�re d'installation class�e de la cat�gorie I.a,\nsont fix�s en Dollar am�ricain (USD), payables en Franc congolais, au taux\nofficiel du jour, suivant les tableaux en annexes 1 et 2 du pr�sent Arr�t�.",
+            "line_num": 34
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0005",
+            "summary": "This partial document outlines regulations for obtaining and replacing an operating permit for a classified installation. It states that establishing, modifying, selling, or transferring such an installation requires a prior permit. Obtaining this permit is conditional on paying an implantation tax plus an annual fee. The text also details the procedures for replacing a lost permit, distinguishing between replacement due to proven force majeure (which is free) and other cases like a change of name or location (which is subject to fees and specific conditions).",
+            "line_num": 42
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "This partial document outlines regulations for business taxes and operational requirements in a specific context, likely an industrial or port zone. The main points covered are:\n\n1.  **Tax Calculation:** Taxes (implantation and annual remuneration) are calculated based on the type of activity and the installed capacity.\n2.  **Storage Area Rules:** Open-air storage areas must be visibly marked. Their height is generally limited to 3 meters, with specific lower limits (2.5m) for log and sawn wood yards.\n3.  **Penalty for Non-Compliance:** Failure to properly demarcate storage areas results in a penalty of 25% of the owed taxes.\n4.  **Transport Sector Tax Base:** For various transport sectors (land, river, air, sea, rail, lake), the taxable base is the transportable tonnage of the vehicle, vessel, rail unit, or aircraft.",
+            "line_num": 65
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nLa taxe de pollution est\ncalcul�e en fonction de chaque activit� polluante de l'installation concern�e,\ntelle que sp�cifi�e � l'annexe 2 du pr�sent Arr�t�.\nEn attendant la\nr�glementation sp�cifique d�terminant le seuil de pollution, l'assiette et les\ntaux de la taxe de pollution sont fix�s de mani�re forfaitaire.\nDans le secteur de transport,\nla taxe de pollution est calcul�e uniquement sur la puissance force motrice du\nv�hicule, de l'unit� navigante, de l'unit� ferroviaire ou volante.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nTout exploitant d'une\ninstallation class�e de la cat�gorie I.a d�j� implant�e est tenu de d�poser sa\nd�claration des �l�ments taxables, li�e aux Taxes r�mun�ratoire annuelle et de\npollution ainsi que leurs �volutions aupr�s du service comp�tent du Minist�re\ncharg� de l'Environnement, au plus tard le 31 mars de l'exercice en cours.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLes taxes r�mun�ratoires\nannuelles et de pollution, li�es au permis d'exploitation, sont payables au plus\ntard le 30 juin. D�pass� ce d�lai, il est appliqu� des amendes transactionnelles\nallant de 50 � 100% de la taxe, lorsque le non-paiement est constat� au cours de\nl'exercice, et de 100 � 200%, lorsque l'exercice est compl�tement clos.",
+            "line_num": 104
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nSans pr�judice des autres\nsanctions pr�vues dans les textes l�gaux et r�glementaires en vigueur,\nl'exploitation illicite, la transformation ou la modification d'une installation\nclass�e ou le changement de proc�d�s de fabrication entra�nant des dangers ou\ninconv�nients est passible d'une amende transactionnelle allant de 100.000.000 �\n250.000.000 de Franc congolais.",
+            "line_num": 113
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "b1cc47b4-01c2-4c55-a3ab-50de5e3650ca"
+    ],
+    "0002": [
+      "1614e811-6b9f-4d2c-bc1b-2be8f50a67af"
+    ],
+    "0003": [
+      "bd0ca272-206d-4264-ba62-4d215a79ac60"
+    ],
+    "0004": [
+      "c85969be-da39-4f52-bbca-cf493ef9c3c4"
+    ],
+    "0005": [
+      "3875ccaf-692b-463b-831f-926fc03c8d26"
+    ],
+    "0006": [
+      "574d4f28-016d-4dbf-a332-e9ac9632c468"
+    ],
+    "0007": [
+      "56c1492e-65d5-4a52-b26e-0c23f989f8b6"
+    ],
+    "0008": [
+      "688291b9-0fcb-4299-a78f-834d462b5069"
+    ],
+    "0009": [
+      "9c2feb38-be81-473f-a7c3-0bc8b9aed949"
+    ],
+    "0010": [
+      "fbedd810-264d-44f7-86fa-64a6413615e0"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:57:45.560691",
+  "article_count": 10,
+  "generation_time_s": 12.867171049118042
+}

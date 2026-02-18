@@ -1,0 +1,206 @@
+{
+  "slug": "A-30-21-04-2017-2017",
+  "bundle_path": "backups/all_bundles/code/A-30-21-04-2017-2017.json",
+  "document_id": "a3d531f4-b21c-4677-8ca4-e040b37dc8b7",
+  "document_title": "A.30.21.04.2017",
+  "tree_json": {
+    "doc_name": "A-30-21-04-2017-2017",
+    "structure": [
+      {
+        "title": "A.30.21.04.2017",
+        "node_id": "0000",
+        "prefix_summary": "# A.30.21.04.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t�\nd�finit les crit�res et les proc�dures d'acc�s au statut de client �ligible. Ces\nproc�dures et crit�res sont d�finis de mani�re transparente et non-\ndiscriminatoire.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial document defines the concept of \"eligibility\" within an electricity market. It states that an eligible consumer (final or not) has the right to purchase electricity from any producer or supplier, provided they follow rules of competition and transparency. The purchase is based on a freely negotiated price and agreed supply terms. It further explains that an eligible client can solicit offers from multiple suppliers based on past consumption or future forecasts, and can enter into one or more energy purchase contracts with their chosen producer or supplier.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLes clients qui se\npr�valent ou b�n�ficient � tort des droits d'�ligibilit� et les producteurs ou\nfournisseurs qui livrent sciemment de l'�nergie �lectrique, dans le cadre d'un\ncontrat n�goci�, � un consommateur non �ligible sont passibles des sanctions\np�cuniaires et administratives telles que pr�vues par la loi.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "This partial document describes the competitive framework of the electricity market.\n\nIt states that the market is open to competition, allowing eligible customers to freely choose their electricity producer or supplier, as well as their network operator for transmission-related matters.\n\nIt then lists the specific services that are excluded from this competitive domain and remain solely under the responsibility of the network manager. These non-competitive services include:\n- The provision of electrical energy and its associated quality.\n- The supply of reactive energy.\n- The backup power line.\n- The rental, maintenance, and upkeep of measurement devices (including quality control and monitoring equipment).\n- The operation, maintenance, and renewal of the electrical network.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nParall�lement � ses\ncontrats d'achat d'�nergie avec le producteur qui l'alimente ou son fournisseur\nd'�nergie �lectrique, le consommateur �ligible doit �ventuellement conclure un\ncontrat d'acc�s au r�seau avec le gestionnaire du r�seau public auquel il est\nraccord� au cas o� ce dernier contrat n'est pas conclu entre le gestionnaire de\nr�seau et le fournisseur dont question.\nLes principaux\naspects techniques de l'alimentation, notamment la tension, l'alimentation de\nsecours, le comptage, la fr�quence et la dur�e tol�r�e des coupures ainsi que la\nstabilit�, sont d�finis dans ce dernier contrat.",
+            "line_num": 54
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\nOutre la\nfacturation, le client �ligible peut avoir acc�s aux informations que les\nappareils de mesure\nd�livrent et pour lesquels il acquitte une redevance de location, notamment,\npour les sites importants, les relev�s de puissance.\nIl peut �galement\ndemander � son distributeur ou au gestionnaire du r�seau de lui fournir un\ndocument qui d�crit son profil de consommation.",
+            "line_num": 68
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nLorsqu'il y a\nchangement d'exploitation d'un site de consommation d'un client �ligible, le\nnouvel exploitant reste �ligible pour l'ann�e en cours. Ce dernier est n�anmoins\ntenu d'informer son distributeur des changements survenus dans les trente jours\n� dater du changement effectif.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "###### Article 16\n\nLorsqu'un site de\nconsommation est mis en exploitation en cours d'ann�e, le client est consid�r�\n�ligible jusqu'au terme de la premi�re ann�e civile compl�te de fonctionnement,\nsi la consommation pr�visible durant cette ann�e est �gale ou sup�rieure au\nseuil r�glementaire d'�ligibilit�.\nSi, au terme de la\npremi�re ann�e civile compl�te, le niveau de consommation annuelle n'atteint pas\nle seuil d'�ligibilit�, le client ne b�n�ficie plus du droit � l'�ligibilit�.",
+            "line_num": 89
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0009",
+            "summary": "This partial document outlines the conditions and procedures for an eligible consumer (likely in an electricity market) to return to being an ordinary consumer. The main points covered are:\n\n1.  **Notification Requirements:** The consumer must inform their distributor/transport network manager via registered letter at least six months in advance and give a six-month termination notice to their electricity supplier.\n2.  **Grounds for Refusal:** The return can only be refused if there is a proven lack of network capacity that prevents the delivery or supply of the required energy quantity.\n3.  **Re-Entry Restriction:** Once returned to the ordinary system, a consumer cannot leave it again (to become eligible) for a period of three years.",
+            "line_num": 101
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0010",
+            "summary": "###### Article 18\n\nOutre les taxes,\nimp�ts et redevances auxquels ils sont tenus, conform�ment aux. lois et\nr�glementations qui r�gissent leurs activit�s respectives, les clients �ligibles\ndoivent imp�rativement s'acquitter r�guli�rement de la taxe sur la consommation\nde l'�lectricit�.",
+            "line_num": 122
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0011",
+            "summary": "###### Article 19\n\nSont abrog�es\ntoutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 131
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0012",
+            "summary": "###### Article 2\n\nEst admissible dans\nla cat�gorie de consommateur ou client �ligible :\n- l'usage dont la puissance install�e est sup�rieure � 1 MW et la\nconsommation moyenne d'�lectricit� de l'ann�e civile pr�c�dente sur un site\ndonn� de ses activit�s professionnelles\nest �gale ou sup�rieure au seuil de 5 GWh ;\n- toute personne morale qui ach�te l'�lectricit� pour la revendre ;\n- les entreprises propri�taires, gestionnaires ou d'exploitation de\nr�seaux ferroviaires ou des services de\ntransport ferroviaire et de r�seaux de transports collectifs urbains\n�lectriquement interconnect�s en\naval des points de livraison.",
+            "line_num": 137
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0013",
+            "summary": "###### Article 20\n\nLe Secr�taire\ng�n�ral du Minist�re en charge de l'�lectricit� et le Directeur g�n�ral de l'\nAutorit� de r�gulation du secteur de l'�lectricit� sont charg�s, chacun en ce\nqui le concerne, de l'ex�cution du pr�sent Arr�t� qui entre en vigueur � la.\ndate de sa signature.\nFait � Kinshasa, le\n21avril2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 153
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0014",
+            "summary": "###### Article 3\n\nUn consommateur\nd'�lectricit� est �ligible d�s lors que tout ou partie de l'�nergie �lectrique\nconsomm�e sur son site d'activit�s est destin�e � un usage non r�sidentiel,\nl'usage r�sidentiel �tant la consommation d'un m�nage pour un usage domestique.",
+            "line_num": 170
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0015",
+            "summary": "The main points covered in this partial document include the criteria for assessing a consumer's eligibility for electricity consumption, focusing on individual \"consumption sites\" defined by specific addresses connected to the network via medium or high voltage lines. It details how the annual consumption for a given site is calculated, incorporating electricity received from the grid or directly from a power plant, and includes self-produced electricity used on-site, even if there are multiple subscriptions or connection points. This calculation is compared to a regulatory threshold.",
+            "line_num": 178
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0016",
+            "summary": "###### Article 5\n\nLes clients\n�ligibles sont :\n- des clients principaux charg�s de la r�partition de l'�nergie\n�lectrique re�ue de la ligne de transport\nou  du centre de production vers les\nautres usagers ;\n- des abonn�s directs qui re�oivent les quantit�s d'�nergie n�cessaire �\nleurs besoins   d'une ligne de\ntransport d'�lectricit� ou d'un poste �lectrique � haute tention ...",
+            "line_num": 195
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0017",
+            "summary": "###### Article 6\n\nPour b�n�ficier du\nstatut de client �ligible ou pour le renouveler, la demande est adress�e � l'\nAutorit� de R�gulation du secteur de l'�lectricit�, avec copie :\n- au Ministre ayant l'�lectricit� dans ses attributions ou au Gouverneur\nde province ;\n- � l'op�rateur du syst�me et le gestionnaire ou r�seau de transport de\nl'�lectricit� de son aire g�ographique\nd'op�ration;\n- au concessionnaire local si le client est raccord� au r�seau de\ndistribution.",
+            "line_num": 208
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0018",
+            "summary": "###### Article 7\n\nL' Autorit� de\nR�gulation du secteur de l'�lectricit� proc�de � l'analyse de la demande\nd'admission � la cat�gorie de clients �ligibles et transmet son avis �\nl'autorit� comp�tente pour d�cision dans un d�lai de trente jours calendaires �\ndater de la r�ception de ladite demande.",
+            "line_num": 222
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0019",
+            "summary": "###### Article 8\n\nL'autorit�\ncomp�tente prend sa d�cision dans les quinze (15) jours calendaires � dater de\nla r�ception de l'avis de l' Autorit� de r�gulation.\nD�pass� ce d�lai,\nla qualit� de client �ligible est acquise.\nL 'Autorit� de\nR�gulation du secteur de l'�lectricit� est tenue de publier la liste des clients\n�ligibles pour l'ann�e n + 1 au plus tard le 31 ao�t de l'ann�e n.",
+            "line_num": 231
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0020",
+            "summary": "###### Article 9\n\nL'�ligibilit� est\nacquise pour trois (3) ans.\nLa demande de\nrenouvellement du client doit se faire au plus tard le 30 juin de l'ann�e n + 3\net suivra la m�me proc�dure de traitement de la demande initiale.\nSi l'usager n'a pas\nfait renouveler son statut � la fin de la troisi�me ann�e, il perd sa qualit� de\nclient �ligible.",
+            "line_num": 243
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a0d29554-c9e0-469d-9412-b613c3ecda04"
+    ],
+    "0002": [
+      "df07dcde-8574-4eba-879c-c79773dc69bd"
+    ],
+    "0003": [
+      "4e77c876-b4b4-452e-95ef-1585ade43e62"
+    ],
+    "0004": [
+      "9339104c-12aa-41f2-9879-00fedd5bbc17"
+    ],
+    "0005": [
+      "60aabdcc-75b1-4bc8-a0fe-de9e865adbf6"
+    ],
+    "0006": [
+      "50adcdb2-10bb-44cc-8cda-397b90b0165a"
+    ],
+    "0007": [
+      "5cfbd6d9-a8a9-4eec-bfa0-1fb8a1c8dcc8"
+    ],
+    "0008": [
+      "5198edeb-cb4d-409b-9d20-9f7d34f9bb35"
+    ],
+    "0009": [
+      "9c947c28-7a4c-4ce5-b2ec-9026ddd499c0"
+    ],
+    "0010": [
+      "14b56d32-7873-4fb1-8e4e-2b643316c9a3"
+    ],
+    "0011": [
+      "785bd2de-2599-4673-99f2-09ce33427e32"
+    ],
+    "0012": [
+      "42e6a704-c516-4180-8cf5-5390ccf3a74f"
+    ],
+    "0013": [
+      "c8c177c8-9b0c-44c4-b7c9-98083295b550"
+    ],
+    "0014": [
+      "2ec9b613-e86a-43dd-a7b7-c07e82fb863d"
+    ],
+    "0015": [
+      "bad9c786-8371-4135-8d7b-6e571b782207"
+    ],
+    "0016": [
+      "217efb1b-d350-4eba-9c52-c0283659fd1c"
+    ],
+    "0017": [
+      "f64eb34e-2c6c-4900-9b4b-0f122346d94d"
+    ],
+    "0018": [
+      "6825587b-f581-42a2-899a-c0af6bcbfc11"
+    ],
+    "0019": [
+      "a48969e9-6891-4d8b-aa6d-eb621a66286d"
+    ],
+    "0020": [
+      "25e36d56-cb49-4401-8994-c510c0f55c71"
+    ]
+  },
+  "node_count": 21,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:29:59.048304",
+  "article_count": 20,
+  "generation_time_s": 12.422465085983276
+}

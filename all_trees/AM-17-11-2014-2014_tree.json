@@ -1,0 +1,55 @@
+{
+  "slug": "AM-17-11-2014-2014",
+  "bundle_path": "backups/all_bundles/code/AM-17-11-2014-2014.json",
+  "document_id": "265a466e-9887-4b4f-bedf-5fc1047c2f55",
+  "document_title": "AM.17.11.2014",
+  "tree_json": {
+    "doc_name": "AM-17-11-2014-2014",
+    "structure": [
+      {
+        "title": "AM.17.11.2014",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre I : Des dispositions g�n�rales",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : De la proc�dure",
+            "node_id": "0003",
+            "line_num": 121,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "line_num": 124
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "9ae02285-5075-4821-a8cf-c11814bf5139"
+    ],
+    "0004": [
+      "cbaa5fb9-0ff8-4b40-88f7-f9f0fc49f4ad"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:15.937755",
+  "article_count": 2,
+  "generation_time_s": 0.005046844482421875
+}

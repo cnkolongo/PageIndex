@@ -1,0 +1,177 @@
+{
+  "slug": "AM-046-17-12-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-046-17-12-2018-2018.json",
+  "document_id": "3bceaada-7f22-4f01-9044-e74a06a800a8",
+  "document_title": "AM.046.17.12.2018",
+  "tree_json": {
+    "doc_name": "AM-046-17-12-2018-2018",
+    "structure": [
+      {
+        "title": "AM.046.17.12.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.046.17.12.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nTout vendeur de produit ou\ntout prestataire de services, � l'exception des prestations offertes par\nl'exercice d'une profession lib�rale, est tenu d'informer le consommateur du\nprix ou du tarif, d'une mani�re visible, lisible et non �quivoque, par voie\nd'affichage, de marquage, d'�tiquetage eu par tout autre proc�d� appropri�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLa facture est �tablie\nsuivant une num�rotation ininterrompue, par ordre de dates, sans blancs,\nlacunes, ratures ni surcharges et les copies doivent �tre reli�es p�riodiquement\nau moins tous les mois.\nLa pr�sentation des factures\n� la demande de l'autorit� comp�tente est obligatoire.",
+            "line_num": 13
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nPeuvent tenir lieu de\nfactures, les bons de commande d�ment valoris�s remis au client au moment du\npaiement, ainsi que les bons de consommation remis au client par les h�teliers,\nrestaurateurs et tenanciers de d�bits de boissons, � condition qu'ils portent\ndes indications suffisantes pour permettre l'identification de l'op�ration. Ces\nbons devront porter l'indication du nom du vendeur et de la date.",
+            "line_num": 23
+          },
+          {
+            "title": "Chapitre III : Des",
+            "node_id": "0004",
+            "prefix_summary": "#### Chapitre III : Des",
+            "line_num": 33,
+            "nodes": [
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nLe vendeur est responsable du\nd�faut et des irr�gularit�s de la facture. La seule constatation de la violation\nd'une disposition l�gale ou r�glementaire implique dans le chef de son auteur,\nl'intention coupable.\n\ndispositions finales",
+                "line_num": 36
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nLes infractions au pr�sent\nArr�t� sont punies conform�ment aux peines pr�vues dans la Loi organique n�\n18/020 du 09 juillet 2018 relative � la libert� des prix et � la concurrence\nainsi qu'� ses mesures d'ex�cution.",
+                "line_num": 46
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nEst abrog� l'Arr�t� A.E./2 du\n24 janvier 1963 du Minist�re des Affaires Economiques et des Classes Moyennes\nrelatif � l'affichage des prix et l'�tablissement des factures.",
+                "line_num": 54
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nLe Secr�taire g�n�ral �\nl'Economie Nationale est charg� de l'ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa, le 27 d�cembre 2018.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 61
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0009",
+                "summary": "###### Article 2\n\nPour tous les produits\ngroup�s au m�me endroit faisant l'objet d'un prix identique, une seule mention\nde prix suffit.\nLorsque des prix de vente\nsont �tablis au poids ou � la mesure, l'unit� de base adopt�e doit �tre\nexpress�ment indiqu�e.",
+                "line_num": 75
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0010",
+                "summary": "###### Article 3\n\nLes �chantillons, mod�les et\nappareils de d�monstration, qui ne sont pas destin�s � la vente, doivent porter\nla mention apparente: ��chantillon, mod�le, appareil de d�monstration�, ou toute\nautre mention analogue.",
+                "line_num": 85
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0011",
+                "summary": "###### Article 4\n\nLes tarifs des prestations\npeuvent �tre �tablis � l'heure, � la distance, � forfait ou sur toute autre base\nobjective. La base adopt�e doit �tre express�ment indiqu�e.",
+                "line_num": 93
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0012",
+                "summary": "###### Article 5\n\nLorsque des services sont\nfournis dans des locaux sp�cialement affect�s � cet effet, les tarifs de\nprestation doivent y �tre affich�s d'une mani�re apparente.",
+                "line_num": 100
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II : De la facture",
+            "node_id": "0013",
+            "prefix_summary": "#### Chapitre II : De la facture",
+            "line_num": 107,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0014",
+                "summary": "###### Article 6\n\nLes tarifs des transporteurs\npublics et priv�s sont affich�s d'une mani�re apparente dans chaque v�hicule\nservant au transport de personnes ou de marchandises, ainsi que dans les locaux\nde l'entreprise.",
+                "line_num": 110
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0015",
+                "summary": "###### Article 7\n\nToute vente des produits\nainsi que toute prestation de service pour une activit� professionnelle font\nl'objet d'une facturation. La facture est d�livr�e d�s la r�alisation de la\nvente ou de la prestation de service.",
+                "line_num": 118
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0016",
+                "summary": "###### Article 8\n\nL'�tablissement et la remise\nd'une facture sont obligatoires pour toute vente de produits et pour toute\nprestation de service.\nL'acheteur r�clame la facture\nlorsqu'elle n'est pas spontan�ment remise ;",
+                "line_num": 126
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0017",
+                "summary": "###### Article 9\n\nLa facture indique le nom ou\nla raison sociale du vendeur, le si�ge social, le num�ro du Registre de Commerce\net du Cr�dit Mobilier, le num�ro d'identification nationale, le num�ro d'imp�t,\nle nom de l'acheteur ou du client, la date.\nElle donne toutes\nsp�cifications permettant d'identifier la marchandise vendue, la quantit�\nvendue, le prix unitaire, le total par article et le total de la vente pour un\nbien d'une part, la nature des prestations fournies le prix unitaire et la\nvaleur totale pour un service d'autre part. Les taxes, les remises, les rabais\net les ristournes accord�s y sont �galement indiqu�s.",
+                "line_num": 135
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "0653e319-6701-474a-b03b-c62a9045a512"
+    ],
+    "0002": [
+      "1fbf7c5e-1258-4a92-ba83-feb63803959d"
+    ],
+    "0003": [
+      "cb0cbd6f-aaa9-4855-95fb-5cff9c7aa7f5"
+    ],
+    "0005": [
+      "7d103d4b-1d7a-4355-968b-b78cec8a3e04"
+    ],
+    "0006": [
+      "c7bca485-a9db-46d7-b2bd-02dcb4008158"
+    ],
+    "0007": [
+      "631a6bff-e834-4831-8081-ac530c67c5c7"
+    ],
+    "0008": [
+      "8f760289-9a5d-4cf3-9fdb-e8f5f0688867"
+    ],
+    "0009": [
+      "a0fa94ca-c20a-4911-9237-7f19d0eaea35"
+    ],
+    "0010": [
+      "7115715b-4ada-41b8-828e-caea59a55169"
+    ],
+    "0011": [
+      "5c7e7356-aa15-4ea5-83b5-3d613f7ba271"
+    ],
+    "0012": [
+      "eac7e5f4-1644-454b-834e-c5d3503d9c53"
+    ],
+    "0014": [
+      "07a0e4cb-1b79-43af-b79f-9fe867b40ac1"
+    ],
+    "0015": [
+      "12187050-a9c0-4a40-abd7-5f9bec1d7c3a"
+    ],
+    "0016": [
+      "cfcf0eca-d23e-4fdc-b842-f1cbf66c5e23"
+    ],
+    "0017": [
+      "7080761a-4826-4c03-ba26-f8740f5de49a"
+    ]
+  },
+  "node_count": 18,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:20:04.921935",
+  "article_count": 15,
+  "generation_time_s": 0.16186809539794922
+}

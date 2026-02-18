@@ -18,17 +18,22 @@ from pathlib import Path
 from types import SimpleNamespace as config
 
 CHATGPT_API_KEY = os.getenv("CHATGPT_API_KEY")
+CHATGPT_BASE_URL = os.getenv("CHATGPT_BASE_URL", "https://api.openai.com/v1")
 
 def count_tokens(text, model=None):
     if not text:
         return 0
-    enc = tiktoken.encoding_for_model(model)
+    try:
+        enc = tiktoken.encoding_for_model(model)
+    except KeyError:
+        # Fallback for models not recognized by tiktoken (e.g. DeepSeek)
+        enc = tiktoken.get_encoding("cl100k_base")
     tokens = enc.encode(text)
     return len(tokens)
 
-def ChatGPT_API_with_finish_reason(model, prompt, api_key=CHATGPT_API_KEY, chat_history=None):
+def ChatGPT_API_with_finish_reason(model, prompt, api_key=CHATGPT_API_KEY, base_url=CHATGPT_BASE_URL, chat_history=None):
     max_retries = 10
-    client = openai.OpenAI(api_key=api_key)
+    client = openai.OpenAI(api_key=api_key, base_url=base_url)
     for i in range(max_retries):
         try:
             if chat_history:
@@ -58,9 +63,9 @@ def ChatGPT_API_with_finish_reason(model, prompt, api_key=CHATGPT_API_KEY, chat_
 
 
 
-def ChatGPT_API(model, prompt, api_key=CHATGPT_API_KEY, chat_history=None):
+def ChatGPT_API(model, prompt, api_key=CHATGPT_API_KEY, base_url=CHATGPT_BASE_URL, chat_history=None):
     max_retries = 10
-    client = openai.OpenAI(api_key=api_key)
+    client = openai.OpenAI(api_key=api_key, base_url=base_url)
     for i in range(max_retries):
         try:
             if chat_history:
@@ -86,12 +91,12 @@ def ChatGPT_API(model, prompt, api_key=CHATGPT_API_KEY, chat_history=None):
                 return "Error"
             
 
-async def ChatGPT_API_async(model, prompt, api_key=CHATGPT_API_KEY):
+async def ChatGPT_API_async(model, prompt, api_key=CHATGPT_API_KEY, base_url=CHATGPT_BASE_URL):
     max_retries = 10
     messages = [{"role": "user", "content": prompt}]
     for i in range(max_retries):
         try:
-            async with openai.AsyncOpenAI(api_key=api_key) as client:
+            async with openai.AsyncOpenAI(api_key=api_key, base_url=base_url) as client:
                 response = await client.chat.completions.create(
                     model=model,
                     messages=messages,
@@ -410,8 +415,11 @@ def add_preface_if_needed(data):
 
 
 
-def get_page_tokens(pdf_path, model="gpt-4o-2024-11-20", pdf_parser="PyPDF2"):
-    enc = tiktoken.encoding_for_model(model)
+def get_page_tokens(pdf_path, model="deepseek-chat", pdf_parser="PyPDF2"):
+    try:
+        enc = tiktoken.encoding_for_model(model)
+    except KeyError:
+        enc = tiktoken.get_encoding("cl100k_base")
     if pdf_parser == "PyPDF2":
         pdf_reader = PyPDF2.PdfReader(pdf_path)
         page_list = []
@@ -530,10 +538,10 @@ def remove_structure_text(data):
     return data
 
 
-def check_token_limit(structure, limit=110000):
+def check_token_limit(structure, limit=110000, model=None):
     list = structure_to_list(structure)
     for node in list:
-        num_tokens = count_tokens(node['text'], model='gpt-4o')
+        num_tokens = count_tokens(node['text'], model=model if model else 'gpt-4o')
         if num_tokens > limit:
             print(f"Node ID: {node['node_id']} has {num_tokens} tokens")
             print("Start Index:", node['start_index'])

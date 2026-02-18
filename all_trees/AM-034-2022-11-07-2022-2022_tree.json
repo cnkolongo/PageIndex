@@ -1,0 +1,352 @@
+{
+  "slug": "AM-034-2022-11-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-034-2022-11-07-2022-2022.json",
+  "document_id": "7e45ba62-67f4-43a4-b2cf-e7fedc9c7491",
+  "document_title": "AM.034.2022.11.07.2022",
+  "tree_json": {
+    "doc_name": "AM-034-2022-11-07-2022-2022",
+    "structure": [
+      {
+        "title": "AM.034.2022.11.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.034.2022.11.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� fixe les\nconditions et proc�dures d'homologation obligatoire des �quipements terminaux et\ninstallations radio�lectriques ainsi que de leur contr�le.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial document outlines the application process for obtaining homologation (official approval) for terminal equipment or radio equipment. It specifies that applicants must submit an administrative and technical dossier to the regulatory authority. The required documents include a completed application form, identification documents for the applicant, details of the equipment, applicable technical specifications, technical documentation, possibly a sample of the equipment, proof of payment for non-refundable study fees, and a document stating the equipment's cost or CIF value. It also states that incomplete applications will not be considered and will be returned to the applicant with a note of the missing elements.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLa demande d'homologation est\nr�dig�e en fran�ais et adress�e � l'Autorit� de r�gulation en deux exemplaires.\nLes �l�ments techniques constitutifs de la demande peuvent �tre en fran�ais ou\nen anglais lors du d�p�t du dossier de la demande, l'Autorit� de r�gulation\nd�livre un accus� de r�ception.",
+            "line_num": 46
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLa d�cision de l'Autorit� de\nr�gulation d'octroi de l'homologation intervient dans un d�lai maximum d'un mois\n� compter de la date du d�p�t du dossier complet.\nTout dossier non retenu est\nrejet� et notification motiv�e en est faite � l'int�ress� par l'Autorit� de\nr�gulation.",
+            "line_num": 55
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nPour les demandes\nd'homologation ou d'importation de certains �quipements terminaux ou\ninstallations radio�lectriques, il peut s'av�rer n�cessaire de solliciter l'avis\nde certaines autorit�s administratives comp�tentes. Dans ce cas, l'Autorit� ne\nse prononcera qu'apr�s l'avis de ces autorit�s.",
+            "line_num": 65
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "This partial document specifies the contents and issuance process of a certification of homologation (approval/type approval) granted by the Regulatory Authority.\n\nMain points covered:\n1.  The conditions for issuing the certificate: approval must be granted, and proof of payment of public treasury fees must be presented.\n2.  The mandatory information to be included on the certificate: date of approval, applicant's details, reference of the terminal equipment or radio installation, and the homologation reference number.\n3.  The inclusion of the reference technical homologation specifications upon which the equipment was approved, particularly if declared against national technical specifications.\n4.  The obligation for the Regulatory Authority to regularly update the list of approved equipment on its website.",
+            "line_num": 74
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nL'homologation de\nl'�quipement terminal ou de l'installation radio�lectrique est accord�e pour une\ndur�e de cinq (5) ans. Elle vaut pour un type et mod�le d��quipement terminal ou\ninstallation radio�lectrique et est valable pour toute unit� de ce type\ncorrespondant aux conditions fix�es par le pr�sent Arr�t�.",
+            "line_num": 93
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "The partial document covers the conditions and procedures for obtaining a temporary admission for unauthorized terminal equipment or radio installations. It specifies that such equipment can be imported for purposes like exhibition, research, testing, demonstration, or temporary use. The required documents for application include a request addressed to the Regulatory Authority, a completed physical or online form, and a technical brochure identifying the equipment's interfaces. The duration of the admission is set at six months, with the possibility of an extension not exceeding three months. The authorization is granted via a temporary admission certificate, which does not replace the homologation certificate.",
+            "line_num": 102
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0009",
+            "summary": "###### Article 17\n\nL'importation temporaire dans\nle cadre de voyage d'affaire ou de tourisme pour un usage � titre personnel non\ncommercial, l'importation par des particuliers, � titre personnel en quantit�\nunique, du mat�riel de t�l�communications et des TIC non homologu� est permise\nIl s'agit notamment de :\n� T�l�phone portable ;\n� R�pondeur ;\n� T�l�copieur ;\n� Poste t�l�phonique ;\n� Modem int�gr� � un\nordinateur.",
+            "line_num": 126
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0010",
+            "prefix_summary": "#### Chapitre\nIV : Du retrait du certificat d'homologation",
+            "line_num": 141,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nL'Autorit� de r�gulation\nprend des mesures n�cessaires pour faciliter l'admission temporaire des\n�quipements et des installations radio�lectriques pour les op�rations de secours\nlors des situations d'urgence, de d�tresse et de catastrophe.",
+                "line_num": 145
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0012",
+                "summary": "###### Article 19\n\nL'Autorit� de r�gulation\npeut, sur d�cision motiv�e, retirer l'homologation � tout mat�riel qui ne r�pond\nplus aux conditions d'exploitation du r�seau public.\nL'homologation peut �galement\n�tre retir�e lorsque le mat�riel est � l'origine des perturbations sur le\nr�seau.\nLe retrait de l'homologation\nest effectif � l'expiration d'un d�lai d'un (1) mois � partir de la notification\nde cette d�cision au constructeur ou � son repr�sentant.",
+                "line_num": 153
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0013",
+                "summary": "This partial document is a section (Article 2) of an official regulatory decree or order. Its main purpose is to provide the official definitions for key terms used within the document. It defines several core concepts related to telecommunications and ICT regulation, including the regulatory authority itself, the relevant law, the process of equipment homologation (certification), and specific types of equipment (terminal equipment and radio installations). The definitions establish precise legal and technical meanings for terms like \"Autorité de régulation,\" \"Homologation des équipements,\" \"Équipement terminal,\" \"Installation radioélectrique,\" and \"Vignette.\" This section serves as a glossary to ensure consistent interpretation of the regulations.",
+                "line_num": 166
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V : Du",
+            "node_id": "0014",
+            "prefix_summary": "#### Chapitre V : Du",
+            "line_num": 195,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0015",
+                "summary": "###### Article 20\n\nLorsque les contr�les op�r�s\nfont appara�tre que les �quipements produits ou commercialis�s ne sont pas\nconformes au type qui a fait l'objet de l'homologation, ou lorsque les contr�les\nop�r�s font appara�tre que les �quipements produits ou commercialis�s ne\nrespectent pas les exigences essentielles qui leur sont applicables,\nl'homologation est retir�e de plein droit par l'Autorit� de r�gulation.\n\ncontr�le",
+                "line_num": 198
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0016",
+                "summary": "###### Article 21\n\nConform�ment � ses missions,\nl'Autorit� de r�gulation est charg�e de contr�ler le respect des normes\nd'homologation des �quipements terminaux et installations radio�lectriques.\nLes agents asserment�s de\nl'Autorit� de r�gulation sont habilit�s � constater les infractions en mati�re\nd'homologation et � proc�der � la saisie des �quipements terminaux et\ninstallations radio�lectriques non homologu�s selon les proc�dures �tablies.",
+                "line_num": 210
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI",
+            "node_id": "0017",
+            "prefix_summary": "#### Chapitre VI",
+            "line_num": 221,
+            "nodes": [
+              {
+                "title": "Article 22",
+                "node_id": "0018",
+                "summary": "###### Article 22\n\nAu niveau des fronti�res, les\nop�rations de d�douanement s�effectuent sur pr�sentation du certificat\nd�homologation. Cependant, les contr�les � l'importation s�effectuent par\nl�Autorit� de r�gulation, soit aux fronti�res nationales, soit aux lieux de\nd�douanement ou encore dans les d�p�ts, lieux de stockage ou de distribution.\n. Des dispositions\nparticuli�res",
+                "line_num": 224
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0019",
+                "summary": "This partial document outlines the conditions under which a definitive import authorization can be granted for telecommunications terminal equipment. It specifies that this is for exclusive use and requires equipment to comply with national or international standards.\n\nThe main points covered are:\n1.  **Eligible Entities:** The authorization can be granted to specific types of organizations, including educational/research institutions, public administrations, defense/security/government departments, and diplomatic/regional/international bodies.\n2.  **Application Process:** Eligible entities need only submit a simple request specifying the equipment's brand and type, accompanied by technical documentation.\n3.  **Regulator's Right:** The Regulatory Authority reserves the right to conduct tests on the equipment before making a decision on the application, if it deems it necessary.",
+                "line_num": 235
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII : Des sanctions",
+            "node_id": "0020",
+            "prefix_summary": "#### Chapitre VII : Des sanctions",
+            "line_num": 255,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0021",
+                "summary": "###### Article 24\n\nLe certificat d'homologation\ntemporaire ne constitue pas un titre qui autorise la fourniture de services des\nT�l�communications et de Technologies de l'Information et de la Communication ou\nd'utilisation des fr�quences radio�lectriques.",
+                "line_num": 258
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0022",
+                "summary": "###### Article 25\n\nNul ne peut commercialiser,\ndistribuer ni fournir des appareils non homologu�s sous peine d'amende, de\nsaisie ou de mise sous scell� des appareils concern�s.\nTout �quipement ne portant\npas de marquage prouvant sa conformit� aux sp�cifications techniques\nd'homologation nationales, est consid�r� comme non homologu�.",
+                "line_num": 266
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0023",
+                "summary": "###### Article 26\n\nLorsque les dispositions du\npr�sent Arr�t� ne sont pas respect�es ou s'il est constat� des modifications ou\ndes violations aux �l�ments techniques contenus dans le certificat\nd'homologation, l'Autorit� de r�gulation peut prononcer les sanctions pr�vues\npar la r�glementation en vigueur.",
+                "line_num": 276
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VIII : Des",
+            "node_id": "0024",
+            "prefix_summary": "#### Chapitre VIII : Des",
+            "line_num": 285,
+            "nodes": [
+              {
+                "title": "Article 27",
+                "node_id": "0025",
+                "summary": "###### Article 27\n\nEn cas de manquement d�ment\nconstat�, l'Autorit� de r�gulation met en demeure le contrevenant de se\nconformer aux dispositions r�glementaires en vigueur. Lorsque le contrevenant ne\nse conforme pas � la mise en demeure dans un d�lai minimum de deux (2) semaines,\nil est passible des sanctions pr�vues par la r�glementation en vigueur.\n\ndispositions finales",
+                "line_num": 288
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0026",
+                "summary": "###### Article 28\n\nLes certificats\nd'homologation d�livr�s avant la date de signature du pr�sent Arr�t� conservent\nleur validit�.",
+                "line_num": 299
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0027",
+                "summary": "###### Article 29\n\nSont abrog�es toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+                "line_num": 306
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0028",
+                "summary": "###### Article 3\n\nEst soumis � l'homologation\npr�alable de l'Autorit� de r�gulation, tout �quipement terminal import� ou\nfabriqu� sur le territoire national et toute installation radio�lectrique.",
+                "line_num": 312
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0029",
+                "summary": "###### Article 30\n\nLe pr�sident du coll�ge de\nl'Autorit� de r�gulation ainsi que le Secr�taire g�n�ral des Postes,\nT�l�communications et Nouvelles Technologies de l�Informations et de la\nCommunication sont charg�s chacun en ce qui le concerne de l'ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 11\njuillet 2022.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 319
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0030",
+                "summary": "This partial document outlines the purpose and scope of a homologation (type approval/certification) process for radio equipment and installations. The main points covered are:\n\n1.  The objective of homologation is to ensure compliance with essential requirements, national standards, and interoperability.\n2.  It lists the specific essential requirements, which concern:\n    *   Health and safety of persons.\n    *   Electromagnetic compatibility.\n    *   Efficient use of the radio spectrum and prevention of harmful interference.\n    *   Environmental protection, urban planning, and land use objectives.\n    *   Protection of networks and associated control/management information.\n    *   Interoperability of services and equipment, including fraud prevention and access to emergency services.",
+                "line_num": 336
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0031",
+                "summary": "###### Article 5\n\nL'homologation de tout\n�quipement terminal et installation radio�lectrique doit �tre demand�e tant pour\nsa fabrication ou son montage pour le march� int�rieur, son importation, sa\nd�tention que pour sa mise en vente, sa distribution � titre gratuit ou on�reux\net la publicit� dont il peut faire l�objet lorsque cette derni�re s'adresse\nsp�cifiquement � la R�publique D�mocratique du Congo.\nTout �quipement terminal ou\ninstallation radio�lectrique homologu� ayant subi post�rieurement des\nmodifications de caract�ristiques techniques doit �tre soumis � une nouvelle\nhomologation, conform�ment aux dispositions du pr�sent Arr�t�.",
+                "line_num": 365
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0032",
+                "summary": "###### Article 6\n\nNe sont pas soumis �\nl'homologation, tous les �quipements terminaux et installations �num�r�s dans la\nliste suivante :\n� Installations\nradio�lectriques exclusivement compos�es d'appareils de faible puissance et de\nfaible port�e ;\n� Installations\nservant uniquement � la r�ception de programmes de radio et t�l�vision ;\n� Equipements et\ninstallations r�pertori�s sur une liste pour les besoins de la d�fense nationale\net de la s�curit� publique.",
+                "line_num": 379
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II : Des r�gimes",
+            "node_id": "0033",
+            "prefix_summary": "#### Chapitre II : Des r�gimes",
+            "line_num": 394,
+            "nodes": [
+              {
+                "title": "Article 7",
+                "node_id": "0034",
+                "summary": "###### Article 7\n\nL�homologation des\n�quipements terminaux peut �tre demand�e par le fabricant de l��quipement, son\nrepr�sentant local dument mandat� ou par toute personne d�sirant commercialiser\nou utiliser � titre priv�, un �quipement terminal ou une installation\nradio�lectrique. Elle est requise lorsque cet �quipement terminal ou\nl�installation radio �lectrique n�a jamais �t� homologu� ou � l�expiration du\ncertificat d�homologation pr�c�dent.\n\nd'homologation",
+                "line_num": 397
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0035",
+                "summary": "The partial document defines two authorization regimes for telecommunications equipment: a declarative regime for devices compliant with international standards (ETSI/ANSI, bearing CE/FCC marking), and a non-declarative regime for devices with interfaces not meeting those standards. It details that the regulatory authority designates qualified, independent laboratories to perform conformity tests, publishes a list of these labs, and allows applicants to choose from it. Applicants bear the testing costs. The authority may also validate test results from foreign laboratories whose markets have similar essential requirements.",
+                "line_num": 410
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : De la",
+            "node_id": "0036",
+            "prefix_summary": "#### Chapitre III : De la",
+            "line_num": 449,
+            "nodes": [
+              {
+                "title": "Article 9",
+                "node_id": "0037",
+                "summary": "###### Article 9\n\nTout �quipement terminal\nhomologu� doit faire l'objet d'un marquage obligatoire, pr�alablement � sa\ncommercialisation ou � son installation, par une vignette inamovible physique ou\n�lectronique fournie par l'Autorit� de r�gulation.\n\nproc�dure d'homologation",
+                "line_num": 452
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a562ae87-43ed-4f30-8be6-4b05e0343130"
+    ],
+    "0002": [
+      "66b487fd-f55f-4aca-93a8-4a65eade2ad3"
+    ],
+    "0003": [
+      "410c4b9a-7c7b-494a-9641-783191e4caa9"
+    ],
+    "0004": [
+      "4b97c29d-786e-4552-8394-5b269da8b67c"
+    ],
+    "0005": [
+      "4c38347d-fbce-4ff0-8663-6093b1f6bfdc"
+    ],
+    "0006": [
+      "fdcb1026-1f60-479a-908f-dc005cffe66b"
+    ],
+    "0007": [
+      "48675c11-b5a4-4b0a-9c5d-fda54951c2ca"
+    ],
+    "0008": [
+      "98d6f6b8-ce88-4556-b14e-72e8ccfab7bf"
+    ],
+    "0009": [
+      "72443650-7ba9-40de-83ce-7c4eb41a537e"
+    ],
+    "0011": [
+      "0f10a5d6-98fd-4238-8f81-ae39277273ba"
+    ],
+    "0012": [
+      "4ea07efd-d052-49a6-a716-b7421d50531a"
+    ],
+    "0013": [
+      "899dbbb0-76b3-4e10-880f-0295efb22c54"
+    ],
+    "0015": [
+      "f9a1b6b3-3d22-42f6-b31b-7a1ac7874528"
+    ],
+    "0016": [
+      "5ef43dcf-9ead-4087-b34b-8b0aaa9e9a18"
+    ],
+    "0018": [
+      "21fe6975-63f5-40d4-a04e-a771cc82c272"
+    ],
+    "0019": [
+      "6c679c6b-4829-4231-bd64-24962ca4108f"
+    ],
+    "0021": [
+      "6ca320ed-c8c6-4a82-8cec-5fb831893add"
+    ],
+    "0022": [
+      "d12dcf46-a9fa-49cb-b01a-feb49cfa4996"
+    ],
+    "0023": [
+      "78a86826-865d-4bc9-9db0-4e0882118763"
+    ],
+    "0025": [
+      "4bdb6145-0901-43e8-b844-fa87ccbe560b"
+    ],
+    "0026": [
+      "2cfea1b9-63b6-4484-b09c-35e1690373b4"
+    ],
+    "0027": [
+      "c5a12f48-94d4-4248-a3d1-9ed603577c36"
+    ],
+    "0028": [
+      "794fe91a-75a6-4b4d-92ec-dae92a34873e"
+    ],
+    "0029": [
+      "68bad489-198a-44de-889b-74c2c181150c"
+    ],
+    "0030": [
+      "77494f3d-d604-49f0-97b1-edbd2a5e51d5"
+    ],
+    "0031": [
+      "b70c8813-769a-4c6c-8b64-7a567f6f9f9c"
+    ],
+    "0032": [
+      "a7cddee2-ad4b-4d78-9834-b8fa58df4f35"
+    ],
+    "0034": [
+      "373d782b-849a-48ea-ab77-d7ff72005cc5"
+    ],
+    "0035": [
+      "ccf2f774-74a9-4527-9fb1-5e15339f7589"
+    ],
+    "0037": [
+      "4b0e75b6-fbaa-474c-b76b-cfe94a77531f"
+    ]
+  },
+  "node_count": 38,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:19:54.325420",
+  "article_count": 30,
+  "generation_time_s": 20.981990814208984
+}

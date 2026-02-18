@@ -1,0 +1,130 @@
+{
+  "slug": "AD-15-03-1982-1982",
+  "bundle_path": "backups/all_bundles/code/AD-15-03-1982-1982.json",
+  "document_id": "fddb1c41-5964-417e-aded-f2d81f10c69a",
+  "document_title": "AD.15.03.1982",
+  "tree_json": {
+    "doc_name": "AD-15-03-1982-1982",
+    "structure": [
+      {
+        "title": "AD.15.03.1982",
+        "node_id": "0000",
+        "prefix_summary": "# AD.15.03.1982",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nARR�T� D�PARTEMENTAL 00049/BCE/ AGRIDRAL/82 du 15 mars 1982 portant\nmesures d�ex�cution de l�ordonnance 79-059 du 7 mars 1979, portant statut d�une\nentreprise publique d�nomm�e Office za�rois du caf�, en abr�g� �Ozacaf�.\n(J.O.Z., no3, 1er f�vrier 1983, p. 56)\ner",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "This partial document outlines the eligibility criteria and application process for obtaining official approval (agrément) to be an exporter or buyer of Zairian coffee. The main points covered are:\n\n1.  **Conditions for Exporters:** To be approved, an exporter must own at least 200 hectares of productive coffee plantations and have exported at least 500 tons of export-quality coffee in the previous year. Planters who do not meet these conditions must export through the official board (Ozacaf) or an approved exporter.\n\n2.  **Conditions for Buyers:** An approved buyer must possess a coffee drying/decorticating factory and own at least 50 hectares of productive coffee plantations within their designated purchasing area, as determined by Ozacaf.\n\n3.  **Application & Approval Process:** Applications are submitted to Ozacaf, which forwards them with a report to a special commission appointed by the State Commissioner for Agriculture. Final approval is signed by the President-Delegue General of Ozacaf upon the commission's instruction.\n\n4.  **Appeals:** Any appeals regarding the approval must be addressed to the State Commissioner for Agriculture and Rural Development.",
+                "line_num": 16
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0004",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 43,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "###### Article S3",
+                "line_num": 46
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0006",
+                "summary": "###### Article S4\n\nDE LA DISTRIBUTION DES TIMBRES O.I.C.\nArt. 6. � La distribution des timbres pour l�exportation du caf� est assur�e par\nune commission sp�ciale, dont les membres sont nom- m�s par un arr�t� du\ncommissaire d��tat � l�Agriculture et au D�ve- loppement rural.",
+                "line_num": 49
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0007",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 57,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0008",
+                "summary": "###### Article S5",
+                "line_num": 60
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0009",
+                "summary": "###### Article S6\n\nDE L�EXPORTATION\nArt. 7. � Tout caf� za�rois pr�sent� � l�exportation doit, outre le certificat\nde qualit� �mis par l�Ozacaf porter un visa de contr�le de qualit� d�livr� par\nl�Ozac. Les conditions d�organisation de ce con- tr�le seront d�termin�es par un\narr�t� du commissaire d��tat � l�Agriculture et au D�veloppement rural.\nArt. 8. � Les exportations du caf� sont autoris�es d�sormais, � l�ouest � partir\ndes ports de Boma et Matadi, et � l�est � partir des pos- tes frontaliers de\nGoma, Kalundu, Mahagi, Aba, Kasindi et Ishash.",
+                "line_num": 63
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0010",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 75,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "###### Article S7",
+                "line_num": 78
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0012",
+                "summary": "The partial document covers articles 9 through 14 of a legal text regarding the \"Fonds de développement et de promotion du café zaïrois\" (Development and Promotion Fund for Zairian Coffee). The main points defined are: the fund's purpose to cover specific activities outlined in a prior ordinance; its additional objectives of financing laboratory control equipment and guaranteeing price stabilization; its funding source (a 2% levy on repatriation value and other resources); its joint management by the Zairian state and private companies; the determination of its management modalities by a state commissioner; and the publication date for a finalized list of approved buyers and exporters.",
+                "line_num": 81
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "3f1513ad-4026-47ce-ba45-a961e38d91c0"
+    ],
+    "0003": [
+      "6b1cfc53-723d-4514-97ff-dd93d2df6329"
+    ],
+    "0005": [
+      "0f5b2b1b-ef5d-4b94-980e-f8089e6e5ea7"
+    ],
+    "0006": [
+      "7272bb13-20a4-46ad-a4d3-23c56d243f9e"
+    ],
+    "0008": [
+      "6524d4e9-c532-47ce-8275-e43860d15216"
+    ],
+    "0009": [
+      "3169f2b4-a9ee-4534-b9b4-551df4229153"
+    ],
+    "0011": [
+      "1ea9a15c-2b85-4241-a8bc-d2e7f873b3ce"
+    ],
+    "0012": [
+      "d03970a5-fa70-47dc-977d-ae45b23f7eef"
+    ]
+  },
+  "node_count": 13,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:29:46.602624",
+  "article_count": 8,
+  "generation_time_s": 13.278584241867065
+}

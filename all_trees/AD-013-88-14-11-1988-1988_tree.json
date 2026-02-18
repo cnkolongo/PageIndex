@@ -1,0 +1,116 @@
+{
+  "slug": "AD-013-88-14-11-1988-1988",
+  "bundle_path": "backups/all_bundles/code/AD-013-88-14-11-1988-1988.json",
+  "document_id": "0fc7df36-f7a5-461d-b28a-5c1d197b6c7b",
+  "document_title": "AD.013.88.14.11.1988",
+  "tree_json": {
+    "doc_name": "AD-013-88-14-11-1988-1988",
+    "structure": [
+      {
+        "title": "AD.013.88.14.11.1988",
+        "node_id": "0000",
+        "prefix_summary": "# AD.013.88.14.11.1988",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLes pr�sidents\nr�gionaux du M.P.R., gouverneurs de r�gion, le pr�sident r�gional du M.P.R.,\ngouverneur de la ville de Kinshasa et le secr�taire g�n�ral du d�partement de\nl'Urbanisme et de l'Habitat sont charg�s, chacun en ce qui le concerne, de\nl'ex�cution du pr�sent arr�t�, qui entre en vigueur � la date de sa signature.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\nIl est cr��  une\ncommission urbaine et une commission r�gionale d'autorisation de b�tir, charg�e\nde statuer sur les demandes d�autorisation de b�tir dont  est saisi le chef de\ndivision r�gionale et urbaine de l'urbanisme et de l'habitat et de donner son\navis sur chaque dossier � soumettre au pr�sident r�gional du Mouvement populaire\nde la r�volution, gouverneur de r�gion ou au pr�sident r�gional du Mouvement\npopulaire de la r�volution, gouverneur de la ville de Kinshasa, selon le cas.",
+            "line_num": 18
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nL'avis de la\ncommission se substitue � ceux �mis habituellement  par les diff�rents services\nconsult�s.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "This partial document, Article 3, defines the fixed composition of a commission. It lists the members by their official titles or roles, specifying who shall serve as President, Vice-President, Secretary, and regular members. The members are primarily regional or urban division heads from key administrative areas such as urban planning, environment, public works, public health, and energy, along with a land title conservator. It also includes provisions for the regional governor to appoint two additional personalities based on their qualifications or experience in urban planning and construction.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nLa commission\npeut entendre toutes personnes susceptibles  de l'informer utilement sur les\nprojets soumis � son examen et, notamment, le commissaire de zone de l'entit�\nadministrative concern�e.",
+            "line_num": 66
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nLa commission se\nr�unit, sur convocation de son pr�sident, une fois par mois. L'ordre du jour est\narr�t� par le pr�sident, sur proposition du chef de division urbaine ou\nr�gionale de l'urbanisme et de l'habitat.\nIl peut �tre tenu\ndes r�unions extraordinaires sur convocation du pr�sident de la commission qui,\nen cas d�emp�chement, peut �tre remplac� par le directeur de r�gion.",
+            "line_num": 74
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nLe secr�tariat de\nla commission est assur� par le chef de division r�gionale ou urbaine de\nl'urbanisme et de l'habitat qui a voix d�lib�rative comme les autres membres de\nla commission.",
+            "line_num": 85
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nUn r�glement\nd'ordre int�rieur est �tabli par la commission pour son bon fonctionnement.",
+            "line_num": 93
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLes s�ances de la\ncommission font l'objet d'un proc�s-verbal dont un exemplaire est adress� � la\ndirection de l'urbanisme, dans les huit jours de la tenue de la s�ance.",
+            "line_num": 99
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nSont abrog�es,\ntoutes les dispositions ant�rieures contraires au pr�sent arr�t�.",
+            "line_num": 106
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e8e15519-71dd-4daf-a8e1-f023d5dd1b6b"
+    ],
+    "0002": [
+      "334eb54c-1275-4006-86d2-6c82b4b281e3"
+    ],
+    "0003": [
+      "5525176b-771c-44ff-b6c9-7d0177aa08e4"
+    ],
+    "0004": [
+      "f2f2fab0-3976-4fb2-afa1-41a9802cfa11"
+    ],
+    "0005": [
+      "1a30e0ca-b724-4588-98e4-f029217c97fc"
+    ],
+    "0006": [
+      "ee747771-42f9-4aab-bfab-dd79a960d140"
+    ],
+    "0007": [
+      "209d34fc-5690-4181-8b9d-5887b65e9ee6"
+    ],
+    "0008": [
+      "fc0dd3fb-a677-4579-bae7-b546ced5ef04"
+    ],
+    "0009": [
+      "726a83f0-4802-4948-a3d5-c4e160b20e51"
+    ],
+    "0010": [
+      "dc2ce76e-5cb1-4bcf-bdb3-d7f455290e61"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:34:00.359225",
+  "article_count": 10,
+  "generation_time_s": 7.5522780418396
+}

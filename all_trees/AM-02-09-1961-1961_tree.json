@@ -1,0 +1,250 @@
+{
+  "slug": "AM-02-09-1961-1961",
+  "bundle_path": "backups/all_bundles/code/AM-02-09-1961-1961.json",
+  "document_id": "cd4d7b09-d7e2-498d-b59f-4fabfc25e138",
+  "document_title": "AM.02.09.1961",
+  "tree_json": {
+    "doc_name": "AM-02-09-1961-1961",
+    "structure": [
+      {
+        "title": "AM.02.09.1961",
+        "node_id": "0000",
+        "prefix_summary": "# AM.02.09.1961",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�\n2 septembre 1961. �\nARR�T� MINIST�RIEL. � Postes diplomatiques. � Organisation et fonctionnement.",
+            "line_num": 4
+          },
+          {
+            "title": "CHAPITRE V",
+            "node_id": "0002",
+            "prefix_summary": "#### CHAPITRE V",
+            "line_num": 11,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "###### Article S10",
+                "line_num": 14
+              },
+              {
+                "title": "Section I",
+                "node_id": "0004",
+                "prefix_summary": "##### Section I",
+                "line_num": 17,
+                "nodes": [
+                  {
+                    "title": "Article S11",
+                    "node_id": "0005",
+                    "summary": "This partial document covers regulations for record-keeping and archives within a diplomatic or consular post (specifically referenced as \"congolais\" or Congolese). The main points are:\n\n1.  **Definition and Scope of Archives:** Defines archives as primarily handwritten or typed documents, with printed documents rarely included.\n2.  **Physical Security and Storage:** Mandates that archive pieces must not leave the post's offices (with limited exceptions) and must be stored separately from personal papers. Special rules apply for classified/secret documents, codes, and specific vital registers (notarial, civil status), for which the post chief bears direct responsibility.\n3.  **Filing System:** Requires each matter to have a distinct, numbered file with a title. Files must remain complete and unified. Large files should have a content summary.\n4.  **Correspondence Procedures:** Establishes rules for numbering diplomatic correspondence (using annual indicator and special order numbers), referencing previous communications, and clearly noting the subject and number of annexes on each letter.\n5.  **Miscellaneous Rules:** Includes guidelines for handling annexes (including translations for foreign language documents) and procedures for announcing shipments to the foreign affairs department.",
+                    "line_num": 20
+                  }
+                ]
+              },
+              {
+                "title": "Section IV",
+                "node_id": "0006",
+                "prefix_summary": "##### Section IV",
+                "line_num": 130,
+                "nodes": [
+                  {
+                    "title": "Article S12",
+                    "node_id": "0007",
+                    "summary": "This partial document outlines administrative and archival procedures for diplomatic posts (embassies and legations). It covers regulations for correspondence, document handling, and inventory management.\n\nThe main points include:\n*   **Correspondence Procedures:** Rules for sending documents to the central administration, including requirements for copies (especially for important Political and Economic Affairs), paper type (\"Propatria\"), and proper headings.\n*   **Document Registration & Archiving:** Mandates for posts to keep originals and copies of all official dispatches, organized in special binders. It details the maintenance of a master register (\"registre indicateur\") to log all incoming and outgoing correspondence with specific data points (dates, sender/recipient, subject, file numbers).\n*   **Inventory Requirements:** Instructions for creating a detailed, two-part inventory upon the post's establishment. The first part must list all archives and publications, while the second part catalogs state-owned furniture and equipment, noting their condition and acquisition details. A certified copy of this initial inventory must be sent to the Foreign Affairs Department.",
+                    "line_num": 133
+                  }
+                ]
+              },
+              {
+                "title": "Section V",
+                "node_id": "0008",
+                "prefix_summary": "##### Section V",
+                "line_num": 270,
+                "nodes": [
+                  {
+                    "title": "Article S13",
+                    "node_id": "0009",
+                    "summary": "This partial document covers regulations for managing state property, archives, and assets at diplomatic or consular posts. The main points include: maintaining and updating an annual inventory; procedures for binding and marking state-owned books; and detailed protocols for the handover of archives, equipment, and funds during a change of post head, whether due to transfer, temporary absence, death, or post closure. It emphasizes formal verification, signed documentation, and the strict requirement that archives must never be abandoned or destroyed without explicit ministerial authorization.",
+                    "line_num": 273
+                  }
+                ]
+              },
+              {
+                "title": "Section VI",
+                "node_id": "0010",
+                "prefix_summary": "##### Section VI",
+                "line_num": 368,
+                "nodes": [
+                  {
+                    "title": "Article S14",
+                    "node_id": "0011",
+                    "summary": "This partial document outlines procedures for the management and transfer of archives, materials, and supplies for diplomatic posts. The main points covered are:\n\n1.  **Transfer of Archives and Materials:** It specifies the requirement for detailed inventories (in duplicate or triplicate) when transferring archives and materials, either to the Foreign Affairs department or between posts. Procedures for signing, receiving, and distributing copies of these inventories are detailed.\n\n2.  **Disposal of Obsolete Archives and Publications:** It establishes a controlled process for destroying outdated or secondary papers, requiring prior authorization from the Minister of Foreign Affairs. For obsolete books and publications, diplomatic post heads may donate them to a public library or otherwise dispose of them, but must first report their intentions to the Minister.\n\n3.  **Use of Office Supplies:** It states that office supplies for chancelleries are strictly for official correspondence and work related to the agents' mission. The use of official stationery for private correspondence is explicitly prohibited for all staff.\n\n4.  **Penalties:** It notes that agents who fail to comply with these regulations are subject to both criminal penalties (as per the penal code) and disciplinary sanctions.",
+                    "line_num": 371
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VI",
+            "node_id": "0012",
+            "prefix_summary": "#### CHAPITRE VI",
+            "line_num": 432,
+            "nodes": [
+              {
+                "title": "Article S15",
+                "node_id": "0013",
+                "summary": "###### Article S15",
+                "line_num": 435
+              },
+              {
+                "title": "Article S16",
+                "node_id": "0014",
+                "summary": "This partial document outlines inspection protocols for diplomatic posts, specifying an inspector's duties regarding personnel, operations, and property management abroad, and assigns execution authority to the Secretary General.",
+                "line_num": 438
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0015",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 464,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0016",
+                "summary": "###### Article S2",
+                "line_num": 467
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0017",
+                "summary": "This partial document outlines the organizational and budgetary framework for diplomatic posts. It specifies that the structure of each post is defined by ministerial decrees, which establish its organizational chart and budget. The head of the post is responsible for internal regulations. The organizational chart details the roles and ranks of diplomatic agents and locally recruited staff. The budget covers personnel salaries, diplomatic allowances, travel expenses, operational costs, and installation expenses, calculated in both the national currency and the local currency, with the exception of certain travel expenses.",
+                "line_num": 470
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0018",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 515,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0019",
+                "summary": "###### Article S4",
+                "line_num": 518
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0020",
+                "summary": "This partial document covers regulations regarding the travel and movements of diplomatic agents. The main points include: the authority of the Foreign Minister to determine travel routes and methods; the state's responsibility for covering travel expenses to and from the post; the requirement for prior authorization to travel outside the assigned jurisdiction, except in emergencies; reimbursement procedures for authorized official trips; provisions for the repatriation expenses and remains of an agent who dies while serving abroad; and rules concerning vehicles, distinguishing between personally owned vehicles and state-owned vehicles, with restrictions on the personal use of state property.",
+                "line_num": 521
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0021",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 577,
+            "nodes": [
+              {
+                "title": "Article S6",
+                "node_id": "0022",
+                "summary": "###### Article S6",
+                "line_num": 580
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0023",
+                "summary": "This partial document covers financial accounting regulations for diplomatic posts, specifically detailing requirements for bank accounts, record-keeping, and reporting procedures to the Department.",
+                "line_num": 583
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0024",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 620,
+            "nodes": [
+              {
+                "title": "Article S8",
+                "node_id": "0025",
+                "summary": "###### Article S8",
+                "line_num": 623
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0026",
+                "summary": "This partial document covers two main points: the payment of salaries and family allowances for diplomatic agents abroad (in local currency), and the death benefits for diplomatic agents who die while serving abroad, including specifics for deaths occurring in Congo versus elsewhere.",
+                "line_num": 626
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3c3d58b7-8059-46ac-a38d-f04ba5638b35"
+    ],
+    "0003": [
+      "8a450770-6e22-4e95-963b-302d7ed9ebf9"
+    ],
+    "0005": [
+      "51ea8929-2f5e-49e8-a6a9-00181e7c2e22"
+    ],
+    "0007": [
+      "51684068-db99-472b-ba9a-e43bdbba72c6"
+    ],
+    "0009": [
+      "8e3958f3-4920-4fa8-bd3c-39402adba7c1"
+    ],
+    "0011": [
+      "0deded12-32dc-449a-a989-e405b42aadcb"
+    ],
+    "0013": [
+      "2f21c475-de3b-4aa1-a3fb-28e38a1df2e9"
+    ],
+    "0014": [
+      "98ab4518-e96b-427e-9679-75982dc7eead"
+    ],
+    "0016": [
+      "d4f1cf09-f6a5-444d-b5bc-ed270ba788d8"
+    ],
+    "0017": [
+      "f9e9f066-2a8b-4d70-9967-ef3c10596252"
+    ],
+    "0019": [
+      "3724d113-e44a-4fa0-8eeb-0f01db9fd66e"
+    ],
+    "0020": [
+      "0c8cc965-30cf-4345-bdba-f405679761e2"
+    ],
+    "0022": [
+      "8998fa22-8059-47d2-8575-6f37df0195bb"
+    ],
+    "0023": [
+      "559a6309-ce02-4b1c-b33b-d3847c1ce55a"
+    ],
+    "0025": [
+      "bfb7a353-4050-446e-97bb-27fdff858c73"
+    ],
+    "0026": [
+      "c4bc13a1-1e26-4761-9a07-9588020d430a"
+    ]
+  },
+  "node_count": 27,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:24:32.204165",
+  "article_count": 16,
+  "generation_time_s": 25.29521608352661
+}

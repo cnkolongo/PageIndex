@@ -1,0 +1,116 @@
+{
+  "slug": "AM001-71-15-02-1971-1971",
+  "bundle_path": "backups/all_bundles/code/AM001-71-15-02-1971-1971.json",
+  "document_id": "1b70b46c-ac04-4883-9743-41c16e972858",
+  "document_title": "AM001.71.15.02.1971",
+  "tree_json": {
+    "doc_name": "AM001-71-15-02-1971-1971",
+    "structure": [
+      {
+        "title": "AM001.71.15.02.1971",
+        "node_id": "0000",
+        "prefix_summary": "# AM001.71.15.02.1971",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe pr�sent arr�t� entre en vigueur � la date\nde sa signa�ture\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\nSur toute l'�tendue de la concession du\ndomaine d'lnga, telle que d�limit�e aux actes annexes du d�cret du 23 juin 1960,\nsont formellement interdits tous feux de brousse ou incendies, si minimes\nsoient-ils, de nature � atteindre l'int�grit� absolue des broussailles,\nherbages, v�g�taux sur pied ou ceux formant couverture morte, taillis, bois ou\ntoute implantation m�me artificielle de nature � assurer la stabilit� des\nterrains quels qu'ils soient.",
+            "line_num": 15
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nTous ceux qui, soit autre titre d'occupants,\ncomme passagers temporaires, auront surpris quelque feu ou tentative de le\nprovoquer, et ce � l'int�rieur du site d'lnga, sont formellement tenus d'alerter\nsur-le-champ l'agent le plus rapproch� repr�sentant l'autorit� concessionnaire,\ncomme aussi de contribuer � l'extinction dudit feu.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nTout d�boisement ou d�broussaillement dans\nles limites du domaine d'lnga sont express�ment interdits.",
+            "line_num": 35
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nLes autorit�s concessionnaires du domaine\nd'lnga sont comp�tentes pour rechercher et constater les infractions aux\npr�sentes dispositions, en rechercher les auteurs, coauteurs ou complices, et ce\npar tous gardes et agents qu'elles auront habilit�s � ces fins, non seulement �\nl'int�rieur du domaine proprement dit, mais �galement dans une zone p�riph�rique\net limitrophe d'un kilom�tre jouxtant le domaine proprement dit.",
+            "line_num": 41
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nLes autorit�s responsables du domaine d'lnga\npourront prendre toutes dispositions r�glementaires pour interdire l'occupation\nou le passage de toute personne, occupant ou non partie du domaine, dans le but\nd'�viter tout feu ou incendie accidentel ou involontaire et pour organiser\ntoutes mesures, prendre toutes sanctions en vue de l'application des\ndispositions ci-dessus arr�t�es.",
+            "line_num": 51
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nTout feu ou incendie comme tout d�boisement\nou d�broussaillement au sein du domaine d'lnga sera pr�sum� volontaire, et puni\ncomme tel conform�ment aux dispositions des articles 103 � 108 du Code p�nal.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLa\ncorr�it� ou la participation de plusieurs personnes   �  l'infraction  sera\nr�gl�e    et  punie conform�ment �   l'article  21 du   Code   p�nal,  et\ncompte  tenu   des   dispositions  de  l'article   2  du pr�sent arr�t�.",
+            "line_num": 68
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nCe n'est que par un motif d'ordre\nexceptionnel et pour un travail industriel ou domestique bien pr�cis�, avec la\nd�termination des pr�cautions pr�alables � prendre, que les autorit�s\nresponsables du domaine d'lnga pourront autoriser tel feu, tel d�boisement ou\nd�broussaillement. Cette autorisation devra �tre personnelle et incessible, bien\npr�cis�e, temporaire et �tablie par �crit, elle entra�nera la cons�quence d'�tre\n�lisive d'infraction au pr�sent arr�t�.",
+            "line_num": 76
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nLe pr�sent arr�t�, outre sa publication au\nMoniteur,\nsera publi� par voie de la presse dans les\njournaux �Etoile,\nProgr�s, Tribune Africaine, Pr�sence Congolaise�,\net ce en 4 publications mensuelles, pendant\nquatre mois � dater des pr�sentes.\nLes frais desdites publications seront �\ncharge du budget du d�partement de l'Energie.",
+            "line_num": 87
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "151de208-34e5-4e5a-b6eb-5752bbb5018c"
+    ],
+    "0002": [
+      "755f2a8d-cdeb-42c7-bf9f-1951ad8661cd"
+    ],
+    "0003": [
+      "67345f8f-85bc-4981-93ad-57e5c0d8ca10"
+    ],
+    "0004": [
+      "57f8c023-eb94-406d-9c0f-b3cf9480c9a5"
+    ],
+    "0005": [
+      "2ae00313-ed86-48a9-97d0-d67bde40c143"
+    ],
+    "0006": [
+      "380e4656-6360-4951-8d03-006ca40bca69"
+    ],
+    "0007": [
+      "50c2e23f-bbb1-4f5e-be32-678851b42f7b"
+    ],
+    "0008": [
+      "924e8844-c806-4909-b98a-d28ca43ad57e"
+    ],
+    "0009": [
+      "5da76c04-a0bc-4080-8353-5adf3fb0e010"
+    ],
+    "0010": [
+      "c3f93a79-02fa-4152-a103-9d418db57fa2"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:51.583617",
+  "article_count": 10,
+  "generation_time_s": 0.017045021057128906
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "A-90-0012-31-03-1990-1990",
+  "bundle_path": "backups/all_bundles/code/A-90-0012-31-03-1990-1990.json",
+  "document_id": "dba01d53-5d83-4222-9f01-660b095c8925",
+  "document_title": "A.90.0012.31.03.1990",
+  "tree_json": {
+    "doc_name": "A-90-0012-31-03-1990-1990",
+    "structure": [
+      {
+        "title": "A.90.0012.31.03.1990",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 76
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "9e54cc79-64e8-4be5-aeff-e25b80ba50ec"
+    ],
+    "0002": [
+      "85239d4a-c7d1-4df5-b631-e411671991c9"
+    ]
+  },
+  "node_count": 3,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:26:47.823860",
+  "article_count": 2,
+  "generation_time_s": 0.0045928955078125
+}

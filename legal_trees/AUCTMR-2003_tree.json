@@ -1,0 +1,552 @@
+{
+  "tree": {
+    "doc_name": "AUCTMR-2003",
+    "doc_description": "This document is the OHADA Uniform Act on Contracts for the Carriage of Goods by Road, adopted in 2003, which establishes the legal framework governing road freight transport contracts, including carrier liability, consignment notes, and dispute resolution, for member states of the Organization for the Harmonization of Business Law in Africa.",
+    "structure": [
+      {
+        "title": "OHADA - Acte uniforme relatif aux contrats de transport de marchandises par route (AUCTMR)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Acte uniforme relatif aux contrats de transport de marchandises par route (AUCTMR)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Preambule",
+            "node_id": "0001",
+            "summary": "This partial document is the preamble and opening section of a uniform act governing road freight transport contracts within the OHADA (Organization for the Harmonization of Business Law in Africa) framework.\n\nThe main points covered are:\n1.  **Document Identification:** It is the \"Uniform Act Relating to Contracts for the Carriage of Goods by Road.\"\n2.  **Formal Adoption Details:** It specifies the act was adopted on March 22, 2003, in Yaoundé, Cameroon, and published in the Official Journal on July 31, 2003.\n3.  **Legal Enactment Process:** The preamble outlines the procedural steps for its adoption by the OHADA Council of Ministers, citing the foundational treaty, the Secretary General's report, member state observations, and the advisory opinion of the Common Court of Justice and Arbitration.\n4.  **Document Structure:** It announces the beginning of the act's substantive content, starting with **Chapter 1**, titled \"Scope of Application and Definitions.\"",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1",
+            "node_id": "0002",
+            "summary": "This partial document outlines the scope of application and exclusions for a uniform act (OHADA) governing road freight contracts. It specifies that the rules apply when the place of loading or the place of delivery is in a member state, regardless of the parties' nationality. It then lists specific exclusions, such as dangerous goods and funeral transports, before introducing a \"Definitions\" section.",
+            "line_num": 39
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "This partial document is from the Uniform Act Relating to Contracts for the Carriage of Goods by Road (OHADA). It covers two main sections:\n\n1.  **Article 2 - Definitions:** It provides legal definitions for key terms used throughout the Act, including \"notice,\" \"contract for the carriage of goods,\" \"writing,\" \"consignment note,\" \"goods,\" \"dangerous goods,\" and various types of transport (removal, funeral, successive, and combined transport). It also defines the \"carrier\" and \"vehicle.\"\n\n2.  **Chapter 2 - Contract and transport documents:** The beginning of this chapter is introduced, with the first subsection titled \"Formation of the contract of carriage.\"",
+            "line_num": 53
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLe contrat de transport de marchandise existe dès que le donneur d'ordre et le transporteur sont d'accord pour le\ndéplacement d'une marchandise moyennant un prix convenu.\n\nLettre de voiture",
+            "line_num": 107
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "This partial document outlines the mandatory and optional content requirements for a consignment note (lettre de voiture) in a contract for the carriage of goods by road under OHADA law.\n\nThe main points covered are:\n1.  The mandatory elements that must be included in the consignment note, such as details of the parties, the goods, places and dates of pickup/delivery, transport charges, and customs instructions.\n2.  A list of optional clauses that may be included, such as a transshipment prohibition, declared value of goods, insurance instructions, and agreed time limits for transport.\n3.  A provision stating that the parties may include any other useful information.\n4.  A crucial rule that the absence, irregularity, or loss of the consignment note does not affect the existence or validity of the underlying transport contract, which remains governed by the Uniform Act.",
+            "line_num": 115
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\n1°) La lettre de voiture fait foi, jusqu'à preuve du contraire, des conditions du contrat de transport et de la prise en\ncharge de la marchandise par le transporteur.\n\n2°) La lettre de voiture est établie en un original et au moins en deux copies, le nombre de copies devant être\nspécifié. L'original est remis à l'expéditeur, une copie est conservée par le transporteur et une autre accompagne la\nmarchandise à destination.\n\nDocuments de douane",
+            "line_num": 173
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "This partial document covers Article 6 and the beginning of Chapter 3 of the OHADA Uniform Act on Road Freight Contracts. The main points are:\n\n1.  **Obligations of the Shipper (Article 6):** The shipper must provide all necessary customs and other documents to the carrier for interstate transport. The carrier is not required to verify the accuracy or sufficiency of these documents. The shipper is liable for any damages resulting from missing, insufficient, or irregular documents.\n\n2.  **Liability of the Carrier (Article 6):** The carrier is responsible, like an agent, for the loss or misuse of the documents accompanying the consignment note. The compensation for this is limited to the amount payable for loss of the goods.\n\n3.  **Start of a New Chapter:** The text introduces **Chapter 3 - Execution of the transport contract**, with the first specific topic listed being the **packaging of goods**.",
+            "line_num": 185
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "This partial document covers Article 7 of a transport contract or convention, focusing on the rules and responsibilities concerning the packaging of goods. The main points are:\n\n1.  The sender's obligation to pack goods adequately and their liability for damages and costs arising from defective packaging, unless the carrier accepted the goods without reservation despite apparent defects.\n2.  The carrier's duty to notify the responsible party and refuse transport if apparent defective packaging poses a safety risk that is not remedied within a reasonable time.\n3.  The procedures the carrier must follow if packaging breaks during transport, including taking the best measures for the consignee, the right to unload goods posing a safety risk (which terminates the transport), and the subsequent custody of the goods.\n\nThe article concludes with a heading indicating the subsequent section will address the sender's declarations and liability.",
+            "line_num": 211
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\n1°) L'expéditeur fournit au transporteur les informations et les instructions prévues à l'",
+            "line_num": 237
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0010",
+            "summary": "This partial document covers the responsibilities and liabilities of the shipper (l'expéditeur) under a road freight transport contract. The main points are:\n\n1.  The shipper is liable to compensate the carrier for damages resulting from inherent defects in the goods or from incorrect, insufficient, or missing declarations/instructions about the goods.\n2.  Specific rules for dangerous goods: The shipper is fully responsible for all damages, costs, and risks if the exact nature of dangerous goods is not declared in advance. The carrier has the right to unload, destroy, or neutralize such goods without compensation.\n3.  Specific rules for high-value items (documents, cash, valuables): The shipper is responsible for all damages if the nature or value is not declared. The carrier is not obliged to carry such items and is only liable for loss if they have been properly declared. A false declaration releases the carrier from all liability.\n\nThe text is an excerpt from the OHADA Uniform Act on Road Freight Transport Contracts.",
+            "line_num": 242
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0011",
+            "summary": "###### Article 9\n\nLe transport de marchandise couvre la période qui s'étend de la prise en charge de la marchandise par le\ntransporteur en vue de son déplacement, jusqu'à la livraison de ladite marchandise.\n\nPrise en charge de la marchandise",
+            "line_num": 274
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0012",
+            "summary": "This partial document covers Article 10 of a transport or carriage contract (likely a \"lettre de voiture\" or consignment note). The main points are the carrier's obligations and procedures for checking goods upon receipt:\n\n1.  The carrier must verify the accuracy of package details (number, marks, numbers) and the apparent condition of the goods and their packaging.\n2.  If unable to verify, the carrier must note reasoned reservations on the consignment note. These reservations only bind the sender if explicitly accepted.\n3.  The sender has the right to demand verification of weight or quantity, and the carrier can charge for this service. Results are recorded on the consignment note.\n4.  In the absence of reasoned reservations by the carrier, there is a presumption that the goods and packaging were in good apparent condition and that the package details matched the consignment note at the time of receipt.\n\nThe article concludes by introducing the right to dispose of the goods during transit.",
+            "line_num": 282
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0013",
+            "summary": "This partial document covers Article 11 of the Uniform Act on Road Freight Contracts. The main points are the rules governing the \"right of disposal\" over goods during transit. Specifically, it outlines:\n\n1.  The sender's right to redirect the goods (e.g., stop transit, change delivery place or recipient).\n2.  The condition that this right can be assigned to the consignee from the start via the consignment note.\n3.  The strict conditions for exercising this right, including presenting the original consignment note, covering all costs and damages, and ensuring the instructions are feasible and do not disrupt operations or split the shipment.\n4.  The carrier's obligation to inform the instructing party if the instructions cannot be executed.\n5.  The carrier's liability for failing to follow proper procedure or for executing instructions without requiring the original consignment note.\n\nThe article concludes by introducing the next topic: \"Empêchement au transport et à la livraison\" (Impediment to transport and delivery).",
+            "line_num": 307
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0014",
+            "summary": "This partial document covers Article 12 of a uniform act on road freight transport contracts. The main points are the carrier's obligations and rights when delivery becomes impossible or is refused. It specifies that the carrier must promptly seek instructions from the rightful claimant or the sender in such situations. The article outlines the carrier's authority to take the best measures, unload the goods, and charge for storage if instructions are not received. It also details the procedures and conditions under which the carrier may sell the goods, including the handling of the proceeds and associated costs.",
+            "line_num": 344
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0015",
+            "summary": "This partial document covers Article 13 of a transport law or convention, detailing the carrier's obligations and the consignee's rights regarding the delivery of goods. The main points are:\n\n1.  The carrier's duty to deliver the goods to the agreed place within the agreed or a reasonable timeframe, and to hand over the consignment note copy upon receipt.\n2.  The carrier's obligation to notify the consignee of the goods' arrival and the time limit for collection, unless delivery is made directly to the consignee's premises.\n3.  The consignee's obligation to pay charges from the consignment note before taking delivery, with the carrier only required to deliver if a guarantee is provided in case of dispute.\n4.  The consignee's acquisition of rights under the transport contract upon accepting the goods, with the stipulation that the carrier cannot be liable for double compensation to both the sender and consignee for the same damage.\n\nThe article concludes by introducing the subsequent topics: the condition of the goods and delay in delivery.",
+            "line_num": 388
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0016",
+            "summary": "This partial document covers Article 14 of a uniform act on road freight transport contracts. The article details the procedures and deadlines for a consignee to notify a carrier of damage, loss, or delay to goods upon delivery.\n\nThe main points are:\n1. The process for a joint written inspection of goods at delivery and the subsequent 7-day deadline for reporting non-apparent damage.\n2. The specific deadlines for sending written notice to the carrier in the absence of a joint inspection: by the next business day for apparent damage/loss, and within seven days for non-apparent damage/loss.\n3. The presumption that goods were received as described in the consignment note if notice is not given within these deadlines.\n4. The 21-day deadline from the arrival notice to submit a written claim for compensation due to a delivery delay.",
+            "line_num": 411
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0017",
+            "summary": "###### Article 15\n\n1°) Les créances résultant de la lettre de voiture sont payables par le donneur d'ordre avant la livraison, sauf\nstipulation contraire sur la lettre de voiture.\n\n2°) Si la marchandise n'est pas de la même nature que celle décrite au contrat ou si sa valeur est supérieure au\nmontant déclaré, le transporteur peut réclamer le prix qu'il aurait pu exiger pour ce transport.\n\n3°) Conformément à l'",
+            "line_num": 445
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0018",
+            "summary": "This partial document covers two main points from a legal or contractual text, likely regarding freight transport.\n\nFirst, it details the carrier's right to retain transported goods until payment of claims arising from the consignment note. It specifies conditions where this right can be lost if not exercised before delivery and the procedure if the recipient refuses payment.\n\nSecond, it introduces the legal basis for the carrier's liability, stating that the carrier has a lien (privilege) on the transported goods for amounts owed, provided there is a direct connection between the goods and the debt.\n\nThe text then begins a new chapter on the foundation of the carrier's liability.",
+            "line_num": 456
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0019",
+            "summary": "This partial document outlines the responsibilities and liabilities of a carrier (transporteur) in a contract of transport. The main points covered are:\n\n1.  The carrier's core obligation to deliver goods and its liability for damage, total/partial loss, and delivery delays.\n2.  The definition of a delivery delay.\n3.  The conditions under which a claimant can consider goods lost (30 or 60 days after the expected delivery date).\n4.  The principle that the carrier is also liable for the acts or omissions of its employees, agents, and subcontractors used to perform the contract.\n\nThe text ends by introducing a section on \"Exonérations\" (exemptions or circumstances relieving the carrier of liability).",
+            "line_num": 472
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0020",
+            "summary": "This partial document covers Article 17 of the OHADA Uniform Act on the Contract for the Carriage of Goods by Road. The main points are the specific circumstances under which a carrier is exempt from liability for loss, damage, or delay to goods. It details general exemptions (like fault of the claimant or inherent vice of the goods) and a list of \"particular risks\" (such as the use of open vehicles, defective packaging, handling by the sender/consignee, the nature of certain goods, insufficient markings, and the transport of live animals) that exempt the carrier, provided they are proven. The article also establishes limits to these exemptions, stating the carrier cannot be exempted due to vehicle defects, and outlines rules for presumption of liability and the carrier's burden of proof when special vehicles or live animals are involved. It concludes by stating that if the carrier is not responsible for all contributing factors, liability is apportioned accordingly.",
+            "line_num": 494
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0021",
+            "summary": "This partial document covers Article 18 of the OHADA Uniform Act on road freight contracts, detailing the rules for calculating compensation in case of damage, loss, or delay of goods.\n\nThe main points are:\n1.  The standard compensation for damage or loss is based on the goods' value and is capped at 5,000 CFA francs per gross kilogram.\n2.  This limit can be exceeded if the sender declared a special value or a \"special interest in delivery\" on the consignment note; compensation then cannot exceed the declared amount.\n3.  For a declared \"special interest in delivery,\" additional proven damages up to the declared amount can be claimed.\n4.  In case of delay, in addition to compensation for any damage/loss, the carrier must pay for additional proven damages resulting from the delay, but this indemnity cannot exceed the price of the transport.",
+            "line_num": 549
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0022",
+            "summary": "This partial document, Article 19, outlines the rules for calculating compensation in the event of loss or damage to goods during transport.\n\nThe main points covered are:\n1.  How to determine the value of the goods (based on market price, including transport costs, customs, and other fees).\n2.  The calculation of compensation for damage (depreciation), with limits set as if it were a total loss or a partial loss.\n3.  The right of the claimant to receive interest on the compensation at 5% per annum, starting from the date of a written claim or legal action.\n4.  Rules for currency conversion in interstate transport when compensation is not calculated in CFA francs.\nThe article is concluded with the heading \"Responsabilité extra-contractuelle\" (Non-contractual liability).",
+            "line_num": 572
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0023",
+            "summary": "###### Article 20\n\n1°) Les exonérations et limites de responsabilité prévues par le présent Acte uniforme sont applicables dans toute\naction contre le transporteur pour préjudice résultant de pertes ou dommages subis par la marchandise ou pour\nretard à la livraison, que l'action soit fondée sur la responsabilité contractuelle ou extra-contractuelle.\n\n2°) Lorsqu'une action pour perte, avarie ou retard est intentée contre une personne dont le transporteur répond\naux termes de l'",
+            "line_num": 599
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0024",
+            "summary": "###### Article 16\n\nalinéa 4 ci-dessus, cette personne peut se prévaloir des exonérations et des limites de\nresponsabilité prévues pour le transporteur dans le présent Acte uniforme.\n\nDéchéance du droit à l'exonération et à la limitation de responsabilité",
+            "line_num": 609
+          },
+          {
+            "title": "Article 21",
+            "node_id": "0025",
+            "summary": "###### Article 21\n\n1°) Le transporteur n'est pas admis au régime de l'exonération de la limitation de responsabilité prévue au présent\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 11 / 14\n\f ACTE UNIFORME RELATIF AUX CONTRATS DE TRANSPORT DE MARCHANDISES PAR ROUTE\n Adopté le 22/03/2003 à Yaoundé (CAMEROUN)\n Publié au Journal Officiel n° 13 du 31/07/2003\n\nActe uniforme, ni à celui de la prescription prévu à l'",
+            "line_num": 617
+          },
+          {
+            "title": "Article 25",
+            "node_id": "0026",
+            "summary": "###### Article 25\n\nci-après, s'il est prouvé que la perte, l'avarie ou le\nretard à la livraison résulte d'un acte ou d'une omission qu'il a commis, soit avec l'intention de provoquer cette\nperte, cette avarie ou ce retard, soit témérairement et en sachant que cette perte, cette avarie ou ce retard en\nrésulterait probablement.\n\n2°) Nonobstant les dispositions de l'alinéa 2 de l'",
+            "line_num": 629
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0027",
+            "summary": "###### Article 20\n\nci-dessus, un préposé ou un mandataire du transporteur\nou une autre personne aux services desquels il recourt pour l'exécution du contrat de transport, n'est pas admis au\nbénéfice de l'exonération de responsabilité et de la limitation de l'indemnisation prévue dans le présent Acte\nuniforme, ni à celui de la prescription prévue à l'",
+            "line_num": 639
+          },
+          {
+            "title": "Article 25",
+            "node_id": "0028",
+            "summary": "###### Article 25\n\n, s'il est prouvé que la perte, l'avarie ou le retard à la\nlivraison résulte d'un acte ou d'une omission qu'il a commis dans l'exercice de ses fonctions, soit avec l'intention de\nprovoquer cette perte, cette avarie ou ce retard, soit témérairement et en sachant que cette perte, cette avarie ou\nce retard en résulterait probablement.\n\nResponsabilité en cas de transport superposé",
+            "line_num": 647
+          },
+          {
+            "title": "Article 22",
+            "node_id": "0029",
+            "summary": "###### Article 22\n\nLe présent Acte uniforme s'applique à l'ensemble du transport superposé. Cependant, lorsque sans faute du\ntransporteur routier, une perte, une avarie ou un retard se produit pendant la partie non routière du transport, la\nresponsabilité du transporteur routier est déterminée conformément aux règles impératives de la loi qui régissent\ncet autre mode de transport. En l'absence de telles règles, la responsabilité du transporteur routier demeure régie\npar le présent Acte uniforme.\n\nResponsabilité en cas de transport successif",
+            "line_num": 657
+          },
+          {
+            "title": "Article 23",
+            "node_id": "0030",
+            "summary": "###### Article 23\n\n1°) Dans un transport successif, en acceptant la marchandise et la lettre de voiture, chaque transporteur devient\npartie au contrat.\n\n2°) Dans un tel transport, l'action en responsabilité pour perte, avarie ou retard ne peut être exercée que contre le\npremier transporteur, le transporteur qui exécutait la partie du transport au cours de laquelle s'est produit le fait à\nl'origine du dommage ou le dernier transporteur. L'action peut être dirigée contre plusieurs de ces transporteurs,\nleur responsabilité étant solidaire.\n\n3°) Lorsqu'il y a perte ou avarie apparente, le transporteur intermédiaire doit inscrire sur la lettre de voiture\nprésentée par l'autre transporteur une réserve analogue à celle prévue à l'",
+            "line_num": 668
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0031",
+            "summary": "###### Article 10\n\nalinéa 2 ci-dessus. Il doit aviser\nimmédiatement l'expéditeur et le transporteur émetteur de la lettre de voiture de la réserve qu'il inscrit.\n\n4°) Les dispositions des articles 4, 5 alinéa 2 et 10 alinéa 4 ci-dessus s'appliquent entre transporteurs successifs.\n\nChapitre 5 - Contentieux\n\nRecours entre transporteurs",
+            "line_num": 682
+          },
+          {
+            "title": "Article 24",
+            "node_id": "0032",
+            "summary": "This partial document covers Article 24 of the OHADA Uniform Act on road freight transport contracts. The main points are the rules for **recourse (right of recovery) between carriers** when compensation has been paid for damage.\n\nSpecifically, it outlines:\n1.  The conditions under which a carrier who paid compensation can seek reimbursement from other carriers involved in the transport.\n2.  The principles for allocating liability and financial responsibility among carriers, depending on who caused the damage.\n3.  A rule for handling the insolvency of one carrier, where the unpaid share is redistributed among the others.\n4.  The freedom for carriers to agree among themselves on clauses that deviate from this article.\n5.  A heading indicating the next topic will be the time limits for claims and legal action (prescription).",
+            "line_num": 694
+          },
+          {
+            "title": "Article 25",
+            "node_id": "0033",
+            "summary": "###### Article 25\n\n1°) Toute action découlant d'un transport régi par le présent Acte uniforme se prescrit par un an à compter de la\ndate de livraison ou, à défaut de livraison, de la date à laquelle la marchandise aurait dû être livrée. Toutefois, dans\nle cas de dol ou de faute équivalente au dol, cette prescription est de trois ans.\n\n2°) L'action n'est recevable que si une réclamation écrite a été préalablement faite au premier transporteur ou au\ndernier transporteur au plus tard soixante (60) jours après la date de la livraison de la marchandise ou, à défaut de\nlivraison, au plus tard six (6) mois après la prise en charge de la marchandise.\n\nArbitrage",
+            "line_num": 724
+          },
+          {
+            "title": "Article 26",
+            "node_id": "0034",
+            "summary": "###### Article 26\n\nTout litige résultant d'un contrat de transport soumis au présent Acte uniforme peut être réglé par voie d'arbitrage.\n\nJuridiction compétente en matière de transport inter-États",
+            "line_num": 737
+          },
+          {
+            "title": "Article 27",
+            "node_id": "0035",
+            "summary": "This partial document covers Article 27 of the OHADA Uniform Act on road freight transport contracts, which establishes jurisdictional rules for interstate transport disputes. The main points are:\n\n1.  **Jurisdiction for Legal Actions:** It specifies the courts that can be seized if the parties have not chosen a specific arbitration or state court. The claimant can choose the courts of the country where: the defendant is habitually resident/headquartered, the transport contract was concluded via a branch/agency, the goods were taken in charge, or where delivery is to take place.\n\n2.  **Prevention of Parallel Litigation:** It prohibits a new lawsuit between the same parties on the same cause of action if a case is already pending or a judgment has been rendered by a competent court, unless the first court's decision cannot be enforced in the country of the new action.\n\n3.  **Cross-Border Enforcement of Judgments:** It provides for the automatic enforcement in all member states of a judgment that has become enforceable in one member state, after completing the necessary formalities in the interested state. These formalities cannot involve a review of the case's merits.\n\n4.  **Scope of Enforcement Rules:** It clarifies that the enforcement rules apply to contested judgments, default judgments, and judicial settlements, but not to provisional (interim) judgments or awards of damages against a claimant for the total or partial rejection of their claim.\n\nThe excerpt also shows the beginning of Chapter 6 on miscellaneous provisions, noting the nullity of any contractual terms contrary to the Uniform Act.",
+            "line_num": 744
+          },
+          {
+            "title": "Article 28",
+            "node_id": "0036",
+            "summary": "###### Article 28\n\n1°) Sous réserve des dispositions des articles 2 c), 15 alinéa 1, 24 alinéa 3 et 27 ci-dessus, est nulle et de nul effet\n toute stipulation qui, directement ou indirectement, dérogerait aux dispositions du présent Acte uniforme. La nullité\n de telles stipulations n'entraîne pas la nullité des autres dispositions du contrat.\n\n 2°) En particulier, sont nulles toute clause par laquelle le transporteur se fait céder le bénéfice de l'assurance de la\n marchandise ou toute autre clause analogue, ainsi que toute clause déplaçant la charge de la preuve.\n\n Conversion monétaire",
+            "line_num": 782
+          },
+          {
+            "title": "Article 29",
+            "node_id": "0037",
+            "summary": "###### Article 29\n\nPour les États hors zone CFA, les montants mentionnés à l'",
+            "line_num": 794
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0038",
+            "summary": "###### Article 18\n\nci-dessus sont convertis dans la monnaie\n nationale suivant le taux de change à la date du jugement ou de la sentence arbitrale ou à une date convenue par\n les parties.\n\n Chapitre 7 - Dispositions transitoires et finales",
+            "line_num": 799
+          },
+          {
+            "title": "Article 30",
+            "node_id": "0039",
+            "summary": "###### Article 30\n\nLes contrats de transport de marchandises par route conclus avant l'entrée en vigueur du présent Acte Uniforme\n demeurent régis par les législations applicables au moment de leur formation.",
+            "line_num": 808
+          },
+          {
+            "title": "Article 31",
+            "node_id": "0040",
+            "summary": "###### Article 31\n\nLe présent acte uniforme sera publié au Journal officiel de l'OHADA ; il sera également publié au Journal officiel\n des Etats Parties ou par tous procédés en tenant lieu.\n\n Il entrera en vigueur le 1er janvier 2004.\n\n Fait à Yaoundé, le 22 mars 2003\n\n https://www.ohada.com/textes-ohada/actes-uniformes.html page 14 / 14\n\nPowered by TCPDF (www.tcpdf.org)",
+            "line_num": 814
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0002",
+      "node_title": "Article 1",
+      "article_ids": [
+        "829d4805-ed4a-4859-9dbb-47cb33fd9fb7"
+      ]
+    },
+    {
+      "node_id": "0003",
+      "node_title": "Article 2",
+      "article_ids": [
+        "01c315c4-58e4-46aa-8ec1-dfb0157f2f58"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article 3",
+      "article_ids": [
+        "3f1f6559-4712-4f58-93cd-c13f04fa8da8"
+      ]
+    },
+    {
+      "node_id": "0005",
+      "node_title": "Article 4",
+      "article_ids": [
+        "19fa2550-83f6-4b7d-81dd-43f4777a8550",
+        "90f756e8-13b0-4289-a424-6749c794ee2b"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article 5",
+      "article_ids": [
+        "0c43f802-f06c-4a89-9ad5-f8c179823fe4"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article 6",
+      "article_ids": [
+        "10d81e90-fc2a-4e81-9142-a428f9eca941"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article 7",
+      "article_ids": [
+        "a9a92747-2930-4493-a38b-a7ba2704e7c1"
+      ]
+    },
+    {
+      "node_id": "0009",
+      "node_title": "Article 8",
+      "article_ids": [
+        "25069fce-06fa-4c0e-a4a2-46c84533d0e1"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article 4",
+      "article_ids": [
+        "19fa2550-83f6-4b7d-81dd-43f4777a8550",
+        "90f756e8-13b0-4289-a424-6749c794ee2b"
+      ]
+    },
+    {
+      "node_id": "0011",
+      "node_title": "Article 9",
+      "article_ids": [
+        "0c8c9e57-dd70-4b6c-8af3-259b27e7d2cb"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article 10",
+      "article_ids": [
+        "2951dbf3-da30-4d6c-8b96-c9a745172033",
+        "b03563f9-d2fd-45dd-9f01-8e7d8b8168b3"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article 11",
+      "article_ids": [
+        "2df78e73-32c7-4fe7-b0a7-1017761aff40"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article 12",
+      "article_ids": [
+        "1a8242d5-2d1b-43f2-bfae-2f6062617b8b"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article 13",
+      "article_ids": [
+        "8a428220-9af9-4365-969e-1f1f0061a5b2",
+        "9278a0bd-c2ab-4399-8cca-f2b025d5e1b2"
+      ]
+    },
+    {
+      "node_id": "0016",
+      "node_title": "Article 14",
+      "article_ids": [
+        "16be42ee-f218-4d7c-bcb1-9ab941115bd1"
+      ]
+    },
+    {
+      "node_id": "0017",
+      "node_title": "Article 15",
+      "article_ids": [
+        "4eff704a-89ce-474d-a071-50c618635340"
+      ]
+    },
+    {
+      "node_id": "0018",
+      "node_title": "Article 13",
+      "article_ids": [
+        "8a428220-9af9-4365-969e-1f1f0061a5b2",
+        "9278a0bd-c2ab-4399-8cca-f2b025d5e1b2"
+      ]
+    },
+    {
+      "node_id": "0019",
+      "node_title": "Article 16",
+      "article_ids": [
+        "ae5e8f42-a7e7-411f-a149-1230e8224eec",
+        "4c9b3705-c334-4603-bbd3-4e8c72990a06"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article 17",
+      "article_ids": [
+        "24b9260c-5625-4970-aeff-0a02b6207106"
+      ]
+    },
+    {
+      "node_id": "0021",
+      "node_title": "Article 18",
+      "article_ids": [
+        "840b14c4-2ba4-4651-9c7b-105e97b2c345",
+        "59765379-be7c-4912-a7b7-ffe135564868"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article 19",
+      "article_ids": [
+        "e5bfc125-6c5e-42df-baee-702c4a7ab095"
+      ]
+    },
+    {
+      "node_id": "0023",
+      "node_title": "Article 20",
+      "article_ids": [
+        "b0ec3562-6bc1-4c80-a647-62216f4491ce",
+        "3b20b348-31e2-4bb5-82a0-27829c8c7aac"
+      ]
+    },
+    {
+      "node_id": "0024",
+      "node_title": "Article 16",
+      "article_ids": [
+        "ae5e8f42-a7e7-411f-a149-1230e8224eec",
+        "4c9b3705-c334-4603-bbd3-4e8c72990a06"
+      ]
+    },
+    {
+      "node_id": "0025",
+      "node_title": "Article 21",
+      "article_ids": [
+        "c55c2108-e0a9-4b50-8934-78dfa7f2f7bd"
+      ]
+    },
+    {
+      "node_id": "0026",
+      "node_title": "Article 25",
+      "article_ids": [
+        "0b5e908c-d9a6-4fe8-8425-b236c7e0f900",
+        "15f08085-ac6e-4c53-b797-de60c667a370",
+        "c303e8f5-c40e-4cf9-ac8f-a1b4d9fe82b9"
+      ]
+    },
+    {
+      "node_id": "0027",
+      "node_title": "Article 20",
+      "article_ids": [
+        "b0ec3562-6bc1-4c80-a647-62216f4491ce",
+        "3b20b348-31e2-4bb5-82a0-27829c8c7aac"
+      ]
+    },
+    {
+      "node_id": "0028",
+      "node_title": "Article 25",
+      "article_ids": [
+        "0b5e908c-d9a6-4fe8-8425-b236c7e0f900",
+        "15f08085-ac6e-4c53-b797-de60c667a370",
+        "c303e8f5-c40e-4cf9-ac8f-a1b4d9fe82b9"
+      ]
+    },
+    {
+      "node_id": "0029",
+      "node_title": "Article 22",
+      "article_ids": [
+        "c19bd985-918a-4e66-b638-195f075b00fc"
+      ]
+    },
+    {
+      "node_id": "0030",
+      "node_title": "Article 23",
+      "article_ids": [
+        "8e26d00a-2928-4604-a047-2bdfce3eda52"
+      ]
+    },
+    {
+      "node_id": "0031",
+      "node_title": "Article 10",
+      "article_ids": [
+        "2951dbf3-da30-4d6c-8b96-c9a745172033",
+        "b03563f9-d2fd-45dd-9f01-8e7d8b8168b3"
+      ]
+    },
+    {
+      "node_id": "0032",
+      "node_title": "Article 24",
+      "article_ids": [
+        "427ed80a-ee54-477e-9c54-b0e87bfbbde2"
+      ]
+    },
+    {
+      "node_id": "0033",
+      "node_title": "Article 25",
+      "article_ids": [
+        "0b5e908c-d9a6-4fe8-8425-b236c7e0f900",
+        "15f08085-ac6e-4c53-b797-de60c667a370",
+        "c303e8f5-c40e-4cf9-ac8f-a1b4d9fe82b9"
+      ]
+    },
+    {
+      "node_id": "0034",
+      "node_title": "Article 26",
+      "article_ids": [
+        "2bf12a67-3e7e-4606-82dc-edc8519b082e"
+      ]
+    },
+    {
+      "node_id": "0035",
+      "node_title": "Article 27",
+      "article_ids": [
+        "63c4f7f4-3041-45af-a8d9-d7aa2c7de2dd"
+      ]
+    },
+    {
+      "node_id": "0036",
+      "node_title": "Article 28",
+      "article_ids": [
+        "8e41c6e7-f0ff-45b5-8399-5b38db5c9c70"
+      ]
+    },
+    {
+      "node_id": "0037",
+      "node_title": "Article 29",
+      "article_ids": [
+        "d7a9faf6-4006-41c0-9461-fa36d1bd7f69"
+      ]
+    },
+    {
+      "node_id": "0038",
+      "node_title": "Article 18",
+      "article_ids": [
+        "840b14c4-2ba4-4651-9c7b-105e97b2c345",
+        "59765379-be7c-4912-a7b7-ffe135564868"
+      ]
+    },
+    {
+      "node_id": "0039",
+      "node_title": "Article 30",
+      "article_ids": [
+        "833463b9-4a78-4831-bbb1-e79fcd6e6452"
+      ]
+    },
+    {
+      "node_id": "0040",
+      "node_title": "Article 31",
+      "article_ids": [
+        "e3c67539-4a15-4ae8-8438-ccc74313db51"
+      ]
+    }
+  ],
+  "bundle_path": "backups/ohada_bundles/AUCTMR-2003.json",
+  "document_id": "ab17ab32-98b7-4370-bd2c-67c8eb6775be",
+  "document_title": "OHADA - Acte uniforme relatif aux contrats de transport de marchandises par route (AUCTMR)"
+}

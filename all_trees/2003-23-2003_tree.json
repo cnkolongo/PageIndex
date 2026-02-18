@@ -1,0 +1,806 @@
+{
+  "document_id": "7d6c1c51-0a31-4407-b3f0-7d08c9a5f656",
+  "document_title": "2003.23",
+  "tree_json": {
+    "doc_name": "2003-23-2003",
+    "doc_description": "This document is the December 1, 2003, Official Journal of the Democratic Republic of the Congo, containing Presidential Decree 03/037 on the organization of the President's Cabinet, several decrees repealing prior institutions, and multiple ministerial orders granting legal status to religious associations and appointing judicial personnel in the Ituri region.",
+    "structure": [
+      {
+        "title": "2003.23",
+        "node_id": "0000",
+        "prefix_summary": "# 2003.23",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe Chef  du Protocole et le Porte-Parole sont nommés et, le cas\néchéant, relevés de leurs  fonctions par Décret du  Président de la\nRépublique.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nLes membres du Cabinet qui ne sont pas nommés par le Président\nde la République sont désignés à leurs fonctions par le Directeur de\nCabinet.\nSans préjudice des prescriptions du présent Décret, les autres\nmodalités d’organisation et de fonctionnement du Cabinet sont fixées\npar décision du Directeur de Cabinet après approbation du Président\nde la République.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\nLes traitements et autres avantages des membres du Cabinet sont\nfixés par le Président de la République après délibération en Conseil\ndes Ministres.",
+            "line_num": 22
+          },
+          {
+            "title": "Chapitre III : De la déontologie",
+            "node_id": "0004",
+            "prefix_summary": "#### Chapitre III : De la déontologie",
+            "line_num": 29,
+            "nodes": [
+              {
+                "title": "Article 13",
+                "node_id": "0005",
+                "summary": "###### Article 13\n\nLors de la cessation de leurs fonctions, les membres du Cabinet\nont droit  à une indemnité de sortie équivalant à six mois de leur\ndernier traitement sauf pour les personnes révoquées ou celles qui ont\ndémissionné.",
+                "line_num": 32
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nLes membres du Cabinet sont tenus, en toute circonstance, de\npréserver l’honneur et la dignité de leurs fonctions et de veiller lors\nde l’examen des dossiers qui leur sont soumis, aux intérêts de l’Etat\net au respect du secret professionnel.",
+                "line_num": 40
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0007",
+                "summary": "###### Article 15\n\nLes membres du Cabinet sont tenus au devoir de  loyauté envers\nle Président de la République. Ils doivent entretenir un esprit de\ncollaboration étroite entre eux.\nIls sont tenus, en public comme en privé, aux devoirs de réserve\net de discrétion quant aux faits et informations dont ils ont eu\nconnaissance dans l’exercice ou à l’occasion de l’exercice de leurs\nfonctions.",
+                "line_num": 48
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0008",
+                "summary": "###### Article 16\n\nLes membres du Cabinet doivent :\n- s’abstenir de toute initiative susceptible de nuire à la dignité\nde leurs fonctions ou du Cabinet ;\n- se conformer aux ordres reçus dans  l’accomplissement de\nleur mission ;\n- respecter les convenances et les bonnes mœurs dans l’exercice\nde  leurs fonctions.",
+                "line_num": 59
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0009",
+                "summary": "###### Article 17\n\nLes membres du Cabinet qui ont un intérêt personnel dans une\naffaire soumise au Cabinet doivent s’abstenir de la traiter ou de\nprendre part aux délibérations y relatives.\nIls sont tenus d’en informer le Directeur de Cabinet.",
+                "line_num": 70
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV : Du  budget",
+            "node_id": "0010",
+            "prefix_summary": "#### Chapitre IV : Du  budget",
+            "line_num": 78,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nEn cas de manquement aux devoirs de leur charge, les membres\ndu Cabinet sont, suivant la gravité des faits, passibles des sanctions\ndisciplinaires ci-après :\n- avertissement ;\n- blâme ;\n- révocation.",
+                "line_num": 81
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0012",
+                "summary": "###### Article 19\n\nLe Cabinet du Président de la République bénéficie, pour son\nfonctionnement, d’un budget émargeant au budget de l’Etat distinct\nde la dotation présidentielle.",
+                "line_num": 91
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0013",
+                "summary": "###### Article 1er\n\nLe Président de la République est assisté dans l’exercice de ses\nattributions par un Cabinet dont la structure organisationnelle est\nfixée par le présent Décret.",
+                "line_num": 98
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0014",
+                "summary": "###### Article 1er\n\nEst rapporté le Décret n° 144 du 6 novembre 1998 portant\nrévocation des magistrats.",
+                "line_num": 105
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0015",
+                "summary": "###### Article 1er\n\nEst abrogé le Décret n° 087/2002 du 5 août 2002 portant création\ndu Commissariat Général du Gouvernement chargé du suivi du\nprocessus de paix dans la Région des Grands Lacs.",
+                "line_num": 111
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0016",
+                "summary": "###### Article 1er\n\nEst  abrogé le Décret  n° 242 du 3 août 1999 portant création du\nCommissariat Général à la Réinsertion.",
+                "line_num": 118
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0017",
+                "summary": "###### Article 1er\n\nEst abrogé  le Décret n° 048/2001 du 11 septembre 2001 portant\ncréation, organisation et fonctionnement du Commissariat Général à\nla Francophonie.",
+                "line_num": 124
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0018",
+                "summary": "The partial document outlines the legal recognition and stated objectives of a non-profit religious association called \"Mission Mondiale Message de Vie\" (M.M.M.V.). It specifies the association's registered headquarters in Kinshasa, Democratic Republic of the Congo. The main points covered are the association's two core purposes: evangelization through various media and methods, and the implementation of social actions such as establishing schools, clinics, and care facilities.",
+                "line_num": 131
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0019",
+                "summary": "This partial document outlines the legal recognition and core objectives of a non-profit religious association called \"Mission Evangélique de Jésus-Christ au Congo\" (M.E.J.C.CO.). The main points covered are the granting of its legal personality and the detailed enumeration of its five primary purposes: spiritually uniting Christian believers, evangelizing and making disciples, establishing and maintaining places of worship, engaging in and supporting charitable social works, and fostering mutual aid and solidarity among its members.",
+                "line_num": 150
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0020",
+                "summary": "###### Article 1er\n\nEst approuvée, la décision en date du 22 septembre 2003 par\nlaquelle la majorité des membres effectifs de l’association sans but\nlucratif dénommée « Communauté Nation du Christ en Afrique » a\napporté des modifications aux articles 1, 2, 3, 4, 5, 7, 11 et 18 de ses\nstatuts datées du 24 novembre 1979 ;",
+                "line_num": 179
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0021",
+                "summary": "###### Article 1er\n\nEst approuvée, la désignation en date du 05 août des messieurs\nEdward Deppner et Yamilamba Kabengele en qualité de\nReprésentant  Légal-Administrateur et Représentant Légal-Adjoint-\nAdministrateur de l’Eglise Néo Apostolique en république\ndémocratique du congo.",
+                "line_num": 188
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0022",
+                "summary": "###### Article 1er\n\nSont affectés pour exercer les fonctions de Greffiers au Tribunal\nde Grande Instance de l’Ituri à Bunia :\n1. Monsieur Nkaa Kazadi\nMatricule : 16.822\n2. Monsieur Lukere Lumaye : Greffier de 1ère classe,\nMatricule : 345.245\n3. Monsieur Bokongo de Bangala : Greffier de 1ère classe, Chef de\nbureau,\nMatricule 219.761\n4. Monsieur Nshombo Muhamiriza : Greffier de 1ère classe, Chef\nde bureau,\nMatricule 283.597/C\n5. Monsieur Mafumu Makunda : Greffier de 1ère  classe, Chef de\nbureau,\nMatricule : 266.732/N",
+                "line_num": 197
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0023",
+                "summary": "###### Article 2\n\nEst affecté pour exercer les fonctions de Secrétaire Divisionnaire\nau Parquet de Grande Instance de l’Ituri à Bunia :\nMonsieur Lukusha Djunga : Chef de bureau\nMatricule : 167.975",
+                "line_num": 216
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0024",
+                "summary": "###### Article 2\n\nSont désignés et affectés pour exercer les fonctions de juges de\nGrande Instance :\n1. Monsieur Midango Amani,  Matricule : 505.048\n2. Monsieur Kambuma Nsula, Matricule : 505.187\n3. Monsieur Mulumba Kamba, Matricule : 505.390\n4. Monsieur Yanyi Ovungu, Matricule : 505.821\nArticles 3 :\nSont abrogées toutes les dispositions antérieures contraires au\nprésent arrêté.",
+                "line_num": 224
+              }
+            ]
+          },
+          {
+            "title": "Chapitre  II : De l’organisation et du fonctionnement",
+            "node_id": "0025",
+            "prefix_summary": "#### Chapitre  II : De l’organisation et du fonctionnement",
+            "line_num": 237,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0026",
+                "summary": "###### Article 2\n\nLe Cabinet a pour mission d’assister le Président de la\nRépublique dans l’exercice de ses prérogatives de Chef de l’Etat,\nd’étudier  toutes les questions qui lui sont soumises par le Président\nde la République et de lui proposer toutes mesures jugées nécessaires\nou opportunes pour la bonne marche des affaires de l’Etat.",
+                "line_num": 240
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0027",
+                "summary": "This partial document is a French-language ministerial decree from the Democratic Republic of Congo, issued by the Minister of Justice. Its main purpose is to grant legal personality (official recognition as a legal entity) to a non-profit religious association called \"Mission Mondiale Message de Vie\" (M.M.M.V.). The decree cites the legal foundations for this decision, including the Transitional Constitution and specific laws governing non-profit organizations. It references the association's formal request and a declaration from its members. The document also notes the decree's entry into force upon signature and provides administrative details like the date, place, and decree number.",
+                "line_num": 249
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0028",
+                "summary": "###### Article 2\n\nEst affecté  pour exercer les fonctions du Premier Substitut du\nProcureur de la République.\nMonsieur Fiami Sylvanusa : Matricule : 505.172.\nArticles 3 :\nSont Affectés Pour exercer les fonctions de substituts du\nprocureur de la République.\n1. Monsieur Dansenga Benjamin, Matricule : N.U.\n2. Monsieur Kola Tutukani, Matricule : N.U.\nJournal Officiel - Banque des Données Juridiques - 2013\n\n1er décembre 2003                                        Journal Officiel de la République Démocratique du Congo                         Première partie - numéro 23\n\n15\n16",
+                "line_num": 291
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0029",
+                "summary": "This partial document is a legal announcement from the Official Journal of the Democratic Republic of Congo, dated December 1, 2003. It approves a declaration from August 25, 2003, in which the majority of an association's members designated specific individuals to various leadership roles. The main point is the formal appointment and listing of the association's new officers, including the President, Vice-President, Legal Advisor, and heads of administration, finance, public relations, and general management.",
+                "line_num": 309
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0030",
+                "summary": "This partial document contains the final articles and administrative details of Decree No. 03/040 from the Democratic Republic of the Congo. The main points covered are the decree's effective date (upon signature), its issuance details (Kinshasa, 25 November 2003, by President Joseph Kabila), and its purpose: to repeal the earlier Decree No. 048/2001 which established the Commissariat Général à la Francophonie. It lists the legal foundations (the Transitional Constitution and another decree) and notes the Council of Ministers was consulted. The text also includes the publication information for the Official Journal.",
+                "line_num": 339
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0031",
+                "summary": "This partial document is a presidential decree from the Democratic Republic of Congo, dated November 25, 2003. Its main points are the repeal of a previous decree (No. 087/2002) that had established a Government Commissioner's office for monitoring the peace process in the Great Lakes Region. It cites the legal basis for this action, including the Transitional Constitution and another decree on ministerial responsibilities. The document states that the Minister of Justice is responsible for its execution and that it takes effect upon the President's signature.",
+                "line_num": 366
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0032",
+                "summary": "The partial document is an official approval of the leadership appointments for an association. It lists the individuals designated to specific executive and managerial positions, including President/Legal Representative, National Secretary, Treasurer, and officers for External Relations/Youth, Women/Families/Christian Education, and Social Affairs/Development.",
+                "line_num": 388
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0033",
+                "summary": "This partial document is the enacting clause and preamble of a presidential decree (Décret n° 03/039) from the Democratic Republic of the Congo. It states the decree's effective date (upon signature) and place of issuance (Kinshasa, 25 November 2003). It identifies the decree's purpose: to repeal a prior decree (n° 242 from 1999) that had established the Commissariat Général à la Réinsertion (General Commissariat for Reintegration). The text lists the legal foundations for this action, citing the Transitional Constitution and another decree defining ministerial roles, and notes that the Council of Ministers was consulted. It concludes with the word \"DECRETES,\" formally introducing the operative articles that follow.",
+                "line_num": 412
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0034",
+                "summary": "This partial document is an official approval record listing the appointments of individuals to specific roles within an association. The main points covered are:\n\n1.  The approval of nominations made on September 22, 203, by the majority of the association's members.\n2.  A detailed list of appointed individuals and their corresponding positions, including:\n    *   The Principal Legal Representative and five successive Substitute Legal Representatives.\n    *   National Administrative Secretaries and their Deputies for the East and West Regions.\n    *   The Community President of the Mothers.\n    *   The Bishop of the Kisangani Diocese.\n    *   A Delegate of the Legal Representative to Zambia.",
+                "line_num": 432
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0035",
+                "summary": "###### Article 2\n\nSont abrogées toutes les dispositions antérieures contraires au\nprésent Arrêté ;",
+                "line_num": 474
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V : Des dispositions abrogatoires et finales",
+            "node_id": "0036",
+            "prefix_summary": "#### Chapitre V : Des dispositions abrogatoires et finales",
+            "line_num": 480,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0037",
+                "summary": "###### Article 20\n\nLe Directeur de Cabinet et les personnes spécialement  déléguées\npar lui à cet effet, ont le pouvoir, dans les limites des crédits\nbudgétaires et dans le respect des lois, règlements et instructions\nbudgétaires, d’engager les dépenses nécessaires au fonctionnement\ndu Cabinet.\nJournal Officiel - Banque des Données Juridiques - 2013\n\n1er décembre 2003                                        Journal Officiel de la République Démocratique du Congo                         Première partie - numéro 23\n\n5\n6",
+                "line_num": 483
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0038",
+                "summary": "###### Article 21\n\nSont abrogées toutes les dispositions antérieures contraires au\nprésent Décret.",
+                "line_num": 498
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0039",
+                "summary": "This partial document is a presidential decree (Décret n° 03/037) issued by President Joseph Kabila in the Democratic Republic of Congo. The main points covered are:\n\n1.  **Purpose:** It revokes a previous decree (Décret n° 144 from 1998) that had dismissed magistrates (judges).\n2.  **Legal Basis:** The decree cites its constitutional and legal foundations, including the Transitional Constitution and a 1988 law on the status of Magistrates.\n3.  **Contextual Motivation:** It references a resolution from the \"Dialogue Intercongolais\" concerning the reinstatement and rehabilitation of magistrates who were dismissed or forced into early retirement.\n4.  **Process:** It notes that the Council of Ministers was consulted.\n5.  **Administrative Details:** It specifies that the President's Chief of Staff is responsible for execution, states the decree is effective upon signature, and provides the date and place of issuance (Lubumbashi, 18 November 2003).",
+                "line_num": 504
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0040",
+                "summary": "###### Article 3\n\nLe Cabinet du Président de la République comprend :\n- Le Directeur de Cabinet et deux Directeurs de Cabinet\nAdjoints ;\n- Huit  Conseillers Principaux  assistés chacun d’un Collège de\ntout au plus cinq Conseillers ;\n- Des membres des services  personnels  du Chef de l’Etat ;\n- Le Chef  du Protocole ;\n- Le Porte-Parole du Chef de l’Etat.",
+                "line_num": 534
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0041",
+                "summary": "This partial document is the final section and enacting clause of a Ministerial Order (Arrêté Ministériel) from the Ministry of Justice of the Democratic Republic of Congo, dated November 2003. The main points covered are:\n\n1.  **Execution and Effective Date:** It charges the Secretary General for Justice with the execution of the order and states that it enters into force on the date of its signature (November 6, 2003).\n2.  **Identification of the Order:** It formally identifies the order by its number (535/CAB/MIN/J&GS/2003) and its purpose: granting legal personality to a non-profit religious association called \"Mission Evangélique de Jésus-Christ au Congo\" (M.E.J.C.CO.).\n3.  **Legal Basis (Vu Clauses):** It lists the constitutional, legislative, and regulatory texts that provide the legal authority for the minister to issue this order. These include the Transitional Constitution, the law on non-profit associations, and several decrees organizing the government.\n4.  **Specific Motivating Documents:** It cites the specific request for legal personality made by the association (dated October 31, 2003) and a declaration from its majority members (dated May 2, 2003) as the direct motivations for the order.\n5.  **Enactment:** The text concludes with the word \"ARRETE\" (Decreed), signaling the minister's official decision.",
+                "line_num": 546
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0042",
+                "summary": "This partial document is the final section and preamble of a Ministerial Order from the Democratic Republic of Congo. The main points covered are:\n1.  The administrative details of the Order: its number (536/CAB/MIN/J&GS/2003), date (07 November 2003), place of signature (Kinshasa), and the minister responsible (Batonnier Honorius Kisimba Ngoy).\n2.  The purpose of the Order: to approve modifications to the statutes and the nomination of administrators for a non-profit religious association called \"21eme Communauté Nation du Christ en Afrique\".\n3.  The legal basis for the Order: a list of \"Vu\" (Considering) clauses referencing the Transitional Constitution, laws on non-profit associations, decrees on government organization and ministerial attributions, and a series of previous orders and decisions that trace the historical evolution and name changes of the association from \"Uninevangelized Fields Mission\" (1932) to its current name.\n4.  The enactment clause: assigning execution to the Secretary General for Justice and stating the Order comes into force on the date of its signature.\n5.  The publication reference: indicating it will be published in the Official Journal (Journal Officiel) on 1 December 2003.",
+                "line_num": 587
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0043",
+                "summary": "This partial document is the final section of a Ministerial Order from the Democratic Republic of Congo's Ministry of Justice. It contains the enacting clause and the legal preamble. The main points covered are:\n\n1.  **Execution and Effective Date:** It mandates the Secretary General for Justice to execute the order and states it comes into force on the date of its signature (November 7, 2003, in Kinshasa).\n\n2.  **Subject of the Order:** Identifies the document as Ministerial Order No. 538, which approves the appointment of persons designated to represent the foreign non-profit association \"Neo-Apostolic Church\" in the DRC.\n\n3.  **Legal Basis (Preamble):** Lists the series of constitutional provisions, laws, decrees, and prior ordinances that provide the legal authority for this order. These include the Transitional Constitution, laws on non-profit associations, decrees on government organization, and a previous ordinance authorizing the church's activities in the DRC.\n\n4.  **Trigger for the Order:** Notes that the order was issued in response to a request dated August 5, 2003, from the worldwide president of the association seeking approval for the designated representatives.",
+                "line_num": 644
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0044",
+                "summary": "This partial document is a legal instrument from the Democratic Republic of the Congo, specifically a judicial organization order. The main points covered are:\n\n1.  **Legal Basis:** It lists the constitutional and legal texts that provide the authority for the order, including the Transitional Constitution and several specific laws and decrees concerning public service personnel, government organization, and ministerial attributions.\n2.  **Purpose:** The order is for the \"designation and assignment of personnel of the judicial order.\"\n3.  **Administrative Details:** It includes the document's number, date of issuance (21 November 2003), the responsible authority (the Minister of Justice), and its publication details in the Official Journal.\n4.  **Preamble to a Decision:** The text concludes with a reference to the personal files of the individuals concerned and the word \"ARRETE,\" indicating it is the preamble leading to the actual decree or decision that follows.",
+                "line_num": 686
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0045",
+                "summary": "This partial document is an official list, designated as Article 3, which appoints specific individuals to serve as Judicial Police Inspectors for the Prosecution at the High Court of Ituri in Bunia. It provides the names, ranks, and identification numbers of eight appointed officers.",
+                "line_num": 721
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0046",
+                "summary": "###### Article 4\n\nSont affectés pour exercer les fonctions en regard de leurs noms\nau sein de l’administration pénitentiaire de Bunia :\n1. Monsieur Episini Odungunsila : Directeur de Prison ;\nMatricule : 166.776 N\n2. Monsieur Mamudi Dalima : Directeur Adjoint ;\nMatricule :345.796 F\n3. Monsieur Asumani bin Ali : Greffier ;\nMatricule : 166.497 H\n4. Monsieur Angato Wanani : Surveillant en Chef ;\nMatricule 355.974 H\n5. Monsieur Ngangeni Ghibi : Surveillant ;\nMatricule : 355.974 P\n6. Madame Ndukuka Antoinette : Surveillante ;\nMatricule : 355.974 K",
+                "line_num": 745
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0047",
+                "summary": "This partial document is an excerpt from the Official Journal of the Democratic Republic of the Congo (J.O.R.D.C.). It covers three main administrative and procedural points:\n\n1.  **Subscription and Publication Procedures:** It details the conditions for subscribing to the Official Journal, purchasing individual issues, and submitting documents for paid insertion. This includes mailing addresses, payment methods, subscription periods (annual, starting January 1st), and where to direct complaints.\n\n2.  **Mandate and Mission of the Official Journal:** It states the legal missions of the J.O.R.D.C. as defined by a 2003 decree. These missions are: publishing legislative and regulatory texts; publishing legal notices, corporate acts, and industrial property documents; and updating/coordinating legislative texts. It also mentions its role as a legal database and depository of published documents.\n\n3.  **Structure and Content of the Publication:** It describes the subdivision of the Official Journal into four parts, each with its own publication frequency and content focus:\n    *   **First Part (bi-monthly):** Laws, decrees, ministerial orders, legal procedures, and announcements.\n    *   **Second Part (bi-monthly):** Corporate documents, association statutes, and political party statutes.\n    *   **Third Part (quarterly):** Patents, industrial designs, and trademarks.\n    *   **Fourth Part (annual):** Chronological and analytical tables of acts, plus special issues for in-demand texts.\n\nThe document also includes a publication credit line noting financial support from the Italian Government and technical support from UNICRI.",
+                "line_num": 763
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0048",
+                "summary": "###### Article 4\n\nSont abrogés toutes dispositions antérieures contraires au présent\narrêté.",
+                "line_num": 895
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0049",
+                "summary": "###### Article 4\n\nLe  Directeur de Cabinet et  les Directeurs de Cabinet Adjoints\nsont nommés et, le cas échéant, relevés de leurs fonctions par Décret\ndu  Président de la République.\nLe Directeur de Cabinet  a rang de Ministre tandis que les\nDirecteurs de Cabinet Adjoints ont rang de Vice-Ministre.\nJournal Officiel - Banque des Données Juridiques - 2013\n\n1er décembre 2003                                        Journal Officiel de la République Démocratique du Congo                         Première partie - numéro 23\n\n3\n4",
+                "line_num": 901
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0050",
+                "summary": "###### Article 5\n\nLe Directeur de Cabinet assure la direction, l’organisation, la\ncoordination et la surveillance de l’ensemble du Cabinet.\nIl assure l’ordonnancement des dépenses du Cabinet et surveille\nla comptabilité.\nIl statue par voie de décision.",
+                "line_num": 916
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0051",
+                "summary": "This partial document is a legal decree (Arrêté) from the Minister of Justice of the Democratic Republic of Congo, dated November 21, 2003. The main points covered are:\n\n1.  **Legal Basis:** It cites the constitutional and legal foundations for the decree, including the Transitional Constitution, laws on the status of magistrates, and decrees on the organization of the Transitional Government.\n2.  **Purpose:** The decree is for the designation and assignment of sitting magistrates (*magistrats du siège*).\n3.  **Specific Appointment:** It appoints a specific individual, Mr. Ekabela Mombombia Ruffin (with his official identification number), to the position of President of the Tribunal de Grande Instance (High Court) of Ituri, located in Bunia.\n4.  **Administrative Details:** It instructs the Permanent Secretary of the High Council of the Judiciary to execute the order and states it comes into effect on the date of its signature in Kinshasa.",
+                "line_num": 925
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0052",
+                "summary": "###### Article 5\n\nSont abrogées toutes les dispositions antérieures contraires au\nprésent arrêté.",
+                "line_num": 957
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0053",
+                "summary": "###### Article 6\n\nLe Directeur de Cabinet dispose d’un bureau restreint comprenant\nnotamment   trois  Assistants, un Secrétaire de Cabinet, un Chargé de\nMission, un Secrétaire Particulier et un  Secrétaire Administratif.\nLes Directeurs de Cabinet Adjoints  disposent, chacun, d’un\nbureau restreint comprenant  deux  Assistants, un  Chargé de Mission,\nun Secrétaire Particulier et un  Secrétaire Administratif.",
+                "line_num": 963
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0054",
+                "summary": "This partial document is a section of a ministerial order (Arrêté) from the Ministry of Justice of the Democratic Republic of Congo, dated November 21, 2003. The main points covered are:\n\n1.  **Legal Basis:** It cites the constitutional and legal foundations for the order, including the Transitional Constitution and several decrees concerning the organization of government and the status of magistrates.\n2.  **Specific Appointment:** The core content is the appointment and assignment of a specific individual, Monsieur Mbusa Muswaswa (with his identification number), to the position of Prosecutor of the Republic (*Procureur de la République*) at the High Court (*Tribunal de Grande Instance*) of Ituri in Bunia.\n3.  **Administrative Details:** It states that the Secretary General for Justice is responsible for executing the order, which came into effect on the date of its signature in Kinshasa.",
+                "line_num": 973
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0055",
+                "summary": "###### Article 7\n\nChaque Collège des Conseillers fonctionne sous la responsabilité\nd’un Conseiller Principal.\nLes Conseillers Principaux et  les Conseillers   sont nommés et, le\ncas échéant, relevés de leurs fonctions par Décret du  Président de la\nRépublique.",
+                "line_num": 1005
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0056",
+                "summary": "###### Article 8\n\nL’organisation et le fonctionnement des Collèges et des Services\nPersonnels du Chef de l’Etat  sont déterminés par une décision du\nDirecteur de Cabinet après approbation du Président de la\nRépublique.",
+                "line_num": 1014
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0057",
+                "summary": "###### Article 9\n\nLes services personnels du Chef de l’Etat comprennent :\n- deux Ambassadeurs Itinérants ;\n- un Coordonnateur de la Sécurité interne ;\n- un Assistant Financier ;\n- un Assistant Logistique ;\n- un Secrétaire Particulier ;\n- un Secrétaire Administratif ;\n- un Chargé de Mission.\nIls sont nommés et, le cas échéant, relevés de leurs fonctions par\nDécret du Président de la République.",
+                "line_num": 1022
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f28c6951-106d-43ea-870d-9b7e1385f8d0"
+    ],
+    "0002": [
+      "5d7f66ca-f308-4263-81e9-2f7e107e4b47"
+    ],
+    "0003": [
+      "bda361b4-133c-41c9-9c3e-9a32663003bd"
+    ],
+    "0005": [
+      "7eefab62-02f7-4f14-a88b-d2f9f94af5c9"
+    ],
+    "0006": [
+      "520cedfc-c355-439f-8224-4a737cf0b75e"
+    ],
+    "0007": [
+      "3ca66e8f-60ba-4cff-a99c-06ccee6d55e7"
+    ],
+    "0008": [
+      "d7050c37-f1ab-4a7d-828c-770ee7afb017"
+    ],
+    "0009": [
+      "736cb79d-94c8-4c88-b9ad-e1bc838d310f"
+    ],
+    "0011": [
+      "380d795e-388b-4c33-b411-ca302f75618a"
+    ],
+    "0012": [
+      "a6f5d172-e2a2-40a4-b3e8-aa904056b283"
+    ],
+    "0013": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0014": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0015": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0016": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0017": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0018": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0019": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0020": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0021": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0022": [
+      "4d882078-b441-46e5-a6f4-ca3dfe2f1f6f",
+      "91b89cb2-b8ca-41bd-a19d-15e440b41e72",
+      "aada0141-6fa3-4b74-ae93-bbe45d592245",
+      "904c365d-20eb-4da6-8493-2341a834d57d",
+      "8f959ba5-be77-4334-9bc4-ab788f527e58",
+      "b0f6b49d-d2b4-490b-97d6-57a98797b139",
+      "258a326d-0784-4be6-bcb2-e1bd97471779",
+      "294200ee-5af3-4417-abbd-7c127c04bc7e",
+      "30703eef-f5d3-4978-b74f-f5fd08cbe157",
+      "358033cf-2830-48c0-be0d-eb8370a405c7"
+    ],
+    "0023": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0024": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0026": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0027": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0028": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0029": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0030": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0031": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0032": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0033": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0034": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0035": [
+      "042f642c-ab71-41b2-b5c9-ddb42fb1a4f0",
+      "c89c0c1b-4857-4bbd-b3d3-40bf1e6ba468",
+      "2ce12960-1c32-47d7-93a7-3c06c3901542",
+      "c30e71c9-0cc6-4a48-807f-162f9f311fd9",
+      "3f03674a-aa21-40bf-938e-9d8ffb0e4882",
+      "84d3539d-c6ed-4d93-b149-745d194e8b93",
+      "e3033ef3-7883-4b5c-ad97-8591bcd15ba4",
+      "abd89247-73ae-4b3f-bd6f-1d1ad56b5124",
+      "20bd559b-2fc5-4e3b-a2ea-1baadcf1474f",
+      "c1bf5fd2-8f21-4788-8ed4-b61e6dfabba8",
+      "5ee04c78-e961-47f2-8d9b-5ec1e4150f50",
+      "f0ba7d68-5619-4dce-aa85-6abf332cc702"
+    ],
+    "0037": [
+      "18a1bdbb-aee1-43aa-9125-c8c57bab74cc"
+    ],
+    "0038": [
+      "5a36f577-71f9-460c-8c43-73d9c16f8980"
+    ],
+    "0039": [
+      "b00481cf-639c-4944-8a2b-e40ac5ae5173"
+    ],
+    "0040": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0041": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0042": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0043": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0044": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0045": [
+      "b91bf8f2-54bb-40f2-bad9-cab7dd4c9c5b",
+      "08570c05-8ec5-4e26-a2a4-2998456f67d7",
+      "a67d2d16-706e-408a-a338-b2413e7463a8",
+      "ae2b9939-b527-4d47-998c-c0306377fce3",
+      "5dd2ba10-ceb2-4f31-8e5f-0f0255e54678",
+      "f0527fa9-ba33-4409-bbd3-c8e197f73ea7"
+    ],
+    "0046": [
+      "469b56a3-66f4-42db-9a17-9fa0d85b725c",
+      "4587e27c-418c-4b61-b206-b203b2ba1046",
+      "d839683c-c3f5-4d13-961c-a70c4faf3b00",
+      "0c6d6091-d7cd-4910-a0a9-27b0ab237845"
+    ],
+    "0047": [
+      "469b56a3-66f4-42db-9a17-9fa0d85b725c",
+      "4587e27c-418c-4b61-b206-b203b2ba1046",
+      "d839683c-c3f5-4d13-961c-a70c4faf3b00",
+      "0c6d6091-d7cd-4910-a0a9-27b0ab237845"
+    ],
+    "0048": [
+      "469b56a3-66f4-42db-9a17-9fa0d85b725c",
+      "4587e27c-418c-4b61-b206-b203b2ba1046",
+      "d839683c-c3f5-4d13-961c-a70c4faf3b00",
+      "0c6d6091-d7cd-4910-a0a9-27b0ab237845"
+    ],
+    "0049": [
+      "469b56a3-66f4-42db-9a17-9fa0d85b725c",
+      "4587e27c-418c-4b61-b206-b203b2ba1046",
+      "d839683c-c3f5-4d13-961c-a70c4faf3b00",
+      "0c6d6091-d7cd-4910-a0a9-27b0ab237845"
+    ],
+    "0050": [
+      "0b8cc51b-8484-455b-946e-c286e611cb71",
+      "f1119cad-bfbd-4181-94a8-7086393da6b9",
+      "09ecc686-6780-4297-b6e4-fc047e3b37db"
+    ],
+    "0051": [
+      "0b8cc51b-8484-455b-946e-c286e611cb71",
+      "f1119cad-bfbd-4181-94a8-7086393da6b9",
+      "09ecc686-6780-4297-b6e4-fc047e3b37db"
+    ],
+    "0052": [
+      "0b8cc51b-8484-455b-946e-c286e611cb71",
+      "f1119cad-bfbd-4181-94a8-7086393da6b9",
+      "09ecc686-6780-4297-b6e4-fc047e3b37db"
+    ],
+    "0053": [
+      "2f489fb2-2b9c-429f-abf3-4c3a9115d4c3",
+      "66ea1bed-d0c5-42ab-a4e3-c5ce1ff7f983"
+    ],
+    "0054": [
+      "2f489fb2-2b9c-429f-abf3-4c3a9115d4c3",
+      "66ea1bed-d0c5-42ab-a4e3-c5ce1ff7f983"
+    ],
+    "0055": [
+      "1df7db42-212f-4a2e-8173-afe16d4d26f8"
+    ],
+    "0056": [
+      "ff1d4ea0-ec54-4bb8-be66-ceee9b7eac24"
+    ],
+    "0057": [
+      "c4936350-38fb-45b3-93ea-8ffd0927abbe"
+    ]
+  },
+  "node_count": 58,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:19:05.203274",
+  "article_count": 53,
+  "generation_time_s": 152.8046898841858
+}

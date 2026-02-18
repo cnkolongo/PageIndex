@@ -1,0 +1,239 @@
+{
+  "slug": "AM-35-04-03-2013-2013",
+  "bundle_path": "backups/all_bundles/code/AM-35-04-03-2013-2013.json",
+  "document_id": "fe63d8f8-c0a8-4dcc-9949-c8793b7b520e",
+  "document_title": "AM.35.04.03.2013",
+  "tree_json": {
+    "doc_name": "AM-35-04-03-2013-2013",
+    "structure": [
+      {
+        "title": "AM.35.04.03.2013",
+        "node_id": "0000",
+        "prefix_summary": "# AM.35.04.03.2013",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\na pour objet de fixer les proc�dures applicables au Guichet Unique de Cr�ation\nd�Entreprises",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial document outlines the procedures for submitting and paying fees in a business registration process. It specifies that upon receiving a complete application, the receiving agent issues a receipt and informs the applicant of the total fees. A payment note is issued, which must be settled within 24 hours to avoid halting the registration process. Finally, it details that the applicant pays at a bank counter, submits proof of payment to the One-Stop Shop, and this proof is then forwarded to the Notary.",
+            "line_num": 10
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\nn�a pas fait l�objet de paiement dans les 24 heures de la r�ception de la note\nde perception est retourn� au requ�rant qui peut le retirer � tout moment au\nGuichet Unique de Cr�ation d�Entreprise.\nLe pr�pos� � la r�ception\npublie r�guli�rement la liste des dossiers retourn�s. Celle-ci est �galement\npubli�e sur le site web du Guichet Unique.\nParagraphe 3 : Phase\nd�authentification et d�immatriculation au Registre du Commerce et du Cr�dit\nMobilier",
+            "line_num": 27
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\nAu vue du dossier et de la\npreuve de paiement, le Notaire proc�de � l�authentification des statuts ou de\nl�acte modificatif conform�ment � la loi et aux r�glements en vigueur. Il\ntransmet le dossier au Greffier divisionnaire.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "###### Article 14\n\ndivisionnaire proc�de � l�immatriculation au Registre du Commerce et du Cr�dit\nMobilier ou � l�inscription modificative conform�ment � la loi et retourne le\ndossier au pr�pos� � la r�ception.",
+            "line_num": 48
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0006",
+            "summary": "###### Article 15\n\nL�authentification des statuts, l�immatriculation ou l�inscription modificative\nau Registre du Commerce et du Cr�dit Mobilier se font dans les 24 heures de la\nr�ception du dossier.\nParagraphe 4 : Phase de la\npublication au Journal officiel",
+            "line_num": 55
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0007",
+            "summary": "###### Article 16\n\nl�immatriculation ou l�inscription modificative au Registre du Commerce et du\nCr�dit Mobilier, le Notaire du Guichet Unique signe l�avis portant sur la\ncr�ation ou la modification de l�acte de soci�t�. Cet avis est transmis au\nJournal officiel pour publication. Il est publi� �galement sur le site web du\nGuichet Unique de Cr�ation d�Entreprise.",
+            "line_num": 64
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0008",
+            "summary": "###### Article 17\n\nde l�avis de cr�ation de la soci�t� ou de modification de l�acte de soci�t� se\nfait dans les 24 heures de sa transmission.\nParagraphe 5 : D�lai de\ncr�ation d�entreprise",
+            "line_num": 73
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0009",
+            "summary": "###### Article 18\n\nn�est pas, dans le d�lai de trois jours, fix� sur les raisons de non traitement\nde son dossier, il a le droit d�exercer un recours gracieux aupr�s du Directeur\ng�n�ral du Guichet Unique.\nS�il obtient gain de cause,\nle Guichet Unique de Cr�ation d�Entreprise est tenu d�authentifier les statuts,\nd�accorder l�immatriculation ou l�inscription modificative au Registre du\nCommerce et du Cr�dit Mobilier et de faire publier un avis sur la cr�ation de la\nsoci�t� ou la modification de l�acte de soci�t� au Journal officiel ainsi que\nsur le site web du Guichet Unique.\nParagraphe 6 : Fiche\nsignal�tique de traitement du dossier",
+            "line_num": 81
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0010",
+            "summary": "###### Article 19\n\ncircuit de traitement du dossier, ce dernier est accompagn� par une fiche\nsignal�tique qui indique de mani�re claire et pr�cise, au niveau de chaque\nservice la date et l�heure de r�ception ou de transmission.",
+            "line_num": 96
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\ndossiers d�enregistrement des entreprises au Guichet Unique de Cr�ation\nd�Entreprise ob�it aux principes de c�l�rit�, d�efficacit� et d��conomie de\ntemps et de transparence.",
+            "line_num": 103
+          },
+          {
+            "title": "Section",
+            "node_id": "0012",
+            "prefix_summary": "##### Section\nIII : Archivage",
+            "line_num": 110,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\nrelatives � chaque dossier trait� au Guichet Unique sont transmises aux services\nci-apr�s :\n- le Secr�taire g�n�ral �\nl�Economie Nationale ;\n- le Secr�tariat g�n�ral au\nCommerce Ext�rieur ;\n- la Direction G�n�rale des\nImp�ts ;\n- l�Office National de\nl�Emploi ;\n- l�Inscription g�n�rale du\nTravail ;\n- l�Institut National de la\nS�curit� Sociale et\n- l�Agence Nationale de\nPromotion des Investissements.",
+                "line_num": 114
+              }
+            ]
+          },
+          {
+            "title": "Section IV",
+            "node_id": "0014",
+            "prefix_summary": "##### Section IV\n: Dispositions finales",
+            "line_num": 134,
+            "nodes": [
+              {
+                "title": "Article 21",
+                "node_id": "0015",
+                "summary": "###### Article 21\n\n: Le Guichet Unique de Cr�ation d�Entreprise prend toutes les dispositions pour\nl�archivage sur support papier et sur support �lectronique des dossiers et\npi�ces relatifs aux diff�rentes demandes trait�es. L�acc�s aux dossiers des\narchives du Guichet Unique est libre et gratuit, sous r�serve de se conformer au\nr�glement int�rieur du Guichet Unique.",
+                "line_num": 138
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0016",
+                "summary": "###### Article 22\n\n: Le Directeur g�n�ral du Guichet Unique de Cr�ation d�Entreprise est charg� de\nl�ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait �\nKinshasa, le 4 mars 2013\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 147
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0017",
+                "summary": "###### Article 3\n\ncr�ation d�entreprise ne peut, en aucun cas, exc�der le d�lai r�glementaire de\ntrois jours ouvrables.\nLe d�lai de trois jours court\n� partir de la r�ception conforme du dossier complet de demande\nd�immatriculation au Registre de Commerce et du Cr�dit Mobilier.\nCe d�lai est aussi valable\npour les demandes d�inscription modificative au Registre du Commerce et du\nCr�dit Mobilier. Aucun pr�texte ne peut justifier le traitement en retard des\ndossiers de cr�ation d�entreprise.",
+                "line_num": 161
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0018",
+                "summary": "The partial document describes transparency requirements in the business creation process. Specifically, Article 4 outlines measures for a Unified Service Point (Guichet Unique) to ensure transparency. These include: publicly displaying procedures, conditions, and required fees; publishing notifications online and weekly lists of registered companies or those undergoing registration modifications; and regularly producing and publishing statistics on the number of newly created or modified business registrations.",
+                "line_num": 174
+              }
+            ]
+          },
+          {
+            "title": "Section II",
+            "node_id": "0019",
+            "prefix_summary": "##### Section II",
+            "line_num": 195,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0020",
+                "summary": "###### Article 5\n\nGuichet Unique de Cr�ation d�Entreprise a l�obligation de r�ceptionner tout\ndossier de demande d�immatriculation ou d�inscription modificative au Registre\nde Commerce et du Cr�dit Mobilier et de l�examiner dans les d�lais prescrits. Il\nlui est interdit d�opposer des exigences li�es � des consid�rations autres que\ncelles r�sultant de la loi et des r�glements.\n. Processus de\ntraitement des dossiers de cr�ation d�entreprise\nParagraphe 1. Phase de la\nR�ception et de V�rification du dossier",
+                "line_num": 198
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0021",
+                "summary": "The partial document outlines the roles and responsibilities of the technical secretariat within a \"One-Stop Shop\" for business creation. Its main duties include receiving and verifying business registration applications from individuals or entities, guiding applicants, monitoring the processing of files, ensuring deadlines are met, compiling and issuing necessary documents, and performing other tasks as assigned.",
+                "line_num": 211
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0022",
+                "summary": "###### Article 7\n\ndemande d�immatriculation ou d�inscription modificative au Registre du Commerce\net du Cr�dit Mobilier est d�pos� � la r�ception sur base d�un formulaire unique.\nChaque dossier comprend les �l�ments suivants :\n1�.Pour la personne physique\n: le formulaire requis d�ment rempli et sign� par le requ�rant ou son\nmandataire, accompagn� des pi�ces exig�es par la loi ;\n2�.Pour la personne morale :\nle formulaire requis d�ment rempli et sign� par le requ�rant ou son mandataire,\naccompagn� des statuts et des autres pi�ces exig�es par la loi.",
+                "line_num": 233
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0023",
+                "summary": "###### Article 8\n\nLe pr�pos� � la r�ception\ns�assure que :\n1�. chaque dossier d�pos� est\ncomplet et qu�aucun document ou renseignement ne fait d�faut ;\n2�. les statuts ou l�acte\nmodificatif d�pos� r�pondant aux conditions exig�es par la loi et par les\nr�glements pour �tre authentifi�s ;\n3�. la d�nomination choisie\nne fait pas confusion avec la d�nomination d�une entreprise d�j� existante ;\n4�. les formulaires sont\ncorrectement remplis.\nSi le dossier n�est pas\ncomplet ou n�est pas conforme, il est retourn� au requ�rant dans les 24 heures\npour compl�tion ou pour correction.",
+                "line_num": 246
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0024",
+                "summary": "###### Article 9\n\nr�ception et de la v�rification du dossier se d�roule en pr�sence du requ�rant.\nElle ne peut en aucun cas d�passer trente minutes.\nParagraphe 2 : Phase du\npaiement",
+                "line_num": 264
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "759deb48-560e-42d6-9057-71d07111bf1e"
+    ],
+    "0002": [
+      "1336a591-3f86-43f8-bb08-3405683ce24b"
+    ],
+    "0003": [
+      "8ec206a9-e2a8-488a-90b1-9e9266e3d810"
+    ],
+    "0004": [
+      "ba28bd0a-d974-4efc-b78b-042d861ff512"
+    ],
+    "0005": [
+      "df25ff21-a502-4fcf-8d19-ea2f359d5a32"
+    ],
+    "0006": [
+      "d2f06a0a-56f9-4380-83ef-dbd250611e0f"
+    ],
+    "0007": [
+      "2a91c164-1de3-4c03-9472-69e2047b0503"
+    ],
+    "0008": [
+      "bc70d25b-dae0-4804-ab88-7083bcd6d429"
+    ],
+    "0009": [
+      "fd8b6985-0ece-422d-959f-aa95492a5793"
+    ],
+    "0010": [
+      "3126ad01-8d5c-43b5-adb9-2870831bce52"
+    ],
+    "0011": [
+      "11efc2fd-b436-4b66-8a31-b1fcc6d55f6d"
+    ],
+    "0013": [
+      "fc913144-06b8-4c0c-a0d0-8a0bbdcf7ec7"
+    ],
+    "0015": [
+      "141c1585-5aa2-44c6-a79e-b3103d9e6124"
+    ],
+    "0016": [
+      "bf22525a-f3ba-4a3a-9c27-8f94f93b7a17"
+    ],
+    "0017": [
+      "3fcc54ef-1392-4f90-b75c-8bf24923d02e"
+    ],
+    "0018": [
+      "7496a9ab-2ee8-47f9-925c-513884643cd6"
+    ],
+    "0020": [
+      "3232d3a4-f43c-426f-aab1-cf8cc4c4a0fa"
+    ],
+    "0021": [
+      "350f420c-7b89-4144-a22e-03cb49cf7fef"
+    ],
+    "0022": [
+      "7df07d18-b0db-4bcd-ae46-b65b8b8c3a21"
+    ],
+    "0023": [
+      "a84a1337-7881-4214-a772-a944bcfe44bd"
+    ],
+    "0024": [
+      "a4af4fa4-5f44-43e7-9469-3b2504f6f478"
+    ]
+  },
+  "node_count": 25,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:45:50.501915",
+  "article_count": 21,
+  "generation_time_s": 11.171242952346802
+}

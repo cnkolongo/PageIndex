@@ -1,0 +1,201 @@
+{
+  "slug": "AIM-06-11-01-2001",
+  "bundle_path": "backups/all_bundles/code/AIM-06-11-01-2001.json",
+  "document_id": "d51f0d06-8478-4e94-a6b8-4d82ec4099e8",
+  "document_title": "AIM.06.11.01",
+  "tree_json": {
+    "doc_name": "AIM-06-11-01-2001",
+    "structure": [
+      {
+        "title": "AIM.06.11.01",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.06.11.01",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�\n06 novembre 2001. � ARR�T�\nINTERMINIST�RIEL 068/2001 portant modalit�s de contr�le des personnes et de\nleurs biens par les services publics dans les postes frontaliers, les\ninstallations portuaires, ferroviaires et a�roportuaires de la R�publique\nd�mocratique du Congo. (Minist�re\nde l'Int�rieur)\ner DES SERVICES PUBLICS",
+                "line_num": 7
+              },
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "###### Article S10\n\nCHAPITRE 6 DE L�ACC�S ET DE LA CIRCULATION DANS",
+                "line_num": 19
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0004",
+                "summary": "###### Article S11\n\nLES ZONES R�SERV�ES\nArt. 11.\n� L�acc�s et la circulation des personnes et\ndes v�hicules dans les zones r�serv�es sont strictement interdits.\nArt. 12.\n�Seules les personnes et les v�hicules munis\nd�un macaron ou d�une vignette d�livr� par l�autorit� a�roportuaire comp�tente\nsont autoris�s � acc�der et � circuler dans les zones r�serv�es.\nLa liste des personnes et des v�hicules\nautoris�s est affich�e aux entr�es des diff�rentes zones.",
+                "line_num": 24
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0005",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 38,
+            "nodes": [
+              {
+                "title": "Article S12",
+                "node_id": "0006",
+                "summary": "###### Article S12\n\nDE LA COLLABORATION ENTRE",
+                "line_num": 41
+              },
+              {
+                "title": "Article S13",
+                "node_id": "0007",
+                "summary": "###### Article S13\n\nLES SERVICES\nArt. 13.\n� Il est institu� un comit� national de s�ret�\na�roportuaire compos� des �l�ments mixtes fonctionnant sous le commandement du\ndirecteur g�n�ral de l�ASAA aux fins de pr�voir, ordonner et contr�ler toutes\nles activit�s s�curitaires.\nCe comit� fonctionne de mani�re ponctuelle en\ntenant compte des circonstances des temps et des lieux en R�publique\nd�mocratique du Congo.\nArt. 14.\n� En cas de besoin, il peut �tre cr�e un comit�\ncharg� de veiller mutatis\nmutandis, � la collaboration entre les\nservices op�rant dans les installations autres que les a�roports.",
+                "line_num": 46
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV",
+            "node_id": "0008",
+            "prefix_summary": "#### TITRE IV",
+            "line_num": 64,
+            "nodes": [
+              {
+                "title": "Article S14",
+                "node_id": "0009",
+                "summary": "###### Article S14\n\nDU D�TACHEMENT D�UNE",
+                "line_num": 67
+              },
+              {
+                "title": "SECTION D",
+                "node_id": "0010",
+                "prefix_summary": "##### SECTION D",
+                "line_num": 72,
+                "nodes": [
+                  {
+                    "title": "Article S15",
+                    "node_id": "0011",
+                    "summary": "This partial document contains Articles 15 through 19 of a military order or decree. The main points covered are: the establishment of a military court section at border posts (Art. 15); the suppression of specific listed military and police services, except under certain conditions (Art. 16); the prosecution of military and police offenders before the military court (Art. 17); the repeal of all contrary previous provisions (Art. 18); and the assignment of execution responsibilities to various general secretaries, directors, and administrators (Art. 19). The document concludes with a disclaimer stating it is under construction and that the texts are provided without liability by the holding associations.",
+                    "line_num": 75
+                  },
+                  {
+                    "title": "Article S2",
+                    "node_id": "0012",
+                    "summary": "This partial document outlines the legal framework for border control in the Democratic Republic of the Congo. It specifies the public services authorized to control travelers and their goods at border posts, distinguishing between those that are \"apparent\" (directly involved in control) and those that are \"non-apparent\" (responsible for classic security missions). It also establishes the order of control, naming the Directorate General of Migration (DGM) as the first and last authority encountered, with the power to deny entry or embarkation.",
+                    "line_num": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE II",
+            "node_id": "0013",
+            "prefix_summary": "#### TITRE II",
+            "line_num": 150,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0014",
+                "summary": "###### Article S3\n\nDE LA NATURE DU CONTR�LE A",
+                "line_num": 153
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0015",
+                "summary": "###### Article S4\n\nEFFECTUER PAR LES SERVICES PUBLICS\nCHAPITRE 1er DES TITRES DE TRANSPORT\nArt. 4.\n� La pr�sence des compagnies de transport est\njustifi�e dans les postes frontaliers, portuaire, ferroviaire et a�roportuaire\nexclusivement pour v�rifier la conformit� de l��mission et de l�usage des titres\nde voyage selon les normes et usages en R�publique d�mocratique du Congo et ce,\npour compte de leurs compagnies respectives, sauf mandat express d�une autre\ncompagnie quant � ce.",
+                "line_num": 158
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0016",
+                "summary": "The partial document covers the main points regarding the authority and procedures for conducting searches (fouille) at border points in Congo. It specifies which agencies are competent to perform searches at airports (RVA, DGM, OFIDA) and ports/rail stations/border posts (DGM, OFIDA), and notes which other agencies (ANR, ASAA, ONATRA, SNCC) must request searches from these competent services. It also describes the operational status of the personnel from these agencies and states that customs (OFIDA) searches of traveler belongings are not systematic but depend on the professional intuition of officers.",
+                "line_num": 171
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0017",
+                "summary": "###### Article S6\n\nCHAPITRE 3 DU CONTR�LE DES TITRES DE",
+                "line_num": 195
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0018",
+                "summary": "###### Article S7\n\nCHANCELLERIE, DE VOYAGE ET D�HYGI�NE\nArt. 7.\n� Seule la DGM contr�le la r�gularit� des\ntitres de chancellerie (passeport et visa). Elle contr�le aussi la carte de\nvaccination. Le cas �ch�ant, elle oriente le voyageur vers les services de sant�\npour vaccination et �mission de la carte correspondante.\nLe service d�hygi�ne doit fonctionner dans un\ncentre sanitaire ad hoc\no� une infrastructure de base est pr�vue.",
+                "line_num": 200
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0019",
+                "summary": "The partial document outlines the roles and deployment locations of four security entities (PNC, RVA, ONATRA, SNCC) within formalities zones. It specifies that the PNC is stationed at all access barriers to these zones, responds to requests from other public order services, and ensures security during access control upon express requisition. The police forces of RVA, ONATRA, and SNCC are also deployed at access barriers and are tasked with verifying boarding passes within reserved areas.",
+                "line_num": 213
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0020",
+                "summary": "###### Article S9\n\nCHAPITRE 5 DE L�ASAA\nArt. 10.\n� Le personnel de l�ASAA a une mission\nexclusivement s�curitaire et ce, dans la nature de ses attributions.\nIl est en tenue civile et op�re de mani�re tr�s\ndiscr�te.",
+                "line_num": 233
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "3f7da0d6-5d90-47ce-8573-a659e159edcc"
+    ],
+    "0003": [
+      "28efd5a6-0993-4441-a79b-75978c1d2b57"
+    ],
+    "0004": [
+      "cf050918-9370-47b2-98e9-f58191213a79"
+    ],
+    "0006": [
+      "bf1d29dc-4261-4b74-aba2-9d52c9fa4057"
+    ],
+    "0007": [
+      "07b91446-25fb-4dc4-ad3a-e4cb7e3b9e5a"
+    ],
+    "0009": [
+      "fa7c7dd7-6102-413f-ad4a-58ca6244e273"
+    ],
+    "0011": [
+      "49083ffe-a1c3-4ba9-b795-eafe35d231db"
+    ],
+    "0012": [
+      "2dc93327-3b18-4bec-ba14-f34dd0e9cbc3"
+    ],
+    "0014": [
+      "ed415b0c-8221-4382-87d6-b4800d32898b"
+    ],
+    "0015": [
+      "b59fe8a6-937e-4a87-9364-484348776b81"
+    ],
+    "0016": [
+      "f878425d-5445-474a-9366-5287950ace4c"
+    ],
+    "0017": [
+      "d83420f4-ac5f-4559-be95-d48c0f25adb3"
+    ],
+    "0018": [
+      "a6b2e861-f273-494c-ae34-19054b28c753"
+    ],
+    "0019": [
+      "20a62cf0-5a42-41f9-853a-9bcc7ef42785"
+    ],
+    "0020": [
+      "95e8f57b-f660-4ce3-a0cd-1e947e4ebb62"
+    ]
+  },
+  "node_count": 21,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:01:57.761321",
+  "article_count": 15,
+  "generation_time_s": 16.0470449924469
+}

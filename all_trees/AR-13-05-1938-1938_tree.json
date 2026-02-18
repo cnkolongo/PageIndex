@@ -1,0 +1,188 @@
+{
+  "slug": "AR-13-05-1938-1938",
+  "bundle_path": "backups/all_bundles/code/AR-13-05-1938-1938.json",
+  "document_id": "39a97ba5-9f80-4047-b938-4a5d816ec940",
+  "document_title": "AR.13.05.1938",
+  "tree_json": {
+    "doc_name": "AR-13-05-1938-1938",
+    "structure": [
+      {
+        "title": "AR.13.05.1938",
+        "node_id": "0000",
+        "prefix_summary": "# AR.13.05.1938",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "partie d",
+            "node_id": "0001",
+            "prefix_summary": "## partie d",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is a legal text, specifically a Belgian Royal Decree from 1938 concerning indigenous jurisdictions in what was then the Belgian Congo (later Zaire, now DRC). It has been amended by decrees from 1959.\n\nThe main points covered in this excerpt are:\n\n1.  **Legal Basis and Coordination:** It states that the decree coordinates previous decrees on indigenous jurisdictions.\n\n2.  **Types of Indigenous Courts:** It lists the six regular indigenous courts: Tribunal of Chieftaincy, Tribunal of Sector, Tribunal of Center, Tribunal of Commune, Tribunal of Territory, and Tribunal of City.\n\n3.  **Jurisdiction (Ressort):** It defines the geographical area over which each type of court has authority, from a specific chieftaincy or sector to an entire territory or city.\n\n4.  **Composition of Courts:** It outlines how judges are appointed or designated for the different tribunals. Key points include:\n    *   The composition of chieftaincy courts is determined by custom, but with provisions for the chief and colonial authorities to appoint additional members.\n    *   Sector Tribunal judges are appointed by colonial authorities, with the sector chief serving as president by right.\n    *   Rules for quorum in sector tribunals are specified.\n    *   The composition of center and commune tribunals is determined by appointment by colonial authorities.\n\nThe text reflects a colonial legal structure that incorporates customary authorities (chiefs, notables) but places ultimate control over the institution, jurisdiction, and composition of these courts in the hands of Belgian colonial administrators (the District Commissioner or First Burgomaster).",
+                "line_num": 7
+              },
+              {
+                "title": "CHAPITRE VIII",
+                "node_id": "0003",
+                "prefix_summary": "#### CHAPITRE VIII",
+                "line_num": 89,
+                "nodes": [
+                  {
+                    "title": "Article S10",
+                    "node_id": "0004",
+                    "summary": "This partial document contains legal provisions (Articles 37 and 38) from a decree, detailing the enforcement of court judgments and the collection of court-related financial obligations.\n\nSpecifically, Article 37 covers the enforcement of judgments, including when they become enforceable, the role of territorial administrators and mayors in execution, and the procedures for imprisonment. Article 38 outlines how court costs, fines, and confiscations are collected and allocated by different types of tribunals (e.g., chefferie, commune, territory, city), and how the operational expenses of these courts are funded.",
+                    "line_num": 92
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IlC",
+                "node_id": "0005",
+                "prefix_summary": "#### CHAPITRE IlC",
+                "line_num": 138,
+                "nodes": [
+                  {
+                    "title": "Article S2",
+                    "node_id": "0006",
+                    "summary": "This partial document contains several articles outlining the composition, leadership, and operational rules for indigenous tribunals (tribunaux indigènes) within a territorial administrative system. It specifies who presides over different types of tribunals (territory, city, center, commune), the role of the public prosecutor (ministère public) in oversight and directives, and requirements for valid sessions (including the role of a clerk or greffier). It also begins to address the competency of these tribunals, stating that registered indigenous individuals (immatriculés) are exempt from their jurisdiction and that they handle disputes among other indigenous people.",
+                    "line_num": 141
+                  },
+                  {
+                    "title": "Article S3",
+                    "node_id": "0007",
+                    "summary": "The partial document covers legal articles defining the jurisdiction and competencies of indigenous tribunals in the Congo and neighboring regions. It specifies the conditions under which these courts can hear cases (including disputes between private parties and offenses punishable by custom or written law), outlines limitations on their jurisdiction (particularly based on the severity of potential penalties), and details the hierarchical relationships and procedural powers between primary and secondary tribunals, including the reservation, transfer, and review of cases.",
+                    "line_num": 222
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IllD",
+                "node_id": "0008",
+                "prefix_summary": "#### CHAPITRE IllD",
+                "line_num": 300,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0009",
+                    "summary": "This partial document outlines the legal framework for indigenous tribunals in a colonial context (specifically referencing Africa). The main points covered are:\n\n1.  **Jurisdictional Primacy:** European tribunals always have precedence over indigenous tribunals, though they may refer cases back to the indigenous tribunal.\n2.  **Applicable Law for Indigenous Tribunals:** Indigenous tribunals primarily apply local customs, provided they are not contrary to universal public order. However, they must apply written legal or regulatory provisions that have been enacted to replace custom.\n3.  **Sentencing Under Custom:** It details the penalties (imprisonment, fines, confiscation) that indigenous tribunals can impose for offenses defined only by custom, setting specific maximum limits.\n4.  **Choice of Penalty:** When an act is considered an offense under both custom and written law, the indigenous tribunal may choose to apply the penalties from either system, within its jurisdictional limits.\n5.  **Enforcement:** It includes provisions for enforcing judgments, such as awarding fines or confiscated property to victims, and imposing corporal constraint (imprisonment) for up to one month on individuals who refuse to comply with a tribunal's ruling.",
+                    "line_num": 303
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IV",
+                "node_id": "0010",
+                "prefix_summary": "#### CHAPITRE IV",
+                "line_num": 379,
+                "nodes": [
+                  {
+                    "title": "Article S5",
+                    "node_id": "0011",
+                    "summary": "This partial document contains procedural rules for indigenous courts and district courts in an unspecified jurisdiction (likely colonial-era, based on references to 1938-1959 decrees). The main points covered are:\n\n1.  The application of customary rules of procedure, supplemented by principles of equity and humanity where customs are absent or contrary to public order.\n2.  The fundamental right of parties to contradict adverse allegations and freely defend themselves before any judgment.\n3.  Procedures for issuing and executing warrants to bring a defendant who fails to appear personally before the court.\n4.  Limits on pre-trial detention (maximum 3 days, extendable to 5 after interrogation).\n5.  Rules for court fees and costs, including advance payment of a tax (except in proven indigence), tariffing of fees, allocation of costs to the losing party, and specific instances of free proceedings (e.g., revision, annulment, appeal initiated by public ministry).\n6.  A proportional duty (minimum 4%) levied on awarded sums or values, with rules for payment, restitution, or supplementation upon annulment, revision, or appeal.\n7.  Requirements for the content, signing, and filing of the court session record (procès-verbal), including its transmission to the public ministry for certain first-instance judgments.",
+                    "line_num": 382
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE VD",
+                "node_id": "0012",
+                "prefix_summary": "#### CHAPITRE VD",
+                "line_num": 466,
+                "nodes": [
+                  {
+                    "title": "Article S6",
+                    "node_id": "0013",
+                    "summary": "The partial document covers procedural rules for revising judicial judgments, including the three-month time limit for requesting revision, the requirement for parties to be heard or summoned, provisions for non-appearance (including potential arrest warrants), and the application of a fee schedule based on the revising jurisdiction.",
+                    "line_num": 469
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE VI",
+                "node_id": "0014",
+                "prefix_summary": "#### CHAPITRE VI",
+                "line_num": 490,
+                "nodes": [
+                  {
+                    "title": "Article S7",
+                    "node_id": "0015",
+                    "summary": "This partial document covers Article S7, titled \"On the Annulment of Judgments.\" It outlines the legal grounds and procedures for annulling court judgments in the district court, at the request of the public prosecutor. The main points include:\n\n1. The five specific grounds for annulment (e.g., irregular tribunal composition, material incompetence, violation of procedural forms, unauthorized sanctions, application of a custom contrary to legislation or public order).\n2. The time limits for requesting annulment (generally four months, with exceptions for certain cases).\n3. Procedural requirements, such as notification to involved parties and the transfer of case files.\n4. The district court's power to suspend the execution of a judgment pending annulment proceedings.\n5. The consequences of annulment, where the district court either decides the case definitively or remands it to another (or reconstituted) tribunal.",
+                    "line_num": 493
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE VII",
+                "node_id": "0016",
+                "prefix_summary": "#### CHAPITRE VII",
+                "line_num": 539,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0017",
+                    "summary": "###### Article S8\n\nDE L'APPEL DES JUGEMENTSDES",
+                    "line_num": 542
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "partie l",
+            "node_id": "0018",
+            "prefix_summary": "## partie l",
+            "line_num": 547,
+            "nodes": [
+              {
+                "title": "Article S9",
+                "node_id": "0019",
+                "summary": "This partial document covers procedural rules for appeals to district tribunals in a legal system. The main points include: the district tribunal's appellate jurisdiction over territory and city tribunal judgments; who has the right to appeal (including defendants, responsible parties, injured parties, and the public prosecutor); the three-month deadline and procedure for filing an appeal; notification requirements to involved parties and the transfer of case files; the court's power to suspend a judgment's execution; and rules on when the appellate court can rule on the merits of the case.",
+                "line_num": 550
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "d505d786-fbaa-40a3-a77f-c1707dd6d0ec"
+    ],
+    "0004": [
+      "ddf14a16-00c0-4cdc-88d1-2a33f4039936"
+    ],
+    "0006": [
+      "090b364a-0fe4-419b-952b-bf127dd83908"
+    ],
+    "0007": [
+      "4222f1c0-64b5-4a4a-84a5-313ee46ea035"
+    ],
+    "0009": [
+      "66377419-a49b-462e-9372-7acd2d70e076"
+    ],
+    "0011": [
+      "91db6038-41ac-402a-a3e3-1674b6f3c171"
+    ],
+    "0013": [
+      "d12d94d8-8a24-4cda-a35d-c32343046bc4"
+    ],
+    "0015": [
+      "e634f63a-d938-4c6d-94ab-55594d1cc258"
+    ],
+    "0017": [
+      "6d4490f5-4884-45dd-9206-548ac3fddfce"
+    ],
+    "0019": [
+      "25dc367f-f900-44b8-a2a9-bb759d11a998"
+    ]
+  },
+  "node_count": 20,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:20:21.052408",
+  "article_count": 10,
+  "generation_time_s": 36.856167793273926
+}

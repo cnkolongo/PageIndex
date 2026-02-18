@@ -1,0 +1,115 @@
+{
+  "slug": "AM-18-02-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-18-02-2022-2022.json",
+  "document_id": "f58bbbd1-2f27-420c-9be1-c8c2852b3031",
+  "document_title": "AM.18.02.2022",
+  "tree_json": {
+    "doc_name": "AM-18-02-2022-2022",
+    "structure": [
+      {
+        "title": "AM.18.02.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.18.02.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nII est cr�� un Comit� de pilotage du Programme de Gestion Durable des For�ts\n(PGDF) de la R�publique D�mocratique du Congo.\nLa dur�e du Comit� de pilotage correspond � la dur�e du Programme de Gestion\nDurable des For�ts, qui est de quatre ans. Toute extension du PGDF entraine de\nfacto celle du Comit� de pilotage, qui se dissout de plein droit � l'issue de la\nr�union de cl�ture du Programme de Gestion Durable des For�ts.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nLe Secr�taire g�n�ral �\nl'Environnement et D�veloppement Durable est charg� de l'ex�cution du pr�sent\nArr�t�, qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 18\nf�vrier 2022.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 14
+          },
+          {
+            "title": "Chapitre II : De la composition, organisation et attributions du Comit� de",
+            "node_id": "0003",
+            "prefix_summary": "#### Chapitre II : De la composition, organisation et attributions du Comit� de",
+            "line_num": 29,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0004",
+                "summary": "The partial document defines the role and responsibilities of the Steering Committee (\"Comité de pilotage\") for a Sustainable Forest Management Program. Its main points cover the committee's functions as the program's guiding, monitoring, and evaluation body. Specific responsibilities include developing program strategies, validating activities and budgets, approving technical and financial reports, monitoring implementation, ensuring coherence with other partners, arbitrating conflicts between stakeholders, and verifying that program information is shared with all relevant parties.",
+                "line_num": 32
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0005",
+                "summary": "This partial document outlines the composition and leadership structure of the Steering Committee for the Sustainable Forest Management Program (PGDF). It lists the members, which include government officials, representatives from various ministries, financial and forestry agencies, industrial federations, provincial coordinations, national councils, civil society, and the industrial/artisanal sector. It also specifies a list of observer members from development agencies and REDD+ programs. Furthermore, it defines the committee's leadership: the Vice Prime Minister for Environment as President, the Secretary General as Vice President, and details the composition of the permanent Secretariat.",
+                "line_num": 61
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0006",
+                "summary": "This partial document outlines the operational rules for a Steering Committee (\"Comité de pilotage\"). The main points covered are the frequency of meetings (ordinary and extraordinary), the authority to convene meetings, the notice period and required contents for meeting invitations, the quorum required for valid proceedings, and the possibility to invite observers or experts to contribute to the implementation of the PGDF.",
+                "line_num": 120
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0007",
+                "summary": "###### Article 6\n\nLes d�cisions du Comit� de\npilotage sont prises par voie de vote, � la majorit� simple des membres pr�sents\net votant, soit la moiti� plus un.",
+                "line_num": 139
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0008",
+                "summary": "###### Article 7\n\nLes orientations et\nrecommandations du Comit� de pilotage sont consign�es dans un proc�s-verbal,\nsign� par le pr�sident. Elles sont mises en oeuvre par les structures et\norganisations � qui elles auront �t� adress�es.\nLe proc�s-verbal est transmis\nau Secr�tariat g�n�ral � l'Environnement et D�veloppement Durable, avec copie\npour information � tous les membres du Comit� de Pilotage et au Repr�sentant de\nl'Agence Fran�aise de D�veloppement � Kinshasa, dans un d�lai maximum de dix\njours ouvrables suivant la date de la cl�ture de la r�union.",
+                "line_num": 146
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0009",
+                "summary": "###### Article 8\n\nLes ressources financi�res\nn�cessaires � l'organisation et au fonctionnement du Comit� de pilotage\nproviennent du budget de fonctionnement du PGDF.\nLes membres du Comit�\nnational de pilotage re�oivent, pour chaque r�union � laquelle ils assistent,\nune indemnit� de d�placement dont le montant est fix� par le manuel de\nproc�dures organisationnel du Programme de Gestion Durable des For�ts.",
+                "line_num": 159
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0010",
+                "summary": "###### Article 9\n\nToutes les questions non\nabord�es dans le pr�sent Arr�t�, sont trait�es dans les documents officiels\norganisant la mise en oeuvre du Programme, et qui peuvent �tre �clair�es par le\nComit� de pilotage en vue des d�cisions appropri�es.\nArticles 10\nLe Comit� de pilotage tient\nune r�union au plus tard trois mois avant la fin du programme, afin d'examiner\nla\nproposition\ndu rapport final, et d'assurer les formalit�s de cl�ture.",
+                "line_num": 170
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "b9b3b1ff-2150-4866-9d3e-29943583f54a"
+    ],
+    "0002": [
+      "e996d75a-719d-436c-9e30-a461dba5c289"
+    ],
+    "0004": [
+      "572cbee3-4fdd-43a6-8c24-4f4f9e282122"
+    ],
+    "0005": [
+      "7c8e11e1-e273-49ed-9ccf-6edfc1f77e83"
+    ],
+    "0006": [
+      "419b5c0c-075e-491f-8965-2a3129daeda9"
+    ],
+    "0007": [
+      "79ebe665-ea27-48a8-bd2c-afa097483fe2"
+    ],
+    "0008": [
+      "5225eda2-26ee-43c0-b02d-42042e47d5a7"
+    ],
+    "0009": [
+      "28bbfe24-3a6f-40ed-bbcd-a8695db883ee"
+    ],
+    "0010": [
+      "c5369f22-46c4-455a-b5c9-87138fed088c"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:03.002306",
+  "article_count": 9,
+  "generation_time_s": 9.47087287902832
+}

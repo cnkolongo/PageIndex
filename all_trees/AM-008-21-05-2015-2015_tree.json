@@ -1,0 +1,122 @@
+{
+  "slug": "AM-008-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-008-21-05-2015-2015.json",
+  "document_id": "42daf36b-7e7c-4718-84dc-cefb006d6736",
+  "document_title": "AM.008.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-008-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.008.21.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.008.21.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "This partial document is an official ministerial order (Arrêté) from the Ministry of Tourism of the Democratic Republic of Congo. Its main purpose is to modify and supplement the existing regulations governing travel agencies by updating a 1981 order that implemented a 1978 law. The text begins by citing the legal foundations for the new order, including the Constitution, the original 1978 law, and several recent ordinances concerning government organization and ministerial functions. It declares the urgency and necessity of the action and is based on a proposal from the Secretary General for Tourism. The document then starts Article 1, indicating it will outline new statutory provisions for travel agencies.",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "summary": "###### Article S2\n\n: DES DISPOSITIONS GENERALES, CATEGORIES ET CONDITIONS D�OCTROI DES",
+            "line_num": 40
+          },
+          {
+            "title": "titre d",
+            "node_id": "0003",
+            "prefix_summary": "#### titre d",
+            "line_num": 45,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "This partial document is from a legal or regulatory text, specifically \"Article S3\" on \"AUTORISATIONS\" (Authorizations). It defines travel agencies and outlines a licensing system. The main points covered are:\n\n1.  **Definition of a Travel Agency:** It provides a legal definition of a travel agency (also called a tour operator) as a business that organizes and sells travel to the public.\n\n2.  **Four Categories of Agencies:** It classifies travel agencies into four categories (A, B, C, D) based on whether the activity is principal, intermediary/accessory, subsidiary (for non-profits), or occasional.\n\n3.  **Jurisdiction:** It assigns regulatory authority, stating that categories A and B are of national interest (regulated by the national level), while categories C and D are of provincial interest.\n\n4.  **Licensing Authorities and Process:** It specifies that the national Minister grants licenses for categories A and B, and provincial Governors for categories C and D, with a 60-day decision period.\n\n5.  **Licensing Requirements:** It lists detailed conditions for obtaining a license, including:\n    *   **For the Manager:** Civil rights, CV, valid criminal record, and specific qualifications/experience.\n    *   **For the Company:** Commercial registration, tax documents, organizational chart, proof of premises (ownership or lease), and for categories A/B, IATA affiliation and proof of joining a standardization system.\n\n6.  **Scope of License:** It states that a single license covers both the head office and its branches, while technical approval is needed separately for each.\n\n7.  **Obligation to Report Changes:** It requires agencies to immediately inform the tourism administration of any changes to location, ownership, management, or capital to obtain updated operating documents.",
+                "line_num": 48
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0005",
+                "summary": "###### Article S4\n\nII : DU CONTROLE DES INSTALLATIONS\nArticle\n7\nLe\ncontr�le des conditions d�exploitation dans les agences de voyages de cat�gorie\nA et B est assur� par le corps les inspecteurs nationaux du Tourisme.\nPour\nles cat�gories C et D, le contr�le est assur� par les services provinciaux du\ntourisme.\nTITRE",
+                "line_num": 155
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0006",
+                "summary": "###### Article S5\n\nIII : DES SANCTIONS\nArticle\n8\nLes\nconditions de retrait et de suspension de l�autorisation sont celles fix�es par\nles articles 8 et 9 de la Loi n� 78-014 du 11 juillet 1978 portant statut des\nagences de voyages en R�publique D�mocratique du Congo.\nTITRE",
+                "line_num": 169
+              }
+            ]
+          },
+          {
+            "title": "TITRE V",
+            "node_id": "0007",
+            "prefix_summary": "#### TITRE V",
+            "line_num": 181,
+            "nodes": [
+              {
+                "title": "Article S6",
+                "node_id": "0008",
+                "summary": "###### Article S6\n\nIV : DU RECOURS\nArticle\n9\nL�op�rateur qui s�estime l�s� par une sanction lui inflig�e, introduit son\nrecours motiv� aupr�s de l�autorit� comp�tente dans les 24 jours qui suivent la\nnotification de la sanction.\nLe\nrecours est suspensif de la sanction et la d�cision statuant sur celui-ci est\nsans appel.",
+                "line_num": 184
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0009",
+                "summary": "###### Article S7\n\n: DES OBLIGATIONS DES TENANCIERS\nDES",
+                "line_num": 197
+              },
+              {
+                "title": "Section",
+                "node_id": "0010",
+                "prefix_summary": "##### Section\n1 : Des mentions",
+                "line_num": 203,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0011",
+                    "summary": "This partial document contains regulations for travel agencies, tourism agencies, and tour operators in the Democratic Republic of Congo. The main points covered are: the obligation to display license information on documents and at the agency entrance; a duty to promote Congolese tourism products; and a code of ethics outlining responsibilities towards the Congolese state (including legal compliance, repatriation of foreign earnings, and providing statistics), towards clients and suppliers (including honoring contracts and addressing complaints), and towards other operators (by avoiding unfair competition). It concludes with an execution order and date of effect.",
+                    "line_num": 207
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a8eb687a-5cdc-45de-a0d6-5a86326dd817"
+    ],
+    "0002": [
+      "9ca36b73-48be-4bea-9a46-5459f119970f"
+    ],
+    "0004": [
+      "f54480db-478c-499a-a07f-d47f529fb964"
+    ],
+    "0005": [
+      "b3254e84-29ab-4a5a-b78f-34f5e2516d47"
+    ],
+    "0006": [
+      "77428b8d-1b79-4940-b8a3-2bbc78690437"
+    ],
+    "0008": [
+      "50895533-fc88-499b-9176-1dbd297ed351"
+    ],
+    "0009": [
+      "e325df17-4ba3-4b8d-9ff8-7dad5241c5a7"
+    ],
+    "0011": [
+      "3ead07b7-55dc-47b3-b0dc-57407d08212f"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:22:05.966677",
+  "article_count": 8,
+  "generation_time_s": 19.767372131347656
+}

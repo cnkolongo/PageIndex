@@ -1,0 +1,512 @@
+{
+  "slug": "ConventionNY20-11-1989-1989",
+  "bundle_path": "backups/all_bundles/code/ConventionNY20-11-1989-1989.json",
+  "document_id": "d0058153-4c76-41be-9337-d65fb8ad93a8",
+  "document_title": "ConventionNY20.11.1989",
+  "tree_json": {
+    "doc_name": "ConventionNY20-11-1989-1989",
+    "doc_description": "This document is a section of the Convention on the Rights of the Child, covering Articles 10 to 54, detailing rights from family reunification to monitoring procedures and final provisions.",
+    "structure": [
+      {
+        "title": "ConventionNY20.11.1989",
+        "node_id": "0000",
+        "prefix_summary": "# ConventionNY20.11.1989",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "This partial document covers Article 10 of a convention (likely the UN Convention on the Rights of the Child). The main points are the rights related to family reunification and cross-border family contact for children.\n\nSpecifically, it states that:\n1.  Applications by a child or parents to enter or leave a country for family reunification must be dealt with positively, humanely, and promptly by States, without negative consequences for the applicants.\n2.  A child whose parents live in different countries has the right to maintain regular personal relations and direct contact with both parents, except in exceptional circumstances. To this end, States must respect the right of the child and parents to leave any country and return to their own. This right can only be restricted by law for necessary reasons such as national security, public order, health, or morals.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\n1. Les Etats parties prennent des mesures pour lutter contre les\nd�placements et les non-retours illicites d'enfants � l'�tranger.\n2. A cette fin, les Etats parties favorisent la conclusion\nd'accords bilat�raux ou multilat�raux ou l'adh�sion aux accords existants.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\n1. Les Etats parties garantissent � l'enfant qui est capable de\ndiscernement le droit d'exprimer librement son opinion sur toute question\nl'int�ressant, les opinions de l'enfant �tant d�ment prises en consid�ration\neu �gard � son �ge et � son degr� de maturit�.\n2. A cette fin, on donnera notamment � l'enfant la possibilit�\nd'�tre entendu dans toute proc�dure judiciaire ou administrative\nl'int�ressant, soit directement, soit par l'interm�diaire d'un repr�sentant\nou d'une organisation appropri�, de fa�on compatible avec les r�gles de\nproc�dure de la l�gislation nationale.",
+            "line_num": 34
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\n1. L'enfant a droit � la libert� d'expression. Ce droit comprend\nla libert� de rechercher, de recevoir et de r�pandre des informations et des\nid�es de toute esp�ce, sans consid�ration de fronti�res, sous une forme\norale, �crite, imprim�e ou artistique, ou par tout autre moyen du choix de\nl'enfant.\n2. L'exercice de ce droit ne peut faire l'objet que des seules\nrestrictions qui sont prescrites par la loi et qui sont n�cessaires : a) au\nrespect des droits ou de la r�putation d'autrui; ou b) � la sauvegarde de la\ns�curit� nationale, de l'ordre public, de la sant� ou de la moralit�\npubliques.",
+            "line_num": 47
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "This partial document is from Article 14 of a convention (likely the Convention on the Rights of the Child). It covers three main points:\n\n1. The obligation of States Parties to respect the child's right to freedom of thought, conscience, and religion.\n2. The recognition of the right and duty of parents (or legal guardians) to guide the child in exercising this right in a manner consistent with the child's evolving capacities.\n3. The conditions under which the freedom to manifest one's religion or beliefs may be limited, specifying that restrictions must be prescribed by law and necessary to protect public safety, order, health, morals, or the fundamental rights and freedoms of others.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0006",
+            "summary": "###### Article 15\n\n1. Les Etats parties reconnaissent les droits de l'enfant � la\nlibert� d'association et � la libert� de r�union pacifique.\n2. L'exercice de ces droits ne peut faire l'objet que des seules\nrestrictions qui sont prescrites par la loi et qui sont n�cessaires dans une\nsoci�t� d�mocratique, dans l'int�r�t de la s�curit� nationale, de la s�ret�\npublique ou de l'ordre public, ou pour prot�ger la sant� ou la moralit�\npubliques, ou les droits et libert�s d'autrui.",
+            "line_num": 76
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0007",
+            "summary": "###### Article 16\n\n1. Nul enfant ne fera l'objet d'immixtions arbitraires ou\nill�gales dans sa vie priv�e, sa famille, son domicile ou sa correspondance,\nni d'atteintes ill�gales � son honneur et � sa r�putation.\n2. L'enfant a droit � la protection de la loi contre de telles\nimmixtions ou de telles atteintes.",
+            "line_num": 87
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0008",
+            "summary": "This partial document (Article 17 of a treaty or convention) outlines the obligations of States Parties regarding media and information access for children. The main points covered are: recognizing the importance of media, ensuring children's access to diverse and beneficial information from national and international sources, and promoting their social, spiritual, moral, physical, and mental well-being. States Parties are directed to encourage media to disseminate socially and culturally useful content for children, promote international cooperation in producing and sharing such materials, encourage the production of children's books, address the linguistic needs of indigenous and minority children, and develop guidelines to protect children from harmful information.",
+            "line_num": 96
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0009",
+            "summary": "The partial document covers Article 18 of a convention, which outlines the shared responsibility of parents for raising a child and their primary duty to act in the child's best interests. It also details the obligations of States Parties to support parents in this role by providing appropriate assistance and establishing childcare institutions. Furthermore, it requires States to ensure that children of working parents have access to qualifying childcare services and facilities.",
+            "line_num": 119
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0010",
+            "summary": "This partial document outlines measures for child protection as stipulated in Article 19. The main points covered are:\n\n1. The obligation for states to take all appropriate legislative, administrative, social, and educational measures to protect children from all forms of violence, abuse, neglect, maltreatment, and exploitation (including sexual violence) while in the care of parents, legal guardians, or any other caregiver.\n\n2. The requirement for these protective measures to include effective procedures for:\n    - Establishing social support programs for the child and caregivers.\n    - Other forms of prevention.\n    - Identifying, reporting, referring, investigating, treating, and following up on cases of child maltreatment.\n    - Judicial intervention when appropriate.",
+            "line_num": 140
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "This partial document covers Article 2 of a convention (likely the Convention on the Rights of the Child). The main points are the obligations of States Parties to ensure the rights of every child within their jurisdiction without any form of discrimination. It specifically mandates protection from discrimination based on a comprehensive list of grounds pertaining to the child or the child's family, and requires states to take measures to protect children from discrimination or punishment based on their family members' status or activities.",
+            "line_num": 159
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0012",
+            "summary": "This partial document outlines the rights and state obligations regarding children deprived of their family environment. It specifies that such children have a right to special state protection and aid. It requires states to provide alternative care according to national law, listing options like foster family placement, Islamic kafalah, adoption, or institutional care. It emphasizes that the choice must consider the child's need for educational continuity and their ethnic, religious, cultural, and linguistic background.",
+            "line_num": 175
+          },
+          {
+            "title": "Article 21",
+            "node_id": "0013",
+            "summary": "This partial document, Article 21, outlines the obligations of States Parties regarding the adoption of children. The primary principle is that the best interests of the child must be the paramount consideration. The article specifies several key requirements: adoptions must be authorized by competent authorities after thorough verification of the child's situation and obtaining informed consent; intercountry adoption is recognized as an alternative when suitable care cannot be provided in the child's country of origin; equivalent safeguards must apply in intercountry and domestic adoptions; measures must be taken to prevent improper financial gain from intercountry adoptions; and states should pursue these objectives through bilateral or multilateral agreements, ensuring such adoptions are handled by competent authorities.",
+            "line_num": 191
+          },
+          {
+            "title": "Article 22",
+            "node_id": "0014",
+            "summary": "This partial document covers Article 22 of an international convention (likely the Convention on the Rights of the Child). Its main points are:\n\n1. It obliges States to provide appropriate protection and humanitarian assistance to any child seeking or recognized as a refugee, ensuring they can enjoy the rights under this convention and other relevant human rights instruments.\n2. It requires States to cooperate with the United Nations and other competent organizations to protect and assist such refugee children, and to help reunite them with their family. If no family members can be found, the child is to receive the same protection as any other child deprived of their family environment.",
+            "line_num": 220
+          },
+          {
+            "title": "Article 23",
+            "node_id": "0015",
+            "summary": "This partial document outlines the rights of children with disabilities as defined by an international treaty. The main points covered are:\n\n1.  The right of children with disabilities to a full and decent life that ensures dignity, promotes self-reliance, and facilitates active community participation.\n2.  The right to special care, with States encouraged to provide appropriate assistance to eligible children and their caregivers, within available resources.\n3.  The stipulation that such assistance should be free whenever possible, and designed to ensure effective access to education, healthcare, rehabilitation, job training, and recreation. The goal is to achieve the child's fullest possible social integration, personal development, and cultural/spiritual fulfillment.\n4.  The promotion of international cooperation to exchange information on preventive healthcare and medical, psychological, and functional treatment for children with disabilities. This aims to improve the capabilities of States, with particular regard for the needs of developing countries.",
+            "line_num": 245
+          },
+          {
+            "title": "Article 24",
+            "node_id": "0016",
+            "summary": "This partial document outlines Article 24 of a treaty, which establishes the right of the child to the highest attainable standard of health. It details the obligations of States Parties to realize this right through specific measures, including reducing infant mortality, providing primary healthcare, combating disease and malnutrition, ensuring prenatal and postnatal care, promoting health education, and abolishing harmful traditional practices. The article also commits states to international cooperation, with special consideration for developing countries.",
+            "line_num": 278
+          },
+          {
+            "title": "Article 25",
+            "node_id": "0017",
+            "summary": "###### Article 25\n\nLes Etats parties reconnaissent � l'enfant qui a �t� plac� par les\nautorit�s comp�tentes pour recevoir des soins, une protection ou un\ntraitement physique ou mental, le droit � un examen p�riodique dudit\ntraitement et de toute autre circonstance relative � son placement.",
+            "line_num": 313
+          },
+          {
+            "title": "Article 26",
+            "node_id": "0018",
+            "summary": "###### Article 26\n\n1. Les Etats parties reconnaissent � tout enfant le droit de\nb�n�ficier de la s�curit� sociale, y compris les assurances sociales, et\nprennent les mesures n�cessaires pour assurer la pleine r�alisation de ce\ndroit en conformit� avec leur l�gislation nationale.\n2. Les prestations doivent, lorsqu'il y a lieu, �tre accord�es\ncompte tenu des ressources et de la situation de l'enfant et des personnes\nresponsables de son entretien, ainsi que de toute autre consid�ration\napplicable � la demande de prestation faite par l'enfant ou en son nom.",
+            "line_num": 321
+          },
+          {
+            "title": "Article 27",
+            "node_id": "0019",
+            "summary": "This partial document outlines Article 27 of an international treaty, focusing on the right of every child to an adequate standard of living. It details the shared responsibility for ensuring this right: primarily parents or guardians within their financial capabilities, supplemented by state support. States are obligated to provide material assistance and support programs (e.g., for nutrition, clothing, housing) and to take measures to secure child maintenance payments from financially responsible persons, including through international agreements for cross-border cases.",
+            "line_num": 333
+          },
+          {
+            "title": "Article 28",
+            "node_id": "0020",
+            "summary": "This partial document is Article 28 of a convention (likely the Convention on the Rights of the Child). It outlines the right of the child to education and the specific obligations of States Parties to realize this right progressively. The main points covered are:\n\n1.  The recognition of a child's right to education, to be implemented progressively and based on equal opportunity.\n2.  Specific measures states must take, including making primary education free and compulsory, making secondary education (general and vocational) accessible and available to all, ensuring access to higher education based on capacity, providing educational and vocational guidance, and encouraging school attendance while reducing dropout rates.\n3.  The requirement that school discipline must be administered in a manner consistent with the child's human dignity.\n4.  The promotion of international cooperation in education to combat illiteracy, facilitate access to scientific knowledge, and assist developing countries.",
+            "line_num": 359
+          },
+          {
+            "title": "Article 29",
+            "node_id": "0021",
+            "summary": "The partial document covers Article 29 of an international convention (likely the Convention on the Rights of the Child). It outlines the agreed aims of a child's education, which include: fostering the child's personality, talents, and abilities; instilling respect for human rights, parents, cultural identity, and the natural environment; and preparing the child for a responsible life in a free society, in a spirit of understanding, peace, tolerance, and equality. A second paragraph clarifies that these aims do not restrict the freedom of individuals or bodies to establish educational institutions, provided they respect these principles and meet minimum state standards.",
+            "line_num": 389
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0022",
+            "summary": "This partial document outlines the primary obligations of states regarding the protection of children. It establishes the \"best interests of the child\" as the paramount principle in all decisions affecting them. It commits states to ensuring a child's well-being through necessary protection and care, taking appropriate legislative and administrative measures. Finally, it requires states to ensure that institutions responsible for children meet established standards, particularly in safety, health, staff competence, and supervision.",
+            "line_num": 418
+          },
+          {
+            "title": "Article 30",
+            "node_id": "0023",
+            "summary": "###### Article 30\n\nDans les Etats o� il existe des minorit�s ethniques, religieuses ou\nlinguistiques ou des personnes d'origine autochtone, un enfant autochtone ou\nappartenant � une de ces minorit�s ne peut �tre priv� du droit d'avoir sa\npropre vie culturelle, de professer et de pratiquer sa propre religion ou\nd'employer sa propre langue en commun avec les autres membres de son groupe.",
+            "line_num": 437
+          },
+          {
+            "title": "Article 31",
+            "node_id": "0024",
+            "summary": "###### Article 31\n\n1. Les Etats parties reconnaissent � l'enfant le droit au repos et\naux loisirs, de se livrer au jeu et � des activit�s r�cr�atives propres �\nson �ge et de participer librement � la vie culturelle et artistique.\n2. Les Etats parties respectent et favorisent le droit de l'enfant\nde participer pleinement � la vie culturelle et artistique et encouragent\nl'organisation � son intention de moyens appropri�s de loisirs et\nd'activit�s r�cr�atives, artistiques et culturelles, dans des conditions\nd'�galit�.",
+            "line_num": 446
+          },
+          {
+            "title": "Article 32",
+            "node_id": "0025",
+            "summary": "This partial document covers Article 32 of an international convention (likely the Convention on the Rights of the Child). The article establishes the right of the child to be protected from economic exploitation and from any work that is hazardous, interferes with education, or harms their health or development. It also obligates states to take legislative, administrative, social, and educational measures to enforce this right, including setting minimum ages for employment, regulating working hours and conditions, and providing appropriate penalties for violations.",
+            "line_num": 458
+          },
+          {
+            "title": "Article 33",
+            "node_id": "0026",
+            "summary": "###### Article 33\n\nLes Etats parties prennent toutes les mesures appropri�es, y compris des\nmesures l�gislatives, administratives, sociales et �ducatives, pour prot�ger\nles enfants contre l'usage illicite de stup�fiants et de substances\npsychotropes, tels que les d�finissent les conventions internationales\npertinentes, et pour emp�cher que des enfants ne soient utilis�s pour la\nproduction et le trafic illicites de ces substances.",
+            "line_num": 477
+          },
+          {
+            "title": "Article 34",
+            "node_id": "0027",
+            "summary": "###### Article 34\n\nLes Etats parties s'engagent � prot�ger l'enfant contre toutes les formes\nd'exploitation sexuelle et de violence sexuelle. A cette fin, les Etats\nprennent en particulier toutes les mesures appropri�es sur les plans\nnational, bilat�ral et multilat�ral pour emp�cher :\na) que des enfants ne soient incit�s ou contraints � se livrer �\nune activit� sexuelle ill�gale;\nb) que des enfants ne soient exploit�s � des fins de prostitution ou\nautres pratiques sexuelles ill�gales;\nc) que des enfants ne soient exploit�s aux fins de la production de\nspectacles ou de mat�riel de caract�re pornographique.",
+            "line_num": 487
+          },
+          {
+            "title": "Article 35",
+            "node_id": "0028",
+            "summary": "###### Article 35\n\nLes Etats parties prennent toutes les mesures appropri�es sur les plans\nnational, bilat�ral et multilat�ral pour emp�cher l'enl�vement, la vente ou\nla traite d'enfants � quelque fin que ce soit et sous quelque forme que ce\nsoit.",
+            "line_num": 501
+          },
+          {
+            "title": "Article 36",
+            "node_id": "0029",
+            "summary": "###### Article 36\n\nLes Etats parties prot�gent l'enfant contre toutes autres formes\nd'exploitation pr�judiciables � tout aspect de son bien- �tre.",
+            "line_num": 509
+          },
+          {
+            "title": "Article 37",
+            "node_id": "0030",
+            "summary": "This partial document outlines the rights of children in the context of justice and deprivation of liberty. The main points covered are the prohibitions against torturing or cruelly punishing children, including the ban on the death penalty and life imprisonment without parole for those under 18. It establishes strict conditions for any arrest or detention of a child, requiring it to be a last resort and for the shortest possible time. It mandates humane treatment for detained children, including separation from adults and contact with family. Finally, it guarantees children the right to legal assistance and the right to challenge the lawfulness of their detention before a competent authority.",
+            "line_num": 515
+          },
+          {
+            "title": "Article 38",
+            "node_id": "0031",
+            "summary": "This partial document outlines the obligations of States Parties regarding the protection of children in armed conflicts. The main points covered are: the commitment to respect international humanitarian law applicable to children; the duty to prevent the direct participation in hostilities of persons under fifteen; the prohibition against recruiting under-fifteens into armed forces and the priority to recruit the oldest when considering those between fifteen and eighteen; and the obligation to take all feasible measures to ensure the protection and care of children affected by armed conflict.",
+            "line_num": 541
+          },
+          {
+            "title": "Article 39",
+            "node_id": "0032",
+            "summary": "###### Article 39\n\nLes Etats parties prennent toutes les mesures appropri�es pour faciliter\nla r�adaptation physique et psychologique et la r�insertion sociale de tout\nenfant victime de toute forme de n�gligence, d'exploitation ou de s�vices,\nde torture ou de toute autre forme de peines ou traitements cruels,\ninhumains ou d�gradants, ou de conflit arm�. Cette r�adaptation et cette\nr�insertion se d�roulent dans des conditions qui favorisent la sant�, le\nrespect de soi et la dignit� de l'enfant.",
+            "line_num": 560
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0033",
+            "summary": "###### Article 4\n\nLes Etats parties s'engagent � prendre toutes les mesures l�gislatives,\nadministratives et autres qui sont n�cessaires pour mettre en oeuvre les\ndroits reconnus dans la pr�sente Convention. Dans le cas des droits\n�conomiques, sociaux et culturels, ils prennent ces mesures dans toutes les\nlimites des ressources dont ils disposent et, s'il y a lieu, dans le cadre\nde la coop�ration internationale.",
+            "line_num": 571
+          },
+          {
+            "title": "Article 40",
+            "node_id": "0034",
+            "summary": "This partial document outlines the rights and procedural guarantees for children in conflict with the law. It states that children accused of crimes have the right to treatment that respects their dignity, considers their age, and aims for their reintegration into society. It details specific legal rights, such as the presumption of innocence, the right to be informed of charges, legal assistance, a fair hearing, protection against self-incrimination, and the right to appeal. It also calls on states to establish a minimum age of criminal responsibility, promote alternatives to judicial proceedings, and provide a range of measures for the care, guidance, and education of these children.",
+            "line_num": 581
+          },
+          {
+            "title": "Article 41",
+            "node_id": "0035",
+            "summary": "###### Article 41\n\nAucune des dispositions de la pr�sente Convention ne porte\natteinte aux dispositions plus propices � la r�alisation des droits de\nl'enfant qui peuvent figurer :\na) Dans la l�gislation d'un Etat partie; ou\nb) Dans le droit international en vigueur pour cet Etat.\nDEUXIEME PARTIE",
+            "line_num": 640
+          },
+          {
+            "title": "Article 42",
+            "node_id": "0036",
+            "summary": "###### Article 42\n\nLes Etats parties s'engagent � faire largement conna�tre les principes et\nles dispositions de la pr�sente Convention, par des moyens actifs et\nappropri�s, aux adultes comme aux enfants.",
+            "line_num": 650
+          },
+          {
+            "title": "Article 43",
+            "node_id": "0037",
+            "summary": "This partial document, Article 43 of a convention (specifically the Convention on the Rights of the Child), establishes and defines the composition, election, and operational procedures of the Committee on the Rights of the Child. The main points covered are:\n\n1.  **Establishment and Purpose:** The article creates the Committee to examine the progress made by States parties in fulfilling their obligations under the convention.\n2.  **Composition:** The Committee is to be composed of ten independent experts of high moral standing and recognized competence, elected by States parties, with consideration for equitable geographical distribution and representation of the principal legal systems.\n3.  **Election Process:** It details the nomination and secret ballot election process, including the timing of initial and biennial elections, the role of the UN Secretary-General in soliciting candidates, and the voting procedures at meetings of States parties.\n4.  **Term of Office:** Members serve four-year terms and may be re-elected. It includes a staggered term mechanism for the first election.\n5.  **Vacancies:** Procedures for filling casual vacancies due to death, resignation, or incapacity are outlined.\n6.  **Internal Governance:** The Committee adopts its own rules of procedure and elects its officers biennially.\n7.  **Meetings:** It specifies that sessions are normally held annually at UN Headquarters or another suitable location, with their duration determined by a meeting of States parties.\n8.  **Secretariat and Resources:** The UN Secretary-General provides necessary staff and facilities for the Committee's work.\n9.  **Remuneration:** Committee members receive emoluments from UN resources, approved by the UN General Assembly.",
+            "line_num": 657
+          },
+          {
+            "title": "Article 44",
+            "node_id": "0038",
+            "summary": "This partial document, Article 44 of a convention, outlines the reporting and monitoring procedures for States parties. The main points covered are:\n\n1.  **State Reporting Obligations:** States must submit periodic reports to a Committee on measures taken to implement the convention's rights and progress made. An initial report is due within two years of the convention's entry into force, followed by reports every five years.\n2.  **Report Content Requirements:** Reports must include factors and difficulties hindering full implementation and provide sufficient information for the Committee to understand how the convention is applied in the country. Subsequent reports do not need to repeat previously submitted basic information.\n3.  **Committee's Role:** The Committee can request additional information from States and must submit a report on its own activities to the General Assembly every two years.\n4.  **Domestic Dissemination:** States are required to ensure wide dissemination of their reports within their own country.",
+            "line_num": 716
+          },
+          {
+            "title": "partie i",
+            "node_id": "0039",
+            "prefix_summary": "## partie i",
+            "line_num": 745,
+            "nodes": [
+              {
+                "title": "Article 45",
+                "node_id": "0040",
+                "summary": "This partial document (Article 45 of a convention, likely the Convention on the Rights of the Child) outlines the mechanisms for promoting the convention's effective application and fostering international cooperation. The main points cover the roles and interactions between the overseeing Committee and other United Nations bodies. Specifically, it details:\n\na) The right of specialized UN agencies and bodies (like UNICEF) to be represented during the review of the convention's implementation, and the Committee's ability to invite them to provide specialized advice and reports.\n\nb) The Committee's role in forwarding state reports that request technical advice or assistance to relevant UN agencies, along with the Committee's own observations.\n\nc) The Committee's authority to recommend that the UN General Assembly request the Secretary-General to conduct studies on specific child rights issues.\n\nd) The Committee's power to make general suggestions and recommendations based on information received, which are transmitted to interested states and brought to the attention of the General Assembly.",
+                "line_num": 748
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0041",
+                "summary": "###### Article 46\n\nLa pr�sente Convention est ouverte � la signature de tous les\nEtats.",
+                "line_num": 782
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0042",
+                "summary": "###### Article 47\n\nLa pr�sente Convention est sujette � ratification. Les instruments de\nratification seront d�pos�s aupr�s du secr�taire g�n�ral de l'Organisation\ndes Nations unies.",
+                "line_num": 788
+              },
+              {
+                "title": "Article 48",
+                "node_id": "0043",
+                "summary": "###### Article 48\n\nLa pr�sente Convention restera ouverte � l'adh�sion de tout Etat.\nLes instruments d'adh�sion seront d�pos�s aupr�s du secr�taire g�n�ral de\nl'Organisation des Nations unies.",
+                "line_num": 795
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0044",
+                "summary": "###### Article 49\n\n1. La pr�sente Convention entrera en vigueur le trenti�me\njour qui suivra la date du d�p�t aupr�s du secr�taire g�n�ral de\nl'Organisation des Nations unies du vingti�me instrument de ratification ou\nd'adh�sion.\n2. Pour chacun des Etats qui ratifieront la pr�sente Convention\nou y adh�reront apr�s le d�p�t du vingti�me instrument de ratification\nou d'adh�sion, la Convention entrera en vigueur le trenti�me jour qui suivra\nle d�p�t par cet Etat de son instrument de ratification ou d'adh�sion.",
+                "line_num": 802
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0045",
+                "summary": "###### Article 5\n\nLes Etats parties respectent la responsabilit�, le droit et le devoir\nqu'ont les parents ou, le cas �ch�ant, les membres de la famille �largie ou\nde la communaut�, comme pr�vu par la coutume locale, les tuteurs ou autres\npersonnes l�galement responsables de l'enfant, de donner � celui-ci, d'une\nmani�re qui corresponde au d�veloppement de ses capacit�s, l'orientation et\nles conseils appropri�s � l'exercice des droits que lui reconna�t la\npr�sente Convention.",
+                "line_num": 814
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0046",
+                "summary": "This partial document describes the amendment procedure for a United Nations convention. It outlines the steps for proposing an amendment, including submission to the Secretary-General, communication to States Parties, and the conditions for convening a conference to examine the proposal. It further details the requirements for an amendment to enter into force (approval by the UN General Assembly and acceptance by a two-thirds majority of States Parties) and specifies that amendments only bind the States Parties that have accepted them.",
+                "line_num": 825
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0047",
+                "summary": "###### Article 51\n\n1. Le secr�taire g�n�ral de l'Organisation des Nations unies\nrecevra et communiquera � tous les Etats le texte des r�serves qui auront\n�t� faites par les Etats au moment de la ratification ou de l'adh�sion.\n2. Aucune r�serve incompatible avec l'objet et le but de la\npr�sente Convention n'est autoris�e.\n3. Les r�serves peuvent �tre retir�es � tout moment par\nnotification adress�e au secr�taire g�n�ral de l'Organisation des Nations\nunies, lequel en informe tous les Etats parties � la Convention. La\nnotification prend effet � la date � laquelle elle est re�ue par le\nsecr�taire g�n�ral.",
+                "line_num": 849
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0048",
+                "summary": "###### Article 52\n\nTout Etat partie peut d�noncer la pr�sente Convention par\nnotification �crite adress�e au secr�taire g�n�ral de l'Organisation des\nNations unies. La d�nonciation prend effet un an apr�s la date � laquelle la\nnotification a �t� re�ue par le secr�taire g�n�ral.",
+                "line_num": 863
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0049",
+                "summary": "###### Article 53\n\nLe secr�taire g�n�ral de l'Organisation des Nations unies est d�sign�\ncomme d�positaire de la pr�sente Convention.",
+                "line_num": 871
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0050",
+                "summary": "This partial document contains the final article (Article 54) of a convention, followed by a comprehensive list of states parties. The main points covered are:\n\n1.  **Final Provisions of the Convention:** Article 54 specifies the deposition of the original treaty with the UN Secretary-General, states that all six language texts are equally authentic, and includes the signature clause for plenipotentiaries. A note provides the convention's adoption details (UN General Assembly Resolution 44/25 of 20 November 1989) and entry into force date (2 September 1990).\n\n2.  **Status of Ratification Table:** The bulk of the document is a table listing states that are party to the convention. For each state, it shows the date of ratification, accession (A), or succession (S), and the subsequent date the convention entered into force for that state. The list is current as of 24 January 2007.\n\n3.  **Notes on Reservations and Territorial Application:**\n    *   It indicates that footnotes (* and **) refer to states that have made reservations/declarations or objections, respectively.\n    *   A specific note explains the territorial application of the convention to Hong Kong and Macao.\n    *   It provides information on where to find the full texts of reservations and declarations (UN website or the Swiss Directorate of International Public Law).\n\n4.  **Website Disclaimer:** The document ends with a disclaimer noting the website is under construction and that the texts presented do not engage the responsibility of the hosting associations.",
+                "line_num": 877
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0051",
+                "summary": "###### Article 6\n\n1. Les Etats parties reconnaissent que tout enfant a un droit\ninh�rent � la vie.\n2. Les Etats parties assurent dans toute la mesure possible la\nsurvie et le d�veloppement de l'enfant.",
+                "line_num": 1956
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0052",
+                "summary": "###### Article 7\n\n1. L'enfant est enregistr� aussit�t sa naissance et a d�s celle-ci\nle droit � un nom, le droit d'acqu�rir une nationalit� et, dans la mesure du\npossible, le droit de conna�tre ses parents et d'�tre �lev� par eux.\n2. Les Etats parties veillent � mettre ces droits en oeuvre\nconform�ment � leur l�gislation nationale et aux obligations que leur\nimposent les instruments internationaux applicables en la mati�re, en\nparticulier dans les cas o� faute de cela l'enfant se trouverait apatride.",
+                "line_num": 1964
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0053",
+                "summary": "###### Article 8\n\n1. Les Etats parties s'engagent � respecter le droit de l'enfant\nde pr�server son identit�, y compris sa nationalit�, son nom et ses\nrelations familiales, tels qu'ils sont reconnus par la loi, sans ing�rence\nill�gale.\n2. Si un enfant est ill�galement priv� des �l�ments constitutifs\nde son identit� ou de certains d'entre eux, les Etats parties doivent lui\naccorder une assistance et une protection appropri�es, pour que son identit�\nsoit r�tablie aussi rapidement que possible.",
+                "line_num": 1975
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0054",
+                "summary": "The partial document covers Article 9 of an agreement, focusing on the protection of a child's right to family unity and contact with parents. The main points include: the principle that a child should not be separated from parents against their will, except in specific cases like abuse or parental separation, where authorities deem it necessary for the child's best interest; the requirement that all interested parties have a chance to participate in such decisions; the child's right to maintain personal relations with both parents unless contrary to their best interest; and obligations for states to provide essential information about family members' whereabouts when separation results from state actions like detention or expulsion, without prejudicing the child's welfare.",
+                "line_num": 1987
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "07e238bb-2768-42b5-abc4-cfe6ee3d9ac3"
+    ],
+    "0002": [
+      "370754b5-cae6-483e-9ebc-569c4b0918af"
+    ],
+    "0003": [
+      "d96a53ac-4900-4036-a2d5-af2db217f469"
+    ],
+    "0004": [
+      "53810501-263c-4d7e-985e-25d665a6b17c"
+    ],
+    "0005": [
+      "508dec5f-07ae-4772-b4c9-133f84af6637"
+    ],
+    "0006": [
+      "3430a75a-93bc-4441-afe1-2ed3bd979815"
+    ],
+    "0007": [
+      "f8837280-b556-45cc-bb3b-749617eeefa1"
+    ],
+    "0008": [
+      "3b3b7734-c483-4e35-b7b1-5c7d7f97f945"
+    ],
+    "0009": [
+      "5e6ff106-66ac-404f-ba9d-03f312b858a2"
+    ],
+    "0010": [
+      "62b30218-b609-42f9-9075-e88e57678b8f"
+    ],
+    "0011": [
+      "ac4e2c91-9035-42ca-8fe9-25f7ac715e22"
+    ],
+    "0012": [
+      "02bd6c8f-3696-47eb-abb9-7fdb57de8c10"
+    ],
+    "0013": [
+      "310b5b7a-b3fb-4c28-9291-fa9669764ea6"
+    ],
+    "0014": [
+      "682e41b4-b390-4ea9-b4f1-74d4b87ea679"
+    ],
+    "0015": [
+      "f2f90bed-ad0f-424a-b26e-308592b22c5d"
+    ],
+    "0016": [
+      "3ec966c9-aba9-4f4c-a5c0-b9d37fa59bd3"
+    ],
+    "0017": [
+      "784319bb-2e39-4f82-a619-d39d3a555481"
+    ],
+    "0018": [
+      "24b73241-de72-4636-81ef-3f41a1fc0a66"
+    ],
+    "0019": [
+      "63b948dc-398e-4582-9ed9-dc0942c06112"
+    ],
+    "0020": [
+      "adae864d-bea2-4003-9d53-aad513be3442"
+    ],
+    "0021": [
+      "fa95ea41-b08d-485a-92d3-e676c6af0640"
+    ],
+    "0022": [
+      "9fdbaf61-65a1-4457-bf3c-c0ed8da1a1f7"
+    ],
+    "0023": [
+      "705fb903-a238-473f-893f-885267be9e9b"
+    ],
+    "0024": [
+      "f19a9a8e-2643-4099-b89a-96082ffce468"
+    ],
+    "0025": [
+      "7e57c2d2-764a-4b3a-9607-ddc3eb36ee5f"
+    ],
+    "0026": [
+      "feef5170-3633-4c2e-8c75-0475e219cc08"
+    ],
+    "0027": [
+      "bf35aaf3-4d1a-4b52-86a4-92e0d9e54eb2"
+    ],
+    "0028": [
+      "159092be-b4a4-4db2-aa9e-e20311230189"
+    ],
+    "0029": [
+      "37eadf96-02f4-4874-b605-0fd0d7f38902"
+    ],
+    "0030": [
+      "045fe80d-1774-48d4-ad37-a4d7451e242e"
+    ],
+    "0031": [
+      "c1062a8e-cc1a-4916-b68f-270961f2e7bb"
+    ],
+    "0032": [
+      "5fd1a9b9-9a82-42c5-8f03-592aaf76c7f4"
+    ],
+    "0033": [
+      "b660b9d0-d580-4075-bedb-6ddd8e11439f"
+    ],
+    "0034": [
+      "c606e978-a817-4e9f-a7e8-a47df7a7749a"
+    ],
+    "0035": [
+      "8bb2f684-a151-4914-b46b-28951eae3835"
+    ],
+    "0036": [
+      "b1a9e51d-2027-48b9-9cbc-a560b988ad25"
+    ],
+    "0037": [
+      "82bd4fe6-ca74-40b4-b0a7-ad030ff2bd30"
+    ],
+    "0038": [
+      "27ab31b9-14e7-45a7-955c-5067385f1ad6"
+    ],
+    "0040": [
+      "15472ee7-c4ab-43f8-b473-d6fa9041b085"
+    ],
+    "0041": [
+      "7850b6d5-7e44-497e-9d65-52f19f5e6fbf"
+    ],
+    "0042": [
+      "31319177-6746-40d0-9bef-559d436e5adb"
+    ],
+    "0043": [
+      "a0c45796-e4ed-43c0-a0cc-74f7b15ca032"
+    ],
+    "0044": [
+      "dd179489-e7ea-41c9-8dec-e798fd372d53"
+    ],
+    "0045": [
+      "0e21446e-b023-4930-ad91-ae61cb4252d1"
+    ],
+    "0046": [
+      "ae1703af-60a1-4f10-a663-36ee80ea12e8"
+    ],
+    "0047": [
+      "a911d300-9956-492d-8670-e689113713d8"
+    ],
+    "0048": [
+      "c77eb995-2286-47a3-a120-780c162b9a1f"
+    ],
+    "0049": [
+      "8d5db692-15e8-4f7a-b9d1-73b84d27fe6b"
+    ],
+    "0050": [
+      "846a6288-19d9-45cc-81fb-6327c538977e"
+    ],
+    "0051": [
+      "a68cec18-7be1-43e7-a548-0b2e7a0986cb"
+    ],
+    "0052": [
+      "1ed76c8a-76f8-4dc7-b35c-1d1e9980eb18"
+    ],
+    "0053": [
+      "a33b09ef-9674-49ab-87ec-661b9d85dd60"
+    ],
+    "0054": [
+      "c1ea19fc-723a-44c3-ac38-34323dc21c94"
+    ]
+  },
+  "node_count": 55,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:30:04.949266",
+  "article_count": 53,
+  "generation_time_s": 44.006044149398804
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "AM-137-8-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-137-8-11-2018-2018.json",
+  "document_id": "3fc0edaf-eca7-4e0f-a027-29298adad395",
+  "document_title": "AM.137.8.11.2018",
+  "tree_json": {
+    "doc_name": "AM-137-8-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.137.8.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.137.8.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "###### Article S10\n\nFAMILIALES\nET\nLES",
+            "line_num": 9
+          },
+          {
+            "title": "Article S11",
+            "node_id": "0003",
+            "summary": "###### Article S11\n\nCONDITIONS",
+            "line_num": 16
+          },
+          {
+            "title": "titre",
+            "node_id": "0004",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 21,
+            "nodes": [
+              {
+                "title": "Article S12",
+                "node_id": "0005",
+                "summary": "This partial document is a legal decree from the Democratic Republic of the Congo concerning family allowance benefits within the social security system. The main points covered are:\n\n1.  **Legal Basis:** It begins by listing the constitutional, treaty, and legal texts that serve as the foundation for the decree.\n2.  **Eligibility and Payment:** It states that family allowances are granted to the insured person for each dependent child and are paid to the insured for the children's benefit.\n3.  **Safeguards for Children:** It allows the social security fund (CNSS) to petition a court to designate a new recipient if the allowances are not used in the children's interest.\n4.  **Rules to Prevent Duplication:** It establishes that when parents are under different schemes, the more advantageous one applies. It explicitly forbids both parents from receiving the allowance for the same child.\n5.  **Amount:** It sets the monthly allowance at 8,100 Congolese francs per child.\n6.  **Payment Method and Frequency:** It specifies that payments are made directly by the fund, either via bank transfer or cash, typically at the end of each calendar quarter, with a possibility for monthly payment.\n7.  **Cessation and Exceptions:** It states that allowances stop if the insured's professional activity ceases. However, they continue during a suspension of the work contract due to illness, accident, pregnancy, childbirth, or incarceration.",
+                "line_num": 25
+              },
+              {
+                "title": "Article S13",
+                "node_id": "0006",
+                "summary": "This partial document contains articles from a ministerial decree (likely from the Democratic Republic of Congo, given references to Kinshasa and Law 16/009) concerning family allowance benefits within the social security system. The main points covered are:\n\n*   The conditions under which an insured person is considered to have interrupted professional activity, specifically the cessation of social contribution declarations and payments.\n*   The suspension and resumption of family allowance payments based on the payment status of social contributions.\n*   The continuation of family allowances for workers with temporary or permanent (66% or more) incapacity due to work-related accidents or occupational diseases, with rules for cases where they resume paid work.\n*   The specific cases that interrupt the right to family allowances for each child (e.g., stopping school, reaching age 25, marriage, death, or no longer residing in the country).\n*   Provisions for the payment of allowances in the month of a child's death and for the lump-sum payment of arrears when an employer pays social contributions several months late.\n*   The effective date of the decree (January 1, 2019), the abrogation of contrary prior provisions, and the official responsible for its execution.",
+                "line_num": 628
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0007",
+                "summary": "###### Article S2\n\nMINISTERIEL\nN�",
+                "line_num": 1053
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0008",
+                "summary": "###### Article S3\n\n137/CAB/MINETAT/",
+                "line_num": 1059
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0009",
+                "summary": "###### Article S4\n\nMTEPS/01/2018\nDU 08\nNOVEMBRE\n2018",
+                "line_num": 1064
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0010",
+                "summary": "###### Article S5\n\nDETERMINANT",
+                "line_num": 1072
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0011",
+                "summary": "###### Article S6\n\nLE MONTANT,\nLES",
+                "line_num": 1077
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0012",
+                "summary": "###### Article S7\n\nMODALITES",
+                "line_num": 1083
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0013",
+                "summary": "###### Article S8\n\nDE PAIEMENT\nDES",
+                "line_num": 1088
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0014",
+                "summary": "###### Article S9\n\nALLOCATIONS",
+                "line_num": 1094
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "13898c82-14e9-464a-bbbe-f7fe86e22c25"
+    ],
+    "0002": [
+      "a8513793-3a4b-4819-89f3-7ae45b6d5f3f"
+    ],
+    "0003": [
+      "cd07c9bf-0006-4857-acb3-8608ed470f86"
+    ],
+    "0005": [
+      "a9ce0270-32fc-413b-b7f7-d30c0066beea"
+    ],
+    "0006": [
+      "3eef3823-6a42-43de-a646-797336fc0dbc"
+    ],
+    "0007": [
+      "e8c8fbb1-19e5-4976-b314-400da12e354c"
+    ],
+    "0008": [
+      "7baf0446-2f89-4744-bef6-624dadc24aa7"
+    ],
+    "0009": [
+      "62532084-cfd3-4567-8119-0877641ccd1b"
+    ],
+    "0010": [
+      "69160628-e137-425b-8af9-4e75cbc3835a"
+    ],
+    "0011": [
+      "7e7948e8-0ed7-4bd8-beb6-abf0ce74f0e1"
+    ],
+    "0012": [
+      "1648c0e7-1f9c-474f-83f0-ede49e7707f3"
+    ],
+    "0013": [
+      "6fe4d742-7db3-46ac-a923-f0e289e10f38"
+    ],
+    "0014": [
+      "38a8018f-cd38-4c7c-9caf-b06e80d3ad7a"
+    ]
+  },
+  "node_count": 15,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:34:03.631029",
+  "article_count": 13,
+  "generation_time_s": 16.325297832489014
+}

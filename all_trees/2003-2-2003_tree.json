@@ -1,0 +1,131 @@
+{
+  "slug": "2003-2-2003",
+  "bundle_path": "backups/all_bundles/code/2003-2-2003.json",
+  "document_id": "a299efed-b1e2-4a0d-ba1b-3255e0d17598",
+  "document_title": "2003.2",
+  "tree_json": {
+    "doc_name": "2003-2-2003",
+    "structure": [
+      {
+        "title": "2003.2",
+        "node_id": "0000",
+        "prefix_summary": "# 2003.2",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\nLes recettes courantes et exceptionnelles de l’Etat pour\nl’exercice\n2003\nsont\nprovisoirement\nautorisées\net\nperçues\nconformément au tableau figurant à l’annexe II de la loi n° 001/2002\ndu 02 janvier 2002 contenant le budget de l’Etat pour l’exercice 2002,\net à concurrence des montants minima repris aux tableaux figurant\naux annexes I et II du présent Décret-loi.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLes crédits budgétaires pour les dépenses courantes de l’exercice\n2003 sont provisoirement ouverts à concurrence d’un douzième des\nmontants des crédits repris aux tableaux figurant aux annexes I et III\ndu présent Décret-loi.",
+            "line_num": 20
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLes autorisations d’engagement pour les dépenses en capital de\nl’année 2003 sont provisoirement accordées à concurrence des\nmontants indiqués aux tableaux figurant aux annexes I et IV du\nprésent Décret-loi.",
+            "line_num": 28
+          },
+          {
+            "title": "TITRE II :",
+            "node_id": "0004",
+            "prefix_summary": "#### TITRE II :\nDes budgets annexes",
+            "line_num": 36,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0005",
+                "summary": "###### Article 4\n\nLes crédits de paiement pour les dépenses en capital de l’année\n2003 sont provisoirement ouverts au prorata d’un douzième des\nmontants des crédits repris aux tableaux figurant aux annexes I et IV\ndu présent Décret-loi.",
+                "line_num": 40
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0006",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 48,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0007",
+                "summary": "###### Article 5\n\nLes crédits budgétaires au titre des budgets annexes de l’exercice\n2003 sont ouverts provisoirement à concurrence d’un douzième des\nmontants des crédits repris aux tableaux figurant aux annexes I et V\ndu présent Décret-loi.\n\nDu budget pour ordre",
+                "line_num": 51
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV :",
+            "node_id": "0008",
+            "prefix_summary": "#### TITRE IV :\nDes dispositions transitoires et finales",
+            "line_num": 61,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0009",
+                "summary": "###### Article 6\n\nLes recettes et les dépenses du Budget pour Ordre de l’année\n2003 sont provisoirement autorisées et réparties à concurrence des\nmontants repris aux tableaux figurant aux annexes I et VI du présent\nDécret-loi.\nLes dépenses pour ordre de l’exercice 2003 sont exécutées au\nprorata des recettes correspondantes réalisées.",
+                "line_num": 65
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0010",
+                "summary": "###### Article 7\n\nLes recettes et les crédits visés par le présent Décret-loi sont\nautorisés mensuellement jusqu’à l’entrée en vigueur de la Loi\nBudgétaire pour l’exercice 2003.",
+                "line_num": 75
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0011",
+                "summary": "###### Article 8\n\nPour le suivi harmonieux de l’exécution des crédits provisoires\npour l’exercice budgétaire 2003, le Ministère des Finances et Budget\nreçoit  journellement des Ministères, Services et Entreprises\nPubliques et autres générateurs des recettes ainsi que du Caissier de\nl’Etat, la situation des versements et des décaissements du Compte\nGénéral et des Sous-Comptes du Trésor Public.",
+                "line_num": 82
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0012",
+                "summary": "###### Article 9\n\nLe présent Décret-loi entre en vigueur à compter du 1er janvier\n2003.\nFait à Kinshasa, le 11 janvier 2003.\nJoseph  Kabila\nJournal Officiel - Banque des Données Juridiques - 2013",
+                "line_num": 92
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "5b0d3517-8e2d-458c-b1c5-f48548e044e3"
+    ],
+    "0002": [
+      "6df2d4f7-813a-4277-bfd5-a34e01764bcf"
+    ],
+    "0003": [
+      "0a313fbf-0198-4665-ba5e-dee3f3ad3c22"
+    ],
+    "0005": [
+      "5d6413df-ece3-4090-95e1-517d8754184d"
+    ],
+    "0007": [
+      "34ed1d8b-f119-4c26-b340-c2b1d9d27be5"
+    ],
+    "0009": [
+      "ed657273-ce0f-4df1-9afe-a17f31909c47"
+    ],
+    "0010": [
+      "3005274a-6836-4a66-8db5-92251740bedf"
+    ],
+    "0011": [
+      "aa898265-f078-401b-b81c-38b95f1b5598"
+    ],
+    "0012": [
+      "e8fc0dd9-2251-4085-959d-1e387419b2f9"
+    ]
+  },
+  "node_count": 13,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:41:49.832975",
+  "article_count": 9,
+  "generation_time_s": 0.015130996704101562
+}

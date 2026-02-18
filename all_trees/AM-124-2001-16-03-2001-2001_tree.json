@@ -1,0 +1,80 @@
+{
+  "slug": "AM-124-2001-16-03-2001-2001",
+  "bundle_path": "backups/all_bundles/code/AM-124-2001-16-03-2001-2001.json",
+  "document_id": "0c14f94d-7066-4f8e-8c81-91eb9e6e36e8",
+  "document_title": "AM.124.2001.16.03.2001",
+  "tree_json": {
+    "doc_name": "AM-124-2001-16-03-2001-2001",
+    "structure": [
+      {
+        "title": "AM.124.2001.16.03.2001",
+        "node_id": "0000",
+        "prefix_summary": "# AM.124.2001.16.03.2001",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\nLe perroquet gris Psittacus erithacus est un oiseau totalement\nprot�g� par la Loi n� 82-002 du 28 mai 1982 portant r�glementation de la chasse.\nLe pr�sent arr�t�\nr�glemente le pr�l�vement et le cycle de reproduction de ce perroquet, en vue\nd�assurer la p�rennit� de l�esp�ce.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLe perroquet gris\nPsittacus erithacus est class� � l�Annexe I de la Loi n� 82-002 du 28 mais 1982\net � l�Annexe II de la Convention sur le Commerce International des esp�ces de\nfaune et de flore sauvage menac�es d�extinction � CITES �.\nChapitre 2 : Des sites et p�riodes de\ncapture",
+            "line_num": 13
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLe perroquet gris\nPsittacus erithacus existe dans la for�t dense des Provinces ci-apr�s :\n1) Province du\nBandundu\n2) Province du\nBas Congo\n3) Province de\nl�Equateur\n4) Province du\nKasa� Occidental\n5) Province du\nKasa� Oriental\n6) Province du\nManiema\n7) Province\nOrientale",
+            "line_num": 23
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes p�riodes de\ncapture de cette esp�ce diff�rent d�une Province � l�autre et sont fix�es de la\nmani�re suivante:\na)      Pour les\nProvinces Orientale, du Bandundu, de l�Equateur, du Kasa� Occidental et du Kasa�\nOriental, la p�riode de capture court du mois de septembre � avril ;\nb)      Pour la\nProvince du Maniema, la p�riode de capture court du mois de f�vrier � juillet ;\nc)      Pour la\nProvince du Bas-Congo, la p�riode de capture court du mois de janvier � juillet.\nChapitre 3 : Des dispositions transitoires et finales",
+            "line_num": 43
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLe Ministre en\ncharge de la Faune et de la Flore ou son d�l�gu� pourra introduire des\nmodifications apr�s �tudes approfondies du statut biologique de l�esp�ce reprise\n� l�article 1er\ndu pr�sent arr�t�.",
+            "line_num": 58
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe Secr�taire\nG�n�ral � l�environnement et Conservation de la Nature est charg� de l�ex�cution\ndu pr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 16 mars 2001\nHenri MOVA SAKANYI\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 67
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "5d2166d8-f823-4990-b79a-914d14389b3b"
+    ],
+    "0002": [
+      "9b9e0e4d-cf46-4e8f-851e-45f262e88c8d"
+    ],
+    "0003": [
+      "e8ebd000-f05d-44cb-b82e-548f72fe09a0"
+    ],
+    "0004": [
+      "8e882ccd-b3c9-4eb6-a184-6c4009509ea4"
+    ],
+    "0005": [
+      "8d09cdce-8cd2-48ab-84bf-a1df073c3d94"
+    ],
+    "0006": [
+      "99d640fb-b45c-4d77-85a5-2ad91b779b1d"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:15.970976",
+  "article_count": 6,
+  "generation_time_s": 0.01520991325378418
+}

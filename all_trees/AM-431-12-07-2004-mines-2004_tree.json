@@ -1,0 +1,98 @@
+{
+  "slug": "AM-431-12-07-2004-mines-2004",
+  "bundle_path": "backups/all_bundles/code/AM-431-12-07-2004-mines-2004.json",
+  "document_id": "3f60cddd-b441-4c96-8648-8f30ed838c5b",
+  "document_title": "AM.431.12.07.2004.mines",
+  "tree_json": {
+    "doc_name": "AM-431-12-07-2004-mines-2004",
+    "structure": [
+      {
+        "title": "AM.431.12.07.2004.mines",
+        "node_id": "0000",
+        "prefix_summary": "# AM.431.12.07.2004.mines",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\n:\nIl est institu�, au sein du\nMinist�re des Mines, une Commission Technique ad hoc dont les missions sont\nd�finies � l�article 2 du pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLa Commission a pour missions\n:\na)\nde proposer au Ministre\ndes Mines les zones � ouvrir � l�exploitation artisanale dans toutes les\nprovinces de la R�publique D�mocratique du Congo, � l�exception de la\nVille-Province de Kinshasa ;\nb)\nd�inventorier les\ngisements � soumettre � l�appel d�offres ;\nc)\nde proposer au Ministre\ndes Mines les zones interdites aux activit�s mini�res et/ou de carri�res.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "This partial document defines the composition of an \"Ad Hoc Technical Commission,\" specifying that it consists of 18 members drawn from seven specific government and technical bodies within the mining sector. It also states that the commission has the authority to call upon additional experts as needed for its mission.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLa Commission se r�unit deux\nfois la semaine au Cabinet du Ministre des Mines ou toutes les fois que cela\ns�av�re n�cessaire.\nLa pr�sidence de la Commission\nest assur� par un des d�l�gu�s du Cabinet du Ministre.\nUn R�glement d�Ordre Int�rieur\nd�termine l�organisation et le fonctionnement de la Commission.",
+            "line_num": 59
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLes membres de la Commission\nTechnique ad hoc autres que le Personnel d�Appoint sont, apr�s leur d�signation\npar leurs services respectifs, nomm�s et le cas �ch�ant, relev�s de leurs\nfonctions par le Ministre.\nLe Personnel d�Appoint est\nnomm� par le Ministre.",
+            "line_num": 70
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLes membres de la Commission\nont droit � un jeton de pr�sence pour chaque s�ance.\nLes membres autres que ceux de\nla Commission qui participent aux travaux ont droit � une collation pour chaque\ns�ance.\nLe montant du jeton de\npr�sence ou de la collation est d�termin� par le Ministre en charge des Mines.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nLes travaux de la Commission\nprennent fin le jour de l�accomplissement total de ses missions.",
+            "line_num": 91
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nLe Directeur de Cabinet est\ncharg� de l�ex�cution de cet Arr�t�, qui entre en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 12 juillet\n2004.\nEug�ne Diomi Ndongala\nNzomambu\n_______________\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]",
+            "line_num": 97
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a6187ef9-e403-4b36-b058-9bafa4dbfdaf"
+    ],
+    "0002": [
+      "fa285059-0431-4fd2-a552-3fcfaf49bdfb"
+    ],
+    "0003": [
+      "b0a624bd-e95d-4670-b5ec-fc8ba4009ed1"
+    ],
+    "0004": [
+      "b2b874e3-8886-4e63-bef1-d2874e435a73"
+    ],
+    "0005": [
+      "ff66eb87-5a9e-4c5b-b475-f2864b4ee98a"
+    ],
+    "0006": [
+      "958f9f04-0625-416e-83d0-700a8986b17c"
+    ],
+    "0007": [
+      "484bf280-bb34-4c0a-ad1b-609be98b9779"
+    ],
+    "0008": [
+      "2f1fb843-a462-4125-9f58-2c6074683347"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:22:58.609667",
+  "article_count": 8,
+  "generation_time_s": 4.494646072387695
+}

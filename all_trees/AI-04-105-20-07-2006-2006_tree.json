@@ -1,0 +1,33 @@
+{
+  "slug": "AI-04-105-20-07-2006-2006",
+  "bundle_path": "backups/all_bundles/code/AI-04-105-20-07-2006-2006.json",
+  "document_id": "840c3a50-d8d3-4fcd-9cd0-3af3cc5bca30",
+  "document_title": "AI.04.105.20.07.2006",
+  "tree_json": {
+    "doc_name": "AI-04-105-20-07-2006-2006",
+    "structure": [
+      {
+        "title": "AI.04.105.20.07.2006",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "aff49eb4-b804-4fa4-8349-78b9751027e4"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:03:44.777709",
+  "article_count": 1,
+  "generation_time_s": 0.001191854476928711
+}

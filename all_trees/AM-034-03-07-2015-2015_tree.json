@@ -1,0 +1,824 @@
+{
+  "slug": "AM-034-03-07-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-034-03-07-2015-2015.json",
+  "document_id": "8a1ca6e7-42e0-465e-b537-aaf1ab7764cc",
+  "document_title": "AM.034.03.07.2015",
+  "tree_json": {
+    "doc_name": "AM-034-03-07-2015-2015",
+    "doc_description": "This ministerial order establishes a comprehensive procedural framework for developing, verifying, approving, implementing, and monitoring forest management plans for timber production concessions in the Democratic Republic of Congo.",
+    "structure": [
+      {
+        "title": "AM.034.03.07.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.034.03.07.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� a pour objet de fixer la proc�dure d'�laboration, de\nv�rification, d'approbation, de mise en �uvre et de suivi du plan d'am�nagement\nd'une concession foresti�re de production de bois d'�uvre.\nCette proc�dure est ex�cut�e suivant des directives et normes reprises dans les\nguides op�rationnels pr�vus au point 19 de l'article 3 ci-dessous.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nTout au long de l'�laboration du plan d'am�nagement forestier, � compter de la\ndate de signature du contrat de concession foresti�re, le concessionnaire\ninforme par �crit, en fin de chaque semestre, les administrations centrale,\nprovinciale et locale charg�es des for�ts, les autorit�s locales et les\ncommunaut�s locales riveraines de la concession d�ment repr�sent�es, de l'�tat\nd'avancement des travaux et de la programmation actualis�e.",
+            "line_num": 13
+          },
+          {
+            "title": "Sous-section 2 : Contenu du plan d'am�nagement forestier",
+            "node_id": "0003",
+            "summary": "###### Sous-section 2 : Contenu du plan d'am�nagement forestier",
+            "line_num": 23
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0004",
+            "summary": "The partial document describes the participatory process for developing a forest management plan. It outlines requirements for public consultation meetings with local communities, including the presence of government representatives. It specifies that minutes from these meetings must record community feedback on the plan, zoning, land use, and their commitment to abide by activity restrictions. These minutes are then submitted to a competent authority, which must clarify how the community's opinions and observations have been considered.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0005",
+            "summary": "###### Article 12\n\nL'�laboration du plan d'am�nagement forestier n�cessite obligatoirement la\nr�alisation d'inventaires d'am�nagement forestier et d'une �tude socio�\n�conomique, conformes aux guides op�rationnels y aff�rents.\nLe plan d'am�nagement forestier indique les d�cisions prises en mati�re\nd'affectation des terres.\nA ce titre, il pr�cise la superficie consacr�e � la zone de d�veloppement rural\net pr�sente, � titre indicatif, les limites des espaces qui seront ainsi exclus\nde la concession. Ces limites sont fix�es d�finitivement pour chaque bloc\nd'am�nagement quinquennal lors de l'�laboration du plan de gestion quinquennal.",
+            "line_num": 42
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0006",
+            "summary": "###### Article 13\n\nLe plan d'am�nagement forestier fixe la dur�e de la rotation en multiple de 5\nann�es, �gale ou sup�rieure � 25 ans.\nToutefois, la dur�e de la rotation telle que consign�e dans le plan\nd'am�nagement ne modifie pas celle du contrat de concession foresti�re.",
+            "line_num": 55
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0007",
+            "summary": "###### Article 14\n\nLa superficie sous am�nagement est divis�e en blocs d'am�nagement quinquennaux,\nd�limit�s de mani�re � contenir un volume �quivalent de bois � pr�lever par le\nconcessionnaire.",
+            "line_num": 63
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0008",
+            "summary": "###### Article 15\n\nLe concessionnaire est tenu de pr�voir toutes les mesures permettant la\nreconstitution de la for�t au terme de chaque rotation.\nA cet effet, le plan d'am�nagement forestier garantit un indice de\nreconstitution minimum de 50% pour le groupe des essences am�nag�es les mieux\nvaloris�es sur les march�s, et un indice de reconstitution minimum de 30% pour\nchacun de ces essences consid�r�e individuellement.\nLes modalit�s de calcul de ces indices de reconstitution sont pr�cis�es par les\nguides op�rationnels y aff�rents.",
+            "line_num": 70
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0009",
+            "summary": "###### Article 16\n\nLe plan d'am�nagement forestier d�termine les objectifs, la nature et la\nprogrammation des op�rations et fixe, en cons�quence, le diam�tre minimum\nd'exploitabilit� sous am�nagement et d'autres traitements sylvicoles.\nLe contenu du plan d'am�nagement forestier est pr�cis� suivant les guides\nop�rationnels y aff�rents.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0010",
+            "summary": "###### Article 17\n\nLe concessionnaire peut b�n�ficier de mesures incitatives pr�vues par la\nr�glementation en vigueur et visant � encourager la r�alisation des traitements\nsylvicoles et des activit�s de conservation de la biodiversit� impliquant les\ncommunaut�s locales riveraines de la concession.",
+            "line_num": 91
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0011",
+            "summary": "###### Article 18\n\nLe plan d'am�nagement forestier fixe les activit�s de recherche ou d'�tude en\nmati�re sylvicole, sociale, �conomique ou biologique destin�es � compl�ter\n�ventuellement les donn�es de base n�cessaires � la mise en �uvre de\nl'am�nagement, en d�signant, le cas �ch�ant, les intervenants qui peuvent les\nmener � bien.\nCes activit�s sont pr�sent�es sous forme de programme et de projets.",
+            "line_num": 99
+          },
+          {
+            "title": "Section 2 : Plan de gestion",
+            "node_id": "0012",
+            "prefix_summary": "##### Section 2 : Plan de gestion",
+            "line_num": 109,
+            "nodes": [
+              {
+                "title": "Article 19",
+                "node_id": "0013",
+                "summary": "The partial document outlines the requirements and content of a forest management plan (plan d'aménagement forestier) as specified in Article 19. The main points covered are:\n1. The plan details the implementation methods for environmental protection obligations.\n2. It specifies measures for infrastructure, reduced-impact logging, and wildlife protection.\n3. It assesses the potential impact of roads, camps, and other infrastructure on the ecosystem and biodiversity, and indicates the mitigation measures to be implemented.\n4. For a concession bordering a protected area, the plan must include measures to mitigate negative effects from logging, which are then incorporated into relevant operational guides.",
+                "line_num": 112
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "This partial document lists the specific directives and standards referenced in a preceding Article 2. The main points covered are the enumeration of protocols, procedures, and templates required for the verification, approval, monitoring, and control of various forestry management plans and studies. These include protocols for sampling plans, forest inventory reports, socio-economic studies, overall forest management plans, management plans (including five-year plans), annual operational plans, and templates for production evaluations and declarations.",
+                "line_num": 127
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0015",
+                "summary": "###### Article 20\n\nPendant la p�riode d'�laboration du plan d'am�nagement forestier, le\nconcessionnaire exploite la for�t conc�d�e en vertu d'une autorisation\nd'exploitation d�livr�e sur la base d'un plan de gestion �labor� et valid�\nconform�ment aux dispositions des articles 52 et 53 ci� dessous.\nLe plan de gestion constitue un plan d'am�nagement forestier provisoire.",
+                "line_num": 147
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0016",
+                "summary": "###### Article 21\n\nLe plan de gestion identique les quatre premi�res assiettes annuelles de coupe.\nLes superficies annuelles exploit�es en application dudit plan ne peuvent\nd�passer le 1/25� de la superficie productive de la for�t conc�d�e.\nChaque assiette annuelle de coupe est assortie d'un plan annuel d'op�rations\napprouv� conform�ment aux dispositions du pr�sent Arr�t�.",
+                "line_num": 156
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0017",
+                "summary": "###### Article 22\n\nLes concessions foresti�res contigu�s relevant d'un seul concessionnaire et\ntenues conform�ment � l'alin�a 2 de l'article 7 ci-dessus peuvent faire l'objet\nd'un plan de gestion commun dans la perspective de la mise en place d'une\nsuperficie sous am�nagement regroupant les concessions concern�es.\nDans le cas d'une gestion commune, les superficies annuelles exploit�es en\napplication de ce plan de gestion ne peuvent d�passer le 1/25� de la superficie\nproductive de la superficie sous am�nagement.",
+                "line_num": 165
+              }
+            ]
+          },
+          {
+            "title": "Section 3 : Plan de gestion quinquennal",
+            "node_id": "0018",
+            "prefix_summary": "##### Section 3 : Plan de gestion quinquennal",
+            "line_num": 176,
+            "nodes": [
+              {
+                "title": "Article 23",
+                "node_id": "0019",
+                "summary": "###### Article 23\n\nDans le cas o� le Ministre accorde un d�lai suppl�mentaire permettant la\nfinalisation du plan d'am�nagement forestier, le concessionnaire soumet pour\nvalidation au service comp�tent, les modifications � apporter au plan de gestion\ninitial afin de tenir compte de la prolongation de la p�riode de mise en �uvre.\nLe service vis� � l'alin�a pr�c�dent examine et valide les modifications\npr�cit�es selon la m�me proc�dure que celle pr�vue concernant le plan de gestion\ninitial.",
+                "line_num": 179
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0020",
+                "summary": "###### Article 24\n\nChaque bloc d'am�nagement quinquennal fait l'objet d'un plan de gestion\nquinquennal qui planifie les activit�s sur une p�riode de cinq ans.\nII est �tabli conform�ment aux directives et normes pr�vues par le guide\nop�rationnel y aff�rent et int�gre les �l�ments relatifs au d�coupage du bloc\nd'am�nagement quinquennal en assiettes annuelles de coupe et la planification\ndes travaux sylvicoles, des infrastructures et de protection de l'environnement.",
+                "line_num": 190
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0021",
+                "summary": "###### Article 25\n\nLors de l'�laboration du plan de gestion quinquennal, le concessionnaire, en\nconcertation avec les communaut�s locales riveraines, fixe et marque sur le\nterrain les limites d�finitives de la zone de d�veloppement rural, conform�ment\nau guide op�rationnel y aff�rent.\nL'engagement des populations riveraines concern�es � respecter ces limites est\nint�gr� dans les accords constituant la clause sociale du cahier des charges et\ndans les proc�s-verbaux.\nLes cartes issues de la concertation sur la fixation des limites et annex�es aux\nproc�s-verbaux en font foi.",
+                "line_num": 200
+              }
+            ]
+          },
+          {
+            "title": "Section 4 : Plan annuel d'op�rations",
+            "node_id": "0022",
+            "prefix_summary": "##### Section 4 : Plan annuel d'op�rations",
+            "line_num": 213,
+            "nodes": [
+              {
+                "title": "Article 26",
+                "node_id": "0023",
+                "summary": "###### Article 26\n\nLa nature et la localisation des infrastructures communautaires et les services\nsociaux font l'objet d'une consultation lors de l'�tablissement de l'accord\nconstituant la clause sociale du cahier des charges du contrat de concession\nforesti�re pr�vu par la r�glementation en vigueur.",
+                "line_num": 216
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0024",
+                "summary": "###### Article 27\n\nAvant toute op�ration d'exploitation dans une nouvelle assiette annuelle de\ncoupe, le concessionnaire est tenu de d�tenir un plan annuel d'op�rations\ncouvrant un exercice allant du 1er janvier au 31 d�cembre d'une m�me ann�e.\nLe plan annuel d'op�rations est �labor� sur base des r�sultats de l'inventaire\nd'exploitation de l'assiette annuelle de coupe, conform�ment aux guides\nop�rationnels y aff�rents, en tenant compte des prescriptions du plan\nd'am�nagement forestier et du plan de gestion quinquennal.",
+                "line_num": 224
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : V�rification et validation des documents d'am�nagement forestier",
+            "node_id": "0025",
+            "prefix_summary": "#### Chapitre III : V�rification et validation des documents d'am�nagement forestier",
+            "line_num": 235,
+            "nodes": [
+              {
+                "title": "Article 28",
+                "node_id": "0026",
+                "summary": "The partial document covers Article 28, which outlines the rules for the annual cutting area (*assiette annuelle de coupe*) within a forest management plan. The main points are:\n\n1.  The annual cutting area is typically opened for exploitation only once during the plan's implementation.\n2.  Exceptions allow for a two-year extension of exploitation rights following the initial opening year. This is granted by the competent authority upon a justified request from the concession holder, to account for either delays in the annual operations plan or market opportunities for already inventoried tree species.\n3.  If approved, the validity of the annual operations plan and the cutting area is automatically extended for the following year.\n4.  A strict deadline is imposed: all logging operations, including timber removal from the cutting area, must be completed within three years of the area's initial opening date.\n\nThe text then transitions to a new section (Section 1) on document verification, beginning with a subsection on works and data.",
+                "line_num": 238
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0027",
+                "summary": "###### Article 29\n\nLa v�rification de la compilation des inventaires d'am�nagement forestier, du\ncalcul de la possibilit� annuelle de coupe et de l'ensemble du contenu des\ndocuments d'am�nagement est assur�e par le service comp�tent.\nLe concessionnaire est tenu de d�poser aupr�s du service pr�cit� tout document\nconcern� tant en version papier qu'en version num�rique.",
+                "line_num": 259
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0028",
+                "summary": "This partial document is Article 3 of a legal decree or order, which provides the official definitions for key terms used in the regulation of forest management and timber exploitation. The main points covered are the establishment of a comprehensive glossary for concepts related to:\n\n1.  **Administrative and Legal Authorities:** Defining the granting authority, competent authority, relevant Minister, Ministry, Secretary-General, and competent service.\n2.  **Spatial and Temporal Planning Units:** Defining the hierarchical planning structure, including the Superficie Sous Aménagement (SSA), Bloc d'Aménagement Quinquennal (BAQ), Assiette Annuelle de Coupe (AAC), and Série d'Aménagement.\n3.  **Planning and Management Documents:** Defining the essential documents such as the Plan d'Aménagement Forestier (PAF), Plan de Gestion Quinquennal (PGQ), Plan Annuel d'Opérations (PAO), Plan de Gestion (PG), and Documents d'aménagement forestier (including inventory and socio-economic reports).\n4.  **Technical Forestry Parameters:** Defining critical measurement and harvest standards like Diamètre à Hauteur de Poitrine (DHP), Diamètre Minimum d'Exploitabilité (DME), Diamètre Minimum d'exploitabilité sous Aménagement (DMA), Possibilité Annuelle de Coupe (PAC), and Rotation.\n5.  **Operational Practices and Assessments:** Defining Exploitation Forestière à Impact Réduit (EFIR - Reduced Impact Logging), forest inventory, forest stratification, operational guides (GO), and plots (placette).\n6.  **Social and Community Aspects:** Defining local communities, riparian local communities, and Rural Development Zones, which are areas reserved for their housing and traditional/agricultural activities.",
+                "line_num": 268
+              },
+              {
+                "title": "Sous-section 2 : Plan de sondage",
+                "node_id": "0029",
+                "summary": "###### Sous-section 2 : Plan de sondage",
+                "line_num": 361
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0030",
+                "summary": "This partial document outlines the digital data submission requirements for a forestry concessionaire to verify completed work. It specifies the exact digital files and databases that must be submitted alongside reports for various forestry management plans. The listed items include cartographic files for boundaries, stratification, and land allocation, as well as databases containing inventory data by species and diameter class. It also states that the competent authority may only use this digital data for document analysis and must request permission from the concessionaire for any other use.",
+                "line_num": 364
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0031",
+                "summary": "###### Article 31\n\nConform�ment aux dispositions de l'article 8 ci� dessus, le concessionnaire est\ntenu de d�poser aupr�s du service comp�tent, contre r�c�piss�, en 3 exemplaires,\nle plan de sondage de l'inventaire d'am�nagement forestier de la superficie sous\nam�nagement, avec copie de la lettre de d�p�t au Secr�taire g�n�ral.",
+                "line_num": 397
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0032",
+                "summary": "###### Article 32\n\nA dater de la r�ception du plan de sondage, le service comp�tent dispose de 15\njours ouvrables pour se prononcer sur sa conformit� par rapport au guide\nop�rationnel y aff�rent.\nLorsqu'il s'agit de requ�rir un compl�ment d'informations, le service comp�tent\ns'adresse directement au concessionnaire en r�servant copie pour information au\nSecr�taire g�n�ral.\nDans ce cas, le d�lai pr�vu � l'alin�a 1er ci-dessus est reconduit.",
+                "line_num": 405
+              },
+              {
+                "title": "Sous-section 3 : Rapport d'inventaire d'am�nagement forestier",
+                "node_id": "0033",
+                "summary": "###### Sous-section 3 : Rapport d'inventaire d'am�nagement forestier",
+                "line_num": 416
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0034",
+                "summary": "###### Article 33\n\nEn cas de conformit�, le service comp�tent en informe le Secr�taire g�n�ral qui\nnotifie le concessionnaire, par la d�livrance d'une attestation de conformit�.\nEn cas de rejet, le service comp�tent en informe le Secr�taire g�n�ral qui en\nnotifie le concessionnaire, qui dispose d'un d�lai d'un mois pour pr�senter au\nservice comp�tent une version amend�e du plan de sondage en suivant le m�me\nproc�d� que celui pr�vu � l'article 31 ci� dessus.\nDans ce cas, le service comp�tent applique la m�me proc�dure de v�rification que\ncelle pr�vue pour le premier d�p�t.",
+                "line_num": 419
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0035",
+                "summary": "###### Article 34\n\nLa v�rification des travaux d'inventaire en cours est faite sur base du plan de\nsondage pr�vu aux articles 31 � 33 ci-dessus.\nLe concessionnaire informe, par �crit, le service comp�tent, avec copie pour\ninformation au Secr�taire g�n�ral, du d�but et de l'ach�vement des travaux\nd'inventaire d'am�nagement forestier.\nA dater de la r�ception de la lettre d'information, le service comp�tent dispose\nd'un d�lai de 3 mois pour effectuer les derni�res v�rifications des travaux\nvis�s � l'alin�a 1er ci-dessus.",
+                "line_num": 431
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0036",
+                "summary": "###### Article 35\n\nConform�ment aux dispositions de l'article 8 ci� dessus, le concessionnaire est\ntenu de d�poser aupr�s du service comp�tent contre r�c�piss�, en trois\nexemplaires, le rapport d'inventaire d'am�nagement forestier, avec copie de la\nlettre de d�p�t au Secr�taire g�n�ral.\nCe rapport est �tabli conform�ment au guide op�rationnel y aff�rent.",
+                "line_num": 443
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0037",
+                "summary": "###### Article 36\n\nA dater de la r�ception du rapport d'inventaire forestier, le service comp�tent\ndispose de 45 jours ouvrables pour se prononcer sur la conformit� dudit rapport\nau regard des dispositions du pr�sent Arr�t� et des guides op�rationnels y\naff�rents.\nLorsqu'il s'agit de requ�rir un compl�ment d'informations, le service comp�tent\ns'adresse directement au concessionnaire en r�servant copie pour information au\nSecr�taire g�n�ral.\nLe d�lai repris � l'alin�a 1er ci-dessus est reconduit, dans ce cas.",
+                "line_num": 452
+              },
+              {
+                "title": "Sous-section 4 : Rapport d'�tude socio-�conomique",
+                "node_id": "0038",
+                "summary": "###### Sous-section 4 : Rapport d'�tude socio-�conomique",
+                "line_num": 464
+              },
+              {
+                "title": "Article 37",
+                "node_id": "0039",
+                "summary": "This partial document outlines the procedures following the submission of an inventory report. It covers two scenarios: 1) If the report is approved, the competent service informs the Secretary-General, who then issues a certificate of compliance to the concessionaire. 2) If the report is rejected, the competent service informs the Secretary-General, who notifies the concessionaire. The concessionaire then has a two-month deadline to submit an amended version of the report, following the same procedure as the initial submission. The competent service will then apply the same verification process as for the first submission.",
+                "line_num": 467
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0040",
+                "summary": "###### Article 38\n\nConform�ment aux dispositions de l'article 8 ci� dessus, le concessionnaire\nd�pose aupr�s du service comp�tent, contre r�c�piss�, en trois exemplaires, le\nrapport d'�tude socio-�conomique, avec copie de la lettre de d�p�t au secr�taire\ng�n�ral.\nCe rapport est �tabli conform�ment au guide op�rationnel y aff�rent.",
+                "line_num": 480
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0041",
+                "summary": "###### Article 39\n\nA dater de la r�ception du rapport socio� �conomique, le service comp�tent\ndispose de 30 jours ouvrables pour se prononcer sur sa conformit� par rapport\naux dispositions du pr�sent Arr�t� et des guides op�rationnels y aff�rents.\nLorsqu'il s'agit de requ�rir un compl�ment d'informations, le service comp�tent\ns'adresse directement au concessionnaire en r�servant une copie pour information\nau Secr�taire g�n�ral. Dans ce cas, le d�lai repris � l'alin�a 1er ci-dessus est\nreconduit.",
+                "line_num": 489
+              }
+            ]
+          },
+          {
+            "title": "Chapitre ll",
+            "node_id": "0042",
+            "prefix_summary": "#### Chapitre ll",
+            "line_num": 500,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0043",
+                "summary": "The partial document covers Article 4 of a legal or regulatory text, which defines the objectives of forest management within logging concession plans. The four main objectives are: ensuring sustainable industrial timber production for various stakeholders; maintaining the forest's ecological functions; considering the development needs of local communities; and preserving usage rights and the sustainability of all forest products. The text then begins a new section on the elaboration of forest management documents, starting with the domain of application of the forest management plan.",
+                "line_num": 503
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0044",
+                "summary": "This partial document covers procedures for handling a submitted socio-economic study report. It outlines two scenarios: if the report is approved, the concessionaire receives a conformity certificate; if rejected, they have two months to submit an amended version, following the same verification process as the initial submission.",
+                "line_num": 523
+              },
+              {
+                "title": "Section 2 : Validation des documents",
+                "node_id": "0045",
+                "prefix_summary": "##### Section 2 : Validation des documents",
+                "line_num": 535,
+                "nodes": [
+                  {
+                    "title": "Article 41",
+                    "node_id": "0046",
+                    "summary": "###### Article 41\n\nSi � l'expiration des d�lais pr�vus aux articles 39 et 40 ci-dessus, le service\ncomp�tent ne r�agit pas le concessionnaire lui adresse une lettre de rappel avec\ncopie au Secr�taire g�n�ral.\nSi dans les 10 jours ouvrables � compter de la date de rappel, le service\ncomp�tent ne r�agit pas, le document concern� est r�put�e conforme.\nDans ce cas, sur demande du concessionnaire, le Secr�taire g�n�ral est tenu de\nlui d�livrer sans d�lai un certificat de conformit�.\n\nSous-section 1: Plan d'am�nagement forestier",
+                    "line_num": 538
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0047",
+                    "summary": "###### Article 42\n\nConform�ment aux dispositions de l'article 8 ci� dessus, le concessionnaire est\ntenu de d�poser aupr�s du service comp�tent contre r�c�piss�, en trois\nexemplaires, le plan d'am�nagement forestier �tabli conform�ment aux guides\nop�rationnels y aff�rents, avec copie de la lettre de d�p�t au Secr�taire\ng�n�ral.",
+                    "line_num": 551
+                  },
+                  {
+                    "title": "Article 43",
+                    "node_id": "0048",
+                    "summary": "This partial document outlines the administrative procedure and timeline for reviewing and approving a forest management plan. It specifies that the competent service has 45 working days to assess the plan's compliance. Following this examination, the service must prepare an analysis report for a validation committee. The document also establishes this validation committee, chaired by the Secretary-General, and defines its role to examine the analysis report and make a decision based on its conclusions.",
+                    "line_num": 560
+                  },
+                  {
+                    "title": "Article 45",
+                    "node_id": "0049",
+                    "summary": "The partial document outlines the composition of a \"Validation Committee\" as defined in Article 45. It provides a detailed list of the committee's 14 permanent members, specifying their official titles and roles (e.g., President, Vice-Presidents, members, secretaries). It includes an additional provision that automatically adds a delegate from the Congolese Nature Conservation Institute if the forest management plan involves a concession bordering a protected area. Finally, it states that the committee president can invite external experts to participate in meetings, but these experts do not have voting rights in deliberations.",
+                    "line_num": 575
+                  },
+                  {
+                    "title": "Article 46",
+                    "node_id": "0050",
+                    "summary": "###### Article 46\n\nLe secr�tariat du comit� de validation assur� par les membres cit�s aux points\n11 et 12 de l'article 45 ci-dessus, est tenu de pr�senter les dossiers �\nexaminer et de r�diger les proc�s-verbaux de r�union.",
+                    "line_num": 600
+                  },
+                  {
+                    "title": "Article 47",
+                    "node_id": "0051",
+                    "summary": "###### Article 47\n\nLe comit� de validation se r�unit aussi souvent que n�cessaire sur convocation\nde son pr�sident.\nIl �labore son propre r�glement int�rieur, lequel n'entre en vigueur qu'apr�s\nson approbation par le Ministre.",
+                    "line_num": 607
+                  },
+                  {
+                    "title": "Article 48",
+                    "node_id": "0052",
+                    "summary": "###### Article 48\n\nLe Comit� de validation dispose d'un d�lai maximum de 20 jours ouvrables �\npartir de la date de r�ception du rapport d'analyse du plan d'am�nagement\nforestier vis� � l'article 43 ci dessus et du projet de plan d'am�nagement\nforestier pour communiquer par �crit au concessionnaire la d�cision de\nvalidation ou pour �mettre des r�serves.\nLa communication pr�vue � l'alin�a 1 ci-dessus est faite par le pr�sident du\nComit� de validation. Chaque membre en est inform�.",
+                    "line_num": 615
+                  },
+                  {
+                    "title": "Article 49",
+                    "node_id": "0053",
+                    "summary": "###### Article 49\n\nEn cas de r�serve ou de demande d'informations compl�mentaires, le comit� de\nvalidation accorde au concessionnaire concern� un d�lai ne d�passant pas six\nmois pour produire les �l�ments requis, et/ou, le cas �ch�ant, une version\namend�e du plan d'am�nagement forestier.\nPour ce faire, le pr�sident du comit� s'adresse directement au concessionnaire\nen r�servant copie pour information au Ministre, auquel cas le d�lai pr�vu �\nl'alin�a 1er ci-dessus est reconduit.",
+                    "line_num": 626
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0054",
+                    "summary": "###### Article 5\n\nLe concessionnaire forestier est tenu d'�laborer dans les quatre ann�es suivant\nla signature de son contrat de concession foresti�re, un plan d'am�nagement\nforestier.\nToutefois, � la suite d'une demande motiv�e et par une d�cision du Ministre, le\nconcessionnaire peut b�n�ficier d'un d�lai suppl�mentaire ne d�passant pas douze\nmois.",
+                    "line_num": 637
+                  },
+                  {
+                    "title": "Article 50",
+                    "node_id": "0055",
+                    "summary": "###### Article 50\n\nLes conclusions des travaux du comit� de validation sont transmises, au plus\ntard dans les 7 jours ouvrables qui suivent la cl�ture desdits travaux, au\nSecr�taire g�n�ral, en vue de la d�livrance du certificat de conformit�.",
+                    "line_num": 647
+                  },
+                  {
+                    "title": "Sous-section 2 : Plan de gestion",
+                    "node_id": "0056",
+                    "summary": "###### Sous-section 2 : Plan de gestion",
+                    "line_num": 654
+                  },
+                  {
+                    "title": "Article 51",
+                    "node_id": "0057",
+                    "summary": "###### Article 51\n\nDans un d�lai n'exc�dant pas 7 jours ouvrables, � dater de la d�livrance du\ncertificat de conformit�, le projet de plan d'am�nagement forestier valid�,\nauquel est annex� le certificat pr�cit�, est transmis, par Secr�taire g�n�ral,\nau Gouverneur de Province concern� pour son approbation apr�s avis de\nl'administration foresti�re provinciale.",
+                    "line_num": 657
+                  },
+                  {
+                    "title": "Article 52",
+                    "node_id": "0058",
+                    "summary": "###### Article 52\n\nLe plan de gestion est d�pos� contre r�c�piss�, en 3 exemplaires, au service\ncomp�tent, avec copie de la lettre de d�p�t au secr�taire g�n�ral.\nA dater de la r�ception dudit plan, le service comp�tent dispose d'un d�lai de\n30 jours ouvrables pour l'examiner et le valider ou exiger des modifications.",
+                    "line_num": 666
+                  },
+                  {
+                    "title": "Sous-section 3: Plan de gestion quinquennal",
+                    "node_id": "0059",
+                    "summary": "###### Sous-section 3: Plan de gestion quinquennal",
+                    "line_num": 674
+                  },
+                  {
+                    "title": "Article 53",
+                    "node_id": "0060",
+                    "summary": "###### Article 53\n\nEn l'absence de r�action de l'administration dans le d�lai imparti, le\nconcessionnaire adresse une lettre de rappel au service comp�tent avec copie au\nsecr�taire g�n�ral.\nSi dans les 10 jours ouvrables de la r�ception de la lettre de rappel,\nl'administration foresti�re n'a pas r�agi, le plan de gestion est valid�\nd'office.\nLa validation du plan de gestion, pr�alable � la signature du contrat de\nconcession foresti�re concern�, est constat�e par une notification du Secr�taire\ng�n�ral.",
+                    "line_num": 677
+                  },
+                  {
+                    "title": "Article 54",
+                    "node_id": "0061",
+                    "summary": "###### Article 54\n\nAu moins trois mois avant l'ouverture du bloc d'am�nagement  quinquennal, le\nconcessionnaire d�pose, en trois exemplaires, aupr�s du service comp�tent,\ncontre r�c�piss�, le plan de gestion quinquennal, avec copie de la lettre de\nd�p�t au Secr�taire g�n�ral.\nLe d�lai pr�vu � l'alin�a 1er ci-dessus ne s'applique pas concernant le premier\nplan de gestion quinquennal, lequel est d�pos� dans le mois suivant\nl'approbation du plan d'am�nagement forestier.",
+                    "line_num": 690
+                  },
+                  {
+                    "title": "Article 55",
+                    "node_id": "0062",
+                    "summary": "###### Article 55\n\nA dater de la r�ception du plan de gestion quinquennal, le service comp�tent\ndispose d'un d�lai de 30 jours ouvrables pour l'examiner et le valider ou en\nexiger des modifications.\nLa validation du plan de gestion quinquennal est sanctionn�e par la d�livrance\npar le Secr�taire g�n�ral d'un certificat de validit�.",
+                    "line_num": 701
+                  },
+                  {
+                    "title": "Sous-section 4 : Plan annuel d'op�rations",
+                    "node_id": "0063",
+                    "summary": "###### Sous-section 4 : Plan annuel d'op�rations",
+                    "line_num": 710
+                  },
+                  {
+                    "title": "Article 56",
+                    "node_id": "0064",
+                    "summary": "###### Article 56\n\nEn l'absence de r�action de l'administration dans le d�lai pr�vu � l'article 55\nci-dessus, le concessionnaire adresse une lettre de rappel au service comp�tent\navec copie au Secr�taire g�n�ral.\nSi dans les 10 jours ouvrables � dater de la r�ception du rappel,\nl'administration foresti�re n'a pas r�agi, le plan de gestion quinquennal est\nvalid� d'office.",
+                    "line_num": 713
+                  },
+                  {
+                    "title": "Article 57",
+                    "node_id": "0065",
+                    "summary": "###### Article 57\n\nLe plan annuel d'op�rations est d�pos� au plus tard le 30 septembre de l'ann�e\npr�c�dant l'exploitation aupr�s du service comp�tent tenu de statuer sur sa\nconformit� par rapport au guide op�rationnel y aff�rent.\nUn d�lai suppl�mentaire d'au moins un mois est accord� au concessionnaire par le\nservice comp�tent dans le cas de la premi�re assiette annuelle de coupe ouverte\n� l'exploitation en application du plan d'am�nagement forestier, si celui-ci est\nvalide apr�s le 31 ao�t.",
+                    "line_num": 723
+                  },
+                  {
+                    "title": "Article 58",
+                    "node_id": "0066",
+                    "summary": "###### Article 58\n\nLe service comp�tent statue sur la conformit� du plan annuel d'op�rations en se\nr�f�rant aux �l�ments d'information et aux pi�ces susceptibles d'en faciliter\nl'examen, notamment:\n1. Le rapport annuel (d'op�ration foresti�re  de l'ann�e pr�c�dant celle du\nd�p�t du plan annuel d'op�rations;\n2. Le Plan d'am�nagement forestier valid�, le cas �ch�ant;\n3. Le Plan de gestion quinquennal ou le plan de gestion, selon les cas.",
+                    "line_num": 734
+                  },
+                  {
+                    "title": "Article 59",
+                    "node_id": "0067",
+                    "summary": "###### Article 59\n\nA dater de la r�ception du plan annuel d'op�ration, le service comp�tent dispose\nd'un d�lai de 30 jours ouvrables pour examiner ledit plan et le valider ou en\nexiger des modifications.\nEn l'absence de r�action de l'administration dans le d�lai pr�vu � l'alin�a\nci-dessus, le concessionnaire adresse une lettre de rappel au service comp�tent\navec copie au Secr�taire g�n�ral\nSi dans les 10 jours ouvrables de la r�ception du rappel, l'administration\nforesti�re n'a pas r�agi, le plan annuel d'op�rations est valid� d'office.",
+                    "line_num": 745
+                  },
+                  {
+                    "title": "Article 6",
+                    "node_id": "0068",
+                    "summary": "###### Article 6\n\nSi � l'expiration du d�lai requis, le concessionnaire n'a ni d�pos� le projet de\nplan d'am�nagement forestier, ni produit la version amend�e, ni fourni les\ninformations compl�mentaires demand�es, ses permis de coupe sont suspendus\npar l'autorit� comp�tente tant que les formalit�s exig�es ne sont pas\nremplies.",
+                    "line_num": 757
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV: Approbation du pan d'am�nagement forestier",
+            "node_id": "0069",
+            "prefix_summary": "#### Chapitre IV: Approbation du pan d'am�nagement forestier",
+            "line_num": 766,
+            "nodes": [
+              {
+                "title": "Article 60",
+                "node_id": "0070",
+                "summary": "###### Article 60\n\nLa validation du plan annuel d'op�ration est notifi�e au concessionnaire par le\nSecr�taire g�n�ral.\nLe plan concern� donne lieu � la d�livrance d'un permis de coupe industriel\ncouvrant l'assiette annuelle de coupe, conform�ment � la r�glementation en\nvigueur.",
+                "line_num": 769
+              },
+              {
+                "title": "Article 61",
+                "node_id": "0071",
+                "summary": "###### Article 61\n\nL'approbation du plan d'am�nagement forestier d'une superficie sous am�nagement\nest sanctionn�e par un Arr�t� du Gouverneur de Province du ressort de la\nconcession foresti�re concern�e, apr�s avis de l'administration foresti�re\nprovinciale.\nL'avis de l'administration foresti�re provinciale porte principalement sur la\nr�gularit� des travaux du comit� d validation.",
+                "line_num": 778
+              },
+              {
+                "title": "Article 62",
+                "node_id": "0072",
+                "summary": "###### Article 62\n\nL'approbation du plan d'am�nagement forestier est notifi�e au concessionnaire\nconcern� par le Ministre provincial en charge des for�ts dans un d�lai de 7\njours ouvrables � compter de la date de la signature de l'Arr�t� vis� �\nl�article 61 ci dessus.",
+                "line_num": 788
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V: Mise en oeuvre suivi et �valuation du plan d'am�nagement",
+            "node_id": "0073",
+            "prefix_summary": "#### Chapitre V: Mise en oeuvre suivi et �valuation du plan d'am�nagement",
+            "line_num": 796,
+            "nodes": [
+              {
+                "title": "Article 63",
+                "node_id": "0074",
+                "summary": "###### Article 63\n\nLe plan d'am�nagement forestier approuv� fait partie int�grante du contrat de\nconcession foresti�re pour le reste de la dur�e contractuelle.\nLes dispositions concernant la programmation des coupes, y compris l'ouverture\nde la premi�re assiette annuelle de coupe du premier bloc d'am�nagement\nquinquennal, entrent en. vigueur au 1er janvier de l'ann�e suivant cette\napprobation.\nDe m�me, les prescriptions du plan de gestion ne sont plus d'application.",
+                "line_num": 799
+              },
+              {
+                "title": "Article 64",
+                "node_id": "0075",
+                "summary": "###### Article 64\n\nLe concessionnaire est tenu d'ex�cuter son plan de gestion ou son. plan\nd'am�nagement forestier, y compris le plan de gestion quinquennal et le plan\nannuel d'op�rations, tel qu'approuv�.",
+                "line_num": 810
+              },
+              {
+                "title": "Article 65",
+                "node_id": "0076",
+                "summary": "The partial document outlines the mandatory periodic reports a forestry concession holder must submit during the implementation of their forest management plan. It lists a quarterly production declaration, a quarterly social clause progress report, an annual operations report, a five-year management report, and a final evaluation report at the plan's end. It also specifies that these reports follow official guides and that the five-year report can trigger a revision of the management plan, following the same procedures as its initial creation and approval.",
+                "line_num": 817
+              },
+              {
+                "title": "Article 66",
+                "node_id": "0077",
+                "summary": "###### Article 66\n\nLes rapports d'�valuation sont d�pos�s aupr�s du service comp�tent dans un d�lai\nde deux mois, pour ce qui est du rapport annuel d'op�rations foresti�res, et de\nsix mois, pour le rapport quinquennal de gestion foresti�re et le rapport\nd'�valuation finale de la mise en �uvre du plan d'am�nagement forestier.",
+                "line_num": 838
+              },
+              {
+                "title": "Article 67",
+                "node_id": "0078",
+                "summary": "###### Article 67\n\nLes rapports d'�valuation sont examin�s par le service comp�tent, qui peut\ndemander des compl�ments d'information ou des corrections dans un d�lai de 20\njours ouvrables � compter de leur r�ception.\nLe secr�taire g�n�ral transmet une copie des rapports d'�valuation �\nl'administration provinciale dans un d�lai de 10 jours ouvrables � dater de la\nr�ception du rapport ou de l'ampliation de la lettre de demande de compl�ment\nd'informations adress�e au concessionnaire.",
+                "line_num": 846
+              },
+              {
+                "title": "Article 68",
+                "node_id": "0079",
+                "summary": "###### Article 68\n\nLe concessionnaire peut, pendant l'ex�cution du plan d'am�nagement forestier,\ndemander au service comp�tent,une r�vision dudit plan, si celle-ci s'av�re utile\npour la gestion durable de la concession ou\npour d'autres motifs d�ment justifi�s.\nLe service comp�tent �value ces propositions de modification, en informe le\nSecr�taire g�n�ral qui notifie la d�cision au concessionnaire dans un d�lai\nn'exc�dant pas 3 mois.\nDurant ce d�lai, le concessionnaire poursuit l'ex�cution de son plan\nd'am�nagement forestier sans tenir compte des modifications propos�es.",
+                "line_num": 857
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI: Sanctions p�nales et administratives",
+            "node_id": "0080",
+            "prefix_summary": "#### Chapitre VI: Sanctions p�nales et administratives",
+            "line_num": 870,
+            "nodes": [
+              {
+                "title": "Article 69",
+                "node_id": "0081",
+                "summary": "###### Article 69\n\nToute r�vision du plan d'am�nagement forestier est approuv�e par Arr�t� du\nGouverneur de Province suivant la m�me proc�dure que celle pr�vue pour\nl'approbation du plan original.",
+                "line_num": 873
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0082",
+                "summary": "###### Article 7\n\nLe plan d'am�nagement forestier est �labor� conform�ment aux modalit�s d�finies\npar le pr�sent Arr�t�, y compris les guides op�rationnels y aff�rents et toute\nautre directive publi�e par l'administration foresti�re.\nIl porte sur une superficie sous am�nagement correspondant soit � une seule\nconcession foresti�re soit � deux ou plusieurs concessions continues relevant\nd'un m�me concessionnaire.",
+                "line_num": 880
+              },
+              {
+                "title": "Article 70",
+                "node_id": "0083",
+                "summary": "###### Article 70\n\nLa mise en �uvre du plan d'am�nagement forestier de toute concession foresti�re\nest soumise au contr�le forestier tel que pr�vu par la r�glementation en\nvigueur.",
+                "line_num": 890
+              },
+              {
+                "title": "Article 71",
+                "node_id": "0084",
+                "summary": "###### Article 71\n\nSans  pr�judice des dispositions du Code forestier, toute violation d'une\nquelconque disposition du pr�sent Arr�t� est passible :\n1. soit d'une sanction disciplinaire � charge de tout agent fautif du service\ncomp�tent, conform�ment � la l�gislation en vigueur,\n2. soit, � charge ou � l'�gard du concessionnaire concern�, d'une\nsanction administrative pouvant aller jusqu'au retrait des permis de coupe.",
+                "line_num": 897
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII : dispositions transitoires et finales",
+            "node_id": "0085",
+            "prefix_summary": "#### Chapitre VII : dispositions transitoires et finales",
+            "line_num": 907,
+            "nodes": [
+              {
+                "title": "Article 72",
+                "node_id": "0086",
+                "summary": "###### Article 72\n\nLes dispositions de l'article 71 ci-dessus s'appliquent sans pr�judice des\ndispositions du code p�nal pour tout fait ou acte infractionnel commis �\nl'occasion de l'application de la proc�dure faisant l'objet\ndu pr�sent Arr�t�.",
+                "line_num": 910
+              },
+              {
+                "title": "Article 73",
+                "node_id": "0087",
+                "summary": "###### Article 73\n\nPendant la p�riode pr�c�dant la mise en �uvre du plan d'am�nagement forestier,\nl'exploitation est faite conform�ment au plan de gestion d�fini au point 19 de\nl'article 3 du pr�sent Arr�t�.",
+                "line_num": 918
+              },
+              {
+                "title": "Article 74",
+                "node_id": "0088",
+                "summary": "###### Article 74\n\nLes concessionnaires n'ayant pas d�pos� le Plan de sondage dans le d�lai d'un\nan, � compter de la date de signature de leur contrat de concession foresti�re,\ndisposent d'un d�lai de 6 mois pour le faire � compter de la date d'entr�e en\nvigueur du pr�sent Arr�t�.'",
+                "line_num": 925
+              },
+              {
+                "title": "Article 75",
+                "node_id": "0089",
+                "summary": "###### Article 75\n\nSont abrog�s Arr�t� minist�riel n�036/CAB/MIN/ECN-EF/2006 du 05 octobre 2006\nfixant les proc�dures d'�laboration, d'approbation et de mise en �uvre des plans\nd'am�nagement forestier de production des bois d'�uvre et toute autre\ndisposition ant�rieure contraire au pr�sent Arr�t�.",
+                "line_num": 933
+              },
+              {
+                "title": "Article 76",
+                "node_id": "0090",
+                "summary": "###### Article 76\n\nLe Secr�taire g�n�ral � l'Environnement et D�veloppement Durable est charg� de\nl'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa signature\nFait � Kinshasa, le 03 juillet 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 941
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0091",
+                "summary": "This partial document covers the requirements and deadlines for a concessionaire (forestry concession holder) to submit specific planning documents during the development phase of their forest management plan. It lists three required documents: a sampling plan, a forest management inventory report, and a socio-economic study report, each with a strict submission timeline relative to the concession contract signing date. It also mentions procedures for delays, requiring the concessionaire to inform the granting authority, which may set a new deadline.",
+                "line_num": 954
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0092",
+                "summary": "###### Article 9\n\nLes limites de la superficie sous am�nagement, laquelle constitue la superficie\nconc�d�e, sont celles indiqu�es dans le plan d'am�nagement forestier.\nLeur mat�rialisation sur le terrain est rendue effective par un marquage\nconforme aux dispositions d�finies par les guides op�rationnels.",
+                "line_num": 973
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "9d6d828b-1b5d-4d19-926a-6ca29c431c8e"
+    ],
+    "0002": [
+      "39aa0261-d8e4-4571-b397-871ac701870d"
+    ],
+    "0004": [
+      "8e843296-1876-46e8-bd40-8f6625a027b5"
+    ],
+    "0005": [
+      "2fe4278c-b8f1-4b50-87bb-f8f4a09b4bf0"
+    ],
+    "0006": [
+      "b90c5463-3da6-4cec-88c3-be457878670e"
+    ],
+    "0007": [
+      "1975c41c-2e3e-4387-96da-959482f9ba2e"
+    ],
+    "0008": [
+      "2d4303ca-99ec-42b0-84c8-da7f08eb71f5"
+    ],
+    "0009": [
+      "d5906a2a-47ee-4b26-a44a-8bd72f2f7cd8"
+    ],
+    "0010": [
+      "156e8bd7-9907-4ef7-b30f-5bf871a83960"
+    ],
+    "0011": [
+      "a0be584f-2980-4e26-acc7-b3635602be57"
+    ],
+    "0013": [
+      "6e3104ac-8435-4de3-b2ad-d46e6f11c3d7"
+    ],
+    "0014": [
+      "d5246d8c-d932-4c96-b5cc-5db1db42591f"
+    ],
+    "0015": [
+      "fdc9bdd1-a63c-49c6-909d-f4db8b4479df"
+    ],
+    "0016": [
+      "8b0d5bc3-0676-4b51-af32-28e2cb884406"
+    ],
+    "0017": [
+      "8b7c6cbd-41f4-4976-9f03-c23cf68d33f4"
+    ],
+    "0019": [
+      "87e9efaf-bc9e-402c-a507-f9381beb0502"
+    ],
+    "0020": [
+      "c8c54719-8b48-4436-8710-344d6294fb39"
+    ],
+    "0021": [
+      "44fe85c6-da16-439b-918b-17393124a0dd"
+    ],
+    "0023": [
+      "f1c3ea9b-b4a5-481f-a87f-a8794f541275"
+    ],
+    "0024": [
+      "ce8e51e4-3ca7-402a-ba0f-642640edfc39"
+    ],
+    "0026": [
+      "ef43400d-6304-4589-a865-7ed959e6089e"
+    ],
+    "0027": [
+      "4b91ad37-6c14-4f83-b20d-4f9f9aa9b06a"
+    ],
+    "0028": [
+      "cf0be60d-5801-4a4c-8708-bf8587e0d2c7"
+    ],
+    "0030": [
+      "48451653-cc52-4c18-8d56-be278cfa6a02"
+    ],
+    "0031": [
+      "1560624e-7395-44f0-9de2-a67b76e92e1b"
+    ],
+    "0032": [
+      "5ea6932d-3462-49c6-8b3b-5890dff20eba"
+    ],
+    "0034": [
+      "5b106694-d362-4d19-a57d-706fc7286c32"
+    ],
+    "0035": [
+      "01c38571-8661-46e7-a08b-e7f7d7bec9ef"
+    ],
+    "0036": [
+      "76cd0bd6-02e5-44a9-8139-702c69de5973"
+    ],
+    "0037": [
+      "2afb1dfb-024f-4ec1-924b-9d8db72e944a"
+    ],
+    "0039": [
+      "d235c6ab-413a-4a6b-86a7-bf1ecf2abaeb"
+    ],
+    "0040": [
+      "94b27e40-8b30-4ee7-9c3a-aa94ade6876b"
+    ],
+    "0041": [
+      "d50065ee-7959-4116-ae16-ed24df373ba6"
+    ],
+    "0043": [
+      "04be9411-7f2c-4793-a6c4-20cd30c7600b"
+    ],
+    "0044": [
+      "6ca615ca-3adb-4270-9c8d-527d84cfb337"
+    ],
+    "0046": [
+      "9dfd9644-00e5-4b8c-a07a-70524c07b6a3"
+    ],
+    "0047": [
+      "d3b428c4-e35d-496a-a594-884283747e5c"
+    ],
+    "0048": [
+      "09695460-e20e-490e-ad44-f4c10dc80197"
+    ],
+    "0049": [
+      "5836d9f2-facd-45a3-bd32-0ef9cc568326"
+    ],
+    "0050": [
+      "b9e0adc6-be95-4410-80f5-87ebb6e018aa"
+    ],
+    "0051": [
+      "cff110b1-b5f4-42e5-8e02-5f564757814a"
+    ],
+    "0052": [
+      "94f60017-770d-4055-9d94-de94fb908ce6"
+    ],
+    "0053": [
+      "4c128249-2e26-438a-b5b9-d55c0ebf705b"
+    ],
+    "0054": [
+      "6667a3c8-6314-406b-b5d9-6172701e9c51"
+    ],
+    "0055": [
+      "7eac8ba7-914d-4b18-a724-24a7da1f43b1"
+    ],
+    "0057": [
+      "126a43d1-e35c-43f4-8be1-e5322d41672e"
+    ],
+    "0058": [
+      "699e0711-c33d-4bd4-a401-df585d94a32b"
+    ],
+    "0060": [
+      "b9aca1de-ca06-4429-b16b-987ba535d12c"
+    ],
+    "0061": [
+      "ff2610e4-e629-46f8-b8de-0d416671f694"
+    ],
+    "0062": [
+      "8f4670fd-09c8-4289-824b-2c0cea263bc0"
+    ],
+    "0064": [
+      "7cea2371-8bce-46ac-af0a-37707d073d99"
+    ],
+    "0065": [
+      "fcf5ee1d-daaf-46db-9ad9-cf89d5282377"
+    ],
+    "0066": [
+      "041f3a1d-5d5b-4de7-80bd-8cb1383cb05e"
+    ],
+    "0067": [
+      "b2f43671-aa89-40ca-96e1-3242572c3ac8"
+    ],
+    "0068": [
+      "5d54c7ff-a52a-4aee-ab4d-d3b99d8e5998"
+    ],
+    "0070": [
+      "3e2e2275-42d6-4871-889f-fe5e5d2c50d4"
+    ],
+    "0071": [
+      "6f619357-e817-42d6-8ad4-c0ce994a5de3"
+    ],
+    "0072": [
+      "15d82359-9cae-455e-aff2-f593f8812874"
+    ],
+    "0074": [
+      "9498bf64-c4ac-4f37-9cf0-c0e7764d7bdf"
+    ],
+    "0075": [
+      "5562203a-add5-4030-8244-2b7187d1ea31"
+    ],
+    "0076": [
+      "f5ce9ddd-e252-480e-88a5-90e10dffbb44"
+    ],
+    "0077": [
+      "afdf6172-1f1b-41ae-acd9-9619490ceea7"
+    ],
+    "0078": [
+      "e459cabf-6e71-4e27-9e55-6677af6616f9"
+    ],
+    "0079": [
+      "9736800b-a8b0-417d-8276-39b02452e7bd"
+    ],
+    "0081": [
+      "708bd2f6-e593-4203-90ba-e62ea83b46d9"
+    ],
+    "0082": [
+      "1f4a72e9-6cb5-446f-b8a4-597a5c2bdb8a"
+    ],
+    "0083": [
+      "a6278c10-dd44-4ff0-a317-f1800b11d2e2"
+    ],
+    "0084": [
+      "bfebc8f6-037b-41d6-90ed-9b213ed59c12"
+    ],
+    "0086": [
+      "b3d539ab-18d2-4829-9b26-560bde8b521f"
+    ],
+    "0087": [
+      "951b98d1-bcc8-4c98-87bd-596b3bf86f22"
+    ],
+    "0088": [
+      "7136ffd1-1dab-4fc3-9581-7c07c0ba0031"
+    ],
+    "0089": [
+      "25a7efd8-bbd4-4821-b936-b581987eb79b"
+    ],
+    "0090": [
+      "efb45d91-c382-4724-bb49-97759f1b56b3"
+    ],
+    "0091": [
+      "338aaa25-9b55-4de3-bdf4-b874b022d135"
+    ],
+    "0092": [
+      "8564a879-fd72-4bf4-820b-e7f8a6087f53"
+    ]
+  },
+  "node_count": 93,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:19:09.851190",
+  "article_count": 75,
+  "generation_time_s": 41.44021415710449
+}

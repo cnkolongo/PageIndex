@@ -1,0 +1,142 @@
+{
+  "slug": "AM-141-8-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-141-8-11-2018-2018.json",
+  "document_id": "a90448da-80c4-4f2d-b139-7ff1e1c781a6",
+  "document_title": "AM.141.8.11.2018",
+  "tree_json": {
+    "doc_name": "AM-141-8-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.141.8.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.141.8.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "livre",
+            "node_id": "0002",
+            "prefix_summary": "### livre\nd",
+            "line_num": 9,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "This partial document is an official decree (Arrêté) that establishes the framework for control and recovery operations within the National Social Security Fund (CNSS) of a member state. The main points covered are:\n\n*   **Scope and Application:** It applies to CNSS personnel responsible for controlling compliance with social security legislation and for recovering rental income.\n*   **Types of Control:** It defines five specific areas of control and recovery: current social contributions, arrears of social contributions, verification of social benefit claims, rental income recovery, and occupational risk prevention.\n*   **Control Corps Structure:** It institutes a dedicated \"Corps of Controllers\" for each control type, with its organization determined by the Board of Directors.\n*   **Controller Appointment & Qualifications:** It outlines the procedure for assigning staff to the Control Corps and sets minimum requirements (age, education/experience, internal training).\n*   **Powers and Authority:** It grants controllers the status of \"Judicial Police Officer with restricted competence\" and specifies the official documents (ID cards, mission orders) they must carry.\n*   **Operational Rights:** Controllers have the right of free entry and inspection during working hours at business premises (excluding private residences).\n*   **Obligations:** Controllers are bound by professional secrecy, prohibiting the disclosure of information acquired during their duties.",
+                "line_num": 13
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0004",
+                "summary": "This partial document outlines the specific control and verification activities of a social security or insurance fund (Caisse). It details the responsibilities for auditing contributions, social benefits, rental income, and workplace safety.\n\nThe main points covered are:\n\n1.  **Verification and Recovery of Current Social Contributions (Article 11):** Tasks include checking registration numbers, reconciling individual accounts with pay slips, verifying contribution declarations and payments, controlling contribution bases, checking the number of insured persons, and raising awareness among them.\n\n2.  **Control and Recovery of Contribution Arrears (Article 12):** Focuses on rectifying and collecting overdue social contributions from previous years (up to ten years) and following up on settlement agreements.\n\n3.  **Verification of Social Benefit Claims (Article 13):** Involves auditing career and salary histories to calculate benefits, verifying supporting documents, ensuring proper use of family allowances, checking school attendance of dependent children, and physically inspecting beneficiaries.\n\n4.  **Control and Recovery of Rental Income (Article 14):** Covers verifying lease contracts and tenant occupancy, establishing property condition reports, issuing debit notes and lease termination notices, monitoring rental payments, and collecting past-due rental income (up to ten years).\n\n5.  **Control and Prevention of Occupational Risks (Article 15):** Includes verifying employer compliance with health and safety regulations, controlling the implementation of general prevention measures, collecting accident statistics, conducting safety investigations, and advising on risk prevention.\n\n6.  **Implementation and Procedures (Articles 16-17):** Specifies that control methods are set by the Administration Council or General Directorate. It also establishes a procedure for a second audit in cases of suspected fraud, requiring a formal notice to the employer or tenant.",
+                "line_num": 652
+              },
+              {
+                "title": "Article S12",
+                "node_id": "0005",
+                "summary": "The partial document outlines the obligations and procedures for inspections by a social security fund controller (Caisse). It specifies that employers, social security contributors, tenants, and others must provide necessary documents for the controller's mission, listing eight specific types of documents. It also states that trade union delegates and workers must provide needed information, and the controller may access the employer's information system. Inspections occur at business premises or rental units. The document further stipulates penalties for obstructing the control, references relevant laws, sets an effective date for the ministerial order (January 1, 2019), repeals contrary previous provisions, and assigns execution responsibility to the Director General of the National Social Security Fund.",
+                "line_num": 1274
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0006",
+                "summary": "###### Article S2\n\nMINISTERIEL\nN�",
+                "line_num": 1567
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0007",
+                "summary": "###### Article S3\n\n141/CAB/MINETAT/MTEPS/01/2018\nDU 08\nNOVEMBRE\n2018\nPORTANT",
+                "line_num": 1573
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0008",
+                "summary": "###### Article S4\n\nORGANISATION,",
+                "line_num": 1582
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0009",
+                "summary": "###### Article S5\n\nAFFECTATION\nET",
+                "line_num": 1587
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0010",
+                "summary": "###### Article S6\n\nFONCTIONNEMENT\nDU CORPS",
+                "line_num": 1593
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "###### Article S7\n\nDES CONTROLEURS\nDE LA\nCAISSE",
+                "line_num": 1599
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0012",
+                "summary": "###### Article S8\n\nNATIONALE",
+                "line_num": 1606
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0013",
+                "summary": "This partial document lists the legal references and foundational texts that are being considered or cited as the basis for a legislative or regulatory act related to social security in the Democratic Republic of Congo. The main points covered are the constitutional and legal framework, including specific laws on labor, social security, public institutions, and government organization, as well as the establishment of the National Social Security Fund (CNSS).",
+                "line_num": 1611
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1850427d-3a38-4d52-8937-84b9c8482f29"
+    ],
+    "0003": [
+      "3e949f88-df77-4b9e-a1ab-52a539ed4018"
+    ],
+    "0004": [
+      "dadf3c56-d9f4-4a13-a5c7-e626d098fbde"
+    ],
+    "0005": [
+      "e0bd163f-06b1-4702-ba37-a5fbc0276478"
+    ],
+    "0006": [
+      "41cada2e-c42c-434a-a71d-4363728d577d"
+    ],
+    "0007": [
+      "4907651f-2324-48ba-94b9-5284d6277465"
+    ],
+    "0008": [
+      "5d1fd31b-ae7b-49ee-b345-3922b6a6a0bc"
+    ],
+    "0009": [
+      "763809bb-792f-4f91-bdb9-1529cfaf234b"
+    ],
+    "0010": [
+      "72348a95-df7e-4860-a266-858e58a1aa85"
+    ],
+    "0011": [
+      "4e466f2d-2130-44a1-9c35-03f6d56836d9"
+    ],
+    "0012": [
+      "30b5d9c9-bd41-4d28-be4c-31b1c08ba40e"
+    ],
+    "0013": [
+      "0281fb7b-649c-4abd-a90f-d4a8f7af1dda"
+    ]
+  },
+  "node_count": 14,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:37:30.623713",
+  "article_count": 12,
+  "generation_time_s": 17.987061977386475
+}

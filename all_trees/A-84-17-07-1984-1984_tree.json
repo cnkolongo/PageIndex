@@ -1,0 +1,39 @@
+{
+  "document_id": "c5007f86-3b4b-46cf-94e4-c6efc9d52abb",
+  "document_title": "A.84.17.07.1984",
+  "tree_json": {
+    "doc_name": "A-84-17-07-1984-1984",
+    "structure": [
+      {
+        "title": "A.84.17.07.1984",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 85
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "9e1cb4b3-e757-41eb-b880-0a38199024f0"
+    ],
+    "0002": [
+      "423292bc-47a4-4935-a533-1a156abcb774"
+    ]
+  },
+  "node_count": 3,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:18:57.160362",
+  "article_count": 2,
+  "generation_time_s": 0.003200054168701172
+}

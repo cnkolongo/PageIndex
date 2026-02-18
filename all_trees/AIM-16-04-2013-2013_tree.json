@@ -1,0 +1,71 @@
+{
+  "slug": "AIM-16-04-2013-2013",
+  "bundle_path": "backups/all_bundles/code/AIM-16-04-2013-2013.json",
+  "document_id": "5636bd2e-0d2c-427d-b979-a64670faed6b",
+  "document_title": "AIM.16.04.2013",
+  "tree_json": {
+    "doc_name": "AIM-16-04-2013-2013",
+    "structure": [
+      {
+        "title": "AIM.16.04.2013",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.16.04.2013",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\n: De l�objet\nLe pr�sent\nArr�t� a pour but de fixer les mesures d�application du D�cret n� 12/031 du 02\noctobre 2012 relatif aux r�gles de reprise par l�Etat des passifs non assurables\ndes entreprises publiques transform�es en soci�t�s commerciales.\nIl\ns�applique aux �tats financiers de toutes les entreprises publiques transform�es\nen soci�t�s commerciales, arr�t�s au 31 d�cembre 2011. Il s�applique �galement �\ntoutes les r�gies financi�res.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "The partial document defines and categorizes fiscal and parafiscal debts for the state, specifying the responsible authority for each type. It details the debts managed by the Directorate General of Customs (DGDA) related to import/export, the Directorate General of Taxes (DGI) for taxes and penalties, and the Directorate General of Revenue and Administrative Domains (DGRAD) for parafiscal dues.",
+            "line_num": 17
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\n: De la prise en charge par l�Etat des dettes fiscales et parafiscales\nAux termes\nde l�article 7 du D�cret n� 12/031 du 02 octobre 2012, les dettes fiscales et\nparafiscales prises en charge par l�Etat comprennent les recettes dues au tr�sor\n(95% et 90%) et la r�trocession qui en aurait r�sult� au profit des R�gies\nfinanci�res (5% pour la DGI et DGDA et 10% � r�partir entre la DGRAD et les\nservices d�assiette).",
+            "line_num": 37
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "This partial document outlines the practical procedures for accounting and recording the abandonment of tax and para-fiscal claims, as well as the cancellation of interest and other penalties. It specifies that these rules apply from financial statements closed as of December 31, 2011.\n\nThe main points covered are the specific steps required for two categories of entities:\n1.  For public enterprises transformed into commercial companies: reconciling accounts, closing the old balance sheet, opening a new one, regularizing accounts by deducting the debts, and preparing an ad-hoc report.\n2.  For financial administrations (régies financières): determining the amounts of outstanding tax debt and the expected subsequent restitution, cancelling these debts and penalties via accounting reversals, and preparing an ad-hoc report.",
+            "line_num": 48
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLes\nDirecteurs g�n�raux des r�gies financi�res sont charg�s, chacun en ce qui le\nconcerne, de l�ex�cution du pr�sent Arr�t� interminist�riel qui entre en vigueur\n� la date de sa signature.\nFait �\nKinshasa, le 16 avril 2013\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 84
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "5eab0a8b-b318-43fd-b7ec-05549f5bc66f"
+    ],
+    "0002": [
+      "13360c6d-03e0-40c0-b313-984457cc9e57"
+    ],
+    "0003": [
+      "f37d6e86-717c-4ae9-9b49-641085ad5ee9"
+    ],
+    "0004": [
+      "5e099e69-e1cb-44ab-bda9-24bc02f61540"
+    ],
+    "0005": [
+      "35a8fa1e-bd15-4020-b6c3-bc242b8385d0"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:57.821820",
+  "article_count": 5,
+  "generation_time_s": 8.598355293273926
+}

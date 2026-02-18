@@ -1,0 +1,688 @@
+{
+  "slug": "AM-102-16-06-2009-2009",
+  "bundle_path": "backups/all_bundles/code/AM-102-16-06-2009-2009.json",
+  "document_id": "87819c74-2239-4cd4-b4c8-7e1a19603ceb",
+  "document_title": "AM.102.16.06.2009",
+  "tree_json": {
+    "doc_name": "AM-102-16-06-2009-2009",
+    "doc_description": "This Congolese ministerial decree details comprehensive procedures for forestry control missions, covering specific inspection locations, types (planned, routine, special), methods, institutional structure, and the involvement of public and civil society stakeholders.",
+    "structure": [
+      {
+        "title": "AM.102.16.06.2009",
+        "node_id": "0000",
+        "prefix_summary": "# AM.102.16.06.2009",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nDans les bases vie et\nles villages attenants � l'exploitation le contr�le concerne l'ex�cution\ndes obligations socio-�conomiques contenues par la clause y aff�rente du cahier\ndes charges.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nAu si�ge de l'exploitation\nforesti�re, il est proc�d� � la v�rification de la validit� des titres et\nautorisations, de la tenue des registres et rapports d'exploitation,\ndu paiement des taxes et redevances foresti�res et de l'existence des documents\nd'am�nagements d�ment approuv�s par l'administration\ncharg�e des for�ts.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\nLe contr�le op�r� le long des voies d'�vacuation des produits\nforestiers concerne notamment le respect des modalit�s de transport, certaines\nr�gles d'exploitation, telles que celles relatives aux diam�tres minimum\nd'exploitation, au marquage de bois et � l'interdiction\nd'exploitation des certaines essences ainsi qu'� la d�tention et au\ncommerce des produits de faune sauvage.",
+            "line_num": 22
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\nAux postes\nfrontaliers les agents comp�tents contr�lent la conformit� des documents li�s au\ntransport des produits forestiers ainsi que le respect de la r�glementation\nrelative � leur exportation.",
+            "line_num": 32
+          },
+          {
+            "title": "CHAPITRE III : DES TYPES DE",
+            "node_id": "0005",
+            "prefix_summary": "#### CHAPITRE III : DES TYPES DE",
+            "line_num": 40,
+            "nodes": [
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nA partir de l'espace a�rien, le contr�le forestier permet\nd'assurer le suivi et la surveillance du couvert forestier et notamment le\nrespect des limites des titres d'exploitation.\n\nCONTROLE FORESTIER\nSection 1 �re : Des contr�les planifi�s",
+                "line_num": 43
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0007",
+                "summary": "###### Article 15\n\nLes missions de contr�le forestier sont planifi�es tant au\nniveau central qu'au niveau provincial de l'administration foresti�re.",
+                "line_num": 53
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0008",
+                "summary": "###### Article 16\n\nAu niveau central, des missions trimestrielles sont programm�es\npour assurer :\nla surveillance et le contr�le interne des services et\norganismes forestiers centraux ;\nla v�rification de la conformit� des op�rations de contr�le\nr�alis�es par les services provinciaux ;\nune mission annuelle de contr�le direct dans les Provinces �\nactivit�s foresti�res.",
+                "line_num": 59
+              },
+              {
+                "title": "Section 2 : Des contr�les de routine et de la surveillance",
+                "node_id": "0009",
+                "prefix_summary": "##### Section 2 : Des contr�les de routine et de la surveillance",
+                "line_num": 71,
+                "nodes": [
+                  {
+                    "title": "Article 17",
+                    "node_id": "0010",
+                    "summary": "###### Article 17\n\nAu niveau provincial des missions trimestrielles sont\nprogramm�es pour r�aliser un contr�le\nforestier dans chaque territoire abritant des activit�s foresti�res.\n\ncontinue des for�ts",
+                    "line_num": 74
+                  },
+                  {
+                    "title": "Article 18",
+                    "node_id": "0011",
+                    "summary": "###### Article 18\n\nLes services provinciaux comp�tents sont tenus d'effectuer un\ncontr�le forestier quotidien dans les diff�rents points de vente, aux postes de\npolice routi�re, aux postes frontaliers, sur le parcours des principales voies\nd'�vacuation des produits forestiers.",
+                    "line_num": 83
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Des contr�les sp�ciaux",
+                "node_id": "0012",
+                "prefix_summary": "##### Section 3 : Des contr�les sp�ciaux",
+                "line_num": 91,
+                "nodes": [
+                  {
+                    "title": "Article 19",
+                    "node_id": "0013",
+                    "summary": "The partial document covers the responsibilities of forestry service agents and NGOs to report potential fraudulent activities during field missions, and the obligation of control services to utilize reports from other forestry units for continuous forest surveillance.",
+                    "line_num": 94
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II : DES ELEMENTS DU CONTROLE FORESTIER",
+            "node_id": "0014",
+            "prefix_summary": "#### CHAPITRE II : DES ELEMENTS DU CONTROLE FORESTIER",
+            "line_num": 110,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0015",
+                "summary": "This partial document outlines the prerequisite actions necessary for the effective implementation of a decree concerning forest control. It lists six specific preparatory measures: establishing a nationwide control network and checkpoints, training personnel, modernizing equipment, planning and coordinating activities, implementing an ethics code with incentives, and raising awareness about forestry regulations. The document then introduces a new section defining the purpose or object of the control.",
+                "line_num": 113
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0016",
+                "summary": "###### Article 20\n\nSont dits sp�ciaux les contr�les forestiers effectu�s de mani�re\noccasionnelle sur instruction d'une autorit� hi�rarchique, notamment � la suite\nd'une information, d'une d�nonciation, d'une plainte ou de tout autre fait de\nnature � constituer une infraction.",
+                "line_num": 144
+              },
+              {
+                "title": "Section 4 : Du contr�le faunique",
+                "node_id": "0017",
+                "prefix_summary": "##### Section 4 : Du contr�le faunique",
+                "line_num": 152,
+                "nodes": [
+                  {
+                    "title": "Article 21",
+                    "node_id": "0018",
+                    "summary": "###### Article 21\n\nLes contr�les sp�ciaux sont de la comp�tence des services\nforestiers provinciaux.\nToutefois, en application de l'article 7\nci-dessus et lorsque des inspecteurs forestiers, agents asserment�s ou autres ou\nun service provincial forestier sont impliqu�s dans des faits infractionnels,\ndes tels contr�les sont r�alis�s exceptionnellement par des services forestiers\ncentraux.",
+                    "line_num": 155
+                  },
+                  {
+                    "title": "Article 22",
+                    "node_id": "0019",
+                    "summary": "###### Article 22\n\nLe contr�le sur les\nproduits de la faune sauvage s'op�re par des op�rations ponctuelles, des\npatrouilles ou des actions de surveillance continue.",
+                    "line_num": 166
+                  },
+                  {
+                    "title": "Article 23",
+                    "node_id": "0020",
+                    "summary": "###### Article 23\n\nBien qu'occasionnelles ou planifi�es, les\nop�rations ponctuelles de contr�le faunique sont essentiellement confidentielles\n: seuls le nombre desdites op�rations et le secteur peuvent �tre connus des\nagents concern�s, � l'exclusion de l'endroit exact, de la date et des heures de\nleur r�alisation.",
+                    "line_num": 173
+                  },
+                  {
+                    "title": "Article 24",
+                    "node_id": "0021",
+                    "summary": "###### Article 24\n\nLes patrouilles sont des op�rations\nsporadiques, fixes ou mobiles, men�es dans les r�serves et domaines de chasse\nainsi que dans des zones sensibles.\nPour une patrouille fixe, le service comp�tent\ndresse une barri�re sur un axe routier ou fluvial dans le but de proc�der au\ncontr�le de tout individu, v�hicule, engin ou autre.\nDans le cadre d'une patrouille mobile des\n�quipes des gardes forestiers ou des gardes chasse parcourent un secteur donn�\net proc�dent � la fouille et � l'interpellation de tout individu, v�hicule,\nengin ou autre.",
+                    "line_num": 182
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV : DES PROCEDES ET METHODES DU CONTROLE FORESTIER",
+            "node_id": "0022",
+            "prefix_summary": "#### CHAPITRE IV : DES PROCEDES ET METHODES DU CONTROLE FORESTIER",
+            "line_num": 196,
+            "nodes": [
+              {
+                "title": "Article 25",
+                "node_id": "0023",
+                "summary": "###### Article 25\n\nPar la surveillance continue, les services de\ncontr�le assurent le suivi des activit�s des op�rateurs �conomiques de la faune\nsauvage, tels les guides de chasse ou les entreprises de tourisme cyn�g�tique,\nqui sont tenus au respect de certaines obligations dont celles pr�cis�es par le\ncahier des charges.\n\nSection l �re : De la conduite des missions de contr�le\nforestier",
+                "line_num": 199
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0024",
+                "summary": "###### Article 26\n\nConform�ment �\nl'article 142 du Code forestier et � tout autre r�glement en vigueur, les\ninspecteurs, fonctionnaires et agents forestiers en mission de contr�le sont\ntenus de porter l'uniforme et les insignes de leur grade.",
+                "line_num": 211
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0025",
+                "summary": "###### Article 27\n\nToute �quipe de contr�le forestier est form�e\nd'au moins deux personnes dont le chef est rev�tu de la qualit� d'officier de\npolice judiciaire. Il y est adjoint un agent du poste frontalier concern� ou de\nla structure territoriale de l'administration foresti�re ayant dans son ressort\nle site o� est pr�vu le contr�le.\nL'�quipe de contr�le peut, en cas de n�cessit�\net dans le strict respect de l'article 132 du Code forestier, requ�rir les\nservices de la police locale.",
+                "line_num": 219
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0026",
+                "summary": "This partial document outlines the mandatory preparations and documentation required for forestry inspectors, officials, and agents before conducting a mission. It specifies they must carry their service card, a signed mission order stating the objective, and an approved technical sheet outlining expected results and necessary means. The control team must also obtain relevant operational documents, such as exploitation titles, concession lists, management plans, and prior inspection reports. Additionally, they must acquire basic equipment like a forestry hammer, chain, and measuring tape. An exception is noted: a mission order is not required in cases of emergency or flagrant offenses.",
+                "line_num": 231
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0027",
+                "summary": "###### Article 29\n\nToute �quipe de contr�le est tenue, d�s son arriv�e sur le lieu\nde travail, de se pr�senter, en compagnie du responsable forestier du ressort, �\nl'autorit� politico-administrative comp�tente en vue de l'informer\ndes termes de r�f�rence de la mission et lui permettre de prendre des\ndispositions �ventuelles de s�curit�.\nA cette occasion, l'�quipe de contr�le fait valider\nson ordre de mission.",
+                "line_num": 258
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0028",
+                "summary": "###### Article 3\n\nLe contr�le forestier\nporte principalement sur la l�galit� de l'exploitation foresti�re, le respect\ndes normes techniques et des clauses des cahiers des charges.\nIl vise aussi la conformit� des op�rations de contr�le\neffectu�es par les services forestiers comp�tents.",
+                "line_num": 269
+              },
+              {
+                "title": "Section 2 : De l'ex�cution des missions de",
+                "node_id": "0029",
+                "prefix_summary": "##### Section 2 : De l'ex�cution des missions de",
+                "line_num": 278,
+                "nodes": [
+                  {
+                    "title": "Article 30",
+                    "node_id": "0030",
+                    "summary": "###### Article 30\n\nAvant toute descente sur le terrain, l'�quipe tient\nune s�ance de travail avec le responsable du service forestier du ressort dans\nle but de mieux circonscrire l'objectif de la mission, de pr�ciser\nles t�ches particuli�res de chaque �quipier et d'arr�ter les modalit�s pratiques\nde l'ex�cution de la mission.\n\ncontr�le",
+                    "line_num": 281
+                  },
+                  {
+                    "title": "Article 31",
+                    "node_id": "0031",
+                    "summary": "###### Article 31\n\nLes missions de contr�le forestier sont ex�cut�es notamment dans\nles chantiers d'exploitation, dans les parcs � bois, aux postes\nfrontaliers, sur les parcours d'�vacuation des produits forestiers, �\nl'entr�e et dans l'enceinte des unit�s de transformation ainsi que\ndans les ports et a�roports.\nDans chacun des sites pr�vus � l'alin�a ci-dessus, le contr�le\nporte sur des �l�ments sp�cifiques tels que pr�vus aux articles 33 � 38\nci-dessous.",
+                    "line_num": 292
+                  },
+                  {
+                    "title": "Article 32",
+                    "node_id": "0032",
+                    "summary": "The partial document outlines the key elements subject to control in a forest exploitation site (logging concession). The main points covered are the verification of: the regularity of cutting permits and designated cutting areas; compliance with management plans, five-year operational plans, and inventory standards; the concession holder's fulfillment of contract clauses, especially financial commitments to the State and local communities; technical logging standards (marking, minimum diameters, trail opening, site documentation); payment of forestry taxes and royalties; the volume and species of harvested timber; adherence to environmental norms in the forest; and any other essential aspect of the site's operations.",
+                    "line_num": 304
+                  },
+                  {
+                    "title": "Article 33",
+                    "node_id": "0033",
+                    "summary": "###### Article 33\n\nAux parcs � bois les agents charg�s du contr�le proc�dent � la\nv�rification des �l�ments suivants :\nla r�f�rence du permis de coupe ;\nles �l�ments d'identification des\narbres et des billes ou grumes ;\nles marques distinctives de\nl'exploitant ;\nle respect des diam�tres minimum d'exploitation\n;\nl'origine et la destination des\nproduits ;\nla conformit� des documents d'exploitation\n;\nle respect des r�gles relatives � la\ntransformation locale du bois\nh. tout autre �l�ment essentiel � l'exploitation\ndu ou des parcs � bois",
+                    "line_num": 334
+                  },
+                  {
+                    "title": "Article 34",
+                    "node_id": "0034",
+                    "summary": "###### Article 34\n\nLe contr�le op�r� aux postes\nfrontaliers concerne la v�rification de l'origine et de\nla destination des produits transport�s et porte principalement sur :\na.\nle marquage r�glementaire des produits ;\nb.\nla conformit� des donn�es inscrites sur les\ndocuments avec la nature, la quantit� et la qualit� des produits concern�s ;\nc.\nle respect des r�gles sp�cifiques relatives �\nl'exportation de certains produits forestiers, telle que la convention sur le\ncommerce international des esp�ces de faune et de flore sauvages menac�es d'extinction\n;\nd.\ntout autre �l�ment essentiel � l'identification\nde l'origine et de la destination du produit transport�.",
+                    "line_num": 355
+                  },
+                  {
+                    "title": "Article 35",
+                    "node_id": "0035",
+                    "summary": "###### Article 35\n\nTout agent, qui ex�cute une mission de contr�le le long du\nparcours d'�vacuation des produits forestiers, v�rifie notamment :\nles documents de transport et ceux permettant d'identifier\nl'origine des produits tels que permis\nde coupes, bordereau de transport ;\nla conformit� des donn�es mentionn�es par les documents avec\nles caract�ristiques des produits transport�s ;\nle respect des normes de transport\nquant � la s�curit� des personnes et des biens le long du parcours ;\nd.\nla destination des produits ;\ntout autre �l�ment essentiel � l'�vacuation\ndes produits forestiers.",
+                    "line_num": 375
+                  },
+                  {
+                    "title": "Article 36",
+                    "node_id": "0036",
+                    "summary": "###### Article 36\n\nLe contr�le forestier est �galement op�r� au sein des unit�s de\ntransformation et vise l'�tablissement de la tra�abilit� des produits\nforestiers � partir du chantier d'exploitation.\nCe contr�le porte sur la v�rification des �l�ments tels que :\na.\nles carnets d'entr�e des produits �\nl'usine et de leur sortie ;\nb.\nles documents de transport ;\nc.\nle respect des normes en vigueur en mati�re de\ntransport;\nd.\nle niveau de la transformation du bois ;\ne.\nles destinations des produits ;\nf.\nles �quipements utilis�s ;\ng.\nles volumes transform�s par essences ;\nh.\ntout autre �l�ment essentiel � l'activit�\nde transformation des produits forestiers.",
+                    "line_num": 392
+                  },
+                  {
+                    "title": "Article 37",
+                    "node_id": "0037",
+                    "summary": "The partial document outlines the key control measures for forest products at ports and airports, focusing on verifying compliance with export legislation. The main points covered are the verification of export documents, product nature and packaging (especially for wildlife specimens), payment of duties and taxes, product specification documents, wood marking, adherence to required formalities, and the conformity of wood dimensions and type to the documented information. It also includes a catch-all for any other element essential to enforcing import/export laws.",
+                    "line_num": 419
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Des rapports et des proc�s-verbaux relatifs aux",
+                "node_id": "0038",
+                "prefix_summary": "##### Section 3 : Des rapports et des proc�s-verbaux relatifs aux",
+                "line_num": 448,
+                "nodes": [
+                  {
+                    "title": "Article 38",
+                    "node_id": "0039",
+                    "summary": "###### Article 38\n\nEn vue de leur efficacit�, les missions des\ncontr�les forestiers pr�vues aux articles 35, 36 et 37 ci-dessus sont effectu�es\nsans pr�judice des dispositions des articles 47 et 48 du pr�sent Arr�t�.\n\nmissions de contr�le forestier",
+                    "line_num": 451
+                  },
+                  {
+                    "title": "Article 39",
+                    "node_id": "0040",
+                    "summary": "###### Article 39\n\nLes agents ayant\nr�alis� une mission de contr�le sont tenus de r�diger un rapport y relatif selon\nun canevas comportant notamment les rubriques suivantes :\n1� le contexte de la mission ;\n2� les objectifs de la mission ;\n3� le calendrier de la mission ;\n4� l'itin�raire suivi et les actions r�alis�es ;\n5� les personnes rencontr�es ;\n6� la documentation consult�e, y compris des textes l�gaux ;\n7� les difficult�s rencontr�es et les mesures prises pour y\nfaire face ;\n8� les situations et faits observ�s ainsi que les infractions\nconstat�es ;\n9� les conclusions et recommandations.\nLe rapport de\nmission est sign� par tous les membres de l'�quipe ayant r�alis� le contr�le.",
+                    "line_num": 460
+                  },
+                  {
+                    "title": "Article 4",
+                    "node_id": "0041",
+                    "summary": "###### Article 4\n\nLe contr�le de la\nl�galit� de l'exploitation vise la v�rification du respect des\ndispositions du Code forestier et de ses mesures d'ex�cution et concerne\nnotamment la validit� et la conformit� des titres d'exploitation, y compris le\nrespect des limites y prescrites, la tenue des registres et rapports relatifs �\nl'exploitation foresti�re, le paiement des taxes et redevances foresti�res et le\nrespect de la r�glementation relative au transport des produits forestiers.",
+                    "line_num": 480
+                  },
+                  {
+                    "title": "Article 40",
+                    "node_id": "0042",
+                    "summary": "This partial document outlines the procedures and timelines for submitting mission reports by forestry agents in a national administration. It specifies that reports must be submitted within 15 days to the relevant hierarchical authority, distinguishing between central services (to the Minister) and provincial services (to the Provincial Governor). Furthermore, it mandates that a copy of provincial agents' reports must be sent to the central forestry control service within 21 days to ensure national coordination and compliance verification.",
+                    "line_num": 491
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0043",
+                    "summary": "###### Article 41\n\nSi au cours des\nop�rations de contr�le, les agents forestiers d�c�lent une infraction, leur chef\nd'�quipe, officier de police judiciaire, est tenu, conform�ment aux articles 127\n� 133 du Code forestier et � toute autre disposition l�gale en vigueur, de la\nconstater par proc�s-verbal.\nLa r�daction du proc�s-verbal de constat et\nses mentions sont conformes, sous peine de nullit�, aux dispositions du Code de\nproc�dure p�nale et au ler alin�a de l'article 133 du Code forestier.",
+                    "line_num": 511
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0044",
+                    "summary": "###### Article 42\n\nLe proc�s-verbal de\nconstat est transmis au parquet territorialement comp�tent dans le m�me d�lai\nque celui de la soumission du rapport de mission correspondant, tel que pr�vu �\nl'article 40 ci-dessus.",
+                    "line_num": 523
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE V : DU CADRE INSTITUTIONNEL DE CONTROLE",
+            "node_id": "0045",
+            "prefix_summary": "#### CHAPITRE V : DU CADRE INSTITUTIONNEL DE CONTROLE",
+            "line_num": 531,
+            "nodes": [
+              {
+                "title": "Article 43",
+                "node_id": "0046",
+                "summary": "###### Article 43\n\nSi, lors du constat d'une infraction foresti�re, le d�linquant\nsollicite le b�n�fice d'une transaction, l'agent verbalisant est tenu\nd'y proc�der conform�ment aux dispositions des articles 137 � 142 du Code\nforestier.",
+                "line_num": 534
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0047",
+                "summary": "###### Article 44\n\nIl est organis� une brigade centrale de contr�le forestier au\nsein du Secr�tariat G�n�ral de l'Environnement et Conservation de la\nNature et une brigade provinciale de contr�le forestier au sein de chaque\ndivision provinciale de l'Environnement et Conservation de la Nature\nen vue d'assurer la r�alisation des op�rations du contr�le forestier telles que\npr�vues par le pr�sent Arr�t�.\nLes structures\npr�vues � l'alin�a ci-dessus fonctionnent conform�ment aux articles\n45 et 46 ci-dessous.",
+                "line_num": 542
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0048",
+                "summary": "###### Article 45\n\nLa Brigade Centrale de Contr�le Forestier fait partie int�grante\nde la Direction de Contr�le et Inspection.\nSes activit�s sont\nsupervis�es et coordonn�es par un inspecteur forestier ayant la qualit�\nd'officier de police judiciaire et rev�tu du grade de Chef de division.\nA l'entr�e en vigueur du pr�sent Arr�t�, elle remplace la\nDivision du Pool Forestier.",
+                "line_num": 555
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VI : DES PARTIES PRENANTES DU CONTROLE",
+            "node_id": "0049",
+            "prefix_summary": "#### CHAPITRE VI : DES PARTIES PRENANTES DU CONTROLE",
+            "line_num": 566,
+            "nodes": [
+              {
+                "title": "Article 46",
+                "node_id": "0050",
+                "summary": "###### Article 46\n\nLa Brigade Provinciale de Contr�le Forestier est une structure\ndu Bureau provincial de Contr�le et Inspection.\nElle est\nsupervis�e et coordonn�e par un Inspecteur forestier ayant la qualit� d'officier\nde police judiciaire et rev�tu du grade de Chef de bureau.\nLa Brigade\nProvinciale de Contr�le Forestier est mise en place d�s l'entr�e en vigueur du\npr�sent Arr�t�.\n\nFORESTIER\nSection l�re : De l'implication d'autres institutions\npubliques",
+                "line_num": 569
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0051",
+                "summary": "###### Article 47\n\nL'administration foresti�re prend toutes les dispositions\npratiques appropri�es pour collaborer avec les parquets, la Police Nationale\nCongolaise, la Direction G�n�rale des Recettes Administratives et de\nParticipation (DGRAD), l'Office des Douanes et Accises (OFIDA) et l'Office\nCongolais de Contr�le (OCC) en vue d'assurer l'harmonisation de leurs activit�s\ncommunes de contr�le, conform�ment aux dispositions l�gales en vigueur.",
+                "line_num": 585
+              },
+              {
+                "title": "Section 2 : De l'observation ind�pendante",
+                "node_id": "0052",
+                "prefix_summary": "##### Section 2 : De l'observation ind�pendante",
+                "line_num": 595,
+                "nodes": [
+                  {
+                    "title": "Article 48",
+                    "node_id": "0053",
+                    "summary": "###### Article 48\n\nL'administration foresti�re conclut avec l'OFIDA et l'OCC une\nconvention portant principalement sur le renforcement des capacit�s techniques\ndu personnel concern� pour la v�rification des conditions et formalit�s\nprescrites par les dispositions l�gales et r�glementaires en vigueur en mati�re\nd'exportation des produits forestiers ainsi que sur l'�change d'informations et\ndonn�es r�sultant des op�rations de contr�le.",
+                    "line_num": 598
+                  },
+                  {
+                    "title": "Article 49",
+                    "node_id": "0054",
+                    "summary": "###### Article 49\n\nEn vue de garantir la cr�dibilit� du contr�le forestier le\nministre en charge des for�ts et le gouverneur de Province peuvent, pour le\ncompte des administrations foresti�res centrale et provinciale, conclure des\naccords visant � associer des observateurs ind�pendants aux missions de\ncontr�le.\nL'observateur ind�pendant vis� � l'alin�a ci-dessus est une\norganisation non Gouvernementale internationale ou nationale sp�cialis�e",
+                    "line_num": 608
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0055",
+                    "summary": "###### Article 5\n\nLe contr�le du respect\ndes normes techniques concerne notamment la bonne application des normes\nd'inventaire forestier, des normes environnementales li�es � l'exploitation\nainsi que la conformit� de l'�tablissement et de la mise en Ouvre du\nplan d'am�nagement avec la r�glementation en vigueur.",
+                    "line_num": 619
+                  },
+                  {
+                    "title": "Article 50",
+                    "node_id": "0056",
+                    "summary": "###### Article 50\n\nL'organisation concern�e par l'article\n49 ci-dessus suit les missions de contr�le et, dans le d�lai convenu, adresse un\nrapport sur leur r�gularit� � l'attention de l'autorit� comp�tente. Il lui est\ninterdit d'interf�rer d'une mani�re quelconque dans la conduite et la\nr�alisation des op�rations de contr�le, sous peine de r�siliation de l'accord\npr�vu � l'article 49 ci-dessus.",
+                    "line_num": 628
+                  },
+                  {
+                    "title": "Article 51",
+                    "node_id": "0057",
+                    "summary": "This partial document outlines the procedure for reviewing an independent observer's report within fifteen days of receipt. It specifies the composition of an ad hoc commission at two levels: central and provincial, listing the specific officials who must be members. It also states that a representative from the concerned independent observer participates in the commission's meetings, primarily to defend the report's conclusions.",
+                    "line_num": 638
+                  },
+                  {
+                    "title": "Article 52",
+                    "node_id": "0058",
+                    "summary": "###### Article 52\n\nA la suite de l'examen du rapport\nvis� � l'article 51 ci-dessus, la commission peut proposer � l'autorit�\ncomp�tente toute mesure visant la correction ou l'am�lioration de la\nconduite des op�rations du contr�le, y compris l'application des\nsanctions disciplinaires ou p�nales � l'�gard des fonctionnaires et agents ayant\nviol� des dispositions l�gales.\nL'observateur\nind�pendant est tenu de publier ledit rapport, y compris les conclusions de la\ncommission ad hoc et les mesures cons�cutives de l'autorit� comp�tente, par voie\nde presse �crite, audiovisuelle ou �lectronique.",
+                    "line_num": 658
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VII : DES DISPOSITIONS PENALES",
+            "node_id": "0059",
+            "prefix_summary": "#### CHAPITRE VII : DES DISPOSITIONS PENALES",
+            "line_num": 672,
+            "nodes": [
+              {
+                "title": "Article 53",
+                "node_id": "0060",
+                "summary": "###### Article 53\n\nToute organisation non Gouvernementale\nnationale ou locale, toute association ainsi que toute personne ayant\nconnaissance d'une exploitation foresti�re ill�gale ou de tout acte illicite de\nd�tention, de vente ou de circulation d'un produit forestier est tenu d'en faire\nune d�nonciation aupr�s de l'administration foresti�re.\nToute autorit� ou tout agent de l'administration\nforesti�re ayant re�u la d�nonciation d'une exploitation foresti�re ill�gale ou\nd'un acte illicite de d�tention, vente ou circulation d'un produit forestier,\nest tenu de commanditer un contr�le appropri� ou d'obtenir que des dispositions\nsoient prises � ce sujet.",
+                "line_num": 675
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0061",
+                "summary": "###### Article 54\n\nToute violation des\ndispositions du pr�sent Arr�t�, particuli�rement tout acte visant � emp�cher un\ninspecteur, fonctionnaire ou agent forestier d'accomplir sa mission dans le\ncadre du contr�le forestier est puni conform�ment au Code forestier,\nsp�cialement en ses articles 147, point 1, et 153.",
+                "line_num": 689
+              },
+              {
+                "title": "Article 55",
+                "node_id": "0062",
+                "summary": "###### Article 55\n\nSont punis\nconform�ment aux dispositions des articles 147, 148, 149, 149 bis, 149 ter, 150\net 150' du Code p�nal, tous actes de corruption ou de trafic d'influence\nainsi que toutes pressions et menaces exerc�es sur les inspecteurs,\nfonctionnaires ou agents forestiers en vue d'entraver le contr�le forestier, tel\nque r�gi par le pr�sent Arr�t�.",
+                "line_num": 698
+              },
+              {
+                "title": "Article 56",
+                "node_id": "0063",
+                "summary": "###### Article 56\n\nTout Inspecteur, fonctionnaire ou agent\nforestier coupable d'actes r�pr�hensibles tels qu'abus de pouvoir,\narrestation arbitraire, concussion, d�tournement de biens saisis, falsification\nde proc�s‑verbal, est puni conform�ment aux dispositions l�gales en vigueur,\nsans pr�judice des sanctions disciplinaires.",
+                "line_num": 708
+              },
+              {
+                "title": "Article 57",
+                "node_id": "0064",
+                "summary": "###### Article 57\n\nTout inspecteur,\nfonctionnaire ou agent forestier n'ayant pas transmis son rapport de\nmission ou un proc�s-verbal de constat conform�ment aux dispositions des\narticles 40 et 42 ci-dessus est puni de sanctions pr�vues par la r�glementation\nen vigueur en mati�re disciplinaire.",
+                "line_num": 717
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0065",
+                "summary": "###### Article 58\n\nToute violation des dispositions de l'article\n19 du pr�sent Arr�t� peut donner lieu � une sanction disciplinaire � l'�gard de\nl'agent forestier concern� ou la radiation de l'organisation\nnon Gouvernementale fautive du registre tenu en application de l'article 32 du\nCode forestier.",
+                "line_num": 726
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VIII : DES DISPOSITIONS FINALES",
+            "node_id": "0066",
+            "prefix_summary": "#### CHAPITRE VIII : DES DISPOSITIONS FINALES",
+            "line_num": 735,
+            "nodes": [
+              {
+                "title": "Article 59",
+                "node_id": "0067",
+                "summary": "###### Article 59\n\nToute organisation non\nGouvernementale nationale ou locale, toute association ainsi que toute personne,\nqui viole les dispositions de l'article 53 ci-dessus, est tenu\ncoupable de non d�nonciation et puni comme tel conform�ment dispositions du Code\np�nal.",
+                "line_num": 738
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0068",
+                "summary": "###### Article 6\n\nLe contr�le relatif\naux clauses contractuelles porte notamment sur le respect des engagements pris\npar le concessionnaire forestier ou tout exploitant forestier en vue de\ncontribuer au d�veloppement local, � travers la r�alisation des infrastructures\nsocio-�conomiques, et d'assurer le bien-�tre social de son personnel.",
+                "line_num": 747
+              },
+              {
+                "title": "Article 60",
+                "node_id": "0069",
+                "summary": "###### Article 60\n\nLe pr�sent Arr�t�\ns'applique sans pr�judice des dispositions du Code de proc�dure p�nale relatives\naux enqu�tes, actions et poursuites.",
+                "line_num": 756
+              },
+              {
+                "title": "Article 61",
+                "node_id": "0070",
+                "summary": "###### Article 61\n\nToutes les dispositions\nant�rieures contraires au pr�sent Arr�t� sont abrog�es.",
+                "line_num": 763
+              },
+              {
+                "title": "Article 62",
+                "node_id": "0071",
+                "summary": "###### Article 62\n\nLe Secr�taire G�n�ral ayant les\nfor�ts dans ses attributions et les Gouverneurs de\nProvince sont charg�s, chacun en ce qui le concerne, de l'ex�cution du pr�sent\nArr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 16 juin 2009\nJos� E.B. ENDUNDO\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 769
+              },
+              {
+                "title": "Section 2 : Des lieux de contr�le Article 8 :",
+                "node_id": "0072",
+                "prefix_summary": "##### Section 2 : Des lieux de contr�le Article 8 :",
+                "line_num": 784,
+                "nodes": [
+                  {
+                    "title": "Article 7",
+                    "node_id": "0073",
+                    "summary": "###### Article 7\n\nLe contr�le de\nconformit� vise la v�rification de la l�galit� et de la r�gularit� des\nop�rations de contr�le forestier, particuli�rement au regard de la proc�dure\npr�vue par les articles 126 � 142 du Code forestier, le pr�sent Arr�t� et des\nr�gles de d�ontologie.\n\nLes op�rations du\ncontr�le forestier se d�roulent g�n�ralement dans les chantiers d'exploitation,\ndans les bases vie et villages environnants, au si�ge d'exploitation, sur les\nvoies d'�vacuation des produits forestiers, aux postes frontaliers du\nterritoire national et � partir de l'espace a�rien.",
+                    "line_num": 787
+                  },
+                  {
+                    "title": "Article 9",
+                    "node_id": "0074",
+                    "summary": "###### Article 9\n\nLe contr�le effectu�\ndans les chantiers d'exploitation porte notamment sur la v�rification du respect\ndes limites des concessions foresti�res et de toute aire de coupe, des\ndiff�rentes normes techniques et des prescriptions du plan d'am�nagement.",
+                    "line_num": 802
+                  },
+                  {
+                    "title": "Article l",
+                    "node_id": "0075",
+                    "summary": "###### Article l\n\nLe pr�sent Arr�t� fixe les r�gles et les modalit�s auxquelles sont soumises les\nmissions de contr�le forestier r�alis�es par des inspecteurs, fonctionnaires et\nagents forestiers dans le cadre du suivi r�gulier de l'application de\nla l�gislation foresti�re.\nIl d�termine les r�gles portant notamment sur les �l�ments, les\ntypes, les proc�d�s et m�thodes du contr�le forestier.\nIl fixe le cadre institutionnel du contr�le forestier ainsi que\nles modalit�s de l'implication des parties prenantes du contr�le\nforestier tant du secteur public que de la soci�t� civile.",
+                    "line_num": 810
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "af800bb3-89cc-4c4c-b95c-e52baa268b8b"
+    ],
+    "0002": [
+      "a4bf3b48-2f03-49f1-b102-bd29c8e79738"
+    ],
+    "0003": [
+      "2fee2574-dc0a-4657-a157-d8eb563c65f9"
+    ],
+    "0004": [
+      "923f0862-d177-4c21-8662-0b35b85957a4"
+    ],
+    "0006": [
+      "ee88a91f-7c71-4263-bdb9-b70cc8350d63"
+    ],
+    "0007": [
+      "8ccae87d-4abd-4d3e-ae4a-e31af5ee5cfc"
+    ],
+    "0008": [
+      "db61bf0f-3fe7-4676-ac1a-61263b5b6cb9"
+    ],
+    "0010": [
+      "5dfed3e2-e470-4f64-a7e2-36d3c21dd369"
+    ],
+    "0011": [
+      "0713e177-13dd-4646-a266-24c49d9cee07"
+    ],
+    "0013": [
+      "65fe3e00-d841-4ae5-9a85-150c9e9b7e86"
+    ],
+    "0015": [
+      "99564b90-bdfa-439e-abc6-e219fd007de8"
+    ],
+    "0016": [
+      "c76a95f2-371e-49b3-98cc-d8657f2cefe3"
+    ],
+    "0018": [
+      "3c2d7924-4171-4be1-8326-fce224441adc"
+    ],
+    "0019": [
+      "9573027d-722a-4e6f-88be-889ac8b25f38"
+    ],
+    "0020": [
+      "53ef8c6f-e0cd-4bb6-a560-e020aed4a8b6"
+    ],
+    "0021": [
+      "84445003-02b5-464f-af39-ea400fb12960"
+    ],
+    "0023": [
+      "2ff8becd-91ab-4614-9b20-f4501ff8074f"
+    ],
+    "0024": [
+      "5c528697-d4f7-4e66-a4e2-18d8ed49beb6"
+    ],
+    "0025": [
+      "ddf9b929-8776-46e6-966c-81207ac132cb"
+    ],
+    "0026": [
+      "1a2d67e4-3cce-404f-8675-a548f035f3fb"
+    ],
+    "0027": [
+      "d2c10e3b-e3f7-41fa-99cc-cf079fc90b4e"
+    ],
+    "0028": [
+      "0e901338-b272-44d0-8dcf-0dce561b1955"
+    ],
+    "0030": [
+      "e0095782-b18e-4e2b-821f-2d10f59aca8e"
+    ],
+    "0031": [
+      "65cbd863-2c31-40af-9cd3-c0d9f5270022"
+    ],
+    "0032": [
+      "8e81f6f7-6d13-491b-ae30-ae5b47a5df55"
+    ],
+    "0033": [
+      "7ca38ca9-90eb-471c-a4c1-83daa9af716e"
+    ],
+    "0034": [
+      "9f08b269-df19-452c-81a8-741a540d7e37"
+    ],
+    "0035": [
+      "b20a724c-133b-492f-bae1-f7a63afbe11a"
+    ],
+    "0036": [
+      "8ecaa6b0-0d46-43c3-8adb-1fc5ffce9c97"
+    ],
+    "0037": [
+      "83799d27-bdae-4527-a047-833f557b3eb2"
+    ],
+    "0039": [
+      "febabefa-5951-443c-a6af-4c9281f0275f"
+    ],
+    "0040": [
+      "2545ca55-e6fd-4504-81e7-8e759e152276"
+    ],
+    "0041": [
+      "8f2dfb20-e799-4562-9ca2-7a1e69db1bee"
+    ],
+    "0042": [
+      "6e62c9c4-2c7f-416e-9786-5f7aeffd6e58"
+    ],
+    "0043": [
+      "f5bc3897-301a-4444-a507-5840e37d16ed"
+    ],
+    "0044": [
+      "d9ef9058-37f2-41d8-a511-05e95ccfda16"
+    ],
+    "0046": [
+      "c895f698-5e6f-4538-b5a0-f51c06f40f75"
+    ],
+    "0047": [
+      "7ec4071f-39b6-4603-8051-f0a14e997bf3"
+    ],
+    "0048": [
+      "bfba1dcd-89ff-42bb-84ab-5a64ead6e664"
+    ],
+    "0050": [
+      "b724b110-4a19-4661-8aac-66c45a3468be"
+    ],
+    "0051": [
+      "d89c0087-6545-4fa8-8d55-d85f94ec4c30"
+    ],
+    "0053": [
+      "fd4b5a72-8461-47b8-a443-f2dfbd63a059"
+    ],
+    "0054": [
+      "af4bbabc-e752-44b4-b1b8-efab04909596"
+    ],
+    "0055": [
+      "b24fa775-9062-4d24-9b2c-de7ea11cf58b"
+    ],
+    "0056": [
+      "4d283aca-c14f-4bb7-b9c1-afd67ba1c9d8"
+    ],
+    "0057": [
+      "08ab7729-3100-45dd-b07a-b0de7606a18c"
+    ],
+    "0058": [
+      "3daa4691-64a8-4510-a27c-a0456173b71b"
+    ],
+    "0060": [
+      "77a33280-d05f-4117-bbc6-58b1412b6d0c"
+    ],
+    "0061": [
+      "aa5f4a8f-d8f4-4b8d-b422-61d88be01014"
+    ],
+    "0062": [
+      "fcd76d32-b051-4bda-81e6-82954a41b618"
+    ],
+    "0063": [
+      "cd3739c1-f8c7-4ccf-95bd-c83d9b1b4d97"
+    ],
+    "0064": [
+      "f668a7dc-01f0-4885-8969-9697acaeca1f"
+    ],
+    "0065": [
+      "c50a816e-eba3-41cf-9ef6-8ce62e8273d1"
+    ],
+    "0067": [
+      "51bcddbc-c68a-4134-b6e6-3b5142396ea3"
+    ],
+    "0068": [
+      "476c0fd1-15a5-40da-9335-a356ce4c1bab"
+    ],
+    "0069": [
+      "51663d1f-d7e8-4c28-8f4d-0e12a9bd9f6f"
+    ],
+    "0070": [
+      "1c3935a3-d986-47c9-81b3-5012acbad23c"
+    ],
+    "0071": [
+      "55df44e4-053c-40e1-a18e-2ee83f7ba6ec"
+    ],
+    "0073": [
+      "41b367f5-d599-4067-955e-224fa953c160"
+    ],
+    "0074": [
+      "d6f55bd5-6191-46bd-b562-539c0cb68ca6"
+    ],
+    "0075": [
+      "eb2930cb-2c5a-4da9-9b8c-5c964e700468"
+    ]
+  },
+  "node_count": 76,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:37:12.600949",
+  "article_count": 61,
+  "generation_time_s": 19.85284399986267
+}

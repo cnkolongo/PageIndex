@@ -1,0 +1,33 @@
+{
+  "slug": "AM-09-07-06-1993-1993",
+  "bundle_path": "backups/all_bundles/code/AM-09-07-06-1993-1993.json",
+  "document_id": "49280fee-6585-4d24-bb6b-3407961e0079",
+  "document_title": "AM.09.07.06.1993",
+  "tree_json": {
+    "doc_name": "AM-09-07-06-1993-1993",
+    "structure": [
+      {
+        "title": "AM.09.07.06.1993",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3d3fb481-31c9-4cac-8dae-25e5fa10cfd3"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:32:19.096606",
+  "article_count": 1,
+  "generation_time_s": 0.005802154541015625
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "AM-009-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-009-21-05-2015-2015.json",
+  "document_id": "6bf5b444-11ac-496e-8543-444d014b097c",
+  "document_title": "AM.009.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-009-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.009.21.05.2015",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre I : De l�agr�ment",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "titre d",
+            "node_id": "0003",
+            "line_num": 101,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "line_num": 104
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "322a1178-de18-40c2-906e-b521fccbe502"
+    ],
+    "0004": [
+      "1f87d4fb-bee6-42c9-ae2f-005cc62d9ed7"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:23:51.321465",
+  "article_count": 2,
+  "generation_time_s": 0.004660367965698242
+}

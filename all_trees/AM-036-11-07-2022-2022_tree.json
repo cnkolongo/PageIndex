@@ -1,0 +1,275 @@
+{
+  "slug": "AM-036-11-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-036-11-07-2022-2022.json",
+  "document_id": "43642971-77a3-413e-bfbc-a40801a18798",
+  "document_title": "AM.036.11.07.2022",
+  "tree_json": {
+    "doc_name": "AM-036-11-07-2022-2022",
+    "structure": [
+      {
+        "title": "AM.036.11.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.036.11.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� fixe les\nconditions et modalit�s d'examen des demandes et de d�livrance d'autorisations\npour l'exercice des activit�s de T�l�communications et Technologies de\nl'Information et de la Communication, conform�ment � l'article 55 de la Loi\nn�20/017 du 25 novembre 2020.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLe refus �ventuel est motiv�\net notifi� au requ�rant par l'Autorit� de r�gulation. Le requ�rant peut\nr�introduire\nune demande r�vis�e apr�s les modifications n�cessaires. Cette demande n'est pas\nassujettie au paiement des frais d'�tudes du dossier.\nApr�s deux refus, le\nrequ�rant est tenu d'introduire une nouvelle demande avec les �l�ments nouveaux\nmoyennant paiement des frais d��tudes.",
+            "line_num": 13
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "This partial document covers the procedure following a favorable regulatory opinion for an authorization request. It details the steps: the regulatory authority transmits the file to the Minister for approval, the Minister's 30-working-day deadline to respond, the automatic granting of authorization if the deadline passes, and the Minister's options to either request further instruction/modification or grant final approval.",
+            "line_num": 25
+          },
+          {
+            "title": "Titre V : De la dur�e, du",
+            "node_id": "0004",
+            "prefix_summary": "#### Titre V : De la dur�e, du",
+            "line_num": 43,
+            "nodes": [
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nL'Autorit� de r�gulation\ninforme le requ�rant de l'aboutissement de la proc�dure et transmet une copie de\nl�autorisation au Secr�tariat g�n�ral pour taxation. Elle ne d�livre\nl'autorisation au requ�rant que sur pr�sentation de preuve de paiement, par\ncelui-ci, des droits dus au Tr�sor public.\n\nrenouvellement, de la modification et du retrait de l'autorisation",
+                "line_num": 46
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nLa dur�e de l'autorisation\nest de 10 ans. Cette dur�e court � dater de la d�livrance du titre au requ�rant,\npar l'Autorit� de r�gulation.",
+                "line_num": 57
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nLe renouvellement de\nl'autorisation se fait sur demande du titulaire douze (12) mois avant\nl'expiration de l'ancien titre.\nUn exploitant dont\nl�autorisation a expir� est en droit de poursuivre des exploitations s�il prouve\nque la demande de renouvellement a �t� introduite aupr�s de l�Autorit� de\nr�gulation dans le d�lai.",
+                "line_num": 64
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nLa demande de renouvellement\nest adress�e � l'Autorit� de r�gulation et est accompagn�e des �l�ments ci-apr�s\n:\n� un rapport complet\nsur l'exploitation de l'activit� autoris�e ;\n� une preuve de\npaiement des frais d'�tudes du dossier, payables aupr�s de l'Autorit� de\nr�gulation ;\n� preuve de paiement\ndes redevances annuelles pour les cinq derni�res ann�es.",
+                "line_num": 75
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nLa demande de renouvellement\nest analys�e par l'Autorit� de r�gulation, conform�ment aux articles 6, 7, 9, 10\net 11 du pr�sent Arr�t�.\nToute demande de\nrenouvellement donne lieu au paiement de la taxe pr�vue par la r�glementation en\nvigueur en la mati�re.",
+                "line_num": 89
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "This partial document outlines the procedures for modifying authorizations. It states that modifications can be initiated either by the Regulatory Authority or by the authorization holder. It details the required documents for a holder's modification request, including a formal application, proof of fee payment, a resource status report, and an explanatory note. It also grants the Regulatory Authority the power to mandate technical modifications at any time for reasons of public safety, national defense, or international standards, at no additional cost to the holder.",
+                "line_num": 99
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nEn cas des pertes, des vols\nou des d�t�riorations d�une Autorisation, le Titulaire introduit une demande de\nduplicata � l�autorit� de r�gulation. Celle-ci d�livre le titre sollicit� apr�s\npaiement de la taxe y aff�rente.",
+                "line_num": 125
+              }
+            ]
+          },
+          {
+            "title": "Titre V : Des",
+            "node_id": "0012",
+            "prefix_summary": "#### Titre V : Des",
+            "line_num": 133,
+            "nodes": [
+              {
+                "title": "Article 19",
+                "node_id": "0013",
+                "summary": "###### Article 19\n\nL'Autorit� de r�gulation se\nr�serve le droit de suspendre voire de retirer l'Autorisation en cas de\nnon-respect des obligations li�es � l'exploitation de l'activit� autoris�e ou\npour toute autre violation de la r�glementation en vigueur.\n\ndispositions p�nales et finales",
+                "line_num": 136
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "###### Article 2\n\nAux fins du pr�sent Arr�t�,\non entend par :\nAutorisation : Titre qui\nconf�re � un requ�rant, personne physique ou morale, un ensemble de droits et\nobligations sp�cifiques en vertu desquels il est fond� � d�tenir, �tablir et\nexploiter un r�seau non ouvert au public et/ou fournir des services des\nT�l�communications et Technologies de l'Information et de la Communication, tels\nqu'�num�r�s par l'article 54 de la Loi n�20/017.\nExigences essentielles :",
+                "line_num": 146
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0015",
+                "summary": "###### Article 20\n\nToute exploitation sans titre\nd'une activit� soumise au r�gime d'autorisation est punie conform�ment aux\ndispositions l�gales et r�glementaires en vigueur.",
+                "line_num": 159
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0016",
+                "summary": "###### Article 21\n\nToutes les dispositions\nant�rieures contraires au pr�sent Arr�t� sont abrog�es.",
+                "line_num": 166
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0017",
+                "summary": "###### Article 22\n\nLe pr�sident du coll�ge de\nl�ARPTC, ainsi que le Secr�taire g�n�ral aux Postes, T�l�communications et\nNouvelles Technologies de l�Information et de la Communication sont charg�s,\nchacun � ce qui le concerne de l'ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa, le 11\njuillet 2022.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 172
+              }
+            ]
+          },
+          {
+            "title": "Titre III : De la",
+            "node_id": "0018",
+            "prefix_summary": "#### Titre III : De la",
+            "line_num": 189,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0019",
+                "summary": "This partial document outlines the activities and services within the telecommunications sector that require prior authorization. The main points covered are a specific list of ten categories subject to this authorization regime, followed by a mention of the requirement to assemble an application dossier for such authorization.",
+                "line_num": 192
+              }
+            ]
+          },
+          {
+            "title": "Titre II : Types",
+            "node_id": "0020",
+            "prefix_summary": "#### Titre II : Types",
+            "line_num": 224,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0021",
+                "summary": "The partial document defines key terms and abbreviations used in a legal context, specifically related to telecommunications and information technology regulations in the Congo. It references a specific law (Law n°20/017) and identifies the relevant regulatory authority (ARPTC), minister, and national security agency. It also defines the roles of applicants and authorization holders, and clarifies the meaning of the international organization OHADA.",
+                "line_num": 227
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0022",
+                "summary": "###### Article 4\n\nToute personne d�sirant\nd�tenir, �tablir et/ou exploiter un r�seau non ouvert au public ou fournir un\nservice des T�l�communications et Technologies de l'Information et de la\nCommunication soumis au r�gime d'autorisation tel que repris � l�article 3 doit\nsaisir, � cette fin, l'Autorit� de r�gulation.\nLe requ�rant, personne\nmorale, doit �tre r�guli�rement constitu� suivant l'une des formes pr�vues par\nl'OHADA.",
+                "line_num": 252
+              }
+            ]
+          },
+          {
+            "title": "Titre IV : De la proc�dure",
+            "node_id": "0023",
+            "prefix_summary": "#### Titre IV : De la proc�dure",
+            "line_num": 264,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0024",
+                "summary": "The partial document outlines the additional requirements and supporting documents that an applicant must submit to the Regulatory Authority when applying for an authorization, as specified in Article 5. The required documents include a formal application letter, a completed information form, detailed technical documentation (network architecture and equipment compliance), proof of certified financial capacity from a local bank (for telecom/ICT services), and a favorable notice from the National Security. The text also mentions the process for reviewing the application and issuing the authorization.",
+                "line_num": 267
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0025",
+                "summary": "###### Article 6\n\nLa demande d'autorisation est\nadress�e � l'Autorit� de r�gulation en deux exemplaires.\nElle est r�dig�e en fran�ais\net d�pos�e aupr�s de l'Autorit� de r�gulation contre accus� de r�ception. Elle\npeut �tre �galement envoy�e par courrier postal.",
+                "line_num": 290
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0026",
+                "summary": "###### Article 7\n\nL'instruction de toute\ndemande d'autorisation est conditionn�e au paiement des frais d'instruction\naupr�s de l'Autorit� de r�gulation.",
+                "line_num": 299
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0027",
+                "summary": "This partial document outlines the procedures and requirements for processing an authorization application. It specifies that only complete applications will be reviewed, mentions the payment of applicable fees, sets a maximum 30-day decision timeline for the regulatory authority, and describes the process where the applicant may be asked for additional information during the review, culminating in a reasoned decision notification.",
+                "line_num": 306
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0028",
+                "summary": "###### Article 9\n\nL'Autorisation contient les\nrenseignements suivants quant au requ�rant :\n�l'identit� compl�te ;\n� le domicile ou le si�ge social ;\n� les sp�cifications techniques du r�seau autoris� ;\n� la p�riode de validit� du titre.\nUn cahier des charges est\nannex� � l�autorisation pour les fournisseurs de service.",
+                "line_num": 322
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "b33f91c6-8dfc-4aa1-8023-17466511022e"
+    ],
+    "0002": [
+      "8a57a81f-5811-4394-8b27-be5cc1b0c083"
+    ],
+    "0003": [
+      "7706352e-83aa-4d39-b2f6-ab48f5479141"
+    ],
+    "0005": [
+      "5c047df8-11c2-4ee6-b02a-621660308472"
+    ],
+    "0006": [
+      "3e5d519b-809f-4b36-b6bb-f0c375ab6739"
+    ],
+    "0007": [
+      "9360ebb5-ba78-4942-99fb-6cc889acc563"
+    ],
+    "0008": [
+      "5eca0f0e-4b39-485d-a7a3-8b12a055f05a"
+    ],
+    "0009": [
+      "6df0b849-50e6-4960-9e44-59d484bbbd05"
+    ],
+    "0010": [
+      "b5d878a3-2b8c-42e6-98fa-bab07b00e89c"
+    ],
+    "0011": [
+      "a3ef7ddc-aa7c-434d-86c9-3515bf2325f3"
+    ],
+    "0013": [
+      "d53cf0e6-9501-480e-9719-4e5ffbb12ea7"
+    ],
+    "0014": [
+      "e7c1845c-9091-4a7b-a6b6-36c75f35fe40"
+    ],
+    "0015": [
+      "4c34b12e-0889-4020-8c8a-953ab7713592"
+    ],
+    "0016": [
+      "88d506b9-f616-4633-8cc0-7ad0238d1bd1"
+    ],
+    "0017": [
+      "f2e9d199-cc2c-41de-8c37-832ff552ab95"
+    ],
+    "0019": [
+      "09f75eeb-9830-45af-acf1-b631d539d81a"
+    ],
+    "0021": [
+      "41c93307-2713-4714-ad4e-f0a75ab98ba3",
+      "50702978-f905-45de-8adf-77a90a16c9aa"
+    ],
+    "0022": [
+      "41c93307-2713-4714-ad4e-f0a75ab98ba3",
+      "50702978-f905-45de-8adf-77a90a16c9aa"
+    ],
+    "0024": [
+      "cf0cbce2-5169-419f-b8fe-f56d20b670e8"
+    ],
+    "0025": [
+      "2ddec7e1-bd61-44ae-b951-5f28f7be441c"
+    ],
+    "0026": [
+      "340ab703-6f7c-48cd-b2bf-e5e1cd7aeb9a"
+    ],
+    "0027": [
+      "17cc355b-b354-474d-9bea-358376286221"
+    ],
+    "0028": [
+      "3c6f45f8-5adb-4f72-ad5d-b8311f2ad7c6"
+    ]
+  },
+  "node_count": 29,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:19:27.594021",
+  "article_count": 23,
+  "generation_time_s": 17.54891276359558
+}

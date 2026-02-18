@@ -1,0 +1,143 @@
+{
+  "slug": "AIM-08-04-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AIM-08-04-2022-2022.json",
+  "document_id": "f3c8d289-a79c-45bf-8ecd-69bc64a1ce6e",
+  "document_title": "AIM.08.04.2022",
+  "tree_json": {
+    "doc_name": "AIM-08-04-2022-2022",
+    "structure": [
+      {
+        "title": "AIM.08.04.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.08.04.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes taux des droits, taxes et\nredevances � percevoir � l'initiative du Minist�re des Ressources Hydrauliques\net Electricit� sont fix�s en Dollars am�ricains et payables en francs congolais,\nsuivant le tableau en annexe au pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial article stipulates that the sanctions for violations of specified laws and ordinances concerning electricity, water, and energy sectors (excluding hydrocarbons) are those already established within those referenced legal texts. It applies without prejudice to the preceding article.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\net redevances repris dans le pr�sent arr�t� sont constat�s et liquid�s par\nl'Administration, et par les services attitr�s d�ment qualifi�s du Minist�re\nayant l'Energie dans ses attributions, selon le cas, conform�ment aux\ndispositions l�gales et r�glementaires en vigueur.",
+            "line_num": 24
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nEst abrog�, l'Arr�t�\ninterminist�riel n� 019/CAB /MINETAT-RHE/2020 et n� CAB/MIN/FINANCES /2020/104\ndu 15 ao�t 2020 portant fixation des taux des droits, taxes et redevances �\npercevoir � l'initiative du Minist�re des Ressources Hydrauliques et\nElectricit�.",
+            "line_num": 32
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nLe Secr�taire g�n�ral aux\nRessources Hydrauliques et Electricit� ainsi que le Directeur g�n�ral de la\nDirection G�n�rale des Recettes Administratives, Judiciaires, Domaniales et de\nParticipations DGRAD, en sigle, sont charg�s, chacun en ce qui le concerne, de\nl'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 08 avril\n2022\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 41
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0006",
+            "summary": "This partial document (Article 2) defines the roles and responsibilities related to taxes and fees in the public electricity and water services. It specifies that the operator is both the liable party and the debtor for the fee on exercising public service activities. For the electricity consumption tax, the operator is the debtor responsible for collection and payment, while the final consumer is the liable party. It clarifies that stored electrical energy is not subject to this tax and explains that the tax amount for the operator is calculated based on their entire electrical system, including auxiliaries, staff facilities, and maintenance workshops.",
+            "line_num": 58
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0007",
+            "summary": "This partial document explains the key factors used to calculate the tax fee (\"taxe d'octroi\") for electricity production licenses and concessions in a specific administrative context. It details that the tax value is primarily based on: the installed capacity of the plant (symbolized by P), the duration of the license/concession (via coefficient d), the type of energy resource used (via coefficient r), and the area of public domain occupied (via a value e taxed per kW of installed capacity, which itself depends on the exploited energy resource).",
+            "line_num": 78
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0008",
+            "summary": "The partial document outlines the key factors used to calculate the \"taxe d'octroi\" (concession grant tax) for two types of public utility concessions in a French-language context.\n\nFor an electricity transport concession, the tax value is based on:\n*   The corridor area occupied by the power line.\n*   The line's voltage level and length.\n*   The installation's capacity.\n*   The concession's duration.\n*   The cost per kilometer of the used public domain.\n\nFor a drinking water transport concession, the tax value is based on:\n*   The length of the pipeline.\n*   The concession's duration.\n*   The pipe's capacity.\n*   The right-of-way, expressed as a taxed value per kilometer of the used public domain.",
+            "line_num": 96
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0009",
+            "summary": "###### Article 5\n\nLa valeur de la taxe � payer\npour la validation d'une �tude est fix�e en fonction du type d'�tude soumise �\nl'approbation du Ministre ayant l'Energie dans ses attributions.\nLa valeur de la taxe � payer\npour la modification d'une �tude est calcul�e proportionnellement au co�t de\nl'impact financier de la r�alisation de ladite modification physique rapport�e\nau type d'�tude consid�r�e.",
+            "line_num": 113
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0010",
+            "summary": "This partial document outlines the different types of fees (redevances) levied on activities within the electricity and water sectors. It specifies the basis for calculating each fee: for production, import, and transport services, the fees are based on quantities produced/transported or revenue earned. It also covers fees for using energy resources (based on the resource's potential and type) and fees on service providers (based on the value of their services or supplies).",
+            "line_num": 124
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0011",
+            "summary": "This partial document (Article 7) details the declaration and payment procedures for specific fees related to public services. It stipulates that fees for the public electricity service, electricity consumption, and the exploitation of natural water resources (surface, groundwater, thermal, lakes, river, and tributaries) must be paid directly to designated regulatory agencies. It also lists various associated administrative costs, such as fees for processing applications, conflict resolution, certification, monetary penalties, and service remuneration, which are to be handled accordingly by the National Agency for Electrification and Energy Services in Rural and Periurban Areas (ANSER) and the relevant Regulatory Authority.",
+            "line_num": 150
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0012",
+            "summary": "This partial document outlines the reporting obligations for operators in the energy sector. The main points covered are:\n\n1.  **Monthly Reporting Requirement:** Operators must submit their statistics to the relevant Ministry and Regulatory Authority every month.\n2.  **Submission Deadline:** The statistics for a given month must be declared by the 10th day of the following month.\n3.  **Consequences of Non-Compliance:** Failure to declare on time, or submitting false or incomplete data, authorizes the Administration to use estimates for the operator's activities (production, transport, distribution, import, export, or trade of electricity, water, or other energy materials).\n4.  **Penalties:** In such cases of non-compliance, the operator is subject to sanctions as stipulated by applicable legal and regulatory texts.",
+            "line_num": 166
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0013",
+            "summary": "###### Article 9\n\nSans pr�judice des sanctions\npr�vues par d'autres textes l�gaux et r�glementaires applicables en la mati�re,\ntoute violation des dispositions du pr�sent Arr�t� entraine l'application des\namendes transactionnelles pr�vues au tableau en annexe.",
+            "line_num": 187
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "9a9fdc40-d808-42d1-99fd-d34197892f13"
+    ],
+    "0002": [
+      "34e737b2-5961-4e40-ba72-9541ee0c2c04"
+    ],
+    "0003": [
+      "2800c47d-5a7f-4a65-9557-262dcfab7fc6"
+    ],
+    "0004": [
+      "d9e2e05c-c1c0-4b73-8e3c-89c6f12314a0"
+    ],
+    "0005": [
+      "157dfeb2-0533-46d7-aca4-9ad03d43a37c"
+    ],
+    "0006": [
+      "1efbdef2-e411-4f7a-8b62-d445fc74b3e4"
+    ],
+    "0007": [
+      "3e7a236d-e6d8-4b51-8f79-d561c6ea4115"
+    ],
+    "0008": [
+      "eccbbc4c-2da2-4a6d-8d26-1d469dadc8ac"
+    ],
+    "0009": [
+      "fe04db10-bb26-4ebd-89ac-c1a95f33bb4f"
+    ],
+    "0010": [
+      "ab8e5f6c-d9dc-4c1f-82e1-1511997245fd"
+    ],
+    "0011": [
+      "883f8724-a7b2-4050-951f-103fa0e883f2"
+    ],
+    "0012": [
+      "e56b47f2-4ae8-40fe-a47b-44f003b65b08"
+    ],
+    "0013": [
+      "64aa1e08-08f7-4b6a-a719-c2564a9056d4"
+    ]
+  },
+  "node_count": 14,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:56:30.964313",
+  "article_count": 13,
+  "generation_time_s": 19.42016100883484
+}

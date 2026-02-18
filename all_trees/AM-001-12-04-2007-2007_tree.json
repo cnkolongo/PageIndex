@@ -1,0 +1,143 @@
+{
+  "slug": "AM-001-12-04-2007-2007",
+  "bundle_path": "backups/all_bundles/code/AM-001-12-04-2007-2007.json",
+  "document_id": "93b1b531-5590-4115-868b-b982e3feb8da",
+  "document_title": "AM.001.12.04.2007",
+  "tree_json": {
+    "doc_name": "AM-001-12-04-2007-2007",
+    "structure": [
+      {
+        "title": "AM.001.12.04.2007",
+        "node_id": "0000",
+        "prefix_summary": "# AM.001.12.04.2007",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe titulaire d'une concession foresti�re ne peut exploiter la\nfor�t lui conc�d�e qu'en vertu d'une autorisation de coupe industrielle de bois\nd'Ouvre d�livr�e par le Ministre en charge des for�ts suivant les conditions\npr�vues par le pr�sent arr�t�,",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nAu d�but de chaque trimestre calendrier, le titulaire de toute\nautorisation de coupe industrielle de bois d'Ouvre est tenu de d�clarer aupr�s\ndes administrations centrale, provinciale et territoriale charg�es des for�ts le\nvolume de bois exploit� au cours du trimestre pr�c�dent.\nLa d�claration contient les donn�es relatives aux statistiques\nde production, de transformation et d'exportation des produits forestiers.\nLa d�claration, d�ment dat�e et sign�e, r�partit les essences\nforesti�res suivant la classification pr�vue par l'association technique\ninternationale des bois tropicaux.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "This partial document, Article 11, outlines regulations for the trade of \"bois d'Ouvre\" (likely high-value timber). The main points covered are:\n\n1.  **Mandatory Authorization:** All transactions (purchase, sale, or export) of this timber with third parties require prior authorization from the Minister in charge of forests.\n2.  **Validity Period:** These authorizations are valid for a maximum of one year, specifically from January 1st to December 31st.\n3.  **Authorization Fees:** It establishes a tiered fee structure for these authorizations, based on the type of economic operator:\n    *   **$2,500 USD** per authorization for artisanal loggers with a specific artisanal cutting permit.\n    *   **$3,000 USD** per authorization for forestry concession holders with a formal forest title.\n    *   **$10,000 USD** per authorization for any other economic operator who is not a forestry exploiter.",
+            "line_num": 25
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nToutes dispositions ant�rieures contraires au pr�sent arr�t�\nsont abrog�es.",
+            "line_num": 48
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nLe Secr�taire G�n�ral � l'Environnement, Conservation de la\nNature, Eaux et For�ts est charg� de l'ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa, le 12 avril 2007 Didace Pembe Bokiaga\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 54
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0006",
+            "summary": "###### Article 2\n\nIl peut �tre d�livr� � un titulaire d'une concession foresti�re\nune ou plusieurs autorisations de coupe industrielle de bois d'Ouvre en fonction\nde sa capacit� de production;\nL'autorisation de coupe industrielle de bois d'Ouvre est\nvalable pour une p�riode d'un an au maximum, allant du 1 er janvier au 31\nd�cembre.",
+            "line_num": 67
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0007",
+            "summary": "This partial document discusses the regulations for industrial logging permits for \"Ouvre\" wood. It distinguishes between two types of permits: \"special\" and \"ordinary.\" A special permit is required for logging protected species like Wenge and Afrormosia, or any other species listed in CITES Appendix III. An ordinary permit applies to non-protected species. It also states that these permits are granted personally and are non-transferable; they cannot be sold, leased, or otherwise transacted.",
+            "line_num": 77
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0008",
+            "summary": "###### Article 4\n\nToute demande d'autorisation de coupe industrielle de bois\nd'Ouvre est introduite, en quatre exemplaires, aupr�s de la Coordination\nProvinciale de l'Environnement du ressort concern� pour les besoins tant\nd'instruction de la demande que d'information des services impliqu�s.\nLa demande de l'autorisation de coupe industrielle de bois\nd'Ouvre est introduite avant le 30 septembre qui pr�c�de l'ann�e de coupe.\nL'administration charg�e des for�ts est tenue de d�livrer les\nautorisations de coupe industrielle de bois d'Ouvre au plus tard le 31 d�cembre\npr�c�dant l'ann�e de coupe.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0009",
+            "summary": "This partial document outlines the procedures and timeline for a provincial environmental authority to review an application for industrial timber logging authorization. It specifies the required information in the application form, the steps following a compliant review, and the automatic approval if the authority fails to respond within the stipulated deadline.",
+            "line_num": 108
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0010",
+            "summary": "###### Article 6\n\nOutre ce qui est prescrit par l'article pr�c�dent, le requ�rant\nfournit �galement la preuve du paiement de la redevance de superficie pour\nl'ann�e �coul�e.\nAucune demande de permis n'est re�ue en l'absence de la preuve\nr�guli�re du paiement de la redevance de superficie.",
+            "line_num": 137
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0011",
+            "summary": "The partial document describes the process and conditions for obtaining an industrial logging authorization for timber. It specifies that the Forestry Management Directorate reviews the application within 30 days. The authorization requires ministerial signature only if the applicant pays a fee for updating the forestry monitoring and control allocation map. The fee is set at $2,500 USD, payable in equivalent Congolese francs.",
+            "line_num": 146
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0012",
+            "summary": "###### Article 8\n\nL'aire de coupe concern�e par une autorisation de coupe\nindustrielle de bois d'Ouvre ne peut couvrir une superficie sup�rieure � 1.000\nhectares.",
+            "line_num": 160
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0013",
+            "summary": "###### Article 9\n\nL'autorisation de coupe industrielle de bois d'Ouvre est\nproduite en 5 exemplaires distribu�s comme suit:\n1.\nL'original au concessionnaire;\n2. La copie\njaune au Cabinet du Ministre;\n3. La copie\nbleue � la Direction de la gestion Foresti�re;\n4. La copie\nverte � la Coordination Provinciale de l'Environnement du ressort;\n5. La copie\nrose � la Coordination de District de l'Environnement du ressort.",
+            "line_num": 167
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a648338b-f438-447b-870a-36bc138d7a06"
+    ],
+    "0002": [
+      "1346b5c1-b655-4fb9-909d-5beb5d358920"
+    ],
+    "0003": [
+      "9995c3dc-9d38-45dd-8b2f-0980b10ad95c"
+    ],
+    "0004": [
+      "58bdc158-b78b-4844-8369-fdd014542fd1"
+    ],
+    "0005": [
+      "00edd668-3c52-4766-adec-f5bfab171a5c"
+    ],
+    "0006": [
+      "fc3029ee-ff66-4c80-b1de-79e58e361dd8"
+    ],
+    "0007": [
+      "58f3b4f8-4526-41be-8c07-c4f274aba4ef"
+    ],
+    "0008": [
+      "f26685b6-6aec-4be5-b08f-3a258dba839d"
+    ],
+    "0009": [
+      "8ea45a1f-179d-418b-8275-b4d38a3eaa58"
+    ],
+    "0010": [
+      "7b6b85b0-54e8-4c53-bdf7-f69315550b66"
+    ],
+    "0011": [
+      "265a3e12-54f6-4027-a44a-950cab7eb352"
+    ],
+    "0012": [
+      "573258bf-6046-4b58-8efa-a732ee87cc45"
+    ],
+    "0013": [
+      "e1c5113f-ae99-48c5-8ba1-0d8cef47353d"
+    ]
+  },
+  "node_count": 14,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:00:12.556571",
+  "article_count": 13,
+  "generation_time_s": 14.659036874771118
+}

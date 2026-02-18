@@ -1,0 +1,25 @@
+{
+  "tree": {
+    "doc_name": "AUPSRVE-2023",
+    "structure": [
+      {
+        "title": "OHADA - Acte uniforme relatif aux procedures simplifiees de recouvrement et voies d'execution (AUPSRVE)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Acte uniforme relatif aux procedures simplifiees de recouvrement et voies d'execution (AUPSRVE)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Preambule",
+            "node_id": "0001",
+            "summary": "The partial document is the beginning of the official publication (Journal Officiel) of a new OHADA Uniform Act. The main points covered in these pages are:\n\n1.  **Identification:** It is the special edition of the OHADA Official Journal, dated November 15, 2023, with a listed price.\n2.  **Subject:** The document introduces the \"Uniform Act on the Organization of Simplified Recovery Procedures and Measures of Execution.\" This is a major piece of legislation aimed at harmonizing debt collection and enforcement laws across OHADA member states.\n3.  **Structure:** The provided pages show the cover, publication details, the OHADA Permanent Secretariat's contact information, a table of contents, and the initial pages of the Act itself.\n4.  **Content Start:** The substantive content begins with \"LIVRE I : LES PROCÉDURES SIMPLIFIÉES DE RECOUVREMENT\" (Book I: Simplified Recovery Procedures), indicating the document is starting to lay out the first main part of the law.\n5.  **Format:** The text shows the repetitive header/footer structure of a legal document, alternating between the full title of the Act and the title of \"Book I\" on subsequent pages.\n\nIn essence, this partial document contains the front matter and the very beginning of the legal text for a new OHADA Uniform Act governing debt collection and enforcement.",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [],
+  "bundle_path": "backups/ohada_bundles/AUPSRVE-2023.json",
+  "document_id": "60f2df13-fe82-4561-b057-3d23849c65df",
+  "document_title": "OHADA - Acte uniforme relatif aux procedures simplifiees de recouvrement et voies d'execution (AUPSRVE)"
+}

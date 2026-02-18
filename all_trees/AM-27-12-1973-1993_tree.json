@@ -1,0 +1,33 @@
+{
+  "slug": "AM-27-12-1973-1993",
+  "bundle_path": "backups/all_bundles/code/AM-27-12-1973-1993.json",
+  "document_id": "06cbf15e-2ae1-40f3-886f-c7552e77607a",
+  "document_title": "AM.27.12.1973",
+  "tree_json": {
+    "doc_name": "AM-27-12-1973-1993",
+    "structure": [
+      {
+        "title": "AM.27.12.1973",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1ffc6354-477f-46ec-b0eb-9b7855d4e9b8"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:21:58.223100",
+  "article_count": 1,
+  "generation_time_s": 0.0025370121002197266
+}

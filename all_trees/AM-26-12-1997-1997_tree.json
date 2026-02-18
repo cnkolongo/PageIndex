@@ -1,0 +1,262 @@
+{
+  "slug": "AM-26-12-1997-1997",
+  "bundle_path": "backups/all_bundles/code/AM-26-12-1997-1997.json",
+  "document_id": "ebc21ce3-f4e3-481b-b1dc-734e5f525b7f",
+  "document_title": "AM.26.12.1997",
+  "tree_json": {
+    "doc_name": "AM-26-12-1997-1997",
+    "structure": [
+      {
+        "title": "AM.26.12.1997",
+        "node_id": "0000",
+        "prefix_summary": "# AM.26.12.1997",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�\n26 d�cembre 1997. �\nARR�T� MINIST�RIEL MJSL/CAB/ 2100/0018/97 portant r�vision des statuts types des\nf�d�rations sportives en R�publique d�mocratique du Congo. (Minist�re\nde la Jeunesse, des Sports et Loisirs)\ner",
+                "line_num": 7
+              },
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "The partial document outlines the organizational structure and governing rules of a provincial sports committee (\"comité provincial\") and its related entities (\"ententes\" and \"cercles\") within a federation. It details the composition, election process (four-year term), and membership (including designated roles and members by right) of the provincial committee. It also defines the committee's powers, its use of specialized commissions, and the roles of provincial, urban, and district-level \"ententes\" (sporting entities that organize championships). Finally, it describes the structure of \"cercles\" (sporting entities at the communal level) and the composition of their general assembly and committee.",
+                "line_num": 17
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0004",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 132,
+            "nodes": [
+              {
+                "title": "Article S11",
+                "node_id": "0005",
+                "summary": "###### Article S11",
+                "line_num": 135
+              },
+              {
+                "title": "Article S12",
+                "node_id": "0006",
+                "summary": "The partial document covers financial and governance regulations for sports federations, including the alignment of the financial year with the sporting season, requirements for financial oversight, and the specific sources of revenue allowed for sports entities. It also restricts financial commitments, stating they can only be made by the entity's own committee.",
+                "line_num": 138
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0007",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 167,
+            "nodes": [
+              {
+                "title": "Article S13",
+                "node_id": "0008",
+                "summary": "###### Article S13",
+                "line_num": 170
+              },
+              {
+                "title": "Article S14",
+                "node_id": "0009",
+                "summary": "This partial document outlines internal control and regulatory requirements for sports organizations. It specifies that internal regulations and statutes, along with any amendments, must be submitted to the relevant sports ministry for approval. It mandates that accounting records be available for inspection by the ministry or its delegates. Finally, it requires the submission of annual reports and financial accounts (including those of leagues and associations) to the sports ministry for monitoring and operational control of the sports entities.",
+                "line_num": 173
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE V",
+            "node_id": "0010",
+            "prefix_summary": "#### CHAPITRE V",
+            "line_num": 193,
+            "nodes": [
+              {
+                "title": "Article S15",
+                "node_id": "0011",
+                "summary": "###### Article S15",
+                "line_num": 196
+              },
+              {
+                "title": "Article S16",
+                "node_id": "0012",
+                "summary": "This partial document covers the statutes of an organization (a federation) regarding amendments, dissolution, and liquidation. The main points are: 1) Only the general assembly can modify the statutes, based on proposals from the federal committee or a member. 2) Dissolution requires a three-quarters majority vote in a specially convened general assembly. 3) In case of dissolution, the general assembly appoints liquidators, and any remaining net assets are to be transferred to one or more recognized public utility organizations.",
+                "line_num": 199
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VI",
+            "node_id": "0013",
+            "prefix_summary": "#### CHAPITRE VI",
+            "line_num": 218,
+            "nodes": [
+              {
+                "title": "Article S17",
+                "node_id": "0014",
+                "summary": "###### Article S17",
+                "line_num": 221
+              },
+              {
+                "title": "Article S18",
+                "node_id": "0015",
+                "summary": "###### Article S18\n\nDES DISPOSITIONS TRANSITOIRES\nArt. 77.\n� Les r�glements int�rieurs\ndes ligues, ententes et cercles vis�s aux articles 5, 7, 8 et 9 des pr�sents\nstatuts types ne doivent pas �tre en contradiction avec le statut f�d�ral.\nArt. 78.\n� Les assembl�es g�n�rales\nde tous les organismes sportifs doivent mettre leurs statuts ou r�glements\nint�rieurs en conformit� avec les dispositions des pr�sents statuts types d�s\nleur premi�re session statutaire.",
+                "line_num": 224
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VII",
+            "node_id": "0016",
+            "prefix_summary": "#### CHAPITRE VII",
+            "line_num": 238,
+            "nodes": [
+              {
+                "title": "Article S19",
+                "node_id": "0017",
+                "summary": "###### Article S19",
+                "line_num": 241
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0018",
+                "summary": "This partial document contains the initial articles (S2, Art. 1-7) of the statutes for the \"Fédération Congolaise de [a specific sport].\" The main points covered are:\n\n1.  **Legal Status and Objectives:** It establishes the federation as a non-profit, publicly recognized organization based in Kinshasa with an unlimited duration. Its core objectives include organizing, developing, and controlling the sport nationwide, grouping member organizations, maintaining relations with public authorities and international bodies, and ensuring member training.\n\n2.  **Principles:** The federation commits to respecting regulations from the sports ministry and the Congolese Olympic Committee, and prohibits any discriminatory practices or activities contrary to its goals.\n\n3.  **Composition:** The federation is composed of officially declared and approved sports associations, as well as individual members, honorary members, donors, and benefactors.\n\n4.  **Structure and Affiliation:** It outlines a hierarchical structure where sports associations affiliate through provincial leagues. These affiliated associations contribute through annual fees.\n\n5.  **Internal Organization:** It provides for the creation of a \"National League\" to manage affiliated local associations and organize an elite championship under the federation's control, governed by a specific internal convention.\n\n6.  **Provincial Leagues:** Affiliated associations are grouped into provincial leagues, whose jurisdictions align with provincial sports services and whose internal regulations must be approved by the national federation.",
+                "line_num": 244
+              },
+              {
+                "title": "Article S20",
+                "node_id": "0019",
+                "summary": "The partial document covers final provisions (DISPOSITIONS FINALES) of a statute or charter. The main points are: Article 79 grants the general assembly ultimate authority over cases not covered by the statutes, with its decisions being final unless the overseeing authority (tutelle) rules otherwise. Article 80 states that legislative decisions will only be executed after approval by the general assembly. Article 81 establishes that these model statutes repeal all prior conflicting provisions and come into strict effect upon their signing. A final note clarifies the website is under construction and that the presented texts are based on documents held by associations, which do not assume responsibility for them.",
+                "line_num": 335
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0020",
+                "summary": "###### Article S3\n\navant d��tre pr�sent�s\n� l�assembl�e g�n�rale de la\nligue.\nLes ligues provinciales\nadressent � la f�d�ration la situation financi�re de l�exercice �coul�e apr�s\napprobation de leurs comptes.\nEn cas de dissolution d�une\nligue provinciale, celle-ci attribue son actif net � la f�d�ration congolaise de",
+                "line_num": 357
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0021",
+                "summary": "This partial document covers Articles 8 through 11 of a legal decree (likely related to sports federation organization in the Democratic Republic of Congo). The main points are:\n\n1.  The establishment and role of a provincial entity (\"entente provinciale\") to manage affiliated sports associations and organize a provincial elite championship under the control of a provincial league.\n2.  The grouping of sports associations into district or city-level entities (\"ententes\"), requiring ministerial approval for their territorial scope and federation approval for their internal regulations.\n3.  The creation and oversight of local \"cercles\" at the commune or territory level, including rules for their financial reporting and the transfer of their net assets to the federation upon dissolution.\n4.  The conditions under which membership in the federation is lost for both associations and individuals, detailing procedures for withdrawal, resignation, and disciplinary expulsion.\n5.  The disciplinary sanctions (warning, reprimand, sports and financial penalties) that can be imposed on affiliated sports groups and their members by authorized committees.",
+                "line_num": 369
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0022",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 450,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0023",
+                "summary": "###### Article S5",
+                "line_num": 453
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0024",
+                "summary": "The partial document covers the statutes governing the General Assembly of a federation. It defines the Assembly as the supreme body and details its composition (members from the director committee, national and provincial leagues, honorary members). It specifies the timing of ordinary and extraordinary sessions, rules for convocation, quorum requirements, mandatory presence of a ministry representative, and the agenda items it deliberates on (reports, programs, budget, affiliations, statutes). It outlines voting procedures (simple majority, secret or open ballot, no proxies), the handling of minutes, and restrictions on voting for federal committee members. These rules are also applicable to leagues, ententes, and circles.",
+                "line_num": 456
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0025",
+                "summary": "This partial document outlines the statutes governing the \"comité fédéral\" (Federal Committee) of a sports federation. It defines the committee as the federation's management and executive body. The text specifies its composition (including president, vice-presidents, secretaries, and league presidents), the appointment criteria for secretaries, and lists members with consultative voice. It details the committee's four-year term, eligibility conditions, and extensive attributions/powers (defending federation interests, executing resolutions, organizing competitions, appointing commissions, handling disputes, etc.). The document also covers the committee's collective responsibility, procedures for conflict resolution, and the various ways a member can lose their status (death, resignation, absence, criminal conviction, etc.).",
+                "line_num": 583
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0026",
+                "summary": "The partial document outlines procedural and governance rules for a federation's committees. It covers the formation of a restricted committee, the conditions under which committee members lose their mandate, disciplinary procedures and sanctions for members, decision-making protocols (including voting thresholds for different types of decisions), rules for convening meetings and quorum requirements, handling of vacancies and minority situations in the bureau, the composition and operational rules of the federal bureau, and the collective responsibility of the bureau members for the federation's management.",
+                "line_num": 704
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0027",
+                "summary": "The partial document outlines the organizational structure and responsibilities of a federation's committees and leagues. It details the creation and mandatory permanent committees of the federal committee, including their specific focuses (e.g., competitions, judges, medical, finances). It then defines the structure of national and provincial leagues, describing their governing bodies (general assembly, management committee, national bureau) and their key functions, such as managing national championships, validating licenses, and organizing provincial competitions.",
+                "line_num": 814
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "5f0c6901-2660-4b7c-9cb1-7eadaf2ff5c4"
+    ],
+    "0003": [
+      "ac7ffc88-3056-43b0-ae9f-bad80ad30e4b"
+    ],
+    "0005": [
+      "c4dc50d5-f717-4858-aac9-6cec141acf6a"
+    ],
+    "0006": [
+      "bea085bd-4025-4095-ae87-7771e785cb01"
+    ],
+    "0008": [
+      "b2409b2f-eebc-4978-b8f7-7db20cdcc763"
+    ],
+    "0009": [
+      "e1fc8a81-4257-43a6-9582-11fca4e9bd2d"
+    ],
+    "0011": [
+      "bd99c92e-4fd9-45e4-8c3e-75b9625a965d"
+    ],
+    "0012": [
+      "0e274f2e-ddc7-4b9f-88eb-7bdfda463645"
+    ],
+    "0014": [
+      "9c8702f2-36c0-4454-8b30-d522c8b1afc4"
+    ],
+    "0015": [
+      "0919e53f-31d4-4567-9546-0eedc9acb376"
+    ],
+    "0017": [
+      "b1dd6687-f275-407f-8b70-a3ea40e90631"
+    ],
+    "0018": [
+      "90075c7e-ff50-45a0-ad80-49f5916f2935"
+    ],
+    "0019": [
+      "4d24c107-6842-4628-908c-1bd1be0d6f02"
+    ],
+    "0020": [
+      "ee549b0c-c9e0-4955-ad85-df2bae3fb52f"
+    ],
+    "0021": [
+      "8f5b9770-7aba-4e2e-b186-f1f3d19dde97"
+    ],
+    "0023": [
+      "f47cbe1c-d228-403a-b791-af904aa109c3"
+    ],
+    "0024": [
+      "5b8a95d9-a910-4126-aa90-67c1635acf14"
+    ],
+    "0025": [
+      "bd535a56-e411-4276-b900-475dd57464ce"
+    ],
+    "0026": [
+      "a679f196-f850-463e-874a-7345e8f3b13a"
+    ],
+    "0027": [
+      "ddb94e51-862a-43a5-aa76-9ef1a233887e"
+    ]
+  },
+  "node_count": 28,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:15.479818",
+  "article_count": 20,
+  "generation_time_s": 21.710487842559814
+}

@@ -1,0 +1,485 @@
+{
+  "slug": "D-011-29-10-06-2011-2011",
+  "bundle_path": "backups/all_bundles/code/D-011-29-10-06-2011-2011.json",
+  "document_id": "9da903f3-6d66-481c-a528-987bc18d9464",
+  "document_title": "D.011.29.10.06.2011",
+  "tree_json": {
+    "doc_name": "D-011-29-10-06-2011-2011",
+    "structure": [
+      {
+        "title": "D.011.29.10.06.2011",
+        "node_id": "0000",
+        "prefix_summary": "# D.011.29.10.06.2011",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "This partial document outlines the operational rules for the Board of Directors (Conseil d'administration) of an organization (AAC/RDC). The main points covered are:\n\n*   **Meeting Frequency and Convening:** Regular quarterly meetings are convened by the President. Extraordinary meetings can be called by the President at the request of the supervising Minister.\n*   **Notice and Agenda:** Members and the Minister must receive notice and working documents at least eight clear days in advance. The President sets the agenda, which can be supplemented by items requested by a majority of members.\n*   **Quorum and Validity:** A valid meeting requires a quorum of three-fifths of the members. If the quorum is not met, a record is made and a second meeting is called where no quorum is required.\n*   **Decision-Making:** Decisions are made by a majority vote of present members. The President has a casting vote in the event of a tie.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nUn r�glement int�rieur, adopt� par le Conseil\nd'administration et d�ment approuv� par le Ministre de tutelle, en d�termine les\nr�gles d'organisation et de fonctionnement.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\nLes membres du Conseil d'administration\nper�oivent, � charge de l'AAC/RDC, un jeton de pr�sence dont le montant est\nd�termin� par D�cret du Premier Ministre d�lib�r� en Conseil des Ministres sur\nproposition du Ministre de tutelle.\nChapitre 2 : De la Direction g�n�rale",
+            "line_num": 34
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\nLa Direction g�n�rale de l'AAC/RDC est assur�e\npar un Directeur g�n�ral, assist� d'un Directeur g�n�ral adjoint, tous nomm�s,\nrelev�s de leurs fonctions et, le cas �ch�ant, r�voqu�s par l'ordonnance du\nPr�sident de la R�publique sur proposition du Gouvernement d�lib�r�e en Conseil\ndes Ministres.\nLe Directeur g�n�ral et le Directeur g�n�ral\nadjoint sont nomm�s pour un mandat de cinq ans renouvelable une fois.\nIls ne peuvent �tre suspendus � titre\nconservatoire que par Arr�t� du Ministre de tutelle qui en informe le\nGouvernement.",
+            "line_num": 43
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "This partial document describes the roles and responsibilities of the \"Direction générale\" (General Management) of an organization called AAC/RDC, including its authority and procedures for interim leadership. Specifically, it covers:\n\n1.  The General Management as the managing body, executing decisions of the Administrative Council and handling daily operations, budget execution, financial statements, and service oversight.\n2.  Its power to represent the organization externally and act on its behalf to ensure proper functioning.\n3.  Provisions for interim leadership in the absence of the General Director, outlining the succession order (Deputy General Director or a designated Director).",
+            "line_num": 57
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0006",
+            "summary": "###### Article 16\n\nLes actions judiciaires tant en demande qu'en\nd�fense sont Introduites et/ou soutenues au nom de l'AAC/RDC, par le Directeur\ng�n�ral ou, � d�faut, par son rempla�ant ou par toute autre personne d�ment\nmandat�e � cette fin par lui.\nChapitre 3 : Du Coll�ge des Commissaires aux\ncomptes",
+            "line_num": 75
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0007",
+            "summary": "###### Article 17\n\nLe contr�le des op�rations financi�res de\nl'ACC/RDC est assur� par un Coll�ge des Commissaires aux comptes. Celui-ci est\ncompos� de deux personnes issues de structures professionnelles distinctes et\njustifiant de connaissances techniques et professionnelles �prouv�es.\nLes Commissaires aux comptes sont nomm�s par\nD�cret du Premier Ministre d�lib�r� en Conseil des Ministres, sur proposition du\nMinistre de tutelle, pour un mandat de cinq ans non renouvelable.\nIls peuvent �tre relev�s de leurs fonctions\npour faute constat�e dans l'ex�cution de leur mandat.\nIls ne peuvent prendre individuellement aucune\nd�cision.",
+            "line_num": 85
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0008",
+            "summary": "This partial document defines the powers and duties of the Auditors (Commissaires aux comptes) of an organization called AAC/RDC. It specifies that they have unlimited authority to oversee and inspect all operations, including examining books, cash, portfolios, and securities. Their mandate includes verifying the regularity and sincerity of inventories and financial statements, and checking the accuracy of information in the Board's reports. They can access all records without removing them and must prepare an annual report for the supervising Minister, detailing their control methods, reporting irregularities, and making appropriate proposals.",
+            "line_num": 100
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0009",
+            "summary": "###### Article 19\n\nLes Commissaires aux comptes re�oivent, �\ncharge de l'AAC/RDC, une allocation fixe dont le montant est d�termin� par\nD�cret du Premier Ministre d�lib�r� en Conseil des Ministres.\nChapitre 4 : Des incompatibilit�s",
+            "line_num": 119
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0010",
+            "summary": "###### Article 1er\n\nIl est cr�� un �tablissement public � caract�re\nadministratif et technique, dot� de la personnalit� juridique, appel� Autorit�\nde l'Aviation Civile de la R�publique D�mocratique du Congo, ci-apr�s d�nomm� �\nA.A.C/RDC �.\nL'AAC/RDC est r�gie par la Loi n� 08/009 du 07\njuillet 2008 portant dispositions g�n�rales applicables aux Etablissements\npublics et par le pr�sent D�cret.\nChapitre 2 : Du si�ge social",
+            "line_num": 127
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\nL'AAC/RDC exerce ses activit�s sur l'ensemble\ndu territoire national son si�ge social est �tabli � Kinshasa.\nIl peut �tre transf�r� en tout autre lieu de la\nR�publique D�mocratique du Congo par D�cret du Premier Ministre sur proposition\ndu Ministre de tutelle, � la demande du Conseil d'administration.\nDes agences, succursales et bureaux peuvent\n�tre ouverts en tous autres lieux de la R�publique sur d�cision du Conseil\nd'administration.\nL'�tablissement des agences et bureaux en\ndehors du territoire national est soumis � l'autorisation pr�alable du Ministre\nde tutelle.\nChapitre 3 : De l'objet social",
+            "line_num": 139
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0012",
+            "summary": "###### Article 20\n\nLe Directeur g�n�ral et le Directeur g�n�ral\nadjoint ainsi que les administrateurs ne peuvent prendre part, directement ou\nindirectement, aux march�s publics conclus avec l'AAC/RDC, � leur propre\nb�n�fice ou au b�n�fice des entreprises dans lesquelles ils ont des int�r�ts.",
+            "line_num": 155
+          },
+          {
+            "title": "TITRE IV: DE LA TUTELLE",
+            "node_id": "0013",
+            "prefix_summary": "#### TITRE IV: DE LA TUTELLE",
+            "line_num": 163,
+            "nodes": [
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "###### Article 21\n\nDans l'exercice de leur mission, les\nCommissaires aux Comptes sont soumis aux m�mes conditions et aux m�mes\nincompatibilit�s que celles pr�vues pour les soci�t�s commerciales.",
+                "line_num": 166
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nL 'AAC/RDC est plac�e sous la tutelle du\nminist�re ayant l'aviation civile dans ses attributions.",
+                "line_num": 173
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nLe Ministre exerce son pouvoir de tutelle par\nvoie d'autorisation pr�alable, par voie d'approbation ou par voie d'opposition.",
+                "line_num": 179
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0017",
+                "summary": "###### Article 24\n\nSont soumis � l'autorisation pr�alable:\n- les acquisitions et ali�nations immobili�res;\n- les emprunts � plus d'un an de terme;\n- les prises et cessions de participations\nfinanci�res;\n- l'�tablissement d'agences et de bureaux �\nl'�tranger;\n- les march�s de travaux et de fournitures d'un\nmontant �gal ou sup�rieur � 500.000.000 de Francs congolais.\nLe montant pr�vu � l'alin�a pr�c�dent peut �tre\nactualis� par Arr�t� du Ministre ayant les finances dans ses attributions.",
+                "line_num": 185
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0018",
+                "summary": "###### Article 25\n\nSans pr�judice d'autres dispositions du pr�sent\nD�cret, sont soumis � l'approbation:\n- le budget de l'AAC/RDC arr�t� par le Conseil\nd'administration sur proposition de la Direction g�n�rale;\n- le statut du personnel fix� par le Conseil\nd'administration sur proposition de la Direction g�n�rale;\n- le r�glement int�rieur du Conseil\nd'administration;\n- le rapport annuel d'activit�s.",
+                "line_num": 200
+              }
+            ]
+          },
+          {
+            "title": "TITRE V: DE L'ORGANISATION FINANCIERE",
+            "node_id": "0019",
+            "prefix_summary": "#### TITRE V: DE L'ORGANISATION FINANCIERE",
+            "line_num": 213,
+            "nodes": [
+              {
+                "title": "Article 26",
+                "node_id": "0020",
+                "summary": "This partial document covers the procedures for the oversight of a corporate body (AAC/RDC) by a supervisory authority. The main points are: the supervisory Minister receives meeting notices and board resolutions; these resolutions only become enforceable after a 10-day review period, unless immediate execution is authorized; during this period, the authority can oppose any resolution it deems illegal or against public or organizational interests; the process for notifying this opposition and escalating it to the Prime Minister for a final decision within a 15-day deadline.",
+                "line_num": 216
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0021",
+                "summary": "###### Article 27\n\nL'exercice comptable de l'AAC/RDC commence le 1\ner janvier et se cl�ture le 31 d�cembre de la m�me ann�e.\nLe premier exercice comptable de l'AAC/RDC\ncommence � la date de l'entr�e en vigueur du pr�sent D�cret et se cl�ture le 31\nd�cembre de la m�me ann�e.",
+                "line_num": 237
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0022",
+                "summary": "###### Article 28\n\nLes comptes de l'AAC/RDC sont tenus\nconform�ment � la l�gislation comptable\nEn vigueur en R�publique d�mocratique du Congo.",
+                "line_num": 246
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0023",
+                "summary": "###### Article 29\n\nLe budget de l'AAC/RDC est arr�t� par le\nConseil d'Administration et soumis � l'approbation du Ministre de tutelle\nconform�ment � l'article 25 du pr�sent D�cret.\nIl est ex�cut� par la Direction g�n�rale.",
+                "line_num": 253
+              }
+            ]
+          },
+          {
+            "title": "TITRE II : DU PATRIMOINE ET DES RESSOURCES",
+            "node_id": "0024",
+            "prefix_summary": "#### TITRE II : DU PATRIMOINE ET DES RESSOURCES",
+            "line_num": 261,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0025",
+                "summary": "This partial document outlines the mandate and responsibilities of the AAC/ROC (the Civil Aviation Authority of the Democratic Republic of Congo) as the government's advisor on civil aviation. The main points covered are its extensive duties, which include advising on national aviation policy; regulating and supervising aviation safety and security; issuing, suspending, or revoking various licenses and certificates; enforcing national and international regulations; investigating violations; managing airspace; and coordinating with international organizations. It is responsible for nearly all technical, economic, security, and administrative aspects of civil aviation in the country.",
+                "line_num": 264
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0026",
+                "summary": "The partial document details the budgetary structure of the AAC/RDC, dividing it into an operating budget and an investment budget. It specifies the revenue and expenditure items included in each category, such as operating resources, personnel costs, asset acquisition costs, funding sources like state contributions and loans, and various other financial provisions.",
+                "line_num": 383
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0027",
+                "summary": "###### Article 31\n\nConform�ment au calendrier d'�laboration du\nprojet de budget de l'Etat arr�t� par le Gouvernement, chaque ann�e au plus tard\nle 15 juillet, le Directeur g�n�ral soumet un projet de budget des recettes et\ndes d�penses pour l'exercice suivant, � l'approbation du Conseil\nd'administration et par la suite, � celle du Ministre de tutelle au plus tard le\n15 ao�t de l'ann�e qui pr�c�de celle � laquelle il se rapporte.",
+                "line_num": 416
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0028",
+                "summary": "###### Article 32\n\nLa comptabilit� de l'AAC/RDC est organis�e et\ntenue de mani�re �:\n- conna�tre et contr�ler les op�rations des\ncharges et pertes, des produits et profits;\n- conna�tre la situation patrimoniale de\nl'AAC/RDC ;\n- d�terminer les r�sultats.",
+                "line_num": 426
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0029",
+                "summary": "The partial document outlines the annual financial reporting obligations of the General Directorate. It specifies that after each fiscal year, the Directorate must produce:\n1) A budget execution statement comparing revenue and expenditure forecasts with actual results.\n2) A profit/loss statement (tableau de formation du résultat) and a balance sheet (bilan).\n3) An activity report detailing the organization's operations, including explanations of asset valuation methods and any changes to them, as well as proposals for allocating the annual profit.",
+                "line_num": 437
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0030",
+                "summary": "###### Article 34\n\nL'inventaire, le bilan, le tableau de formation\ndu r�sultat et le rapport de la Direction G�n�rale sont mis � la disposition des\nCommissaires aux comptes, au plus tard le 15 mai de l'ann�e qui suit celle �\nlaquelle ils se rapportent.\nLes m�mes documents ainsi que le rapport des\nCommissaires aux Comptes sont transmis au Ministre de tutelle, au plus tard le\n30 mai de la m�me ann�e.",
+                "line_num": 456
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0031",
+                "summary": "###### Article 35\n\nLe b�n�fice de l'exercice est constitu� par la\ndiff�rence entre, d'une part, les produits et les profits et, d'autre part, les\ncharges et les pertes.",
+                "line_num": 467
+              }
+            ]
+          },
+          {
+            "title": "TITRE VI: DE L'ORGANISATION DES MARCHES DE",
+            "node_id": "0032",
+            "prefix_summary": "#### TITRE VI: DE L'ORGANISATION DES MARCHES DE",
+            "line_num": 474,
+            "nodes": [
+              {
+                "title": "Article 36",
+                "node_id": "0033",
+                "summary": "###### Article 36\n\nUn r�glement financier et un manuel des\nproc�dures financi�res et comptables, adopt�s par le Conseil d'Administration et\nd�ment approuv�s par le Ministre de tutelle, d�terminent le mode de gestion\nfinanci�re de l'AAC/RDC,\n\nTRAVAUX ET DE FOURNITURES",
+                "line_num": 477
+              }
+            ]
+          },
+          {
+            "title": "TITRE VII : DU PERSONNEL",
+            "node_id": "0034",
+            "prefix_summary": "#### TITRE VII : DU PERSONNEL",
+            "line_num": 487,
+            "nodes": [
+              {
+                "title": "Article 37",
+                "node_id": "0035",
+                "summary": "###### Article 37\n\nLes march�s de travaux et de fournitures de l'AAC/RDC\nsont pass�s conform�ment � la l�gislation en vigueur en la mati�re.",
+                "line_num": 490
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0036",
+                "summary": "This partial document outlines the legal and administrative framework governing the staff of the AAC/RDC. The main points covered are:\n\n1.  The staff is governed by the Labor Code, its implementing measures, and negotiated collective agreements.\n2.  The organizational structure and staff statutes are established by the Board of Directors upon proposal from the General Directorate.\n3.  The statute specifies key employment terms, including grades, recruitment conditions, remuneration, promotion rules, discipline, and appeal procedures, and requires approval from the supervising Minister.\n4.  The Board of Directors must ensure that the staff statute safeguards the public interest and guarantees the uninterrupted operation of the public service.",
+                "line_num": 496
+              }
+            ]
+          },
+          {
+            "title": "TITRE VIII: DU REGIME FISCAL",
+            "node_id": "0037",
+            "prefix_summary": "#### TITRE VIII: DU REGIME FISCAL",
+            "line_num": 514,
+            "nodes": [
+              {
+                "title": "Article 39",
+                "node_id": "0038",
+                "summary": "This partial document outlines the personnel management structure within the ACC/RDC (Civil Aviation Authority of the Congo). It specifies that:\n\n1.  **Command staff** are appointed, assigned, promoted, and potentially dismissed by the Board of Directors upon proposal from the Director-General.\n2.  **Collaborative and executive staff** are appointed, assigned, promoted, and potentially dismissed directly by the Director-General.\n3.  It integrates into the ACC/RDC personnel the staff from the public administration's Directorate of Civil Aviation who have been seconded to the Authority, which was created by a specific decree in 2003.",
+                "line_num": 517
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0039",
+                "summary": "###### Article 4\n\nLe patrimoine de l�ACC/RDC est constitu�:\n- de tous les biens meubles et immeubles mis � sa disposition\npar l'Etat, conform�ment � la l�gislation en vigueur;\n- de tous �quipements, mat�riels et autres\nbiens acquis dans le cadre de l'ex�cution de sa mission;\n- de toutes les acquisitions mobili�res et\nimmobili�res propres jug�es n�cessaires � son fonctionnement ainsi que des\napports ult�rieurs que l'Etat et/ou les partenaires Int�rieurs ou ext�rieurs\npourront lui consentir.",
+                "line_num": 530
+              }
+            ]
+          },
+          {
+            "title": "TITRE IX : DE LA DISSOLUTION:",
+            "node_id": "0040",
+            "prefix_summary": "#### TITRE IX : DE LA DISSOLUTION:",
+            "line_num": 543,
+            "nodes": [
+              {
+                "title": "Article 40",
+                "node_id": "0041",
+                "summary": "###### Article 40\n\nSans pr�judice des dispositions l�gales\ncontraires, l�AAC/RDC b�n�ficie du m�me traitement que l'Etat pour toutes ses\nop�rations, en ce qui concerne les imp�ts, droits et taxes effectivement mis �\nsa charge.\nToutefois, elle est tenue de collecter les\nimp�ts, droits, taxes et redevances dont elle est redevable et de les reverser\nau tr�sor public ou � l'entit� administrative comp�tente.",
+                "line_num": 546
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0042",
+                "summary": "###### Article 41\n\nL'AAC/RDC est dissoute par D�cret du Premier\nMinistre d�lib�r� en conseil des Ministres.",
+                "line_num": 557
+              }
+            ]
+          },
+          {
+            "title": "TITRE X : DES DISPOSITIONS FINALES",
+            "node_id": "0043",
+            "prefix_summary": "#### TITRE X : DES DISPOSITIONS FINALES",
+            "line_num": 563,
+            "nodes": [
+              {
+                "title": "Article 42",
+                "node_id": "0044",
+                "summary": "###### Article 42\n\nLe D�cret du Premier Ministre pronon�ant la\ndissolution fixe les r�gles relatives � la liquidation de l'AAC/RDC.",
+                "line_num": 566
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0045",
+                "summary": "###### Article 43\n\nSont abrog�es toutes les dispositions\nant�rieures contraires au pr�sent D�cret.",
+                "line_num": 572
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0046",
+                "summary": "###### Article 44\n\nLe Ministre des Transports et Voies de\nCommunication est charg� de l'ex�cution du pr�sent D�cret qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 20 juin 2011\nAdolphe Muzito\nMartin Kabwelulu\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 578
+              }
+            ]
+          },
+          {
+            "title": "TITRE III : DES STRUCTURES, DE",
+            "node_id": "0047",
+            "prefix_summary": "#### TITRE III : DES STRUCTURES, DE",
+            "line_num": 593,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0048",
+                "summary": "###### Article 5\n\nSans pr�judice des dispositions l�gales, les\nressources de l'AAC/RDC sont constitu�es:\n- des taxes parafiscales Institu�es par l'Etat\ndans le secteur de l'aviation civile;\n- des redevances dues en r�mun�ration de ses\nprestations et services;\n- des subventions;\n- des emprunts;\n- des cessions des biens;\n- des revenus provenant de prises et cessions\nde participations financi�res;\n- des dons, legs et lib�ralit�s;\n- de toutes autres ressources attribu�es �\nl�ACC/RDC.\n\nL'ORGANISATION ET DU FONCTIONNEMENT",
+                "line_num": 596
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0049",
+                "summary": "###### Article 6\n\nLes structures de l'AAC/RDC sont:\n1. le Conseil d'administration;\n2. la Direction g�n�rale;\n3. le Coll�ge des commissaires aux comptes.\nChapitre 1 : Du Conseil d'administration",
+                "line_num": 616
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0050",
+                "summary": "###### Article 7\n\nLe Conseil d'administration est l'organe de\nconception, d'orientation, de contr�le et de d�cision de l'AAC/RDC.\nIl d�finit la politique g�n�rale, d�termine le\nprogramme de l'AAC/RDC, arr�te le budget et approuve les �tats financiers de fin\nd'exercice.\nIl fixe l'organigramme de l'AAC/RDC et le\nsoumet pour approbation au Ministre de tutelle.\nIl fixe, sur proposition de la Direction\ng�n�rale; le cadre et le statut du personnel et le soumet pour approbation au\nMinistre de tutelle.",
+                "line_num": 625
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0051",
+                "summary": "###### Article 8\n\nLe Conseil d'administration est compos� au\nmaximum de cinq membres, en ce compris le Directeur g�n�ral.",
+                "line_num": 639
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0052",
+                "summary": "###### Article 9\n\nLes membres du Conseil d'administration sont\nnomm�s, relev�s de leurs fonctions et, le cas �ch�ant, r�voqu�s par Ordonnance\ndu Pr�sident de la R�publique, sur proposition du Gouvernement d�lib�r�e en\nConseil des Ministres.\nLe mandat des membres du Conseil\nd'administration est de cinq ans renouvelable une fois.\nLe mandat des membres du Conseil\nd'administration peut �galement prendre fin par d�c�s ou d�mission volontaire.\nLe pr�sident de la R�publique nomme, parmi les\nmembres du Conseil d'administration, un Pr�sident autre qu'un membre de la\nDirection g�n�rale.\nNul ne peut d�tenir plus d'un mandat\nd'administrateur.",
+                "line_num": 645
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "85ac9c05-1f0c-481d-bd6e-e1406cc25ced"
+    ],
+    "0002": [
+      "a86082ed-170c-4caf-8526-e6faf56b19c5"
+    ],
+    "0003": [
+      "e77199e0-5edd-4616-9d04-7ea0c955ed2b"
+    ],
+    "0004": [
+      "d04fad7d-697d-4b2a-8559-c80129b51b29"
+    ],
+    "0005": [
+      "df66cec8-e9bc-4bc3-8ce8-da6de8140a1f"
+    ],
+    "0006": [
+      "d41a96a2-3df4-4e96-a424-47cf9aabf377"
+    ],
+    "0007": [
+      "2b832caf-1905-4b4c-a28e-402cdc821261"
+    ],
+    "0008": [
+      "34afe208-fae0-4928-94f8-2f0ba0e8f39b"
+    ],
+    "0009": [
+      "e971fd5d-ad9f-4780-ad3f-7d13f26eccfb"
+    ],
+    "0010": [
+      "1b915554-1b3c-4e42-903a-bc63acf237d0"
+    ],
+    "0011": [
+      "ef5ead88-083f-46b4-b14a-b0eded718b25"
+    ],
+    "0012": [
+      "4206116b-4aaa-482b-b339-3d2ed983cf2a"
+    ],
+    "0014": [
+      "d062951c-79c4-4dbe-a48b-0febfd7c871d"
+    ],
+    "0015": [
+      "c93be040-4f53-4a19-9d3c-b76bc34670f2"
+    ],
+    "0016": [
+      "9ba09c56-b2de-4bdf-a4f9-ba27ae041c1e"
+    ],
+    "0017": [
+      "37afaad8-9168-4346-bb10-d9b7caca2a4f"
+    ],
+    "0018": [
+      "1198a55b-d6ed-4d08-8cda-21637348c527"
+    ],
+    "0020": [
+      "d3fb1969-7c58-4024-aee1-4f5a5df0325c"
+    ],
+    "0021": [
+      "26a989c3-3581-43d7-915c-ff2e4bfe5198"
+    ],
+    "0022": [
+      "b99f6b2a-7cde-459b-882d-e5c58f447976"
+    ],
+    "0023": [
+      "572bf0a9-a1ff-4d5c-a85e-e58877059820"
+    ],
+    "0025": [
+      "21f37ce8-964a-4560-b29a-b6e147acce06"
+    ],
+    "0026": [
+      "a134a42d-03c5-4a35-8394-9f8801884e19"
+    ],
+    "0027": [
+      "0d873b1c-6008-4ed5-9e6a-5ea7d6f9d808"
+    ],
+    "0028": [
+      "53660ca4-3b9e-47ca-aa79-7229fe28dd7b"
+    ],
+    "0029": [
+      "6908eb3b-276b-4eaa-a487-fbd7e0558985"
+    ],
+    "0030": [
+      "27df992d-b4ec-4d84-b2dd-ff7feb01bf7e"
+    ],
+    "0031": [
+      "6ad13405-ccb6-4806-ae8b-9dc711f4c422"
+    ],
+    "0033": [
+      "40c54d27-1e7d-4720-bcca-baeabb9d5527"
+    ],
+    "0035": [
+      "2d77d6d1-cdcf-4bf2-a5d1-3911e9e0ddd8"
+    ],
+    "0036": [
+      "80ab1f69-c270-4267-a018-f6f2fe52583c"
+    ],
+    "0038": [
+      "2aa92ec4-b3df-432b-a971-e9b4d7b6dc6d"
+    ],
+    "0039": [
+      "e0f6df03-f72d-4677-95b5-2920d645179b"
+    ],
+    "0041": [
+      "0b356ad0-9033-4a7f-87c7-c0ebd9da51ed"
+    ],
+    "0042": [
+      "e6a3a772-568a-4065-806e-48accd17ca8c"
+    ],
+    "0044": [
+      "6fe460d0-07f2-4bd5-8bef-b3f6f2b2d736"
+    ],
+    "0045": [
+      "105152f5-2e77-4125-b91e-069f20bbd33b"
+    ],
+    "0046": [
+      "f2ab055a-6a30-481d-9145-947955e7bc63"
+    ],
+    "0048": [
+      "4ecca3c5-dd7b-4f67-ba42-ae0439d56c8b"
+    ],
+    "0049": [
+      "2d9b7ef0-3867-4dba-a7b4-d644af6fa637"
+    ],
+    "0050": [
+      "286ebea7-c045-4518-b252-9a6ebb9c79db"
+    ],
+    "0051": [
+      "e98115ad-cabd-424a-8dd0-335b907d929f"
+    ],
+    "0052": [
+      "0d642419-862b-4512-9935-37b51d3ec9da"
+    ]
+  },
+  "node_count": 53,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:30:43.506338",
+  "article_count": 43,
+  "generation_time_s": 19.176289081573486
+}

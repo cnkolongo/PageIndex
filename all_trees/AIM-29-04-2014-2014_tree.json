@@ -1,0 +1,33 @@
+{
+  "slug": "AIM-29-04-2014-2014",
+  "bundle_path": "backups/all_bundles/code/AIM-29-04-2014-2014.json",
+  "document_id": "4cce89db-a1a0-46a8-982e-37a7e9a2f7ab",
+  "document_title": "AIM.29.04.2014",
+  "tree_json": {
+    "doc_name": "AIM-29-04-2014-2014",
+    "structure": [
+      {
+        "title": "AIM.29.04.2014",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "06e4c999-3549-480e-969b-1f0421f01649"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:01:13.512023",
+  "article_count": 1,
+  "generation_time_s": 0.16727805137634277
+}

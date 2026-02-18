@@ -1,0 +1,123 @@
+{
+  "slug": "AM-142-08-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-142-08-11-2018-2018.json",
+  "document_id": "47f9e4ae-adc7-424b-97e7-c91407cb6a62",
+  "document_title": "AM.142.08.11.2018",
+  "tree_json": {
+    "doc_name": "AM-142-08-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.142.08.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.142.08.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "summary": "###### Article S2\n\nMINISTERIEL",
+            "line_num": 9
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "summary": "###### Article S3\n\nN� 142/CAB/MINETAT/MTEPS/01/2018\nDU\n08\nNOVEMBRE\n2018",
+            "line_num": 14
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0004",
+            "summary": "###### Article S4\n\nDETERMINANT\nLES",
+            "line_num": 23
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0005",
+            "summary": "###### Article S5\n\nMODALITES",
+            "line_num": 29
+          },
+          {
+            "title": "Article S6",
+            "node_id": "0006",
+            "summary": "###### Article S6\n\nD�APPLICATION\nDU",
+            "line_num": 34
+          },
+          {
+            "title": "partie",
+            "node_id": "0007",
+            "prefix_summary": "## partie\nd",
+            "line_num": 40,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0008",
+                "summary": "This partial document is a legal decree (arrêté) from the Democratic Republic of the Congo defining the key concept of \"insurance months\" for social security eligibility. The main points covered are:\n\n1.  **Legal Foundation:** It begins by listing the constitutional, legal, and regulatory texts that provide the authority for the decree.\n2.  **Core Definition:** It establishes that to qualify for social benefits, an insured person must justify a certain duration of insurance coverage.\n3.  **Definition of an \"Insurance Month\":** It precisely defines a \"month of insurance\" as any calendar month in which the insured person worked for at least 15 days or 120 hours in a job subject to social security contributions, provided the corresponding contributions have been recorded.\n4.  **Calculation Rules:** It provides detailed rules for how periods of work are converted into countable \"insurance months,\" particularly for:\n    *   Continuous service periods spanning two calendar months.\n    *   Work paid by the piece, task, or project, using a minimum wage benchmark.\n    *   Situations where earnings cannot be attributed to specific months, using a formula based on total remuneration over a quarter, semester, or year.",
+                "line_num": 44
+              },
+              {
+                "title": "titre",
+                "node_id": "0009",
+                "prefix_summary": "#### titre\nd",
+                "line_num": 680,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0010",
+                    "summary": "This partial document from a legal or regulatory text outlines rules regarding social security, employment periods, and wage documentation. It specifies periods that count as insurance or employment (such as receiving certain benefits, military service, and legal leave), details how months before retirement age count towards pension eligibility, and mandates that employers must provide detailed pay slips to workers. The pay slip must include extensive information such as employee identification, salary details, hours worked, overtime, bonuses, deductions, family allowances, and net pay, all used to calculate social security contributions and benefits.",
+                    "line_num": 684
+                  },
+                  {
+                    "title": "Article S9",
+                    "node_id": "0011",
+                    "summary": "This partial document contains the final articles (S9, 14, and 15) and closing notes of a ministerial order (Arrêté). The main points covered are: the effective date of the order (January 1, 2019, without prejudice to a prior social security law); the abrogation of all prior contradictory provisions; the designation of the Director General of the National Social Security Fund as responsible for execution; and the place and date of issuance (Kinshasa, November 8, 2018). It concludes with a website disclaimer stating the texts are unofficial and under construction.",
+                    "line_num": 1344
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "da711618-c89d-438f-b3a6-e00b2e2e36c0"
+    ],
+    "0002": [
+      "8f47817d-6d83-4991-b8e9-c184992a39e7"
+    ],
+    "0003": [
+      "c551eadb-ae0d-43d9-8985-9787b65e06ba"
+    ],
+    "0004": [
+      "22ce2fe9-3b94-4f56-8a3f-c9f22693171f"
+    ],
+    "0005": [
+      "3afb7493-8373-48d7-8785-c97115086cf7"
+    ],
+    "0006": [
+      "95fa02e8-5e47-4b93-8345-e63e8e275b88"
+    ],
+    "0008": [
+      "c0a7b551-5da1-4b94-a6ac-537afcc22936"
+    ],
+    "0010": [
+      "bdd5b581-6a3f-4501-95e4-fd4f6a90dcad"
+    ],
+    "0011": [
+      "67a02de4-1522-4211-96a4-86982cdf4351"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:39:57.862688",
+  "article_count": 9,
+  "generation_time_s": 16.214627265930176
+}

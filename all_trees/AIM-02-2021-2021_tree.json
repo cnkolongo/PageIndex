@@ -1,0 +1,98 @@
+{
+  "slug": "AIM-02-2021-2021",
+  "bundle_path": "backups/all_bundles/code/AIM-02-2021-2021.json",
+  "document_id": "7c3f28ff-8636-48bd-8847-cdda0745e374",
+  "document_title": "AIM.02.2021",
+  "tree_json": {
+    "doc_name": "AIM-02-2021-2021",
+    "structure": [
+      {
+        "title": "AIM.02.2021",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.02.2021",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes taux des droits et taxes\n� percevoir � l�initiative du Minist�re provincial ayant l�industrie dans ses\nattributions sont fix�s en Dollars am�ricain ou en valeur ad valorem\nconform�ment au tableau annex� au pr�sent arr�t�. Ils sont acquitt�s en Francs\ncongolais au taux officiel en vigueur � la date du paiement.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nL�exploitation des mitrailles\nest subordonn�e � la d�tention d�un permis d�achat et/ou vente des mitrailles.\nSon titulaire est soumis � l�obligation de transmission mensuelle des\nstatistiques des approvisionnements et des ventes de la p�riode au Ministre\nprovincial ayant l�industrie dans ses attributions avec copie � la division\nurbaine de l�industrie.\nLe permis d�exploitation des\nmitrailles est valable pour une ann�e fiscale. Il expire inconditionnellement au\n31 d�cembre de chaque ann�e. Il est renouvelable � la plupart le 31 mars de\nl�ann�e suivante.",
+            "line_num": 13
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "The partial document defines the scope of the \"taxe d'estampillage\" (stamping tax). It states that this tax applies to two main categories of products:\n1.  Products that require approval from the Ministry of Industry, specifically those covered by a decree prohibiting certain plastic packaging, or any related city regulations.\n2.  Products packaged in commercial/industrial packaging and parcels prepared for shipment, without prejudice to the first category.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "This partial document defines key terms related to packaging and certification within a regulatory context. Specifically, it provides definitions for: \"estampillage\" (the marking/sealing to certify conformity), \"emballage\" (general packaging for containing and protecting goods), \"emballage industriel\" (industrial packaging for protection, branding, and measurement), and \"emballage commercial\" (commercial retail packaging governed by laws and regulations).",
+            "line_num": 42
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nTout d�tenteur d�un agr�ment ad-hoc ou tout utilisateur des emballages �\ncaract�re commercial et/ou industriel et autres est tenu d�en faire la\nd�claration aupr�s de la Division urbaine de l�industrie dans l�optique\nd�apposer le scell� d�estampillage y aff�rent.",
+            "line_num": 62
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe scell� d�estampillage sur les emballages est effectu� par les agents de la\nDivision urbaine de l�industrie dument mandat� par un ordre de mission du\nMinistre.\nL�estampillage est effectu� au lieu de la production ou de la commercialisation,\ndans l�entrep�t de stockages pour les producteurs ou les distributeurs, �\nl�agence de d�douanement ou entrep�t conc�d� (DGDA) pour les importateurs et\ndans les entrep�ts de stockage priv� pour les utilisateurs exportateurs.",
+            "line_num": 70
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nSont abrog�es, toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 81
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nLe Directeur g�n�ral de la Direction G�n�ral des Recettes de Kinshasa et le Chef\nde Division urbain de l�industrie sont charg�s, chacun en ce qui le concerne, de\nl�ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa le 02 juin 2021.\nANNEXES pdf\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 86
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "178a0861-9aba-41e9-8103-ca958e123681"
+    ],
+    "0002": [
+      "27d78092-973f-458e-8364-d5a079030cb7"
+    ],
+    "0003": [
+      "ae8e0b22-8921-457c-abfe-e57e0e54a9c0"
+    ],
+    "0004": [
+      "c9630007-a931-42b0-b509-49788f247158"
+    ],
+    "0005": [
+      "d91fb4be-1a24-44b9-8c0b-6bc4db7d8791"
+    ],
+    "0006": [
+      "0d73c8d3-fea7-459f-bb02-7b2fd9d7295d"
+    ],
+    "0007": [
+      "10028cc7-fe4c-4377-aa9b-4e2cbc0d9e90"
+    ],
+    "0008": [
+      "45cf1bc5-d676-4cae-af61-ffcc2f0561e1"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:34.805330",
+  "article_count": 8,
+  "generation_time_s": 9.474187135696411
+}

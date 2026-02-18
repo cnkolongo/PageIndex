@@ -1,0 +1,199 @@
+{
+  "slug": "AM-003-099-13-06-2006-2006",
+  "bundle_path": "backups/all_bundles/code/AM-003-099-13-06-2006-2006.json",
+  "document_id": "03f3bf13-4965-4ed7-bc0d-fb7ae060af4c",
+  "document_title": "AM.003.099.13.06.2006",
+  "tree_json": {
+    "doc_name": "AM-003-099-13-06-2006-2006",
+    "structure": [
+      {
+        "title": "AM.003.099.13.06.2006",
+        "node_id": "0000",
+        "prefix_summary": "# AM.003.099.13.06.2006",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Section 7: Des taxes sur l'exploitation et l'exportation des",
+            "node_id": "0001",
+            "prefix_summary": "##### Section 7: Des taxes sur l'exploitation et l'exportation des",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0002",
+                "summary": "###### Article 10\n\nLes taux de la taxe sur l'exportation des esp�ces v�g�tales\nCITES sont fix�s comme suit:\na). titre valant : 43130,00 FC\nb). bois afromisia : 430,00 FC/m3\nc). pygeum africanum: 8630,00 FC/T indivisible d). autres\nesp�ces et sous-esp�ces: 430,00 FC/unit�\n\nmenus produits forestiers",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III : DES DISPOSITIONS FINALES",
+            "node_id": "0003",
+            "prefix_summary": "#### CHAPITRE III : DES DISPOSITIONS FINALES",
+            "line_num": 19,
+            "nodes": [
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "The partial document specifies the tax rates for the exploitation and export of minor forest products. It details the rates per ton (FC/T) for two types of permits: a harvest permit and an export permit. The listed products include Rauwolfia, Voacanga and digitallia, decorative roots, and gums, lac, resin, copal, and other minor forest products, with each product category having a defined tax amount for each permit type.",
+                "line_num": 22
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nLe permis d'exportation ou de r�exportation et le certificat\nd'origine sont valables pour une dur�e de six mois, renouvelable une fois.",
+                "line_num": 40
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nSans pr�judice des peines pr�vues par le Code p�nal et les lois\nparticuli�res, toute personne qui contrevient aux dispositions du pr�sent Arr�t�\nsera punie d'une amende �quivalente au quintuple de la taxe fix�e pour l'esp�ce\nconcern�e.\nEn cas de refus de paiement ou de r�cidive, il sera fait\napplication des peines pr�vues par les lois en vigueur.",
+                "line_num": 46
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "This partial document is the concluding section of an interministerial decree from the Democratic Republic of Congo, dated June 13, 2006. The main points covered are:\n\n1.  **Abrogation:** Article 14 states that all prior contradictory provisions are repealed.\n2.  **Enforcement and Effective Date:** It designates the Secretary General for Environment and the Director General of the DGRAD to execute the decree, which comes into force on the date of its signature.\n3.  **Signatories:** The decree is signed in Kinshasa by the Minister of Finance and the Minister of Environment, Conservation of Nature, Waters, and Forests.\n4.  **Annexes:** It references and attaches three tables (Table I, II, III) which detail the tax rates for fully protected, partially protected, and non-protected animals, respectively.\n5.  **Disclaimer:** A final note clarifies that the presented text is from an unofficial source (an association's website under construction) and that the associations are not liable for its content.",
+                "line_num": 56
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0008",
+                "summary": "###### Article 2\n\nLes taux de la taxe sur les permis de chasse ordinaire sont\nfix�s comme suit:\na). Permis sportif de petite chasse : 10780,00 FC\nb). Permis sportif de grande chasse : 21560,00 FC\nc). Petit permis de tourisme:\n- hors domaine de chasse : 21560,00 FC\n- dans le domaine de chasse : 43130,00 FC\nd). Grand permis de tourisme : 64690,00 FC\ne). Permis rural de chasse 8630,00 FC\nt). Permis collectif de chasse : 4.310,00 FC",
+                "line_num": 97
+              },
+              {
+                "title": "Section 2: Des taxes d'abattage, de capture et de",
+                "node_id": "0009",
+                "prefix_summary": "##### Section 2: Des taxes d'abattage, de capture et de",
+                "line_num": 111,
+                "nodes": [
+                  {
+                    "title": "Article 3",
+                    "node_id": "0010",
+                    "summary": "###### Article 3\n\nLes taux de la taxe sur le permis de chasse sp�ciaux sont\nfix�s comme suit:\na). Permis scientifique : 86250,00 FC\nb). Permis administratif : Gratuit\nc). Permis de capture commerciale: 43310,00 FC\n\nd�tention",
+                    "line_num": 114
+                  },
+                  {
+                    "title": "Article 4",
+                    "node_id": "0011",
+                    "summary": "###### Article 4\n\nles animaux totalement prot�g�s figurant au tableau 1 en\nannexe ne peuvent �tre chass�s qu'en vertu du permis scientifique pr�vu �\nl'article 61 de la Loi sur la chasse.\nLes taux des taxes de capture et de d�tention des animaux\nvis�s � l'al in�a 1 er ainsi que de celles sur leurs sous-produits sont ceux\nfigurant au tableau 1 en annexe.",
+                    "line_num": 125
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0012",
+                    "summary": "###### Article 5\n\nLes taux des taxes d'abattage, de capture et de d�tention\ndes animaux partiellement prot�g�s et non prot�g�s, ainsi que de celles sur\nleurs sous-produits sont ceux repris aux tableaux 2 et 3 en annexe.",
+                    "line_num": 135
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : De la licence de guide",
+                "node_id": "0013",
+                "prefix_summary": "##### Section 3 : De la licence de guide",
+                "line_num": 142,
+                "nodes": [
+                  {
+                    "title": "Article 6",
+                    "node_id": "0014",
+                    "summary": "###### Article 6\n\nA la fin de chaque op�ration de capture ou d'abattage, le\ntitulaire d'un permis de chasse, d'un permis de capture commerciale ou d'un\npermis scientifique est tenu de faire enregistrer, aupr�s du service\ncomp�tent du lieu de l'op�ration, les animaux abattus ou captur�s.",
+                    "line_num": 145
+                  }
+                ]
+              },
+              {
+                "title": "Section 4: De la taxe relative au s�jour dans un domaine de",
+                "node_id": "0015",
+                "prefix_summary": "##### Section 4: De la taxe relative au s�jour dans un domaine de",
+                "line_num": 153,
+                "nodes": [
+                  {
+                    "title": "Article 7",
+                    "node_id": "0016",
+                    "summary": "###### Article 7\n\nLe taux de la licence de guide de chasse est fix� � 1 078\n180,00 Fe.\n\nchasse",
+                    "line_num": 156
+                  }
+                ]
+              },
+              {
+                "title": "Section 5 : des taxes sur les permis d'importation,",
+                "node_id": "0017",
+                "prefix_summary": "##### Section 5 : des taxes sur les permis d'importation,",
+                "line_num": 164,
+                "nodes": [
+                  {
+                    "title": "Article 8",
+                    "node_id": "0018",
+                    "summary": "###### Article 8\n\nLe taux du s�jour dans un domaine de chasse est de 36 660,00 FC\npar jour pour le client et de 19 410,00 FC par jour pour la personne qui\nl'accompagne.\n\nd'exportation et de r�exportation des esp�ces de faune sauvages",
+                    "line_num": 167
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II : SECTEUR DE LA FLORE",
+            "node_id": "0019",
+            "prefix_summary": "#### CHAPITRE II : SECTEUR DE LA FLORE",
+            "line_num": 176,
+            "nodes": [
+              {
+                "title": "Article 9",
+                "node_id": "0020",
+                "summary": "###### Article 9\n\nLes taux des permis d'importation, d'exportation et de\nr�exportation des animaux totalement ou partiellement prot�g�s et des animaux\nnon prot�g�s ainsi que de ceux sur leurs sous-produits sont fix�s comme suit :\na). Permis d'importation:\n- titre valant : 86 250 ,00 FC\n- esp�ce ou son sous-produit : 8630,00 FC\nb). Permis d'exportation:\n- titre valant : 43130,00 FC\nc). Permis de r�exportation:\n- titre valant : 86250,00 FC\n- sp�cimen ou son sous-produit: 860,00 FC\n\nSection 6: Des taxes sur les esp�ces v�g�tales r�gies par la\nConvention CITES",
+                "line_num": 179
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "6c8c9d4d-2244-4a50-bc5a-0304a1ff423a"
+    ],
+    "0004": [
+      "c13c8dd5-9a92-4dc8-9acc-e1eb0ba66488"
+    ],
+    "0005": [
+      "b5000bd8-83ac-4670-84a0-b602c7cd9fdd"
+    ],
+    "0006": [
+      "05307d43-b926-4c77-8856-0aee137f58b4"
+    ],
+    "0007": [
+      "4b688b37-a60c-4b98-aaba-5ebb09cdce64"
+    ],
+    "0008": [
+      "f976c896-330f-4329-8222-35c167955a34"
+    ],
+    "0010": [
+      "795f0e33-07db-4dc0-a1d7-11aa863ad396"
+    ],
+    "0011": [
+      "ce013e19-55b4-42a1-9cfd-f961e18cd27d"
+    ],
+    "0012": [
+      "9a148be9-71f5-4a33-acbb-0a44020294bf"
+    ],
+    "0014": [
+      "bfacc9e7-f656-474c-b66c-03b8bd3312d2"
+    ],
+    "0016": [
+      "9fb028a0-4211-4838-a444-11c20dc0e310"
+    ],
+    "0018": [
+      "ee45516d-5a1e-4054-a75f-6df3516294fd"
+    ],
+    "0020": [
+      "ebd7ae47-46f3-4206-85c2-06c78358d16a"
+    ]
+  },
+  "node_count": 21,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:56:11.512291",
+  "article_count": 13,
+  "generation_time_s": 51.73769283294678
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "AI-008-09-03-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AI-008-09-03-2015-2015.json",
+  "document_id": "e71af2df-92f6-4ba7-836e-11c849c5df66",
+  "document_title": "AI.008.09.03.2015",
+  "tree_json": {
+    "doc_name": "AI-008-09-03-2015-2015",
+    "structure": [
+      {
+        "title": "AI.008.09.03.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AI.008.09.03.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nd�instituer une quotit� additionnelle � la redevance de navigation sur le bief\nmaritime du Fleuve Congo et de d�terminer les modalit�s de son affectation.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\n�valuation Les modalit�s de fonctionnement du Comit� de suivi et �valuation sont\nfix�es dans son r�glement int�rieur.",
+            "line_num": 10
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nexon�rations fiscales et douani�res\nToutes les activit�s des partenaires et des leurs\nsoustraitance respectifs, en lien avec l�ex�cution et la r�alisation du dragage\ncompl�mentaire du bief maritime, ainsi que la quotit� additionnelle de la\nredevance de navigation sont exon�r�es de tous droits, taxes et imp�ts, directs\net indirects, redevances fiscales reprisent dans l�annexe au pr�sent Arr�t�.",
+            "line_num": 16
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nl�audit des comptes Les comptes, les �critures et �tats financiers relatifs � la\ngestion du compte sp�cial du partenariat peuvent faire l�objet d�une\nv�rification, chaque ann�e, par des auditeurs externes ind�pendants, recrut�s\npar le Comit� de g�rance suivant les proc�dures d�usage. Les auditeurs externes\nont, coll�gialement ou individuellement, un droit de v�rification et de contr�le\nsur toutes les op�rations relatives � la gestion du compte sp�cial du\npartenariat. Ils �mettent une opinion sous forme d�un rapport d�audit annuel.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "This partial document is an annex to a multi-ministerial decree issued in Kinshasa on March 9, 2015. The annex lists 16 specific taxes, duties, and fees that are exempted or applicable to a dredging project on the maritime section of the Congo River. These include import duties on dredgers, auxiliary vessels, project equipment, vehicles, and spare parts, as well as various taxes such as value-added tax, stamp duty, registration fees, taxes on profits and salaries (including for expatriates), social security for expatriates, and property taxes.",
+            "line_num": 37
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0006",
+            "summary": "The partial document covers Article 2, which institutes an additional surcharge to the navigation fee for ships in the territorial waters of the Democratic Republic of Congo destined for or departing from a maritime port. It specifies that petroleum tankers refueling, loading Congolese crude, or delivering fuel are excluded. The surcharge is set at 2.47 euros per gross tonnage (TJB), payable by shipowners through maritime agents based on an invoice issued by the Congolaise des Voies Maritimes.",
+            "line_num": 93
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0007",
+            "summary": "###### Article 3\n\nLa quotit�\nadditionnelle de la redevance institu�e par le pr�sent Arr�t� est affect�e � :\n- l�ex�cution des\ntravaux de dragage compl�mentaire du bief maritime du Fleuve Congo, en vue\nd�obtenir et de maintenir une calaison minimale de 26 pieds pendant toute\nl�ann�e sur l�ensemble dudit bief et ce, pendant toutes la dur�e du partenariat\nCVM-DI ;\n- l�acquisition\nd�une drague et �ventuellement d�autres �quipements et mat�riels similaires par\nla CVM dans le cadre du pr�sent partenariat ;\n- le renforcement des capacit�s du personnel technique de\nla CVM.",
+            "line_num": 108
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0008",
+            "summary": "###### Article 4\n\nIl est cr�� un compte sp�cial du partenariat, constitu� des ressources provenant\nde la quotit� additionnelle de la redevance de navigation, pay�e par les navires\nvis�s � l�article 2 du pr�sent Arr�t�.\nLe compte sp�cial\ndu paretenariat est g�r� par un Comit� de g�rance vis� � l�article 5 ci-dessous.",
+            "line_num": 124
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0009",
+            "summary": "###### Article 5\n\ng�rance compos� de deux d�l�gu�s de la CVM et de deux d�l�gu�s de Dredging\nInternational. Le Comit� de g�rance est plac� sous l�autorit� du comit� de suivi\net �valuation du partenariat.",
+            "line_num": 133
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0010",
+            "summary": "###### Article 6\n\npartenariat Le Comit� de g�rance du compte sp�cial du partenariat �tablit ou\nfait �tablir un rapport trimestriel, au plus tard 15 jours apr�s chaque\ntrimestre, et un rapport annuel au plus tard dans les 60 jours apr�s la p�riode\nconcern�e sur la gestion dudit compte, � adresser au comit� de suivi et\n�valuation.",
+            "line_num": 140
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0011",
+            "summary": "###### Article 7\n\nsp�cial du partenariat Sont �ligibles au financement des ressources du compte\nsp�cial du partenariat, les d�penses relatives � la r�alisation des activit�s\nvis�es � l�article 3 du pr�sent Arr�t�.",
+            "line_num": 149
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0012",
+            "summary": "This partial document outlines the composition and leadership structure of a Monitoring and Evaluation Committee for the CVM-DI partnership. It specifies the eight member organizations and their respective number of representatives. It also designates the chair, vice-chair, and the parties responsible for the technical secretariat.",
+            "line_num": 156
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0013",
+            "summary": "The partial document outlines the roles and responsibilities of a monitoring and evaluation committee within a partnership framework. It specifies that the committee is tasked with overseeing various partnership activities, including monitoring dredging works, acquisitions of financed equipment, execution of a technical personnel training plan, adherence to an expenditure plan, reviewing management and audit reports, making recommendations to the governing committee, and reporting to government ministries.",
+            "line_num": 179
+          },
+          {
+            "title": "Article 93",
+            "node_id": "0014",
+            "summary": "This partial document is the preamble to a legal or regulatory act, likely a decree or order, issued by the government of the Democratic Republic of the Congo. It outlines the legal justifications and contextual reasons for an upcoming decision. The main points covered are:\n\n1.  **Legal Foundations:** It cites numerous existing laws, ordinances, and decrees that provide the legal authority for the act.\n2.  **Strategic Context:** It highlights the strategic importance of the Congo River's maritime reach for the country's connectivity and supply.\n3.  **Problem Statement:** It details the inadequacy of the current state company (CVM)'s equipment and resources to maintain the required water depth (draft) in the river's maritime section, leading to regular silting and instability for ships accessing the ports of Boma and Matadi.\n4.  **Proposed Solution:** It states the government's prior decision to form a partnership between CVM and Dredging International (DI) for complementary dredging operations.\n5.  **Funding Mechanism:** It notes the approval from maritime operators for funding this dredging through the establishment of an additional surcharge on the existing navigation fee.\n6.  **Urgency:** It declares a state of urgency, setting the stage for the specific measures (the \"ARRETENT\" or decisions) that follow in the subsequent, unprovided part of the document.",
+            "line_num": 202
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "ef98afb8-ac6e-4436-b80d-dd689fef7b6b"
+    ],
+    "0002": [
+      "b0c85ce0-035a-4d21-b065-bb6ff8dbbc98"
+    ],
+    "0003": [
+      "203dd668-4b83-407c-b9a3-001232a1e567"
+    ],
+    "0004": [
+      "6c9a4648-34e8-4c84-b792-127a9fab3f06"
+    ],
+    "0005": [
+      "4233af3f-daac-4122-b6e4-8c4ccf69db65"
+    ],
+    "0006": [
+      "257ce7b6-d7b9-48ec-87b2-1102266d0f65"
+    ],
+    "0007": [
+      "6044300e-e1cc-4f83-b958-cc9654de88aa"
+    ],
+    "0008": [
+      "2ebdb601-0781-474c-90dd-241eb262869b"
+    ],
+    "0009": [
+      "24df3cae-0b31-4016-9d5f-f6b246e2d0c2"
+    ],
+    "0010": [
+      "24c46926-c3f0-4ba5-a4ce-5bbe4afca5da"
+    ],
+    "0011": [
+      "55d5c3e3-676f-4dc2-89ab-6dce6a9ec370"
+    ],
+    "0012": [
+      "f70ae365-933f-4ae5-aeed-57579d0b7d14"
+    ],
+    "0013": [
+      "8719f383-1db8-4173-8fa2-12da709bd520"
+    ],
+    "0014": [
+      "322106ca-af90-43b4-ae24-ddf586f02eda"
+    ]
+  },
+  "node_count": 15,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:42:32.654295",
+  "article_count": 14,
+  "generation_time_s": 17.201277256011963
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "AM-2015-01-24-03-2015",
+  "bundle_path": "backups/all_bundles/code/AM-2015-01-24-03-2015.json",
+  "document_id": "4a306a6a-d930-43b9-975e-6866ae8f2d56",
+  "document_title": "AM.2015.01.24.03",
+  "tree_json": {
+    "doc_name": "AM-2015-01-24-03-2015",
+    "structure": [
+      {
+        "title": "AM.2015.01.24.03",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2015.01.24.03",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nun Comit� technique charg� de structurer le Fonds de Promotion de l�Industrie en\nBanque Publique d�Investissement et de Garantie Publique.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nDirecteur de cabinet du Ministre ayant l�Industrie dans ses attributions est\ncharg� de l�ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 24 mars 2015\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 10
+          },
+          {
+            "title": "Titre II : Des missions, de la composition et du",
+            "node_id": "0003",
+            "prefix_summary": "#### Titre II : Des missions, de la composition et du",
+            "line_num": 24,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0004",
+                "summary": "###### Article 2\n\nMinistre ayant l�Industrie dans ses attributions.\n\nfonctionnement",
+                "line_num": 27
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0005",
+                "summary": "This partial document outlines the mandate and composition of a committee tasked with transforming the Fonds de Promotion de l'Industrie (FPI) into a Public Investment and Guarantee Bank.\n\nThe main points covered are:\n1.  The specific tasks of the committee, which include designing a roadmap, conducting strategic analysis, managing consultant recruitment and work, and organizing validation sessions.\n2.  The composition of the committee, listing the number of representatives from various government bodies, including the Presidency, Prime Minister's office, multiple ministries, the Central Bank, the FPI itself, and consultants.",
+                "line_num": 34
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0006",
+                "summary": "###### Article 5\n\nMinistre ayant l�Industrie dans ses attributions.",
+                "line_num": 60
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0007",
+                "summary": "###### Article 6\n\ncompos� de :\n� Pr�sident : Directeur de cabinet du Ministre ayant\nl�Industrie dans ses attributions\n� 1 er\nVice-pr�sident : un repr�sentant de la Primature ;\n� 2 e\nVice-pr�sident : un repr�sentant du Minist�re de l�Industrie ;\n� Rapporteur : un\nrepr�sentant du Minist�re du Portefeuille ;\n� 1 er rapporteur\nadjoint : un repr�sentant du Minist�re des Finances ;\n� 2 e rapporteur adjoint : un consultant du Minist�re de\nl�Industrie ;\n� Charg� des Finances : un repr�sentant du FPI ;\n� Secr�taire technique : un repr�sentant du FPI.",
+                "line_num": 65
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0008",
+                "summary": "###### Article 7\n\nmensuelle dont le taux est fix� par le Ministre ayant l�Industrie dans ses\nattributions.",
+                "line_num": 84
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0009",
+                "summary": "###### Article 8\n\nd�une allocation mensuelle � charge du Fonds de Promotion de l�Industrie.",
+                "line_num": 90
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0010",
+                "summary": "###### Article 9\n\nde tout autre Minist�re ainsi que de toute autre personne ressource.",
+                "line_num": 95
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "630497d1-3f74-42d1-bc26-7d29ab02225d"
+    ],
+    "0002": [
+      "c16814a1-f8f8-478b-8a67-529cb378be94"
+    ],
+    "0004": [
+      "d4c061c6-a90e-418c-a9ad-ea3eca3a37af"
+    ],
+    "0005": [
+      "6fed5301-0d21-43d9-94c7-4140e377c1ed"
+    ],
+    "0006": [
+      "32bbaf8c-54ef-46db-8f20-b0f356ec60f7"
+    ],
+    "0007": [
+      "75570abc-73ba-43a9-a60a-a10873625c7b"
+    ],
+    "0008": [
+      "13ec373a-2150-41a9-bf16-fa107b69fdec"
+    ],
+    "0009": [
+      "597d6065-414e-4fd4-bc89-fca2c52dbd80"
+    ],
+    "0010": [
+      "218ddc02-6d94-4b86-a2ca-4353b7505649"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:32:40.933707",
+  "article_count": 9,
+  "generation_time_s": 4.952332973480225
+}

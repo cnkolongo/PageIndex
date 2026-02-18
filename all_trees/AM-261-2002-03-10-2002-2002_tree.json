@@ -1,0 +1,107 @@
+{
+  "slug": "AM-261-2002-03-10-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-261-2002-03-10-2002-2002.json",
+  "document_id": "633ec640-ceb1-4a58-a23a-d7c54c781b6b",
+  "document_title": "AM.261.2002.03.10.2002",
+  "tree_json": {
+    "doc_name": "AM-261-2002-03-10-2002-2002",
+    "structure": [
+      {
+        "title": "AM.261.2002.03.10.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM.261.2002.03.10.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe Secr�taire\nG�n�ral � l�Environnement et Conservation de la Nature est charg� de l�ex�cution\ndu pr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 03 octobre 2002.\nSalomon BANAMUHERE BALIENE\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLe cadastre\nforestier central est dirig� par un fonctionnaire ayant rang de directeur.\nLe cadastre\nforestier provincial est dirig� par un fonctionnaire ayant rang de chef de\ndivision.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "This partial document outlines the primary missions and responsibilities of a forest cadastre (land registry). It specifies that the forest cadastre is responsible for archiving and maintaining a wide range of official documents related to forest management, including classification decrees, concession contracts, community forest allocations, management plans, inventories, and maps. Additionally, it details the active duties of a provincial forest cadastre, which include creating and updating cadastral records, issuing plan extracts, demarcating forest concessions, producing cadastral sheets, and preparing other relevant documents.",
+            "line_num": 28
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLa documentation\ndu cadastre forestier peut faire l�objet soit d�une consultation ordinaire, soit\nd�une consultation �crite, soit d�une consultation globale.",
+            "line_num": 68
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nPar consultation\nordinaire, il faut entendre la consultation personnelle sur place des documents\ncadastraux, sous la surveillance et la responsabilit� du chef du service de\ncadastre ou de son pr�pos�.\nLa consultation\n�crite consiste dans la communication des renseignements sollicit�s sous forme\nde lettre, attestation ou copie.\nLa consultation\nglobale consiste dans le relev� d�livr� p�riodiquement aux personnes physiques\nou morales qui en font la demande et qui porte sur l�ensemble des op�rations de\nm�me type effectu�es durant une p�riode d�termin�e.\nIl est interdit\nde communiquer des renseignements en dehors des trois modalit�s pr�vues par le\npr�sent arr�t�.",
+            "line_num": 75
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe co�t de chaque\ntype de consultation est fix� annuellement par le Ministre charg� des for�ts sur\nproposition de l�administration centrale charg�e des for�ts.",
+            "line_num": 93
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nLe chef du\nservice de cadastre forestier provincial fait parvenir mensuellement au cadastre\nforestier central une copie certifi�e conforme des documents re�us et �mis dans\nses services en rapport avec la gestion foresti�re de la province.",
+            "line_num": 100
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nLe chef du\nservice de cadastre forestier central fait trimestriellement le rapport de la\ngestion foresti�re de chaque province accompagn�e de ses observations au\nsecr�taire g�n�ral du minist�re charg� des for�ts. Le secr�taire g�n�ral en\ntient le Ministre pleinement inform�.",
+            "line_num": 108
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0009",
+            "summary": "###### Article 9\n\nP�riodiquement,\nle chef du service de cadastre central proc�de � une inspection des cadastres\nprovinciaux.\nL�inspection\ntermin�e, il adresse au chef du service de cadastre forestier provincial\nint�ress� ses observations sur les faits relev�s et indique, s�il y a lieu, les\nmoyens qu�il juge propres � �viter que telles erreurs ou faits se reproduisent.\nUne copie de ce\nrapport est envoy�e sans d�lai au Gouverneur de province et au secr�taire\ng�n�ral de l�administration charg�e des for�ts pour disposition.",
+            "line_num": 117
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "0e0ca0d1-8b91-45f6-912a-0253c45a9451"
+    ],
+    "0002": [
+      "bccbd79f-9e7e-4282-a53f-102ba2d0df4f"
+    ],
+    "0003": [
+      "bc0bd883-c22d-4458-8efd-b644e651beae"
+    ],
+    "0004": [
+      "30c2824f-fa05-4b0d-9044-00767bad1a5e"
+    ],
+    "0005": [
+      "4ef1e25f-7818-470e-8ec4-d21069475811"
+    ],
+    "0006": [
+      "d1f499b5-2745-40fa-8218-6782daea6c6b"
+    ],
+    "0007": [
+      "6a8886dc-984f-43e8-ac59-7416120e3d9d"
+    ],
+    "0008": [
+      "e4cc9c54-b2d0-48e5-8443-73e6cdb3451a"
+    ],
+    "0009": [
+      "d86bd3e3-a745-463f-bb25-ad99b0ee4744"
+    ]
+  },
+  "node_count": 10,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:22:14.135980",
+  "article_count": 9,
+  "generation_time_s": 5.888635873794556
+}

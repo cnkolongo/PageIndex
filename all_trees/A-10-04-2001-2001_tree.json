@@ -1,0 +1,78 @@
+{
+  "slug": "A-10-04-2001-2001",
+  "bundle_path": "backups/all_bundles/code/A-10-04-2001-2001.json",
+  "document_id": "fab9cfda-3549-4ab0-bc3c-94c6a8757683",
+  "document_title": "A.10.04.2001",
+  "tree_json": {
+    "doc_name": "A-10-04-2001-2001",
+    "structure": [
+      {
+        "title": "A.10.04.2001",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0003",
+            "line_num": 19,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "line_num": 22
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "line_num": 112
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0006",
+            "line_num": 125,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0007",
+                "line_num": 128
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "633c2fa5-5598-4249-8217-04553a08005e"
+    ],
+    "0004": [
+      "aeca1f98-9c6d-426a-b398-039a6bfea319"
+    ],
+    "0005": [
+      "47052ba6-bc77-4216-a1f5-39bdc97cc9aa"
+    ],
+    "0007": [
+      "f47d30dd-51dd-458d-bcd5-275d04aa51e8"
+    ]
+  },
+  "node_count": 8,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:29:22.863407",
+  "article_count": 4,
+  "generation_time_s": 0.006776094436645508
+}

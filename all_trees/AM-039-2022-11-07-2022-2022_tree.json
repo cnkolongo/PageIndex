@@ -1,0 +1,567 @@
+{
+  "slug": "AM-039-2022-11-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-039-2022-11-07-2022-2022.json",
+  "document_id": "fceb3691-131c-4a67-a7e0-f914997c2c45",
+  "document_title": "AM.039.2022.11.07.2022",
+  "tree_json": {
+    "doc_name": "AM-039-2022-11-07-2022-2022",
+    "doc_description": "This document is an administrative decree (Arrêté) issued in Kinshasa on July 11, 2022, establishing the National Numbering Plan for telecommunications in the Democratic Republic of Congo, detailing rules for the reservation, attribution, and management of numbering resources and USSD codes for various services including emergency, value-added, and operator services.",
+    "structure": [
+      {
+        "title": "AM.039.2022.11.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.039.2022.11.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre II : Plan National",
+            "node_id": "0001",
+            "prefix_summary": "#### Chapitre II : Plan National",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document is Article 1 of a legal regulation (likely an \"Arrêté\") from the Democratic Republic of the Congo. It serves as a glossary, providing formal definitions for key terms and concepts related to the national telecommunications numbering plan, its regulation, and associated services.\n\nThe main points covered are the definitions of:\n1.  **Core Regulatory Entities and Processes:** The regulating authority (ARPTC), the processes of attribution (granting numbering rights) and reservation of numbering resources, and the concept of regulatory control.\n2.  **Types of Telephone Numbers:** Detailed definitions for various number types, including standard numbers, geographic numbers, non-geographic numbers, short codes, special numbers (e.g., for emergency services), gold numbers (easy to remember), and numbers for value-added services.\n3.  **Key Concepts of the Numbering System:** The National Numbering Plan, closed numbering plans, number portability, carrier selection, and the definition of numbering resources themselves.\n4.  **Industry Participants:** Definitions for operators (service providers), Mobile Virtual Network Operators (MVNOs), and carriers (transmission network operators).\n5.  **Services and Technologies:** Value-added services, Information and Communication Technologies (TIC), and technical protocols like USSD (Unstructured Supplementary Service Data) for accessing services via mobile codes.\n6.  **References:** The document references international standards from the ITU-T (International Telecommunication Union).",
+                "line_num": 7
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "The partial document outlines the framework for modifying a National Numbering Plan. It describes the objectives of modifications (e.g., allocating new resources, reducing capacities, introducing new functionalities), and establishes a formal consultation process with affected operators at least two years prior to implementation. This consultation aims to validate needs, minimize adaptation costs, finalize plans, and set implementation schedules. Operators are to be notified of the final date and modalities at least one year in advance, barring urgent cases.",
+                "line_num": 119
+              },
+              {
+                "title": "Section 3 : De la gestion du",
+                "node_id": "0004",
+                "prefix_summary": "##### Section 3 : De la gestion du",
+                "line_num": 161,
+                "nodes": [
+                  {
+                    "title": "Article 11",
+                    "node_id": "0005",
+                    "summary": "###### Article 11\n\nLes frais de mise � niveau\nd'�quipements, mat�riel, logiciel, offres commerciales r�sultant de toute\nmodification du Plan National de Num�rotation incombent � chaque op�rateur.\n\nPlan National de Num�rotation et redevances",
+                    "line_num": 164
+                  },
+                  {
+                    "title": "Article 12",
+                    "node_id": "0006",
+                    "summary": "###### Article 12\n\nLes ressources en\nnum�rotation sont g�r�es � l'unit� ou par blocs de num�ros selon la cat�gorie.\nLes modularit�s de gestion par cat�gorie de ressources sont d�finies par\nl'Autorit� de r�gulation.",
+                    "line_num": 173
+                  },
+                  {
+                    "title": "Article 13",
+                    "node_id": "0007",
+                    "summary": "###### Article 13\n\nLes op�rateurs r�servataires\nou attributaires de ressources en num�rotation sont assujettis au paiement de la\ntaxe et des redevances dont les taux sont fix�s par Arr�t� interminist�riel.",
+                    "line_num": 181
+                  }
+                ]
+              },
+              {
+                "title": "Section 4 : Des proc�dures de",
+                "node_id": "0008",
+                "prefix_summary": "##### Section 4 : Des proc�dures de",
+                "line_num": 188,
+                "nodes": [
+                  {
+                    "title": "Article 14",
+                    "node_id": "0009",
+                    "summary": "This partial document outlines the amendment and consultation procedures for management rules, specifically within the context of numbering resources. It states that the rules can be modified or supplemented by ministerial order, based on a proposal from the Regulatory Authority and after consulting relevant stakeholders. It also establishes that any concerned party can request an amendment at any time, which the Authority will examine and potentially consult on. Finally, it specifies a minimum three-month compliance period for any implemented rule changes.",
+                    "line_num": 191
+                  },
+                  {
+                    "title": "Article 15",
+                    "node_id": "0010",
+                    "summary": "###### Article 15\n\nLes conditions de\nrecevabilit� des demandes pr�cisent les crit�res permettant le d�p�t d'une\ndemande de r�servation ou d'attribution de certaines cat�gories de ressources en\nnum�rotation par un op�rateur. Elles ne pr�jugent pas de la d�cision prise par\nl'Autorit� de r�gulation, apr�s examen de l'ensemble du dossier et de la\nsituation du plan.\nLe d�p�t d'une demande\nentraine acceptation par le demandeur de toutes les r�gles de gestion de la\nnum�rotation contenues dans le pr�sent Arr�t�.",
+                    "line_num": 210
+                  },
+                  {
+                    "title": "Article 16",
+                    "node_id": "0011",
+                    "summary": "The partial document outlines the criteria examined by a regulatory authority when evaluating requests or applications. The main points covered are the applicant's compliance with existing licenses and specifications, justification of the request, availability of resources, adherence to the fixed plan structure, geographic placement criteria, network deployment and service coverage, technical and financial capacity, equal treatment and fair competition conditions, and respect for relevant national and international rules and agreements. It also introduces a new section on reservation.",
+                    "line_num": 223
+                  },
+                  {
+                    "title": "Article 17",
+                    "node_id": "0012",
+                    "summary": "The partial document outlines the required components for a reservation application dossier to be submitted to a Regulatory Authority. It lists the necessary documents and information, including a completed information form, justification for the request, details on existing resources, geographic location of numbers, a copy of the operating license, and any supplementary information. It also notes the Authority's right to request further clarifications.",
+                    "line_num": 244
+                  },
+                  {
+                    "title": "Article 18",
+                    "node_id": "0013",
+                    "summary": "The partial document covers the procedures for submitting and processing requests for reservations to a regulatory authority. It specifies that requests must be submitted by mail with acknowledgment of receipt, outlines a 30-day processing timeframe, and details that applications are examined against eligibility criteria (defined in Article 16) and processed in order of receipt. It also states that decisions, including justified reasons for refusal, must be notified to the applicant within 30 days from the submission date, provided the application is complete.",
+                    "line_num": 267
+                  },
+                  {
+                    "title": "Article 2",
+                    "node_id": "0014",
+                    "summary": "###### Article 2\n\nIl est cr�� en R�publique\nD�mocratique du Congo un Plan National de Num�rotation.",
+                    "line_num": 289
+                  },
+                  {
+                    "title": "Article 20",
+                    "node_id": "0015",
+                    "summary": "###### Article 20\n\nLa dur�e de la r�servation\nest fix�e � six (6) mois.\nDeux (2) mois avant\nl'expiration du d�lai de la r�servation, le b�n�ficiaire doit introduire, aupr�s\nde l�Autorit� de r�gulation, une demande d'attribution. Pass� ce d�lai, la\nressource de num�rotation redevient libre et attribuable par l'Autorit� de\nr�gulation.",
+                    "line_num": 295
+                  },
+                  {
+                    "title": "Article 21",
+                    "node_id": "0016",
+                    "summary": "###### Article 21\n\nL'annulation de la\nr�servation peut intervenir dans deux cas :\n� � la demande du b�n�ficiaire de la r�servation ;\n� automatiquement si\nla ressource r�serv�e n'a pas fait l'objet d'une demande d'attribution.\n�3. De l'attribution",
+                    "line_num": 306
+                  },
+                  {
+                    "title": "Article 22",
+                    "node_id": "0017",
+                    "summary": "This partial document outlines the application process and required documentation for requesting a resource allocation from a regulatory authority. It specifies that the application dossier must be submitted in three copies and includes several mandatory components, such as a completed information form, references to any prior reservation, a justification for the request, details on the usage rates of already-held resources (which must be at least 70%), and a two-year usage forecast for the new resource. It also notes that if a prior reservation exists, most information should already have been provided, and only updates are needed. The applicant may provide additional justifying information, and the regulatory authority can request further clarifications.",
+                    "line_num": 316
+                  },
+                  {
+                    "title": "Article 23",
+                    "node_id": "0018",
+                    "summary": "###### Article 23\n\nLes demandes d'attribution\nsont adress�es par courrier � l'Autorit� de r�gulation contre remise d'un accus�\nde r�ception.\nLorsque l'Autorit� de\nr�gulation re�oit un dossier de demande d'attribution, l'examen du dossier est\nr�alis� dans un d�lai de 30 jours ouvrables. Si le dossier est incomplet,\nl'Autorit� de r�gulation exige de l'op�rateur des informations compl�mentaires.\nLorsqu'il y a eu r�servation\npr�alable, le dossier de la r�servation est joint � la demande.",
+                    "line_num": 347
+                  },
+                  {
+                    "title": "Article 24",
+                    "node_id": "0019",
+                    "summary": "The partial document describes the procedures and criteria used by the regulatory authority to process requests for resource allocation. It specifies that eligible applications are handled in order of arrival, and the authority can grant the resource fully, partially, or refuse the allocation. The decision must be communicated within 30 days of a complete application, and any refusal or partial allocation must be justified with details on the unallocated portion.",
+                    "line_num": 360
+                  },
+                  {
+                    "title": "Article 25",
+                    "node_id": "0020",
+                    "summary": "###### Article 25\n\nLa ressource attribu�e doit\n�tre utilis�e dans un d�lai de six (6) mois apr�s notification de la d�cision.\nL'utilisation effective des ressources attribu�es sont signal�es � l'Autorit� de\nr�gulation dans les quinze (15) jours qui suivent la mise en service.\nPour les num�ros attribu�s\npar unit�, on entend par utilisation effective, la mise en service commerciale\ndu num�ro.\nPour les num�ros attribu�s\npar bloc, il s'agit de l'ouverture du premier abonn� ou de la date d'ouverture\ndans le r�seau du bloc.",
+                    "line_num": 380
+                  },
+                  {
+                    "title": "Article 26",
+                    "node_id": "0021",
+                    "summary": "###### Article 26\n\nCat�gories des ressources et modularit� de gestion :",
+                    "line_num": 394
+                  },
+                  {
+                    "title": "Article 27",
+                    "node_id": "0022",
+                    "summary": "This partial document covers the regulatory framework for assigning long telephone numbers (ten digits, starting with a specific code) for accessing value-added services. The main points are: 1) The nature of these numbers, 2) The eligibility condition, which requires the applicant to be a licensed network operator, and 3) The rule that these numbers are allocated in single units (per number).",
+                    "line_num": 399
+                  },
+                  {
+                    "title": "Article 28",
+                    "node_id": "0023",
+                    "summary": "This partial document defines the framework for assigning short codes (4XY, 4XYZ, 4XYZT, 4XYZTU) for accessing paid value-added services. It covers their nature, classification as premium access numbers, and specific rules for temporary 4XY codes for campaigns or events. It also outlines eligibility conditions, stating that these codes are allocated to licensed public telecommunications network operators or authorized service providers, and specifies that they are assigned in individual units.",
+                    "line_num": 419
+                  },
+                  {
+                    "title": "Article 29",
+                    "node_id": "0024",
+                    "summary": "This partial document, Article 29, outlines the regulatory framework for short-code emergency and assistance service numbers. It defines two categories: three-digit numbers (1XY) for public interest services like social services and emergencies, and four-digit numbers (1XYZ) for low-cost operator assistance. It mandates that all operators must implement these numbers, route calls to them free of charge, and exempt them from all taxes. The document also states that the regulatory authority assigns these numbers upon request, prohibits a single number from being used for two different services by different providers, and clarifies that these special numbers are not subject to reservation.",
+                    "line_num": 446
+                  },
+                  {
+                    "title": "Article 3",
+                    "node_id": "0025",
+                    "summary": "This partial document outlines the objectives and key principles of a National Numbering Plan for telecommunications and ICT services. It states the plan's purpose is to organize the allocation of numbering resources, considering current and future needs. The text specifies that number assignments to operators must comply with this plan.\n\nThe document details the plan's general principles, including: the distribution of prefixes for different services and geographic areas; numbering procedures for internal, national, and international calls; numbers for special, emergency, and value-added services; and the reservation of number blocks for future, unquantified needs.\n\nFurthermore, it lists the goals of creating and organizing this plan, which are to: increase numbering capacity for fixed and mobile operators; create reserves for new services or operators; easily identify telecommunications and ICT services; and enable easy administrative and financial management of numbering resources.",
+                    "line_num": 472
+                  },
+                  {
+                    "title": "Article 30",
+                    "node_id": "0026",
+                    "summary": "The partial document outlines the rules for allocating long access numbers to service providers, including virtual operators. It specifies that these numbers fall within the 65, 66, and 67 ranges and follow the format 6ABPQMCDU. It details eligibility conditions, requiring authorization from the regulatory authority, and states that the minimum allocation block size is 10,000 numbers.",
+                    "line_num": 512
+                  },
+                  {
+                    "title": "Article 31",
+                    "node_id": "0027",
+                    "summary": "This partial document defines and regulates \"free call numbers\" and \"shared-cost numbers\" in a national numbering plan. It covers their definition (format and billing structure), eligibility conditions for mobile operators, the modular unit of allocation, and introduces a section on control.",
+                    "line_num": 536
+                  },
+                  {
+                    "title": "Article 32",
+                    "node_id": "0028",
+                    "summary": "This partial document outlines the regulatory reporting and compliance obligations for a holder of an allocated telecommunications resource (likely telephone numbers). The main points covered are:\n\n1. The requirement for the resource holder to submit an annual usage report to the Regulatory Authority by March 31, detailing specific information such as usage rates, number of active numbers, services using the resource, start date, and usage forecasts.\n\n2. The Regulatory Authority's power to request further clarification or access to subscriber files at any time.\n\n3. The obligation for the beneficiary to notify the Authority of any changes to information originally submitted in the application.\n\n4. The potential consequences of a discrepancy between reported and actual usage conditions, which may lead to a review and possible withdrawal of the allocation decision.\n\n5. The Authority's right to request any other necessary information during its oversight.",
+                    "line_num": 563
+                  },
+                  {
+                    "title": "Article 33",
+                    "node_id": "0029",
+                    "summary": "###### Article 33\n\nLes ressources en\nnum�rotation sont retir�es ou restitu�es, soit par bloc ou � l'unit� selon la\ncat�gorie des num�ros.",
+                    "line_num": 599
+                  },
+                  {
+                    "title": "Article 34",
+                    "node_id": "0030",
+                    "summary": "The partial document outlines the conditions under which a regulatory authority can withdraw numbering resources allocated to an operator. It details specific scenarios for withdrawal, such as license revocation, operator cessation of activity, operator request, low utilization of resources, and regulatory non-compliance. It also describes the process for reallocating withdrawn numbers, including placing them into a general reserve and a mandatory cooling-off period for previously used numbers to prevent inconvenience to new users.",
+                    "line_num": 606
+                  },
+                  {
+                    "title": "Article 35",
+                    "node_id": "0031",
+                    "summary": "###### Article 35\n\nLorsqu'un op�rateur d�cide de\nmettre fin au service initialement pr�vu, il en informe l'Autorit� de r�gulation\nen adressant une demande d'annulation de la d�cision d'attribution ou de\nr�servation de la ressource.\nL'Autorit� de r�gulation\nprononce l'annulation de ladite d�cision et la notifie � l'int�ress�. La\nressource redevient alors libre et peut faire l'objet d'une nouvelle r�servation\nou attribution.",
+                    "line_num": 631
+                  },
+                  {
+                    "title": "Article 36",
+                    "node_id": "0032",
+                    "summary": "This partial document outlines the procedure for canceling a reservation or allocation of a numbering resource due to non-use or non-compliance. It details a four-step process involving notification of grievances, a one-month period for the beneficiary to respond, a regulatory decision, and the notification of a reasoned final decision. It also introduces a new section on updating the National Numbering Plan.",
+                    "line_num": 643
+                  }
+                ]
+              },
+              {
+                "title": "Section 5 : Des codes USSD",
+                "node_id": "0033",
+                "prefix_summary": "##### Section 5 : Des codes USSD",
+                "line_num": 661,
+                "nodes": [
+                  {
+                    "title": "Article 37",
+                    "node_id": "0034",
+                    "summary": "###### Article 37\n\nL'Autorit� de r�gulation\nassure la mise � jour des informations relatives � la structure et � l'�volution\ndu Plan National de Num�rotation d'une part et � la situation des ressources\nr�serv�es et attribu�es d'autre part.\nLes informations relatives\naux r�servations et attributions sont mises � jour mensuellement et publi�es sur\nle site de l'Autorit� de r�gulation.\nLa nature du service\nn'apparait que pour les num�ros attribu�s.",
+                    "line_num": 664
+                  },
+                  {
+                    "title": "Article 38",
+                    "node_id": "0035",
+                    "summary": "###### Article 38\n\nLes codes USSD sont d�finis �\nl'annexe 3 du pr�sent Arr�t�.\n�1. Des codes USSD destin�s\naux services d'urgence ou d'int�r�t g�n�ral",
+                    "line_num": 677
+                  },
+                  {
+                    "title": "Article 39",
+                    "node_id": "0036",
+                    "summary": "###### Article 39\n\nLes codes USSD destin�s aux\nservices d'urgence, d'assistance et d'int�r�t g�n�ral (services sociaux,\nurgences, protection civile, etc.) figurent dans l'annexe 3 du pr�sent Arr�t�.\nL'Autorit� de r�gulation se\nr�serve le droit de compl�ter la liste des codes USSD destin�s aux services\nd'urgence, d'assistance et d'int�r�t g�n�ral.",
+                    "line_num": 685
+                  },
+                  {
+                    "title": "Article 40",
+                    "node_id": "0037",
+                    "summary": "###### Article 40\n\nLes op�rateurs sont tenus de\nlib�rer les codes USSD de leur plan priv� lorsque ces derniers sont en conflit\navec un code USSD destin� aux services d'urgence, d'assistance et d'int�r�t\ng�n�ral.\nLes op�rateurs sont tenus\nd'impl�menter gratuitement les codes USSD affect�s aux services d'urgence,\nd'assistance et d'int�r�t g�n�ral. Ils sont �galement tenus d'acheminer\ngratuitement les transactions vers ces num�ros.\n�2. Des modalit�s et\nconditions d'attribution des codes USSD d�di�s aux services � valeur ajout�e",
+                    "line_num": 695
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0038",
+                    "summary": "###### Article 41\n\nLes codes USSD d�di�s aux\nservices � valeur ajout�e sont attribu�s � l'unit�.\nLa demande d'attribution est\nadress�e � l'Autorit� de r�gulation et constitu�e conform�ment � l'article 21 du\npr�sent Arr�t�.",
+                    "line_num": 709
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0039",
+                    "summary": "###### Article 42\n\nLes fournisseurs de services\n� valeur ajout�e disposent d'un d�lai de six (6) mois, � compter de la date de\nnotification de la d�cision d'attribution, pour l'impl�mentation des codes\nattribu�s. A d�faut d'impl�menter les codes attribu�s, l'Autorit� de r�gulation\npeut retirer lesdits codes.\n�3. Des conditions\nd'impl�mentation des codes USSD d�di�s aux op�rateurs",
+                    "line_num": 718
+                  },
+                  {
+                    "title": "Article 43",
+                    "node_id": "0040",
+                    "summary": "###### Article 43\n\nLes op�rateurs de r�seaux\ninforment l'Autorit� de r�gulation avant toute activation d'un code USSD\nop�rateur de format * 1 YZ# sur leurs r�seaux.\n�4. De l'obligation\nd'impl�mentation",
+                    "line_num": 729
+                  },
+                  {
+                    "title": "Article 44",
+                    "node_id": "0041",
+                    "summary": "###### Article 44\n\nSur pr�sentation de la\nd�cision d'attribution de l'Autorit� de r�gulation du code USSD par les\nfournisseurs de services � valeur ajout�e, les op�rateurs de r�seaux disposent\nd'un d�lai de trente (30) jours calendaires pour faire droit � toute demande\nd'impl�mentation de codes USSD dans des conditions objectives, transparentes et\nnon discriminatoires.",
+                    "line_num": 738
+                  }
+                ]
+              },
+              {
+                "title": "Section 6 : Des sanctions",
+                "node_id": "0042",
+                "prefix_summary": "##### Section 6 : Des sanctions",
+                "line_num": 748,
+                "nodes": [
+                  {
+                    "title": "Article 45",
+                    "node_id": "0043",
+                    "summary": "###### Article 45\n\nLes op�rateurs de r�seaux\npublient annuellement dans leurs catalogues d'interconnexion, les conditions\nd'impl�mentation des codes USSD sur leurs r�seaux.\nLa dur�e maximale de la\nsession USSD est de 120 secondes et celle du � time out � (d�lai de d�connexion)\nne doit pas �tre inf�rieure � 60 secondes.",
+                    "line_num": 751
+                  },
+                  {
+                    "title": "Article 46",
+                    "node_id": "0044",
+                    "summary": "###### Article 46\n\nTout op�rateur qui utilise\nune ressource en num�rotation non r�guli�rement attribu�e par l'Autorit� de\nr�gulation, est puni d'une amende dont le taux est fix� par un Arr�t�\nsp�cifique, sans pr�judice d'autres sanctions pr�vues par la r�glementation en\nvigueur.",
+                    "line_num": 761
+                  },
+                  {
+                    "title": "Article 47",
+                    "node_id": "0045",
+                    "summary": "###### Article 47\n\nTout op�rateur b�n�ficiaire\nd'une r�servation qui utilise la ressource r�serv�e alors m�me qu'elle ne lui a\npas �t� effectivement attribu�e par l'Autorit� de r�gulation sera puni d'une ou\ndes sanctions suivantes :\n� une amende dont le\ntaux est fix� par un Arr�t� sp�cifique ;\n� l'annulation de la\nd�cision de r�servation conform�ment � la proc�dure indiqu�e � l'article 36.",
+                    "line_num": 770
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV : Des",
+            "node_id": "0046",
+            "prefix_summary": "#### Chapitre IV : Des",
+            "line_num": 782,
+            "nodes": [
+              {
+                "title": "Article 48",
+                "node_id": "0047",
+                "summary": "###### Article 48\n\nL'Autorit� de r�gulation peut\nproc�der au retrait des num�ros ou blocs de num�ros en cas de non-paiement des\nredevances.\n\ndispositions transitoires et finales",
+                "line_num": 785
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0048",
+                "summary": "###### Article 49\n\nA la date de la signature du\npr�sent Arr�t�, tout b�n�ficiaire d'une ressource en num�rotation n'ayant pas la\nqualit� d'op�rateur, � l'exception des services d'urgence, d'assistance et\nd'int�r�t g�n�ral, dispose d'un d�lai de six (6) mois pour restituer la\nressource lui attribu�e.\nD�passer le d�lai de six (6)\nmois, les ressources d�tenues par les personnes physiques ou morales non\nop�rateurs sont reprises dans la r�serve g�n�rale, en observant l'exception de\nl'alin�a pr�c�dent.",
+                "line_num": 794
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : Des modalit�s",
+            "node_id": "0049",
+            "prefix_summary": "#### Chapitre III : Des modalit�s",
+            "line_num": 807,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0050",
+                "summary": "This partial document outlines the structure of the Democratic Republic of Congo's National Numbering Plan. It details a closed 10-digit system (0 + 9 digits) following the EZABPQMCDU format. The main points covered include the international access prefix, geographic numbering zones (three zones with sub-zones and fixed operator identifiers), non-geographic numbers for mobile operators, short codes, reserved ranges, value-added service numbers, and references to detailed structures in annexes.",
+                "line_num": 810
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0051",
+                "summary": "###### Article 50\n\nLes ressources en\nnum�rotation quel qu'en soit le format, font partie du domaine public de l'�tat.\nElles sont inali�nables et incessibles.",
+                "line_num": 856
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0052",
+                "summary": "###### Article 51\n\nLes d�cisions de r�servation\net d'attribution des ressources sont communiqu�es au Ministre. Elles sont\npubli�es au Journal officiel.",
+                "line_num": 863
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0053",
+                "summary": "###### Article 52\n\nLes taux de la taxe sont\nfix�s par un Arr�t� sp�cifique.",
+                "line_num": 870
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0054",
+                "summary": "###### Article 53\n\nSont abrog�es toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+                "line_num": 876
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0055",
+                "summary": "###### Article 54\n\nLe pr�sident du coll�ge de\nl�ARPTC, ainsi que le Secr�taire g�n�ral au Minist�re des Postes,\nT�l�communications et Nouvelles Technologies de l�Information et de la\nCommunication, sont charg�s, chacun en ce qui le concerne de l�ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 11\njuillet 2022.\nANNEXES\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 882
+              },
+              {
+                "title": "Section 1 : De",
+                "node_id": "0056",
+                "prefix_summary": "##### Section 1 : De",
+                "line_num": 900,
+                "nodes": [
+                  {
+                    "title": "Article 6",
+                    "node_id": "0057",
+                    "summary": "This partial document outlines the structure of a National Numbering Plan. It categorizes telephone numbers into four main types: 1) Standard numbers for fixed and mobile networks, 2) Numbers for accessing value-added services (using both long and short codes), 3) Numbers for accessing service providers (including virtual operators), and 4) Short codes for customer assistance or public interest services.",
+                    "line_num": 903
+                  }
+                ]
+              },
+              {
+                "title": "Section 2 : De l'�volution du",
+                "node_id": "0058",
+                "prefix_summary": "##### Section 2 : De l'�volution du",
+                "line_num": 934,
+                "nodes": [
+                  {
+                    "title": "Article 7",
+                    "node_id": "0059",
+                    "summary": "The partial document outlines the guiding principles for establishing a National Numbering Plan. The main points covered are: adherence to international standards; ensuring sufficient long-term capacity with significant reserves; rules for managing and replenishing these reserves; accommodating market needs and new operators, including carrier selection; planning amendments to minimize disruption; harmonizing national number lengths; and the allocation of short codes for emergency services, customer assistance, and value-added services.",
+                    "line_num": 937
+                  },
+                  {
+                    "title": "Article 8",
+                    "node_id": "0060",
+                    "summary": "###### Article 8\n\nToute personne concern�e peut\nsaisir l'Autorit� de r�gulation d'une demande d'�volution du Plan National de\nNum�rotation. Cette demande devra �tre conforme aux r�gles nationales et aux\nrecommandations des organismes internationaux comp�tents.\nLa demande peut �tre soumise\npar des op�rateurs, des industriels, des utilisateurs ou toute partie concern�e.\nLa d�cision est prise par\nl'Autorit� de r�gulation. Le calendrier de mise en oeuvre est fix� apr�s\nconsultation des exploitants de r�seaux ouverts au public, des industriels et\ndes utilisateurs, en tenant compte de l'int�r�t de ces derniers.",
+                    "line_num": 980
+                  },
+                  {
+                    "title": "Article 9",
+                    "node_id": "0061",
+                    "summary": "###### Article 9\n\nEn vue de faciliter la mise �\njour du Plan National de Num�rotation, l'Autorit� de r�gulation r�alise tous les\ncinq (5) ans une �valuation pr�visionnelle des besoins � l'horizon de vingt (20)\nans. Cette projection est d�taill�e pour les dix (10) premi�res ann�es par types\nde r�seaux et services. Les seuils de saturation du plan en vigueur sont\nclairement identifi�s, de mani�re � permettre la programmation des modifications\nde sa structure.",
+                    "line_num": 994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "6b5f2e67-5485-4853-bf83-1bf0d51acf80"
+    ],
+    "0003": [
+      "6cfc2853-c5f6-4494-8cd1-84ba6e1d5567"
+    ],
+    "0005": [
+      "19661223-f9ef-4be3-a0e1-d5e2adedef19"
+    ],
+    "0006": [
+      "16b3b07c-73c6-499e-bce6-bc7994bb41c5"
+    ],
+    "0007": [
+      "c6e2044c-8ff4-4068-8a33-5dfc16dc8fe2"
+    ],
+    "0009": [
+      "949541ce-baa9-47f9-b610-9cca5512c5e8"
+    ],
+    "0010": [
+      "ae5c1612-6b0d-46ce-afd0-98bbdaf6b0a3"
+    ],
+    "0011": [
+      "85608ce3-84a7-4827-b618-c88b1821f68e"
+    ],
+    "0012": [
+      "44cf468b-523d-4d4b-8e9c-0d917db80586"
+    ],
+    "0013": [
+      "858aa06a-d674-47d6-9d10-e530215f4a5a"
+    ],
+    "0014": [
+      "0300329a-5923-46be-a6a3-190e2225df2f"
+    ],
+    "0015": [
+      "5316d5ab-0d7a-45f1-a702-d8128cec9880"
+    ],
+    "0016": [
+      "bed5c12d-c57b-4fa7-8317-7c24ae52c9ed"
+    ],
+    "0017": [
+      "ebbd3177-a38f-467e-90e2-1bdbf2ff4203"
+    ],
+    "0018": [
+      "f91e228a-23d4-40ad-9df2-f5d690d7d4bf"
+    ],
+    "0019": [
+      "dbca81cb-b3ed-4536-8a1a-cfec0d37e526"
+    ],
+    "0020": [
+      "b6fede37-2bf1-4618-b5ce-18260be1be4c"
+    ],
+    "0021": [
+      "be2906a7-4ea1-435e-b3b8-bcb91f08d68a"
+    ],
+    "0022": [
+      "daea4032-0dab-474b-bd88-51dddb5adf1d"
+    ],
+    "0023": [
+      "1429ac4e-3df3-4917-b29b-d09d0a3938da"
+    ],
+    "0024": [
+      "ba832069-2fd2-4694-b185-232dcf8e03fa"
+    ],
+    "0025": [
+      "23d19a9f-c8a8-44e1-9b22-eeded9f31504"
+    ],
+    "0026": [
+      "6815acf8-8dbe-4376-b1b7-d74d51a60db1"
+    ],
+    "0027": [
+      "55181cc6-d712-4a11-b3de-20858560829f"
+    ],
+    "0028": [
+      "f0818ab1-3082-48d7-9ad3-d1ce6e6582d8"
+    ],
+    "0029": [
+      "6bc5a567-1964-4262-af55-4d43c981c56b"
+    ],
+    "0030": [
+      "1a71c273-8ba3-4628-af77-368bf6547444"
+    ],
+    "0031": [
+      "8020ac31-dacf-4052-a676-008425db743e"
+    ],
+    "0032": [
+      "b963046c-364c-45ff-b029-0dbbc90ce5d0"
+    ],
+    "0034": [
+      "439300c1-5698-4610-a690-7eae0bdac71a"
+    ],
+    "0035": [
+      "d6c6bf43-2040-462f-956d-861b2d27867f"
+    ],
+    "0036": [
+      "22eea528-f893-468c-a902-e945bb434ec9"
+    ],
+    "0037": [
+      "2165d2e1-43cd-4cc1-b1da-0a83f58ac72e"
+    ],
+    "0038": [
+      "7fadbd67-50d9-4b9b-ae34-a83ddb019106"
+    ],
+    "0039": [
+      "799d3cd4-e47f-446c-8e13-e3e4cc40a7d5"
+    ],
+    "0040": [
+      "b28e373d-216a-44da-8c4f-21d20b82f578"
+    ],
+    "0041": [
+      "e7a55b13-3a13-4b16-bf6e-be5afc3ca498"
+    ],
+    "0043": [
+      "9036bc84-ec78-4b50-a99d-9a0987a4b7d2"
+    ],
+    "0044": [
+      "8ebc2a20-57cc-4bde-8531-15c16de6095b"
+    ],
+    "0045": [
+      "807226c4-fdd0-4eb8-821b-ee86094890e0"
+    ],
+    "0047": [
+      "5acf70b3-3550-4455-88bb-ffe989c24179"
+    ],
+    "0048": [
+      "50c7884d-e64c-4b5c-ae9f-434bddef05b6"
+    ],
+    "0050": [
+      "0f510901-d9f5-47b0-983c-8ec0dad34888"
+    ],
+    "0051": [
+      "05c91b32-2c88-4ae7-8cf6-9d6b6b2c923c"
+    ],
+    "0052": [
+      "01905efa-7047-4e56-ab29-2509c32d8456"
+    ],
+    "0053": [
+      "ca65b832-ba7a-40b0-b004-a6982878394b"
+    ],
+    "0054": [
+      "5b44a2ae-91b6-4463-a531-19256f02dd91"
+    ],
+    "0055": [
+      "df7a1e0b-405d-4b12-889c-ed2037a5a88b"
+    ],
+    "0057": [
+      "8a13122e-8d81-41e2-bf61-3f824e00cb34"
+    ],
+    "0059": [
+      "f663a0aa-e381-408f-b25c-10716450830d"
+    ],
+    "0060": [
+      "e6b5d28d-6e94-4f78-9845-2502303f44c4"
+    ],
+    "0061": [
+      "b6387e25-beca-4526-9927-c8c9dfc26233"
+    ]
+  },
+  "node_count": 62,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:21:36.030796",
+  "article_count": 52,
+  "generation_time_s": 43.58281087875366
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "AM-08-03-2012-2012",
+  "bundle_path": "backups/all_bundles/code/AM-08-03-2012-2012.json",
+  "document_id": "c7f04a2b-7ee0-4572-8f20-2f4993bb1a91",
+  "document_title": "AM.08.03.2012",
+  "tree_json": {
+    "doc_name": "AM-08-03-2012-2012",
+    "structure": [
+      {
+        "title": "AM.08.03.2012",
+        "node_id": "0000",
+        "prefix_summary": "# AM.08.03.2012",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nAux termes du pr�sent Arr�t� on entend par fraude t�l�coms\n: tout proc�d� ou toute man�uvre ayant pour effet d'aboutir � des cessions de\nminutes t�l�phoniques relatives au trafic international � un prix inf�rieur au\nprix fix� par les autorit�s nationales. ct cc, notamment par l'utilisation de\nproc�d�s techniques utilisant des voies de communication non conformes � celles\nautoris�es par la loi dans le cadre du prix r�glementaire.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nl) La non-d�claration des minutes de t�l�communication\ninternationale par les op�rateurs licenci�s ;\n2) L'utilisation d�tourn�e de cartes SIM � l'aide de\npasserelles GSM appel�es aussi SIM-BOX. ou  de tout autre proc�d� technique ;\n3) Le d�tournement de liens t�l�com normalement destin�s �\npasser des appels nationaux en vue de les faire transiter vers 1' international\n;\n4) Tout autre moyen de communication non express�ment\nautoris� par la loi.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "The partial document outlines three main obligations under \"Article 3\" related to the distribution of SIM cards and phone/internet subscriptions. First, all distributors must formally identify the initial user to avoid telecom fraud. Second, operators must maintain up-to-date identification files accessible to State Authorities. Third, operators, wholesalers, and distributors are jointly responsible and must provide, upon request, documents tracing the distribution steps of their SIM card and subscription stocks.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nL���tat a le droit de proc�der, en pr�sence d'informations\n�tablissant une fraude t�l�coms av�r�e ou la collaboration � ladite fraude, �\nune coupure imm�diate et autoritaire des cartes SIM faisant l'objet d'une\nactivit� frauduleuse.\nLe mandataire de l��tat exerce ce droit pour le compte de\ncelui-ci et dispose de tout pouvoir pour imposer la coupure imm�diate aux\nop�rateurs t�l�phoniques.",
+            "line_num": 43
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "This partial document, Article 5, outlines the obligations of telecommunications operators in the fight against telecom fraud. The main points covered are the operators' duties to:\n\n1.  Provide useful information, like call detail records (CDRs), to state authorities upon request.\n2.  Allow and facilitate the installation of hardware, software, and technical systems by the state's agent.\n3.  Commit all necessary resources (personnel, materials, software) to participate permanently in anti-fraud efforts.\n4.  Cooperate promptly to implement a real-time system for automatically cutting off fraudulent SIM cards on the network.\n5.  Mandatorily collect, register, and archive a legally valid identity document for every new SIM card subscription and regularize previously activated cards.\n6.  Fully trace SIM cards throughout their distribution chain to the end user.\n7.  Provide, upon request, calls from randomly purchased SIM cards to audit the effectiveness of fraud tracking and ensure operator integrity.\n8.  Provide two dedicated symmetric 2 Mbps internet connections with fixed public IP addresses: one for the state agent's technical premises and another for equipment installed in the operators' own premises.",
+            "line_num": 54
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "This partial document outlines legal and administrative penalties for telecommunications fraud within the Democratic Republic of the Congo. It specifies that telecom fraud, including complicity and failure to implement anti-fraud measures, is classified as theft or a threat to state security, leading to corresponding criminal penalties. Additionally, it details administrative sanctions, which can include license suspension or revocation for continuous or repeat offenses, as well as administrative fines ranging from 10 million to 100 million Congolese Francs per offense, plus daily penalties ranging from 100,000 to 1 million Congolese Francs.",
+            "line_num": 102
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nToutes les dispositions ant�rieures contraires au pr�sent\nArr�t� sont abrog�es :",
+            "line_num": 124
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nLe Secr�taire g�n�ral aux Postes et Nouvelles Technologies\nde la Communication est charg� de l'ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa. Le 8 mars 2012\nLouis-Alphonse Koyagialo Ngbase te Gerengbo.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 130
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "bc2618f1-6a2f-4a7f-b292-e1a93504f024"
+    ],
+    "0002": [
+      "15844609-b173-492e-95a0-8ccaa49c0147"
+    ],
+    "0003": [
+      "bc5f704d-7871-4d24-9cb3-0393456bf0e8"
+    ],
+    "0004": [
+      "7eabbab3-3a84-4725-859e-a479fc49a32e"
+    ],
+    "0005": [
+      "ac179180-29bc-4e1c-b0dc-377f3cc55912"
+    ],
+    "0006": [
+      "f8dfeb08-4b76-44eb-8ba3-2d1f1f72e48e"
+    ],
+    "0007": [
+      "c4de5f77-2b7f-4842-b38f-706e6f75340d"
+    ],
+    "0008": [
+      "d7b718b6-2991-4f4b-bd34-c8cc94695ce7"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:26:36.471149",
+  "article_count": 8,
+  "generation_time_s": 14.384755849838257
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "AIM-08-11-2019-poste-2019",
+  "bundle_path": "backups/all_bundles/code/AIM-08-11-2019-poste-2019.json",
+  "document_id": "efc1b9ac-cc5d-46f2-ac95-d07e80e7ec65",
+  "document_title": "AIM.08.11.2019.poste",
+  "tree_json": {
+    "doc_name": "AIM-08-11-2019-poste-2019",
+    "structure": [
+      {
+        "title": "AIM.08.11.2019.poste",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 13
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "line_num": 547
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "c6d0901b-bd12-4570-a9e7-1022b34de20a"
+    ],
+    "0002": [
+      "359a578f-754a-42d5-8e64-168386e54e49"
+    ],
+    "0003": [
+      "ed45f829-6256-4bf9-8f05-ba2edc53b9fb"
+    ]
+  },
+  "node_count": 4,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:57:01.917110",
+  "article_count": 3,
+  "generation_time_s": 0.01052999496459961
+}

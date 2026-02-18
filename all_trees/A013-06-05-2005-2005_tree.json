@@ -1,0 +1,394 @@
+{
+  "slug": "A013-06-05-2005-2005",
+  "bundle_path": "backups/all_bundles/code/A013-06-05-2005-2005.json",
+  "document_id": "eee56864-1a5e-4083-9a49-1a67e6153dc7",
+  "document_title": "A013.06.05.2005",
+  "tree_json": {
+    "doc_name": "A013-06-05-2005-2005",
+    "structure": [
+      {
+        "title": "A013.06.05.2005",
+        "node_id": "0000",
+        "prefix_summary": "# A013.06.05.2005",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE VI : DELAI D�INSTRUCTION ET RECOURS",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE VI : DELAI D�INSTRUCTION ET RECOURS",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0002",
+                "summary": "###### Article 10\n\nL�instruction se fait sur la base :\n- des r�gles et servitudes fix�es par les plans d�urbanisme\napplicable � l�emplacement consid�r�, en particulier celles concernant prospect,\nle coefficient d�occupation du sol, la hauteur, la localisation, la nature, le\nvolume, l�aspect architectural des constructions et leur int�gration dans\nl�environnement ;\n- des normes en vigueur en mati�re d�espace vert, des\n�quipements collectifs priv�s ou publics ;\n- des dispositions l�gislatives et r�glementaires en vigueur en\nmati�re de s�curit�, de sant�, d�hygi�ne et d�environnement.",
+                "line_num": 7
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0003",
+                "summary": "###### Article 11\n\nConform�ment � l�article 21 du D�cret du 20 juin 1957 sur\nl�Urbanisme, l�Autorit� qui doit d�livrer l�autorisation de b�tir dispose d�un\nd�lai maximum de soixante jours, � compter de la date du d�p�t du dossier pour\nnotifier sa d�cision au demandeur.",
+                "line_num": 21
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nCe d�lai de soixante jours pourra toutefois �tre port� �\nquatrevingt-dix jours dans les trois cas suivant :\n1. lorsque l�importance ou la complexit� de la construction\nfaisant l�objet de la demande de l�autorisation de b�tir n�cessite un examen\nparticulier des dispositions projet�es ;\n2. lorsque le lieu d��dification de l�immeuble projet� se trouve\ndans un secteur dans lequel des �tudes d�am�nagement sont en cours et font\nl�objet des mesures de sauvegarde ;\n3. dans le cas o� la d�livrance de l�autorisation de b�tir est\nr�serv�e au Ministre de l�Urbanisme et de l�Habitat.",
+                "line_num": 29
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0005",
+                "summary": "###### Article 13\n\nDans le cas o� l�Autorit� charg�e de la d�livrance de\nl�autorisation de b�tir estime devoir user de la prolongation du d�lai, elle\ndoit, avant l��ch�ance de soixante jours, en informer le demandeur.",
+                "line_num": 43
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nLorsqu�il s�av�re que des pr�cisions compl�mentaires doivent\n�tre fournies par le demandeur, les d�lais ci-dessous fix�s, impartis �\nl�autorit� comp�tente pour faire conna�tre sa d�cision, ne commencent � courir\nqu�� compter de la date de remise, par le demandeur, des pr�cisions sollicit�es.",
+                "line_num": 50
+              }
+            ]
+          },
+          {
+            "title": "TITRE VII : VALIDITE DE L�AUTORISATION DE BATIR",
+            "node_id": "0007",
+            "prefix_summary": "#### TITRE VII : VALIDITE DE L�AUTORISATION DE BATIR",
+            "line_num": 58,
+            "nodes": [
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nDans le cas o� la d�cision n�a pas �t� notifi�e dans les\nsoixante jours, le demandeur peut saisir le Ministre de l�Urbanisme et de\nl�Habitat, par lettre command�e. Le Ministre de l�Urbanisme et de l�Habitat doit\nnotifier sa d�cision dans le d�lai de un mois � dater de la r�ception de ladite\nlettre.",
+                "line_num": 61
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nL�autorisation de b�tir valable pour dur�e de trois ans � dater\nde sa signature, sauf pour des travaux dont le d�lai d�ex�cution d�passe cette\ndur�e et qui a �t� communiqu� pr�alablement dans la demande de l�autorisation de\nb�tir.",
+                "line_num": 70
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "###### Article 17\n\nL�autorisation de b�tir n�est renouvelable qu�une seule fois\npour les travaux non entam�s dans le d�lai pr�vu � l�article 16 ci-dessus. La\nvalidit� du renouvellement ne peut exc�der deux ans.",
+                "line_num": 78
+              }
+            ]
+          },
+          {
+            "title": "TITRE VIII : TAXE DE BATISSE",
+            "node_id": "0011",
+            "prefix_summary": "#### TITRE VIII : TAXE DE BATISSE",
+            "line_num": 85,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0012",
+                "summary": "###### Article 18\n\nL�autorisation de b�tir devient caduque lorsque les travaux\nn�ont pas d�but�s dans le d�lai accord�. Dans ce cas, une nouvelle autorisation\nde b�tir sera sollicit�e et la taxe de b�tisse exig�e.",
+                "line_num": 88
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0013",
+                "summary": "###### Article 19\n\nLa d�livrance de l�autorisation de b�tir est conditionn�e au\npayement pr�alable d�une taxe de b�tisse conform�ment au D�cret du 12 d�cembre\n1939 mis en application par l�Ordonnance N�27/TP du 12 mars 1940 et l�Arr�t�\nMinist�riel n�CAB/MIN/TPAT-UH/014/2002 du 20 juin 2002 portant r�vision de\nl�Arr�t� D�partemental n� BCE/URBHAB/ 011/88 du 1er octobre relatif au\nr�ajustement des co�ts estimatifs au m�tre carr� b�ti servant au calcul de la\ntaxe de b�tisse dans la Ville de Kinshasa",
+                "line_num": 95
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0014",
+                "summary": "###### Article 1er\n\nQuiconque d�sire entreprendre une construction en mat�riaux\ndurables ou semi-durables, quelque soit l�usage auquel elle est destin�e, sur le\nterritoire des villes, des Communes et des agglom�rations de plus de 3.000\nhabitants doit, au pr�alable, obtenir une autorisation de b�tir.",
+                "line_num": 106
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0015",
+                "summary": "###### Article 2\n\nL�autorisation de b�tir est �galement exig�e pour les cl�tures\net les modifications ext�rieures � apporter aux constructions existantes, les\nreprises de grosses oeuvres, les sur�l�vations ainsi que pour les travaux\nentra�nant une modification importante de la distribution int�rieure du\nb�timent.",
+                "line_num": 114
+              }
+            ]
+          },
+          {
+            "title": "TITRE IX : PUBLICITE",
+            "node_id": "0016",
+            "prefix_summary": "#### TITRE IX : PUBLICITE",
+            "line_num": 123,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0017",
+                "summary": "This partial document, Article 20, lists the types of construction projects that are exempt from a specific tax. The main points covered are the four categories of exempt constructions:\n\n1.  Reconstruction of buildings destroyed by war (excluding any enlargements).\n2.  Constructions belonging to a Ministerial Department for public service, state housing, certain Chancelleries based on reciprocity, and buildings for officially recognized religions.\n3.  Constructions built for special circumstances under a temporary permit, provided they are demolished within one year of the building permit date.\n4.  All types of temporary constructions, defined as those that must be demolished within one year of the building permit date.",
+                "line_num": 126
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0018",
+                "summary": "###### Article 21\n\nPendant toute la dur�e des travaux, une pancarte portant de\nfa�on lisible le num�ro d�ordre et la date d�octroi de l�autorisation de b�tir\nainsi le nom de la personne physique ou morale � laquelle l�autorisation de\nb�tir a �t� d�livr�e, sera appos�e, de fa�on lisible, sur la cl�ture du\nchantier.\nCes instructions seront faites en lettres de 12 cm ; (douze\ncentim�tres) de hauteur.",
+                "line_num": 145
+              }
+            ]
+          },
+          {
+            "title": "TITRE X : CONTROLE ET SANCTION",
+            "node_id": "0019",
+            "prefix_summary": "#### TITRE X : CONTROLE ET SANCTION",
+            "line_num": 156,
+            "nodes": [
+              {
+                "title": "Article 22",
+                "node_id": "0020",
+                "summary": "###### Article 22\n\nDans les quinze jours qui suivent la signature de l�autorisation\nde b�tir, le proc�s verbal de la Commission charg�e de l�examen des demandes\nd�autorisation de b�tir doit �tre publi� dans les journaux locaux, diffus� � la\nradio et � la t�l�vision, et affich� au bureau du District et de la Commune\nconcern�s par les travaux.",
+                "line_num": 159
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0021",
+                "summary": "###### Article 23\n\nUn dossier original du projet autoris� doit demeurer entre les\nmains de la personne responsable du chantier, pr�t � �tre pr�sent� aux agents de\nl�Administration charg�s de contr�le des chantiers.",
+                "line_num": 168
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0022",
+                "summary": "###### Article 24\n\nLes infractions aux dispositions du pr�sent Arr�t� sont\nconstat�es par les Offices de Police Judiciaire et par tous les fonctionnaires\net agents de l�Administration charg�s � cet effet par le Minist�re de\nl�Urbanisme et de l�Habitat et asserment�s � ce m�me effet.",
+                "line_num": 175
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0023",
+                "summary": "###### Article 25\n\nLes proc�s-verbaux �tablis par les agents d�sign�s � l�article\n24, � la suite de la constatation des infractions, sont transmis, sans d�lai au\nMinist�re Public. Une copie est r�serv�e au Chef de Division Provinciale ou\nUrbaine et de l�Habitat, selon le cas",
+                "line_num": 183
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0024",
+                "summary": "###### Article 26\n\nEn cas de construction r�alis�e en infraction au pr�sent Arr�t�,\nl�interruption des travaux doit �tre ordonn�e d�office par le Ministre de\nl�Urbanisme et de l�Habitat ou par le Gouverneur de Province ou de la Ville de\nKinshasa, selon le cas.",
+                "line_num": 191
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0025",
+                "summary": "###### Article 27\n\nToute personne qui r�alise ou entreprend, fait r�aliser ou fait\nentreprendre, modifie ou fait modifier des constructions sans autorisation de\nb�tir est punie des peines pr�vues � l�article 24 du D�cret du 20 juin 1957 sur\nl�Urbanisme.",
+                "line_num": 199
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0026",
+                "summary": "###### Article 28\n\nL�architecte, l�entrepreneur, le dessinateur ou toute autre\npersonne ayant concouru � l�ex�cution des constructions ou installations sans\nautorisation de b�tir est punissable.",
+                "line_num": 207
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV : DISPOSITIONS FINALES",
+            "node_id": "0027",
+            "prefix_summary": "#### TITRE IV : DISPOSITIONS FINALES",
+            "line_num": 214,
+            "nodes": [
+              {
+                "title": "Article 29",
+                "node_id": "0028",
+                "summary": "###### Article 29\n\nLorsque la construction est �difi�e sur un terrain occup� sans\ndroit ni titre, sur un terrain de l�Etat, ou dans zone non aedificandi ou de\nservitude d�utilit� publique pr�vue au plan d�am�nagement, l�Administration peut\nproc�der d�office, apr�s sommation, � la d�molition et � la remise en �tat de\nlieu aux frais de l�int�ress� apr�s avoir fait �tablir la description\ncontradictoire des biens � d�truire.",
+                "line_num": 217
+              }
+            ]
+          },
+          {
+            "title": "TITRE II : AUTORITES HABILITEES A DELIVRER L�AUTORISATION DE",
+            "node_id": "0029",
+            "prefix_summary": "#### TITRE II : AUTORITES HABILITEES A DELIVRER L�AUTORISATION DE",
+            "line_num": 227,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0030",
+                "summary": "###### Article 3\n\nL�obligation de solliciter une autorisation de b�tir s�impose\naux services publics concessionnaires de l�Etat, des Provinces, des Villes et\ndes Communes, comme aux personnes morales et physiques priv�es.\nToutefois, les proc�dures originales et m�me des exemptions\npourraient prendre en consid�ration l�int�r�t g�n�ral qui s�attache � leurs\ntravaux ou techniques mises en oeuvre.\n\nBATIR",
+                "line_num": 230
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0031",
+                "summary": "###### Article 30\n\nL�autorisation de b�tir accord�e ne dispense pas le b�n�ficiaire\nde se conformer aux autres dispositions prescrites par la loi et r�glements en\nvigueur.",
+                "line_num": 242
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0032",
+                "summary": "###### Article 31\n\nSont abrog�es toutes les dispositions ant�rieures et contraires\nau pr�sent Arr�t�.",
+                "line_num": 249
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0033",
+                "summary": "###### Article 32\n\nLe Secr�taire g�n�ral a..i. � l�Urbanisme et � l�Habitat et les\nGouverneurs de la Ville de Kinshasa et des Provinces sont charg�s, chacun en ce\nqui le concerne, de l�ex�cution du pr�sent Arr�t� qui entre en vigueur � la date\nde sa signature.\nFait � Kinshasa, le 06 mai 2005\nJohn Tibasima Ateenyi\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 255
+              }
+            ]
+          },
+          {
+            "title": "TITRE III : ELABORATION DES PROJETS DE CONSTRUCTIONS",
+            "node_id": "0034",
+            "prefix_summary": "#### TITRE III : ELABORATION DES PROJETS DE CONSTRUCTIONS",
+            "line_num": 271,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0035",
+                "summary": "This partial document outlines the authorization process for building permits in a specific jurisdiction (likely the Democratic Republic of the Congo, given the references to Kinshasa and French text). It specifies two levels of authority:\n\n1.  **The Minister of Urban Planning and Housing** grants permits on behalf of the State for major projects, including:\n    *   Constructions for Ministerial Departments, Public Establishments, Public Enterprises, or State public services.\n    *   Multi-story buildings.\n    *   Significant investment projects like industrial complexes, hotels, commercial complexes, office buildings, service stations, chancelleries, and real estate developments over two hectares.\n\n2.  **The Provincial Governor (or the Governor of Kinshasa)** is responsible for issuing permits for all other construction works not listed under the Minister's authority.",
+                "line_num": 274
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0036",
+                "summary": "###### Article 5\n\nTout projet de construction sup�rieur � 150 m2, ou � �tage doit\n�tre obligatoirement �labor� par un architecte immatricul� au registre des\narchitectes.",
+                "line_num": 292
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV : DEPOT ET CONSTITUTION DU DOSSIER",
+            "node_id": "0037",
+            "prefix_summary": "#### TITRE IV : DEPOT ET CONSTITUTION DU DOSSIER",
+            "line_num": 299,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0038",
+                "summary": "###### Article 6\n\nTous les autres projets inf�rieurs � 150 m2, ou �\nrez-de-chauss�e peuvent �tre �labor�s par des dessinateurs et gradu�s en\narchitecture agr��s au Minist�re de l�Urbanisme et de l�Habitat.",
+                "line_num": 302
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0039",
+                "summary": "The partial document outlines the procedures for submitting a building permit application, specifying where and by whom it must be filed. It details that the application is submitted in three copies by the land concession holder, building owner, or their agent. It provides different submission paths depending on the location: to provincial authorities in the provinces, to urban authorities in Kinshasa (with an additional requirement for local input), and to higher ministerial authorities for certain types of work listed elsewhere in the decree.",
+                "line_num": 309
+              }
+            ]
+          },
+          {
+            "title": "TITRE V : INSTRUCTION DU DOSSIER",
+            "node_id": "0040",
+            "prefix_summary": "#### TITRE V : INSTRUCTION DU DOSSIER",
+            "line_num": 326,
+            "nodes": [
+              {
+                "title": "Article 8",
+                "node_id": "0041",
+                "summary": "This partial document outlines the requirements for a building permit application dossier. It specifies that the dossier must consist of two main parts:\n\n1.  **An Administrative Part**, which includes:\n    *   The completed and signed application form, detailing the owner, project author, and construction site.\n    *   Proof of land occupancy rights and a cadastral extract.\n\n2.  **A Technical Part**, which comprises detailed project plans and documents, including:\n    *   A location plan and a site plan showing boundaries, roads, parking, neighboring structures, and topography.\n    *   Detailed execution plans (foundations, floors, elevations, sections) specifying construction methods, materials, drainage, and room purposes.\n    *   Additional requirements for larger projects, such as a model and stability calculations for buildings over 20m, and a descriptive cost estimate.",
+                "line_num": 329
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0042",
+                "summary": "###### Article 9\n\nL�instruction du dossier de demande d�autorisation de b�tir est\nfaite par les services sp�cialis�s ci-apr�s du Minist�re de l�Urbanisme et de\nl�Habitat :\n- La Division Provinciale ou Urbaine de l�Urbanisme et de\nl�Habitat ;\n- La Direction de l�Urbanisme au niveau national\nLes avis d�autres services techniques, sont �galement requis\napr�s premier examen :\n􀂃 La Conservation des Titres Immobiliers ;\n􀂃 L�Hygi�ne ville ;\n􀂃 L�Environnement ;\n􀂃 La Voirie et Drainage ;\n􀂃 L�Energie.",
+                "line_num": 386
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "3e9f201e-e42b-488b-9ed3-941bafbe6b80"
+    ],
+    "0003": [
+      "73852085-b4e4-457e-97f4-c5a7f1c7b269"
+    ],
+    "0004": [
+      "fca554c9-23e7-4944-836a-157537d91b02"
+    ],
+    "0005": [
+      "d1d245e9-7fe2-407f-8520-8d67b61c1db3"
+    ],
+    "0006": [
+      "458ddca2-8056-4ee9-b045-6010e481a96d"
+    ],
+    "0008": [
+      "9e59597f-6715-47db-8ebc-5a58667b3321"
+    ],
+    "0009": [
+      "bd6ca4ca-997b-495a-8c1d-deba2387e4b1"
+    ],
+    "0010": [
+      "766209f2-6373-4107-9d88-39ac08369dcd"
+    ],
+    "0012": [
+      "f8800b4a-09ba-47d7-9f33-23f8882c994b"
+    ],
+    "0013": [
+      "92df835c-3faf-4533-8623-4687eab7a1f8"
+    ],
+    "0014": [
+      "5f2ac65f-89da-49a0-86e2-b835b002fc36"
+    ],
+    "0015": [
+      "7c67f6b3-ac1c-448f-9be6-ae57bb3e61a9"
+    ],
+    "0017": [
+      "749088a9-e895-46cd-a429-dbc174e7680a"
+    ],
+    "0018": [
+      "d2437dc9-57bb-4792-b181-e92f047d3859"
+    ],
+    "0020": [
+      "32379487-4d9e-451c-8c81-ee7e59c6cfda"
+    ],
+    "0021": [
+      "4246d483-7b5f-4fc4-979e-e8f4c3acf703"
+    ],
+    "0022": [
+      "388817ec-55c6-4b6b-8dd8-4661b101715b"
+    ],
+    "0023": [
+      "d5552015-8104-4e49-8362-7dff2b459933"
+    ],
+    "0024": [
+      "c1e7644c-f1f3-48a0-be72-a3504fca9658"
+    ],
+    "0025": [
+      "0dc02281-bbf9-4589-a074-0269006580c5"
+    ],
+    "0026": [
+      "4a0ff864-582a-456a-9cc4-59d3768741e1"
+    ],
+    "0028": [
+      "af93a531-0a7d-4afc-8c64-c1779cb12523"
+    ],
+    "0030": [
+      "35977984-f0be-47aa-a57e-d7b9c67dadc8"
+    ],
+    "0031": [
+      "37a413fc-3732-4a2c-929c-96c07db8a343"
+    ],
+    "0032": [
+      "98b2e25f-24c2-4286-8d55-910a4bb9b584"
+    ],
+    "0033": [
+      "3919f21e-b624-42f0-a6c9-27f40fc1fdf0"
+    ],
+    "0035": [
+      "08d45cf0-28ce-4c99-8edb-8b9384ff0ef3"
+    ],
+    "0036": [
+      "091af415-6bbe-49b1-be97-2c0ceb72157a"
+    ],
+    "0038": [
+      "3b083e0b-49d6-4d28-a96c-1196548a5182"
+    ],
+    "0039": [
+      "c0ba85f0-74f6-4717-8885-c850150829d3"
+    ],
+    "0041": [
+      "fe8ab1be-bc09-4734-9045-f24ccb152719"
+    ],
+    "0042": [
+      "4056843e-8f50-485f-9136-e48518a5b23d"
+    ]
+  },
+  "node_count": 43,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:33:52.785236",
+  "article_count": 32,
+  "generation_time_s": 13.499155044555664
+}

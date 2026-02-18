@@ -1,0 +1,170 @@
+{
+  "slug": "A-025-16-12-1999-1999",
+  "bundle_path": "backups/all_bundles/code/A-025-16-12-1999-1999.json",
+  "document_id": "e71c3235-2b77-4223-804a-62dbdcd82af0",
+  "document_title": "A.025.16.12.1999",
+  "tree_json": {
+    "doc_name": "A-025-16-12-1999-1999",
+    "structure": [
+      {
+        "title": "A.025.16.12.1999",
+        "node_id": "0000",
+        "prefix_summary": "# A.025.16.12.1999",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document is the beginning of a residential lease agreement (in French). The main points covered are:\n\n1.  **Identification of Parties and Property:** It introduces Article 1, which defines the \"Bailleur\" (Landlord/Lessor) and the \"Locataire\" (Tenant/Lessee).\n2.  **Property Description:** It provides a template for detailing the specific address of the rental property, including street number, avenue/rue name, commune, city, and province.\n3.  **Property Composition:** It outlines sections (marked by \"~\" and ellipses) intended for describing the components or rooms of the immovable property (the dwelling).",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\n:\nIl est interdit au locataire\nde sous-louer tout partie du bien lou� comme de c�der tout\nou partie de son droit de bail.\nX. Conditions de\nr�siliation.",
+            "line_num": 47
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\n:\nLe contrat de location prend\nfin, soit:\n1� � l'expiration du terme\nconvenu et/ ou non renouvel�;\n2� sur accord des deux\nparties;\n3� � l'initiative de l'une\ndes parties suite � l'inex�cution par l'autre de ses\nobligations;\n4� par la perte du bien lou�\nd� � un d�sastre naturel.",
+            "line_num": 57
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\n:\nEn cas d'ali�nation de\nl'immeuble, le Bailleur doit en informer le locataire et lui\naccorder un pr�avis l�gal.",
+            "line_num": 73
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\n:\nEn cas de d�c�s d'une des\nparties, le contrat prend fin � l'�ch�ance convenue �\nl'article 7 et ne peut �tre renouvel� par tacite\nreconduction.",
+            "line_num": 81
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\n:\nLe pr�avis l�gal correspond\nau nombre des mois de garanties locatives.\nXI. Instance\nd'arbitrage.",
+            "line_num": 90
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\n:\nA d�faut de r�glement �\nl'amiable, tout conflit �ventuel est soumis au Service local\nde l'Habitat � priori.\nXII. Sanction.",
+            "line_num": 99
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "###### Article 16\n\n:\nLa non-l�galisation de\ncontrat de location dans un d�lai de 72 heures apr�s sa\nsignature, entra�ne le paiement par les parties d'une amende\n�quivalent � un mois de loyer.\nFait � Kinshasa, le\nLE\nBAILLEUR\nLE LOCATAIRE\n(Nom et\nSignature)\n(Nom et Signature)\nLE SERVICE DE L'HABITAT\nL'AUTORITE ADMINISTRATIVE\nLOCALE\nDONT COUT\nFC ���������\nTIMBRES FISCAUX\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 108
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0009",
+            "summary": "###### Article 2\n\n:\nLe pr�sent contrat s'applique au\nbien immobilier d�crit-dessus mis en location pour\nusage:����������������������������..(� pr�siser)\nIII. Loyer.",
+            "line_num": 136
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0010",
+            "summary": "###### Article 3\n\n:\nLe loyer est mensuel. Il est fix�\nen monnaie nationale.\nIl est\nde................................................................................................................\n(en chiffres)\n................................ ... ... ... �... ........ ...\n... ........ ................................ (en lettres)\nLe taux de loyer ne peut �tre\nmodifi� qu'en cas de :\n- plus-value du bien lou�;\n- r��valuation ou  d�valuation\nofficielle de la monnaie nationale.\nCette modification doit faire\nl'objet d'un avenant au contrat contresign� par les deux parties\net vis� par l'Officier du Service Communal charg� de l'Habitat.\nIV. Modalit�s de\npaiement.",
+            "line_num": 145
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0011",
+            "summary": "###### Article 4\n\nLe paiement du loyer peut\ns'effectuer en esp�ces, par ch�que certifi� ou par virement\nbancaire anticipativement ou � terme �chu (� pr�ciser par les\ndeux parties)\n...........................................................................................................................................................................................................................................................................................................\n...........................................................................................................................................................................................................................................................................................................\nV. Garantie.",
+            "line_num": 167
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0012",
+            "summary": "###### Article 5\n\nLa garantie locative est fix�e �\n:\n- trois mois de loyer, pour un\nbien immobilier � usage r�sidentiel ;\n-\nsix mois de loyer, pour un bien\nimmobilier � usage commercial ;\n-\ndouze mois de loyer, pour un bien\nimmobilier � usage industriel ou mixte.",
+            "line_num": 178
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0013",
+            "summary": "###### Article 6\n\nA l'�ch�ance du contrat de\nlocation, la garantie locative est rembours�e au locataire\napr�s d�duction, le cas �ch�ant, des sommes dues au\nBailleur.\n.\n.\nAu cours du bail, la\ngarantie locative n'est pas r�ajustable et n'est pas\nproductive d'int�r�ts quelconques. Elle ne peut servir\naucunement au paiement des loyers au cours du bail, sauf\naccord expr�s des deux Parties.\nVI. Dur�e.",
+            "line_num": 192
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0014",
+            "summary": "###### Article 7\n\nPour garantir la stabilit�\ndu bail, le contrat est conclu pour une dur�e minimum d'un\nan prenant cours le............\n(date de r�ception\npar l'Officier du Service de l'Habitat). il peut �tre\nrenouvel� par tacite reconduction ou avec l'accord expr�s\ndes deux parties.\nVII.\nObligations du Bailleur.",
+            "line_num": 208
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0015",
+            "summary": "###### Article 8\n\n:\nLe Bailleur est tenu aux\nobligations suivantes:\n- mettre � la disposition du\nlocataire le bien lou� dans l'�tat appropri� � sa\ndestination;\n- accorder une jouissance\npaisible du bien lou�;\n- s'acquitter de toutes les\ntaxes l�gales en vigueur;\n- payer sa quote-part des\nfactures d'eau, d'�lectricit�, du t�l�phone\net/ou\nautres, pour autant qu'il en fasse usage.\nVIII.    Obligations\ndu Locataire.",
+            "line_num": 221
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0016",
+            "summary": "###### Article 9\n\n:\nLe Locataire est 'tenu aux\nobligations. ci-apr�s :\n- payer r�guli�rement son\nloyer aux termes convenus;\n-\nuser du bien lou� en bon\np�re de famille;\n- r�pondre des d�gradations du\nbien lou� qui surviendraient pendant le bail et pour\nlesquelles il serait responsable;\n-\npayer r�guli�rement sa\nfacture ou quote-part de facture de consommation d'eau,\nd'�lectricit�, du t�l�phone etc.\n- ne pas apporter des\nmodifications quelconques au bien lou� sans l'accord �crit\ndu Bailleur.\nIX.\nSous-location ou cession.",
+            "line_num": 241
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "896a2936-0801-4f26-94bd-77b505bcb48a"
+    ],
+    "0002": [
+      "967573b5-4c1a-4d9f-a855-49725d8c5add"
+    ],
+    "0003": [
+      "cd007f93-527b-490d-89f6-f331d6046fc0"
+    ],
+    "0004": [
+      "2dcdc391-11a4-49fc-97c7-ebecc8708f2b"
+    ],
+    "0005": [
+      "cdd64f73-ef2c-4f1d-ad92-3a4ec6206039"
+    ],
+    "0006": [
+      "3259b5a9-6cda-433d-b336-5f11e4d20f3c"
+    ],
+    "0007": [
+      "ad3039d5-df2d-48f3-adb5-5e5fad2645ab"
+    ],
+    "0008": [
+      "6a9974ff-56cf-4a91-b050-db9f40c94322"
+    ],
+    "0009": [
+      "8bfd810d-4d5a-4b8e-976f-6a2a3d461df5"
+    ],
+    "0010": [
+      "3b3679f7-13bf-4a01-9359-169135afca04"
+    ],
+    "0011": [
+      "bae58adc-fac7-4ab7-915c-aa7c34d6a192"
+    ],
+    "0012": [
+      "be316191-e968-40e2-b02b-7dde676cceb1"
+    ],
+    "0013": [
+      "3a475f1a-3b29-46d8-a95b-42243f8b2577"
+    ],
+    "0014": [
+      "604f5c9e-2220-49c1-bcf7-a5a2e51cfc91"
+    ],
+    "0015": [
+      "79e6b4df-342b-4d5d-87e5-ce4e9586c312"
+    ],
+    "0016": [
+      "14bf0e5c-0119-4d40-94d7-01bd81a776db"
+    ]
+  },
+  "node_count": 17,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:30:05.024679",
+  "article_count": 16,
+  "generation_time_s": 5.928143739700317
+}

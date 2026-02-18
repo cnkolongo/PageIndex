@@ -1,0 +1,57 @@
+{
+  "slug": "AM-13-05-1998-1998",
+  "bundle_path": "backups/all_bundles/code/AM-13-05-1998-1998.json",
+  "document_id": "febb64e4-387f-4e05-893c-5e5edfbeaaf5",
+  "document_title": "AM.13.05.1998",
+  "tree_json": {
+    "doc_name": "AM-13-05-1998-1998",
+    "structure": [
+      {
+        "title": "AM.13.05.1998",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 45
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "line_num": 53
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0004",
+            "line_num": 64
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f5794d4d-e147-4622-8309-17160fbacbfa"
+    ],
+    "0002": [
+      "b9353dc9-0e29-4e9a-b45c-e635ebab72de"
+    ],
+    "0003": [
+      "e3a2906a-e233-4f61-94fd-07ed853d62f1"
+    ],
+    "0004": [
+      "8214e3a9-1b12-4b72-b3a7-9d5e63f7069b"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:27.118670",
+  "article_count": 4,
+  "generation_time_s": 0.004159212112426758
+}

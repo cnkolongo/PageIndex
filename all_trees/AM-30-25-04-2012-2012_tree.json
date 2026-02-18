@@ -1,0 +1,555 @@
+{
+  "slug": "AM-30-25-04-2012-2012",
+  "bundle_path": "backups/all_bundles/code/AM-30-25-04-2012-2012.json",
+  "document_id": "8fda54cf-c2bf-4650-a563-723cc82a5d20",
+  "document_title": "AM.30.25.04.2012",
+  "tree_json": {
+    "doc_name": "AM-30-25-04-2012-2012",
+    "structure": [
+      {
+        "title": "AM.30.25.04.2012",
+        "node_id": "0000",
+        "prefix_summary": "# AM.30.25.04.2012",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\n:\nLes pr�ts\nconsentis par le Fonds peuvent �tre � court, moyen et long termes.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\n:\nUn pr�t �\ncourt terme est celui dont le d�lai de remboursement n�exc�de pas une ann�e.\nUn pr�t �\nmoyen terme est celui dont le d�lai de remboursement n�exc�de pas trois ann�es.\nTout pr�t\ndont le d�lai de remboursement d�pass� trois ann�es est un pr�t � long terme.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\n:\nLa\nfixation du terme de remboursement de tout projet tient compte de l�importance\ndu projet et de la dur�e de son ex�cution.",
+            "line_num": 22
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\n:\nL��ch�ance\nde remboursement de des pr�ts consentis par le Fonds est fix� dans le contrat de\npr�t ou dans un document distinct contenant l�accord des parties.\nParagraphe\n2 : Des prises de participations",
+            "line_num": 30
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "###### Article 14\n\n:\nIl y a\nprise de participations lorsque le Fonds finance la r�alisation d�un projet\nculturel ou artistique en commun avec une personne physique ou morale de droit\npriv� ou de droit public. Une prise de participation peut g�n�rer des revenus\npour le Fonds ou �tre faite � fonds perdus, suivant la nature du projet.\nArticle15:\nToute\nprise de participations � fonds perdus ne peut �tre effectu�e que pour un projet\npr�sentant un int�r�t majeur pour la promotion et le rayonnement de la culture\ncongolaise au pays ou � l��tranger.\nParagraphe\n3 : De la bonification d�int�r�ts",
+            "line_num": 40
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0006",
+            "summary": "###### Article 16\n\n:\nLe Fonds\npeut accorder des avantages sur les taux d�int�r�ts � un emprunteur, titulaire\nou promoteur d�un projet culturel ou artistique financ� par lui, si l�emprunteur\nrembourse avant l��ch�ance.",
+            "line_num": 57
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0007",
+            "summary": "###### Article 17\n\n:\nLe niveau\nde la bonification d�int�r�t est fix� par le Directeur g�n�ral du Fonds suivant\nles performances de l�emprunteur.\nParagraphe\n4 : Des subventions",
+            "line_num": 66
+          },
+          {
+            "title": "Chapitre V",
+            "node_id": "0008",
+            "prefix_summary": "#### Chapitre V\n: Des conditions d�interventions",
+            "line_num": 76,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0009",
+                "summary": "###### Article 18\n\n:\nLa\nsubvention est le mode d�intervention par lequel le Fonds finance un projet\nculturel ou artistique d�une personne physique ou morale de droit priv� ou de\ndroit public accomplissant une mission d�int�r�t g�n�ral.\nLa\nsubvention se fait � fonds perdus.",
+                "line_num": 80
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0010",
+                "summary": "###### Article 19\n\n:\nToute\nintervention du Fonds ne peut pas se faire qu�� la suite d�une demande pr�alable\nintroduite par le titulaire ou le promoteur d�un objet culturel et artistique.",
+                "line_num": 91
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0011",
+                "summary": "###### Article 1er\n\n:\nAux au\nterme du pr�sent Arr�t�, il faut entendre par :\n- Fonds :\nLe Fonds de Promotion Culturelle.\n-\nIntervention : Le financement des activit�s culturelles et artistiques\nnationales faisant l�objet des projets.\nChapitre\n2: De l�objet et du champ d�application",
+                "line_num": 99
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0012",
+                "summary": "###### Article 2\n\n:\nLe pr�sent\nArr�t� a pour objet de fixer les r�gles qui d�terminent les modalit�s\nd�intervention du Fonds en faveur des Projets culturels et artistiques.",
+                "line_num": 113
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\n:\nL�intervention du Fonds est soumise aux conditions suivantes :\n1. le\nprojet � financer doit relever du secteur culturel ou artistique ;\n2. le\nprojet doit pr�senter un int�r�t pour le rayonnement ou l��panouissement de la\nculture congolaise ;\n3. le\nprojet doit �tre valide ;\n4. le\ntitulaire ou le promoteur du projet doit �tre cr�dible ;\n5. pour\nles projets initi�s � l��tranger, il faut l�avis favorable de la mission ou\nrepr�sentation diplomatique de la R�publique D�mocratique du Congo du lieu de la\nr�sidence ou du domicile du titulaire ou du promoteur du projet et/ou de sa\nr�alisation.",
+                "line_num": 121
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0014",
+            "prefix_summary": "#### Chapitre\nVI : De la proc�dure de financement",
+            "line_num": 141,
+            "nodes": [
+              {
+                "title": "Article 21",
+                "node_id": "0015",
+                "summary": "###### Article 21\n\n:\nSans\npr�judice de l�article 20 ci-dessus, le Fonds appr�cie les diff�rents projets\nlui soumis en tenant compte d�autres �l�ments d�information en sa possession.\n\nSection 1:\nDe demandes de financement",
+                "line_num": 145
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0016",
+                "summary": "###### Article 22\n\n:\nTout\ntitulaire ou promoteur d�un projet culturel ou artistique qui sollicite le\nfinancement de ce projet doit au pr�alable introduire une demande de financement\nau fonds.",
+                "line_num": 156
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0017",
+                "summary": "###### Article 23\n\n:\nLes\ndemandes de financement sont adress�es au Directeur g�n�ral du Fonds.\nElles sont\nre�ues � la Direction g�n�rale contre accus� de r�ception.",
+                "line_num": 165
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0018",
+                "summary": "###### Article 24\n\n:\nDans les\nprovinces les demandes sont adress�es au Directeur g�n�ral du Fonds par\nl�interm�diaire du chef d�agence ou du chef d�antenne du ressort de la\nr�alisation du projet de la r�sidence ou du domicile du titulaire ou du\npromoteur du projet, contre accuse de r�ception. Les demandes d�pos�es au pr�s\ndu chef d�antenne sont transmises par la voie hi�rarchique au chef d�agence qui,\na son tour, les transmet au Directeur g�n�ral avec ses avis. Dans tout le cas,\nle chef d�agence doit transmettre les demandes dans les trente jours qui suivent\nleur r�ception.",
+                "line_num": 174
+              },
+              {
+                "title": "Section 2:",
+                "node_id": "0019",
+                "prefix_summary": "##### Section 2:\nDe l�examen des demandes.",
+                "line_num": 188,
+                "nodes": [
+                  {
+                    "title": "Article 25",
+                    "node_id": "0020",
+                    "summary": "###### Article 25\n\n:\nAucune\ndemande de financement n�est recevable si elle ne comporte les �l�ments suivants\n:\n1.\nl�identit� compl�te du titulaire ou du promoteur du projet ;\n2. pour\nles personnes morales, tous documents attestant son existence juridique et, le\ncas �ch�ant, la r�gularit� de sa situation fiscale ;\n3. une\nfiche technique et descriptive du projet ;\n4.\n�ventuellement le dossier de constitution des garanties ;\n5. une\nlettre de demande de financement.",
+                    "line_num": 192
+                  },
+                  {
+                    "title": "Article 26",
+                    "node_id": "0021",
+                    "summary": "###### Article 26\n\n:\nToutes les\ndemandes de financement sont examin�es par la Direction g�n�rale. Toutefois, les\ndemandes introduites aupr�s des agences et antennes font l�objet d�un examen\npr�liminaire � ces �chelons. Elles sont transmises � la Direction g�n�rale avec\nles avis du chef d�agence ou du chef d�antenne du ressort.",
+                    "line_num": 211
+                  },
+                  {
+                    "title": "Article 27",
+                    "node_id": "0022",
+                    "summary": "###### Article 27\n\n:\nLes\ndemandes sont examin�es en double phase : administrative et technique.\nParagraphe\n1 : Phase administrative",
+                    "line_num": 221
+                  },
+                  {
+                    "title": "Article 28",
+                    "node_id": "0023",
+                    "summary": "###### Article 28\n\n:\nLorsqu�un\ndossier de demande de financement est introduit au Fonds, le Directeur g�n�ral\nl�envoie � la Direction de la Promotion culturelle.",
+                    "line_num": 230
+                  },
+                  {
+                    "title": "Article 29",
+                    "node_id": "0024",
+                    "summary": "###### Article 29\n\n:\nLa\nDirection de la promotion culturelle proc�de � la v�rification des �l�ments\nconstitutifs du dossier ainsi que de leur r�gularit�.\nParagraphe\n2 : Phase technique",
+                    "line_num": 238
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0025",
+            "prefix_summary": "#### Chapitre\nIII : Des b�n�ficiaires d�interventions",
+            "line_num": 248,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0026",
+                "summary": "###### Article 3\n\n:\nLes\ninterventions du Fonds ne concernent que les Projets culturels et artistiques, �\nl�exclusion des projets relevant d�autres domaines.",
+                "line_num": 252
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0027",
+                "summary": "###### Article 30\n\n:\nApr�s la\nv�rification des �l�ments du dossier, la Direction de la Promotion culturelle\nanalyse les �l�ments technique du projet, notamment sa valeur culturelle ou\nartistique, son utilit� pour la culture congolaise, sa validit�, la cr�dibilit�\ndu titulaire ou du promoteur du projet, la r�gularit� et l�effectivit� des\ngaranties propos�es.",
+                "line_num": 260
+              },
+              {
+                "title": "Section 3:",
+                "node_id": "0028",
+                "prefix_summary": "##### Section 3:\nDe la commission des cr�dits",
+                "line_num": 271,
+                "nodes": [
+                  {
+                    "title": "Article 31",
+                    "node_id": "0029",
+                    "summary": "###### Article 31\n\n:\nLes\nconclusions de l�examen de la demande de financement par la Direction de la\nPromotion culturelle sont transmises au Directeur g�n�rale par le Directeur de\nla Promotion culturelle qui dresse un rapport accompagn� de son avis.",
+                    "line_num": 275
+                  },
+                  {
+                    "title": "Article 32",
+                    "node_id": "0030",
+                    "summary": "###### Article 32\n\n:\nLe rapport\nde la Direction de la Promotion culturelle est soumis � la Commission de cr�dits\ninstitu�e par le Fonds.",
+                    "line_num": 284
+                  },
+                  {
+                    "title": "Article 33",
+                    "node_id": "0031",
+                    "summary": "###### Article 33\n\n:\nLa\nCommission des cr�dits statue sur le rapport de la Direction de Promotion\nculturelle et a pour r�le notamment de :\n- proc�der\n� une �valuation chiffr�e de financement ;\n- proposer\nl�ordre de priorit� de financement ;\n- proposer\nle niveau et la p�riodicit� d�intervention ;\n- proposer\nle taux d�int�r�t applicable et l��ch�ancier du remboursement de pr�ts ;\n- v�rifier\nl�opportunit� des subventions et de prise de participation.",
+                    "line_num": 292
+                  },
+                  {
+                    "title": "Article 34",
+                    "node_id": "0032",
+                    "summary": "###### Article 34\n\n:\nLa\nCommission des cr�dits est pr�sid�e par le Directeur g�n�rale adjoint et\ncomprend les membres suivants :\n- le\nDirecteur financier : Vice-pr�sident ;\n- les\nDirecteurs : Membres ;\n- le\nCoordonateur des agences : Membre ;\n- le chef\ndu service juridique et contentieux :\nSecr�taire.",
+                    "line_num": 310
+                  }
+                ]
+              },
+              {
+                "title": "Section 4",
+                "node_id": "0033",
+                "prefix_summary": "##### Section 4\n: De la d�cision de financement",
+                "line_num": 327,
+                "nodes": [
+                  {
+                    "title": "Article 35",
+                    "node_id": "0034",
+                    "summary": "###### Article 35\n\n:\nLa\nCommission des cr�dits adresse les conclusions de son examen au Directeur\ng�n�ral avec ses avis et consid�rations.",
+                    "line_num": 331
+                  },
+                  {
+                    "title": "Article 36",
+                    "node_id": "0035",
+                    "summary": "###### Article 36\n\n:\nAu vu du\nrapport de la Commission des cr�dits, le Directeur g�n�ral peut prendre la\nd�cision soit de financer ou de rejeter le projet, soit de renvoyer le dossier\npour r�examen � la Commission des cr�dits.",
+                    "line_num": 339
+                  }
+                ]
+              },
+              {
+                "title": "Section",
+                "node_id": "0036",
+                "prefix_summary": "##### Section\n5:Du contrat de financement",
+                "line_num": 348,
+                "nodes": [
+                  {
+                    "title": "Article 37",
+                    "node_id": "0037",
+                    "summary": "###### Article 37\n\n:\nLa\nd�cision de financer ou de rejeter le projet est notifi� au titulaire ou au\npromoteur du projet end�ans soixante jours suivant la r�ception du projet. En\ncas de d�cision de financement, la lettre de notification porte l�invitation au\ntitulaire ou au promoteur du projet � contacter le Fonds pour la signature du\ncontrat de financement.\n\nArticle\n38:\nTout\nfinancement du Fonds fait l�objet d�un contrat.",
+                    "line_num": 352
+                  },
+                  {
+                    "title": "Article 39",
+                    "node_id": "0038",
+                    "summary": "###### Article 39\n\n:\nLe contrat\nde financement est r�dig� par le service charg� par les questions juridiques du\nFonds.\nIl peut\n�tre un contrat de pr�t, de subvention ou de prise de participations. Il pr�cise\n�ventuellement le taux d�int�r�t � appliquer ainsi que de garanties �\nconstituer.",
+                    "line_num": 368
+                  },
+                  {
+                    "title": "Article 4",
+                    "node_id": "0039",
+                    "summary": "###### Article 4\n\n:\nPeut\nb�n�ficier d�une intervention du Fonds, toute personne physique ou morale\nop�rant dans l�une de disciplines culturelles ou artistiques, titulaire ou\npromoteur d�un projet relevant du champ d�application du pr�sent Arr�t�.",
+                    "line_num": 380
+                  },
+                  {
+                    "title": "Article 40",
+                    "node_id": "0040",
+                    "summary": "###### Article 40\n\n:\nLe taux\nd�int�r�t applicable au taux de financement est fix� par le Fonds en tenant\ncompte des conditions du march� des imp�ratifs d�ordre promotionnel et de\nsp�cificit�s de chaque contrat.",
+                    "line_num": 389
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0041",
+                    "summary": "###### Article 41\n\n:\nTout\nfinancement du projet sous forme de pr�t doit �tre garanti par une s�ret� r�elle\nou personnelle. Il peut s�agir d�une hypoth�se, d�un gage, d�une caution, d�un\naval ou d�une caution bancaire.",
+                    "line_num": 398
+                  }
+                ]
+              },
+              {
+                "title": "Section 6",
+                "node_id": "0042",
+                "prefix_summary": "##### Section 6\n: Du d�blocage des Fonds",
+                "line_num": 407,
+                "nodes": [
+                  {
+                    "title": "Article 42",
+                    "node_id": "0043",
+                    "summary": "###### Article 42\n\n:\nLe service\ncharg� des questions juridiques du Fonds v�rifie la r�gularit� et l�effectivit�\ndes garanties constitu�es.",
+                    "line_num": 411
+                  },
+                  {
+                    "title": "Article 43",
+                    "node_id": "0044",
+                    "summary": "###### Article 43\n\n:\nApr�s la\nsignature du contrat de financement, le Directeur g�n�ral du Fonds donne l�ordre\n� la Direction financi�re de d�bloquer les fonds.",
+                    "line_num": 419
+                  },
+                  {
+                    "title": "Article 44",
+                    "node_id": "0045",
+                    "summary": "###### Article 44\n\n:\nAvant\nd�ordonner le d�blocage des fonds, le Directeur g�n�ral s�assure que la hauteur\ndu financement n�exc�de pas sa comp�tence. Dans ce dernier cas, il se r�f�re �\nl�autorit� de tutelle pour approbation, conform�ment � l�article 28, cinqui�me\ntiret du d�cret n�011/30 du 16 juin 2011 portant statuts d�un �tablissement\npublic d�nomm� Fonds de Promotion Culturelle �, en sigle FPC.",
+                    "line_num": 427
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0046",
+            "prefix_summary": "#### Chapitre\nVII : Du suivi et du contr�le de l�ex�cution des projets",
+            "line_num": 438,
+            "nodes": [
+              {
+                "title": "Article 45",
+                "node_id": "0047",
+                "summary": "###### Article 45\n\n:\nSuivant la\nnature du projet et compte tenu des conditions de son ex�cution, le Directeur\ng�n�ral peut d�cider d�un blocage �chelonn� des fonds, dans les tranches et\nsuivant le planning qu�il fixe.",
+                "line_num": 442
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0048",
+                "summary": "###### Article 46\n\n:\nLa\nDirection de la Promotion culturelle assure le suivi des activit�s et fait\nl��valuation de l�impact des projets.",
+                "line_num": 451
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0049",
+                "summary": "###### Article 47\n\n:\nAfin de\ns�assurer de la bonne ex�cution des projets financ�s et de la bonne utilisation\ndes fonds, la Direction de contr�le et Inspection de fonds proc�de � des\ncontr�les p�riodiques ou ponctuels de la r�alisation des activit�s.\nLe\nDirecteur de contr�le et Inspection fait r�guli�rement rapport au Directeur\ng�n�ral du constat fait au cours des contr�les.",
+                "line_num": 459
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0050",
+            "prefix_summary": "#### Chapitre\nVIII : Des dispositions transitoires et finales",
+            "line_num": 471,
+            "nodes": [
+              {
+                "title": "Article 48",
+                "node_id": "0051",
+                "summary": "###### Article 48\n\n:\nAu cas o�\nle contr�le de la Direction de contr�le et Inspection conclurait � la non\nex�cution ou � la mauvaise ex�cution des projets ou encore � la mauvaise\nutilisation des fonds, le Directeur g�n�ral peut d�cider soit la suspension du\nd�blocage des fonds restants dus, soit la r�vocation du contrat, sans pr�judice\ndu remboursement des fonds d�bloqu�s et des int�r�ts y aff�rents, et des actions\njudiciaires �ventuelles.",
+                "line_num": 475
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0052",
+                "summary": "###### Article 49\n\n:\nLes\ncontrats et d�cisions de financement en cours avant l�entr�e en vigueur du\npr�sent Arr�t� continuent de produire leurs effets, pour autant qu�ils soient\nr�guliers.",
+                "line_num": 487
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0053",
+                "summary": "###### Article 5\n\n:\nLorsque\nplusieurs projets entrent en concurrence, le Fonds intervient, eu �gard � sa\ntr�sorerie, en tenant compte notamment des crit�res ci-apr�s :\n1�. Le\nm�rite du titulaire ou de promoteur du projet ;\n2�. La\ncontribution du titulaire ou du promoteur du projet aux ressources du Fonds par\nces revenus ;\n3�. La\ncr�dibilit� du titulaire ou du promoteur, due au remboursement des pr�ts\nant�rieurs et/ou � la bonne ex�cution des projets ant�rieurs ;\n4�.\nL�impact du projet pour le rayonnement de la culture congolaise ;\n5�. La\nmission d�int�r�t g�n�ral ou le caract�re national du projet.",
+                "line_num": 496
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0054",
+                "summary": "###### Article 50\n\n:\nSont\nabrog�es toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+                "line_num": 516
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0055",
+                "summary": "###### Article 51\n\n:\nLe\nDirecteur g�n�ral du Fonds de Promotion culturelle et charg� de l�ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait �\nKinshasa, le 25 avril 2012\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 523
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0056",
+                "summary": "###### Article 6\n\n:\nLes\nactivit�s culturelles ou artistiques pouvant donner lieu � des interventions du\nfonds sont notamment la litt�rature, la musique, le cin�ma, les arts plastiques,\ngraphiques et sc�niques, la photographie, la danse et la chor�graphie, le\nfolklore, l��dition litt�raire, l�industrie musicale.",
+                "line_num": 539
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0057",
+            "prefix_summary": "#### Chapitre\nIV : Des formes et proc�d�s d�intervention",
+            "line_num": 549,
+            "nodes": [
+              {
+                "title": "Article 7",
+                "node_id": "0058",
+                "summary": "###### Article 7\n\n:\nSans\npr�judice de l�article 4 pr�c�dent du pr�sent arr�t�, le cessionnaire, le\nlocateur, l�ex�cutant ou l�interpr�te d�une oeuvre culturelle ou artistique\nauteur d�un projet peut b�n�ficier d�une intervention du Fonds, sous la r�serve\nque l�ex�cution de son projet ne porte pas atteinte aux droits d�auteur du\ncr�ateur de l�oeuvre.",
+                "line_num": 553
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0059",
+                "summary": "###### Article 8\n\nL�intervention du Fonds peut prendre la forme de pr�ts, de prises de\nparticipations, de bonification d�int�r�ts ou de subventions.\nParagraphe1 : Des pr�ts",
+                "line_num": 564
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0060",
+                "summary": "###### Article 9\n\n:\nLe pr�t\nest la forme d�intervention par laquelle le Fonds finance un projet culturel ou\nartistique sous la condition de remboursement des cr�dits accord�s assortis\nd�int�r�ts.",
+                "line_num": 571
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "c468bb46-550d-47c8-a740-262eb2adc642"
+    ],
+    "0002": [
+      "f2368810-1d9b-48a4-adca-315a272f448b"
+    ],
+    "0003": [
+      "06d26521-5818-4876-8434-02162b85b259"
+    ],
+    "0004": [
+      "ba47a425-3c00-41d6-954b-d6c9d5d7398c"
+    ],
+    "0005": [
+      "d77fde8a-0893-4bd8-b639-ffe600a64582"
+    ],
+    "0006": [
+      "503dc71c-34b6-49b6-abe4-1ca70b8a7f25"
+    ],
+    "0007": [
+      "43aa7b4c-b270-4a62-8648-d4a65e656c5d"
+    ],
+    "0009": [
+      "6a883ec4-48c9-47af-a77d-37fa5b281516"
+    ],
+    "0010": [
+      "ffa30de1-6431-43f0-8afd-9abd4490c4af"
+    ],
+    "0011": [
+      "1ed30d60-9332-42ac-a03a-c804483f2d8a"
+    ],
+    "0012": [
+      "4e910d71-a0b0-45e3-bebe-7923f12c417e"
+    ],
+    "0013": [
+      "a5237358-9e6d-4ea8-be86-c0347f20764c"
+    ],
+    "0015": [
+      "52dd27f9-6a9d-4c45-bfcf-18622b43364f"
+    ],
+    "0016": [
+      "3377dca3-4371-47bc-b391-832e597a21c3"
+    ],
+    "0017": [
+      "db036af9-81cb-427e-a605-7d4700ea2129"
+    ],
+    "0018": [
+      "80ea0b0c-26af-4f52-9e59-a5094dca9555"
+    ],
+    "0020": [
+      "21d49a48-eb97-4a1e-96c9-4f436d9e99be"
+    ],
+    "0021": [
+      "2466a4e5-2aa1-4e67-a5cd-700965d1ab7d"
+    ],
+    "0022": [
+      "a872a760-4fda-4826-93be-9a7d5b358b85"
+    ],
+    "0023": [
+      "4d3079d7-b47f-4bcb-aea9-992252aa6b71"
+    ],
+    "0024": [
+      "cc2a43e9-3765-43d5-9902-5d8160a7770d"
+    ],
+    "0026": [
+      "200d9535-3937-49c8-8919-6e5666c289ea"
+    ],
+    "0027": [
+      "9343b25b-0403-4946-9784-29072af9a152"
+    ],
+    "0029": [
+      "b133a80a-195f-43f3-81d4-0371bb46cbcd"
+    ],
+    "0030": [
+      "0116767e-74ca-4d74-be6c-a26bd705abbc"
+    ],
+    "0031": [
+      "f74a1fed-fc58-43c0-9ee8-a7954d47175f"
+    ],
+    "0032": [
+      "d95d26f4-4644-4303-b063-60bafb71c3bd"
+    ],
+    "0034": [
+      "f5b976d8-673f-465c-9a62-b77f8c30e61a"
+    ],
+    "0035": [
+      "8517a701-a30c-41cf-8c8c-3448a817a2f7"
+    ],
+    "0037": [
+      "2b29e95e-f414-45e1-ade9-e825d7756aee"
+    ],
+    "0038": [
+      "b500a99d-61f8-41d9-8b7d-74b8285d6d1a"
+    ],
+    "0039": [
+      "09a60fd2-3a9a-4546-8356-539142cffcc9"
+    ],
+    "0040": [
+      "8083ab3f-ee40-406c-a279-54546b30c621"
+    ],
+    "0041": [
+      "1eeb22e7-e284-478b-84a9-4d9a0f7cbe9f"
+    ],
+    "0043": [
+      "bb2482e3-fbd4-4925-a816-151304b22225"
+    ],
+    "0044": [
+      "e7d5094f-00bc-4dbf-83cf-e0cb2e3c3813"
+    ],
+    "0045": [
+      "66df8a0a-8e38-4b71-8eec-0ed0afe54781"
+    ],
+    "0047": [
+      "1569d191-8856-4172-9c84-12ce386d1fd5"
+    ],
+    "0048": [
+      "98051c3b-760f-491b-bdeb-a8f3278dbc25"
+    ],
+    "0049": [
+      "e41d966f-b24f-4706-842e-e615d0925e0b"
+    ],
+    "0051": [
+      "4b6730d3-ff37-4775-965a-b40f6c83a46f"
+    ],
+    "0052": [
+      "1d2ecf0e-b64b-437c-861a-7946f78a852e"
+    ],
+    "0053": [
+      "19e6c9cb-6ca8-4f2c-8bb4-16744575250d"
+    ],
+    "0054": [
+      "61eea21a-ab86-4fcc-92b1-8b81767df27a"
+    ],
+    "0055": [
+      "ae22e664-8cde-49f8-8444-73a652a32621"
+    ],
+    "0056": [
+      "c84fd491-82ea-41be-a01c-a36c24504708"
+    ],
+    "0058": [
+      "2d16cdce-4445-4604-b153-4be6afa8ce49"
+    ],
+    "0059": [
+      "520fe75f-e387-42f0-ad0b-69a10c59a109"
+    ],
+    "0060": [
+      "0fe363e3-9ca1-46fc-b7db-5b3c41d7392c"
+    ]
+  },
+  "node_count": 61,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:53.351010",
+  "article_count": 49,
+  "generation_time_s": 0.3451380729675293
+}

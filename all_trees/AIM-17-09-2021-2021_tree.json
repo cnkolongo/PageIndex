@@ -1,0 +1,143 @@
+{
+  "slug": "AIM-17-09-2021-2021",
+  "bundle_path": "backups/all_bundles/code/AIM-17-09-2021-2021.json",
+  "document_id": "2074513e-b932-4e6a-b8f4-d6404144b477",
+  "document_title": "AIM.17.09.2021",
+  "tree_json": {
+    "doc_name": "AIM-17-09-2021-2021",
+    "structure": [
+      {
+        "title": "AIM.17.09.2021",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.17.09.2021",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "The partial document defines two key terms related to commercially marketable mining products. It first defines the general \"produit minier marchand\" (marketable mining product) according to the Mining Code. It then specifies a sub-category called \"produit minier marchand moins élaboré\" (less processed marketable mining product), which refers to intermediate products obtained during mineral and metallurgical processing.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLes Ministres vis�s aux articles 7,8 et 10 agissent par note circulaire pour\nexercer leurs pr�rogatives pr�vues par les articles susmentionn�s.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nToute violation des dispositions du pr�sent Arr�t� sera sanctionn�e conform�ment\n� la l�gislation en vigueur en R�publique D�mocratique du Congo.",
+            "line_num": 25
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nSont abrog�s, l'Arr�t� interminist�riel n�0913 /CAB.MINES/01/2018 et\nn�0243/CAB.MIN /FINANCES/2018 du 21 novembre 2018 portant nomenclature des\nproduits miniers marchands et l'Arr�t� interminist�riel\nn�0129/CAB.MIN/MINES/01/2017 portant r�glementation de la commercialisation et\nexportation des produits miniers marchands tel que modifi� et compl�t�.",
+            "line_num": 31
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "This partial document is a concluding administrative section of an order (Arrêté). It lists the specific officials and directors of various Congolese governmental agencies and bodies (such as the CEEC, SAEMAPE, OCC, ANAPEX, CTCPM) who are responsible for executing this order. It states that the order comes into force on the date of its signature (September 17, 2021, in Kinshasa). The included note clarifies that the site is under construction and that the presented texts are based on materials from associations and do not constitute official liability.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0006",
+            "summary": "This partial document outlines the ownership and export rights for marketable mining products. It states that such products belong to the holders of the relevant permits or authorizations. It lists the entities considered as holders, including mining rights holders, processing entities, approved trading houses, approved mining cooperatives, and traders. Finally, it specifies that only mining rights holders, processing entities, and approved trading houses are authorized to export these marketable mining products.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0007",
+            "summary": "###### Article 3\n\nLa vente des produits miniers\nmarchands peut se r�aliser localement ou � l'�tranger.\nLes personnes vis�es �\nl'alin�a 2 de l'article 2 se conforment � la Loi relative � la libert� des prix\net � la concurrence en ce qui concerne les ventes locales des produits miniers\nmarchands.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0008",
+            "summary": "The partial document defines the structure and contents of a nomenclature (official list) for commercial mining products. It specifies that this list is annexed to the interministerial decree and consists of eight categories. Each category details the valuable substance(s), applicable grade ranges, specific grades to apply, and valuation rates for each commercial mining product. The eight listed categories are: metals, precious metals, salts, alloys, simple concentrates, mixed concentrates, other products, and raw ores/concentrates for local sales.",
+            "line_num": 92
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0009",
+            "summary": "###### Article 5\n\nLes teneurs minimales des\nsubstances valorisables contenues dans les produits miniers marchands sont\nfix�es � l'annexe vis�e � l'article 4 alin�a 1e.\nLes teneurs minimales �\npartir desquelles sont valoris�s les m�taux pr�cieux, semi-pr�cieux, les m�taux\nrares, sous-produits associ�s aux alliages, aux sels, aux concentr�s des m�taux\nnon ferreux et d'autres m�taux, sont fix�es comme suit :\n- Argent, indium, germanium,\ngalium : ≥ 20 grammes/tonne ;\n- Or, platine, palladium,\nrhodium, ruth�nium, rh�nium, iridium : ≥ 1 gramme/tonne.",
+            "line_num": 114
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0010",
+            "summary": "###### Article 6\n\nLes taux de valorisation des\nproduits miniers marchands repris � l'annexe vis�e � l'article 5, alin�a 1er\nsont des coefficients\nqui renseignent sur le niveau de perfectionnement dans l'�laboration des\nsubstances valorisables qui y sont contenues.\nLe taux de valorisation des\nsubstances min�rales vis�es � l'alin�a 2 de l'article 5 ci-dessus est fix� �\n30%.",
+            "line_num": 129
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0011",
+            "summary": "This partial document covers Article 7 of a mining code or regulation. The main points are the conditions under which the export of marketable mining products can be restricted or permitted. Specifically, it states that the relevant ministers can prohibit the export of certain products if they do not conform to the government's economic policy. However, it allows for exceptions where holders of mining rights can be authorized to export less-processed products due to specific treatment processes or technical/economic factors. Finally, it imposes a reporting requirement on authorized exporters to provide a detailed list of all valuable mineral substances in each export shipment, referencing thresholds set in an annex.",
+            "line_num": 141
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0012",
+            "summary": "###### Article 8\n\nLes op�rateurs miniers vis�s\n� l'article 7 ci-dessus peuvent b�n�ficier d'une d�rogation d'exportation dont\nla dur�e est fix�e conjointement par les Ministres ayant respectivement les\nMines, l'Economie Nationale et le Commerce Ext�rieur dans leurs attributions.",
+            "line_num": 160
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0013",
+            "summary": "###### Article 9\n\nLes d�tenteurs des permis ou agr�ments repris � l'article\n2, alin�a 3, s'assurent que tout lot de produits miniers marchands �\nl'exportation est conforme au plafonnement du taux d'humidit� fix� par les\nMinistres vis�s aux articles 7, 8, et 10.",
+            "line_num": 168
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1f57a17e-5294-4e2b-888e-8379c254214d"
+    ],
+    "0002": [
+      "98ad307c-c323-4844-95a9-141fdb4a8f26"
+    ],
+    "0003": [
+      "0e88b745-8348-4daa-8d35-e31f2cba2f3a"
+    ],
+    "0004": [
+      "7dc43ff4-0a5d-4d3c-a298-b34da1550c27"
+    ],
+    "0005": [
+      "42dad0fd-273c-489e-aa2d-f8fb21eb5fcf"
+    ],
+    "0006": [
+      "caf3e31b-a658-43ba-b9ab-2f7241cb9b57"
+    ],
+    "0007": [
+      "1a3f1c20-a452-4c00-a271-8e0da3f1e9d4"
+    ],
+    "0008": [
+      "26d57e06-a556-4228-98da-78a017ba098b"
+    ],
+    "0009": [
+      "a1a8dba1-2780-4321-b73b-cf5a072e33e7"
+    ],
+    "0010": [
+      "b3fd5aa4-e193-4a6f-9f10-e68b343eae81"
+    ],
+    "0011": [
+      "b5265559-6f52-44fd-9a62-734bba72647b"
+    ],
+    "0012": [
+      "2ada5cea-9cb5-4807-ad32-44880669a5d2"
+    ],
+    "0013": [
+      "d92d20e5-93ec-4d91-8e1c-a204a01a59f1"
+    ]
+  },
+  "node_count": 14,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:56:43.656861",
+  "article_count": 13,
+  "generation_time_s": 12.669749021530151
+}

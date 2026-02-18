@@ -1,0 +1,694 @@
+{
+  "slug": "AM263-2002-03-10-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM263-2002-03-10-2002-2002.json",
+  "document_id": "88b7b51d-779e-41a9-9927-6e30876feb29",
+  "document_title": "AM263.2002.03.10.2002",
+  "tree_json": {
+    "doc_name": "AM263-2002-03-10-2002-2002",
+    "doc_description": "This decree establishes the specific types of forestry permits (ordinary, artisanal, firewood/charcoal, and special permits), defines their issuance procedures, and sets operational rules for timber harvesting and product collection in the Democratic Republic of Congo.",
+    "structure": [
+      {
+        "title": "AM263.2002.03.10.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM263.2002.03.10.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent arr�t� a pour objet de fixer les mesures applicables\n� l�exploitation foresti�re. Il d�termine en particulier les conditions de\npr�l�vement des produits forestiers ligneux, ainsi que les droits et les\nobligations des exploitants forestiers.\nLe pr�sent arr�t� a pour objet de fixer les mesures applicables\n� l�exploitation foresti�re. Il d�termine en particulier les conditions de\npr�l�vement des produits forestiers ligneux et non ligneux, ainsi que les droits\net les obligations des exploitants forestiers.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLe permis de\ncoupe artisanale donne le droit � son titulaire de couper le bois dans les\nfor�ts des communaut�s locales.\nLe permis peut\nautoriser l�exploitant artisanal � couper le bois dans une for�t prot�g�e\nsp�cialement d�sign�e et d�limit�e � cet effet.",
+            "line_num": 16
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLe permis de\ncoupe artisanale est d�livr� par le Gouverneur de province pour une superficie\nn�exc�dant pas 50 ha.\nIl est conforme\nau mod�le repris en annexe au pr�sent arr�t�.\n�3  Du permis de coupe de bois de feu et de carbonisation",
+            "line_num": 26
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLe permis de\ncoupe de bois de feu et de carbonisation est d�livr� � tout Congolais �tabli en\nmilieu rural.\nLe permis fixe\nselon les cas, le volume du bois � couper ou le tonnage du charbon de bois �\nproduire. Il est valable pour une dur�e n�exc�dant pas un an.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nLe permis de\ncoupe de bois de feu et de carbonisation donne le droit � son titulaire d�op�rer\nles coupes dans la for�t de la communaut� locale dont il rel�ve et dans les\nfor�ts prot�g�es.",
+            "line_num": 46
+          },
+          {
+            "title": "Section 3 : Du permis de r�colte",
+            "node_id": "0006",
+            "prefix_summary": "##### Section 3 : Du permis de r�colte",
+            "line_num": 54,
+            "nodes": [
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nLe permis de\ncoupe de bois de feu et de carbonisation est d�livr� par l�Administrateur du\nTerritoire du ressort de la for�t sur proposition de l�administration locale des\nfor�ts.\nPour les for�ts\nde la Ville de Kinshasa comprises sur les terres rurales, le permis est d�livr�\npar l�administration urbaine charg�e des for�ts.\nIl est �tabli\nselon le mod�le repris en annexe au pr�sent arr�t�.",
+                "line_num": 57
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nLe permis de\nr�colte de produits forestiers est d�livr� � tout Congolais. Il conf�re � son\ntitulaire le droit de r�colter dans un but commercial ou de recherche, des\nproduits forestiers non ligneux tels que, les rotins, les �corces, les racines,\nles rameaux, les plantes m�dicinales ou les chenilles.\nIl permet la\nr�colte de produits d�un tonnage d�termin�.",
+                "line_num": 70
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nLe\nconcessionnaire n�est pas autoris� � proc�der � la r�colte de produits non\nligneux � l�int�rieur de sa concession.\nIl peut cependant\nconclure des contrats avec des titulaires de permis de r�colte en vue de\nl�exploitation de produits non ligneux � l�int�rieur de sa concession.",
+                "line_num": 81
+              }
+            ]
+          },
+          {
+            "title": "Section 4 : Des permis sp�ciaux",
+            "node_id": "0010",
+            "prefix_summary": "##### Section 4 : Des permis sp�ciaux",
+            "line_num": 91,
+            "nodes": [
+              {
+                "title": "Article 17",
+                "node_id": "0011",
+                "summary": "###### Article 17\n\nLe permis de\nr�colte des produits forestiers est d�livr� par le Gouverneur de province et est\nvalable pour une dur�e n�exc�dant pas un an.\nIl est conforme\nau mod�le repris en annexe au pr�sent arr�t�.",
+                "line_num": 94
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0012",
+                "summary": "###### Article 18\n\nLe permis sp�cial\nde coupe est l�autorisation donn�e � son titulaire de couper du bois d�essences\nprot�g�es.\nUn\nconcessionnaire peut demander un permis sp�cial pour couper des essences\nprot�g�es se trouvant dans sa concession.\nDes permis\nsp�ciaux peuvent �galement �tre d�livr�s aux artistes et artisans pour la coupe\nde bois d��b�ne dans les for�ts prot�g�es.",
+                "line_num": 103
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0013",
+                "summary": "###### Article 19\n\nLe permis sp�cial\nde r�colte attribue � son titulaire le droit de r�colter des produits forestiers\nnon ligneux prot�g�s.\nLa r�colte de\nproduits non ligneux prot�g�s par le concessionnaire est conditionn�e par\nl�obtention d�un permis sp�cial de r�colte.",
+                "line_num": 116
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "###### Article 2\n\nAu sens du pr�sent arr�t� il faut entendre par exploitation\nforesti�re, la coupe de bois et le pr�l�vement des produits forestiers non\nligneux.\nL�exploitation\nforesti�re comporte �galement d�autres activit�s telles que l�utilisation de la\nfor�t � des fins culturelles, touristiques ou r�cr�atives.\nChapitre 2 :\nDes conditions d�exploitation\nSection premi�re : Des types de permis",
+                "line_num": 126
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0015",
+                "summary": "###### Article 20\n\nLes permis\nsp�ciaux de coupe et de r�colte sont d�livr�s par le secr�taire g�n�ral du\nminist�re charg� des for�ts pour une dur�e n�exc�dant pas un an.\nIls sont\nattribu�s pour la coupe de bois d�un volume pr�cis de bois ou pour la r�colte de\nproduits non ligneux d�un tonnage d�termin�.\nIls sont\nconformes au mod�le repris en annexe au pr�sent arr�t�.\nChapitre 3 : De la proc�dure de d�livrance des permis\nSection premi�re : De la demande de permis de coupe et de r�colte",
+                "line_num": 139
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0016",
+                "summary": "###### Article 21\n\nLe demandeur de tout permis de coupe ou de r�colte est tenu de\nremplir un formulaire ad hoc �tabli et fourni par l�administration charg�e des\nfor�ts.\nLe\nformulaire contient des informations g�n�rales relatives :\n- � l�identit� du requ�rant ;\n- aux essences foresti�res concern�es ;\n- au volume des bois y aff�rant ;\n- � la localisation pr�cise de l�endroit o� doivent s�op�rer la\ncoupe ou la r�colte.",
+                "line_num": 153
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0017",
+                "summary": "This partial document outlines the specific information required from an applicant when applying for three types of forestry permits: an ordinary woodcutting permit, an artisanal cutting permit, and a permit for firewood and charcoal production. For each permit type, it lists distinct supporting documents and proof, such as past export data, payment of forest taxes, inventory results, community contracts, and commitments to improved techniques.",
+                "line_num": 167
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0018",
+                "summary": "###### Article 23\n\nToute demande de\npermis est dress�e en autant d�exemplaires qu�il est exig� par l�administration\nforesti�re pour les besoins tant d�instruction de la demande que d�information\ndes services concern�s.\nLa demande du\npermis ordinaire de coupe est introduite avant le premier septembre pr�c�dant\nl�ann�e de coupe.\nL�administration\nforesti�re est tenue de d�livrer les permis au plus tard le 31 janvier de\nl�ann�e de coupe.",
+                "line_num": 204
+              }
+            ]
+          },
+          {
+            "title": "Section 2 : De la d�livrance des autorisations",
+            "node_id": "0019",
+            "prefix_summary": "##### Section 2 : De la d�livrance des autorisations",
+            "line_num": 218,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0020",
+                "summary": "###### Article 24\n\nAucune demande de\npermis n�est instruite en l�absence d�une preuve r�guli�re du payement des taxes\net redevances foresti�res exig�es par la l�gislation foresti�re.",
+                "line_num": 221
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0021",
+                "summary": "The partial document outlines the mandatory information that must be included on forestry permits according to Article 25. It lists the specific details required, such as the beneficiary's full identity, the location and area of the cutting site, the forest species and volumes authorized, the validity period of the permit, the amount of paid taxes, and the issuing authority's details and seal.",
+                "line_num": 228
+              }
+            ]
+          },
+          {
+            "title": "Section 3 : Des autorisations d�exploitation des bois priv�s",
+            "node_id": "0022",
+            "prefix_summary": "##### Section 3 : Des autorisations d�exploitation des bois priv�s",
+            "line_num": 247,
+            "nodes": [
+              {
+                "title": "Article 26",
+                "node_id": "0023",
+                "summary": "###### Article 26\n\nLes permis\nd�exploitation, en particulier ceux portant sur la coupe de bois, sont conserv�s\npar l�exploitant sur les lieux de l�exploitation pendant toute la dur�e de\ncelle-ci, et pr�sent�s � toute r�quisition des inspecteurs, fonctionnaires et\nagents forestiers.",
+                "line_num": 250
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0024",
+                "summary": "###### Article 27\n\nL�exploitation\ndes boisements priv�s ou des produits forestiers r�sultant d�une plantation\nartificielle priv�e est soumise �  l�obtention pr�alable d�une autorisation\nd�livr�e gratuitement par l�administration foresti�re.",
+                "line_num": 259
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0025",
+                "summary": "###### Article 28\n\nL�administration\nveille � ce que l�exploitation des for�ts priv�es soit faite dans le respect des\nprincipes de gestion environnementale et d�exploitation durable des ressources\nnaturelles.\nL�abattage de\ntout arbre d�au moins 0,30 m de diam�tre, pris � la hauteur d�un m�tre � partir\ndu pied, situ� dans le voisinage imm�diat d�un immeuble ou dans un enclos priv�,\ns�effectue sous le contr�le de l�administration locale charg�e des for�ts.\nChapitre 4 :\nDe l�agr�ment des exploitants forestiers",
+                "line_num": 267
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0026",
+                "summary": "###### Article 29\n\nAux termes du\npr�sent arr�t�, on entend par exploitant forestier artisanal, toute personne de\nnationalit� congolaise agr��e comme tel et utilisant pour ses activit�s une scie\nen long, une tron�onneuse m�canique ou une scierie mobile.",
+                "line_num": 281
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0027",
+                "summary": "###### Article 3\n\nToute\nexploitation foresti�re est soumise � l�obtention pr�alable de l�une des\nautorisations pr�vues par le pr�sent arr�t�.\nLes autorisations\nd�exploitation foresti�re pr�vues � l�alin�a ci-dessus sont constat�es par des\npermis de coupe d�une part et des permis de r�colte d�autre part.",
+                "line_num": 289
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0028",
+                "summary": "###### Article 30\n\nL�agr�ment\nconf�re le droit de couper les bois dans une for�t communautaire d�termin�e.\nIl est d�livr�\npar le Gouverneur de province moyennant paiement d�une taxe dont le taux est\nfix� par arr�t� conjoint des Ministres ayant les for�ts et les finances dans\nleurs attributions.",
+                "line_num": 299
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0029",
+                "summary": "###### Article 31\n\nLes conditions\nci-apr�s sont exig�es pour obtenir l�agr�ment :\n- fournir un extrait de casier judiciaire ;\n- faire la preuve des connaissances techniques n�cessit�es par la\nprofession ;\n- s�engager � respecter la r�glementation en vigueur en mati�re\nforesti�re et fiscale ;\n- justifier de la possession d�un mat�riel d�exploitation\nappropri�.",
+                "line_num": 309
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0030",
+                "summary": "This partial document specifies the mandatory content and conditions for a \"acte d'agrément\" (approval/authorization document) used for forest exploitation. It lists the required information on the document, states its maximum validity period and renewal process, and outlines rules that it is personal, non-transferable, and geographically restricted to the specific forest for which it was granted.",
+                "line_num": 322
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0031",
+                "summary": "###### Article 33\n\nUne exploitation\nforesti�re est dite publique lorsqu�elle est op�r�e par une personne morale de\ndroit public, soit en r�gie directement par l�administration foresti�re ou par\nles entit�s administratives d�centralis�es, soit par un organisme de droit\npublic cr�� � cette fin.",
+                "line_num": 345
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0032",
+                "summary": "###### Article 34\n\nL�exploitation\nforesti�re effectu�e en r�gie vise principalement la satisfaction des besoins de\nl�Etat en bois ou l�am�nagement d�une for�t d�termin�e.\nElle est\nautoris�e par arr�t� du Ministre charg� des for�ts qui fixe, en outre, les\nconditions techniques et financi�res de son ex�cution ainsi que la destination\ndes bois ou des recettes r�alis�es.",
+                "line_num": 354
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0033",
+                "summary": "###### Article 35\n\nL�exploitation\nforesti�re en r�gie est soumise au paiement des redevances dues par le titulaire\ndu permis de coupe.",
+                "line_num": 365
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0034",
+                "summary": "###### Article 36\n\nLes entit�s\nd�centralis�es sont tenues d�obtenir une autorisation du Ministre charg� des\nfor�ts pour l�exploitation de leurs for�ts.\nToute entit�\nd�centralis�e poss�dant une for�t peut l�exploiter par elle-m�me ou en vertu\nd�un contrat conclu avec un exploitant forestier.\nLe contrat pr�vu\nau pr�c�dent alin�a est, avant son ex�cution, vis� par l�administration centrale\ncharg�e des for�ts.",
+                "line_num": 372
+              },
+              {
+                "title": "Article 37",
+                "node_id": "0035",
+                "summary": "###### Article 37\n\nIl peut �tre cr��\nun organisme public aux fins de l�exploitation foresti�re.\nL�exploitation\npar un organisme public est faite conform�ment aux clauses d�un cahier des\ncharges approuv� par le minist�re charg� des for�ts.",
+                "line_num": 385
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0036",
+                "summary": "###### Article 38\n\nLes taxes et\nredevances pr�vues par la l�gislation foresti�re sont applicables � cet\norganisme public.\nChapitre 6 : Du r�gime d�exploitation\nSection premi�re : Des r�gles d�exploitation",
+                "line_num": 394
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0037",
+                "summary": "###### Article 39\n\nLes activit�s de\ncoupe de bois ou de r�colte de produits forestiers s�effectuent les jours\nouvrables, de six heures � dix-huit heures.",
+                "line_num": 403
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0038",
+                "summary": "###### Article 4\n\nLes permis de\ncoupe sont :\n1�. Le permis\nordinaire de coupe, d�livr� aux exploitants industriels titulaires de\nconcessions foresti�res ;\n2�. Le permis de\ncoupe artisanale, d�livr� aux exploitants artisanaux ;\n3�. Le permis de\ncoupe de bois de feu et de carbonisation d�livr� aux populations rurales.",
+                "line_num": 410
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0039",
+                "summary": "###### Article 40\n\nL�exploitation\ns�effectue de fa�on rationnelle par parcelles de 250 hectares au maximum et\nsuivant un ordre de coupe d�termin� par l�administration provinciale charg�e des\nfor�ts.\nIl est interdit\nd�abattre les arbres simultan�ment sur plusieurs parcelles.\nAvant sa mise en\nexploitation, chaque parcelle est d�limit�e au moyen de rep�res suffisamment\ndurables et apparents en vue d�en permettre le contr�le pendant au moins une\np�riode de six mois apr�s la fin de son exploitation.\nL�exploitant\ninforme, par lettre recommand�e, l�administration provinciale charg�e des for�ts\nde la mise en exploitation d�une nouvelle parcelle.",
+                "line_num": 423
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0040",
+                "summary": "###### Article 41\n\nSauf clauses\nparticuli�res stipul�es au permis de coupe, le vidange des bois exploit�s dans\nune parcelle, � l��tat de produits bruts ou fa�onn�s, est � terminer, au plus\ntard, dans les six mois suivant la fin de l�exploitation de la parcelle.\nPass� ce d�lai,\nl�Etat peut disposer � son gr� des parcelles exploit�es et des produits non\nvidang�s.",
+                "line_num": 440
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0041",
+                "summary": "###### Article 42\n\nEn dehors des\nabattages n�cessaires pour l��tablissement des chemins, pistes ou autre\ninstallation destin�s � desservir l�exploitation, il est interdit d�abattre des\narbres dont le diam�tre est inf�rieur au diam�tre minimum d�exploitation pr�vu\npour chaque esp�ce tel que repris par le tableau annex� au pr�sent arr�t�.",
+                "line_num": 451
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0042",
+                "summary": "###### Article 43\n\nSauf stipulations\ncontraires du permis, la coupe rase est interdite, en particulier pour les\nfor�ts croissant sur les pentes dont l�inclinaison atteint ou d�passe 30� ou\ndans un rayon de 100 m�tres autour des sources, sous r�serve des dispositions de\nla r�glementation relative � la lutte contre les trypanosomiases.",
+                "line_num": 460
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0043",
+                "summary": "###### Article 44\n\nIl est interdit �\nl�exploitant d��tablir ou faire �tablir des cultures sur les terrains faisant\nl�objet de son permis de coupe.\nDans les limites\ndu permis de coupe, il est interdit de faire usage du feu pour d�blayer le\nparterre de la coupe. L�exploitant est tenu pour responsable des incendies qui\nse produisent dans les for�ts qu�il exploite.",
+                "line_num": 469
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0044",
+                "summary": "###### Article 45\n\nLes arbres sont\nabattus � ras de terre, � l�exception de ceux � contreforts ou � racines\na�riennes.\nL�exploitant\nprend les pr�cautions n�cessaires pour �viter que, par leur chute, les arbres\ncoup�s s�endommagent ou n�endommagent ceux devant rester sur pied.",
+                "line_num": 480
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0045",
+                "summary": "This partial document outlines regulations prohibiting the wasteful abandonment of commercially valuable trees and logs after logging. It specifies that the cutting permit will list the tree species covered by this rule. For these species, it is also forbidden to use trees suitable for other purposes as firewood, unless the permit states otherwise. The issuance of a new permit can be denied if usable trees of these species remain on the logging site. Finally, any exploitable tree left standing, damaged by the logger, or any log or stump abandoned in violation is taxed as if it had been harvested.",
+                "line_num": 490
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0046",
+                "summary": "###### Article 47\n\nAfin de d�gager\nles recr�s �cras�s ou lorsqu�il y a p�nurie de bois de chauffage dans la r�gion,\nl�exploitant peut �tre oblig� de d�biter et fa�onner les houppiers imm�diatement\napr�s l�abattage.\nDans les contr�es\no� les houppiers d�bit�s peuvent faire l�objet de transactions commerciales en\nvue de leur vente comme bois de chauffage, ceux-ci sont tax�s comme tels, m�me\nsi le titulaire du permis ne fait pas usage de cette facult�.",
+                "line_num": 510
+              }
+            ]
+          },
+          {
+            "title": "Section 2 : Du marquage des bois",
+            "node_id": "0047",
+            "prefix_summary": "##### Section 2 : Du marquage des bois",
+            "line_num": 522,
+            "nodes": [
+              {
+                "title": "Article 48",
+                "node_id": "0048",
+                "summary": "###### Article 48\n\nLe d�bitage des\nbois se fait uniquement � la scie, sauf en ce qui concerne le bois de chauffage\net les d�chets de l�exploitation.\nLes fosses et les\ntrous �ventuellement creus�s pour le sciage des bois, le d�bardage des produits\nou pour toute autre cause, sont combl�s d�s qu�ils ont cess� d��tre utiles.",
+                "line_num": 525
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0049",
+                "summary": "###### Article 49\n\nTout arbre abattu\net toute grume re�oivent un marquage sp�cifique comprenant :\nle sigle de\nl�exploitant ;\nle num�ro du\npermis de coupe ;\nun num�ro d�ordre\nd�une s�rie ininterrompue;\nLe num�ro d�ordre est �galement appos� sur la souche.\nLe m�me num�ro\nd�ordre est inscrit, en m�me temps que le sigle de l�exploitant, sur la section\nde chacune des grumes provenant d�un m�me arbre, en l�affectant d�une lettre, la\ngrume du pied portant toujours la lettre A.",
+                "line_num": 535
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0050",
+                "summary": "###### Article 5\n\nLe permis de\nr�colte est d�livr� aux personnes exer�ant des activit�s de collecte des\nproduits forestiers non ligneux.",
+                "line_num": 552
+              }
+            ]
+          },
+          {
+            "title": "Section 3 : Du registre d�exploitation",
+            "node_id": "0051",
+            "prefix_summary": "##### Section 3 : Du registre d�exploitation",
+            "line_num": 559,
+            "nodes": [
+              {
+                "title": "Article 50",
+                "node_id": "0052",
+                "summary": "###### Article 50\n\nLe sigle de\nl�exploitant est inscrit sur le bois exploit�, soit au moyen d�un marteau en\nfer, soit, pour les exploitants artisanaux exempt�s de marteau, � la peinture.\nLe marteau doit\n�tre tenu conforme au mod�le d�pos� et enregistr� � l�administration provinciale\ndes for�ts du lieu de l�exploitation.\nLa marque est\nmaintenue lisible jusqu�� l�expiration du d�lai de vidange des produits.",
+                "line_num": 562
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0053",
+                "summary": "The partial document covers the regulatory requirements for a timber harvesting permit holder in maintaining a logbook for each plot. It specifies that the logbook, titled \"form for measuring felled wood,\" must be provided by the forestry administration and include details such as the felling date, tree identification number, tree species, and for each log produced: its identification, dimensions, volume, and probable destination.",
+                "line_num": 574
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0054",
+                "summary": "###### Article 52\n\nDans le cas de la\nr�colte des produits forestiers non ligneux, le titulaire du permis mentionne\ndans le registre pr�vu � l�article 51 ci-dessus la nature et le nom du produit,\nla date de la r�colte, le volume des produits pr�lev�s et leur destination ainsi\nque le lieu du pr�l�vement.",
+                "line_num": 594
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0055",
+                "summary": "###### Article 53\n\nLorsque la coupe\nconcerne les bois de mine ou de chauffage, le d�tenteur du permis ne mentionne\ndans son registre que la date d�abattage et le volume des produits exploit�s.",
+                "line_num": 603
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0056",
+                "summary": "###### Article 54\n\nLes registres\nsont � pr�senter � toute r�quisition des fonctionnaires et agents forestiers ou\nde toute autorit� territoriale comp�tente, qui y apposent leur visa\nimm�diatement apr�s la derni�re inscription.\nChapitre 7 :    De la d�claration trimestrielle et des redevances",
+                "line_num": 610
+              },
+              {
+                "title": "Article 55",
+                "node_id": "0057",
+                "summary": "###### Article 55\n\nPour chaque\npermis d�livr�, l�administration charg�e des for�ts remet � l�exploitant quatre\njeux de formulaires de d�claration trimestrielle.\nChaque jeu\ncomprend quatre feuilles de couleurs diff�rentes et doit �tre compl�t� par\nl�exploitant � la fin de chaque trimestre.",
+                "line_num": 619
+              },
+              {
+                "title": "Article 56",
+                "node_id": "0058",
+                "summary": "###### Article 56\n\nA la fin de\nchaque trimestre calendrier, l�exploitant ou le titulaire de tout permis est\ntenu de d�clarer aupr�s des administrations foresti�res centrales, provinciale\net territoriale les quantit�s de bois exploit�s.\nLa d�claration,\nd�ment dat�e et sign�e, r�partit les bois suivant la classification pr�vue par\nl�Association Technique Internationale des Bois Tropicaux.",
+                "line_num": 629
+              },
+              {
+                "title": "Article 57",
+                "node_id": "0059",
+                "summary": "###### Article 57\n\nSur base des\nd�clarations trimestrielles, l�exploitant forestier verse � l�administration\nforesti�re les redevances foresti�res pr�vues par la l�gislation en vigueur.\nTout retard non\njustifi� de plus de trois mois dans la d�claration trimestrielle ou le paiement\ndes redevances y aff�rentes entra�ne de plein droit le paiement de p�nalit�s\ndont le montant est d�termin� par arr�t� conjoint des Ministres charg�s des\nfor�ts et des finances.\nChapitre 8 : De la circulation des produits forestiers",
+                "line_num": 640
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0060",
+                "summary": "###### Article 58\n\nAucun produit\nforestier n�est admis � circuler s�il n�est pas accompagn� d�un permis de\ncirculation d�livr� par l�administration foresti�re du lieu de l�exploitation.\nLe permis de\ncirculation est � pr�senter par le transporteur � toute r�quisition des\nfonctionnaires et agents forestiers comp�tents.",
+                "line_num": 653
+              },
+              {
+                "title": "Article 59",
+                "node_id": "0061",
+                "summary": "###### Article 59\n\nLe permis de\ncirculation est extrait d�un carnet � souches et mentionne obligatoirement :\n- l�identit� et le domicile ou la r�sidence du transporteur ;\n- l�identification du moyen de transport ;\n- l�identit� compl�te de l�exploitant forestier;\n- l�itin�raire et la destination du produit forestier ;\n- les r�f�rences de l�autorisation d�exploitation ;\n- le volume ou la quantit� des produits admis � circuler ;\n- la date de d�livrance et la p�riode de  validit� ;\n- l�identification de l�agent ayant d�livr� le permis et le sceau\nde l�administration foresti�re.",
+                "line_num": 663
+              }
+            ]
+          },
+          {
+            "title": "Section 2 : Des permis de coupe",
+            "node_id": "0062",
+            "prefix_summary": "##### Section 2 : Des permis de coupe",
+            "line_num": 678,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0063",
+                "summary": "###### Article 6\n\nCertaines\nactivit�s d�exploitation foresti�re sont soumises � l�obtention de permis\nsp�ciaux.\nLes permis\nsp�ciaux sont soit des permis sp�ciaux de coupe, soit des permis sp�ciaux de\nr�colte.\n\n� 1- Du permis ordinaire de coupe",
+                "line_num": 681
+              },
+              {
+                "title": "Article 60",
+                "node_id": "0064",
+                "summary": "###### Article 60\n\nLes produits\nforestiers destin�s � �tre stock�s en un lieu diff�rent de celui de\nl�exploitation font l�objet d�un bordereau de d�p�t d�livr� gratuitement sur\npr�sentation de l�autorisation d�exploitation ou de circulation, au verso de\nlaquelle mention est faite de la quantit� mise en d�p�t.",
+                "line_num": 693
+              },
+              {
+                "title": "Article 61",
+                "node_id": "0065",
+                "summary": "This partial document covers the formal requirements for a deposit slip (\"bordereau de dépôt\") used in forestry operations. It specifies that the slip is issued by the local forestry administration and must include mandatory information such as the holder's identity, deposit location, references to permits, the volume/quantity of products, issuance date and validity period, and the issuing agent's details. The text then transitions to a new chapter about the organization and function of a commission for resolving disputes related to the evacuation network for forest products.",
+                "line_num": 702
+              },
+              {
+                "title": "Article 62",
+                "node_id": "0066",
+                "summary": "###### Article 62\n\nLa commission de\nr�glement des diff�rends relatifs au trac� du r�seau d��vacuation des produits\nforestiers pr�vue par l�article 107 de la Loi n�011/2002 du 29 ao�t 2002 portant\nCode forestier est pr�sid� par l�administrateur du territoire concern�. Le\nsecr�tariat en est assur� par le chef de l�administration territoriale des\nfor�ts.\nLa commission\nfonctionne sous la supervision du commissaire de district du ressort de la for�t\nconcern�e par le diff�rend.",
+                "line_num": 720
+              },
+              {
+                "title": "Article 63",
+                "node_id": "0067",
+                "summary": "###### Article 63\n\nLa commission est\nsaisie par l�interm�diaire de son secr�taire au moyen d�une lettre recommand�e\nou d�pos�e avec accus� de r�ception au bureau de l�administration foresti�re du\nterritoire.\nD�s la r�ception\nde la lettre de saisine, le pr�sident convoque la r�union de la commission en\npr�cisant le lieu et la date et en informant les autres membres au moins quinze\njours avant.",
+                "line_num": 733
+              }
+            ]
+          },
+          {
+            "title": "Chapitre I",
+            "node_id": "0068",
+            "prefix_summary": "#### Chapitre I",
+            "line_num": 745,
+            "nodes": [
+              {
+                "title": "Article 64",
+                "node_id": "0069",
+                "summary": "###### Article 64\n\nLes d�lib�rations\nde la commission sont consign�es dans un proc�s-verbal d�ment sign� par tous les\nmembres pr�sents.\nUne copie de ce\nproc�s-verbal est transmise, dans les huit jours qui suivent la fin de la\nr�union, au commissaire de district et � l�administration provinciale des\nfor�ts.\nLa partie non\nsatisfaite de la d�cision de la commission a le droit de s�en r�f�rer au\ntribunal de grande instance territorialement comp�tent.\n0 : Des dispositions p�nales et finales",
+                "line_num": 748
+              },
+              {
+                "title": "Article 65",
+                "node_id": "0070",
+                "summary": "###### Article 65\n\nLes infractions\nau pr�sent arr�t� sont punies conform�ment aux dispositions de la Loi n�011/2002\ndu 29 ao�t 2002 portant Code forestier.",
+                "line_num": 763
+              },
+              {
+                "title": "Article 66",
+                "node_id": "0071",
+                "summary": "###### Article 66\n\nLe pr�sent arr�t�\nabroge toutes les dispositions ant�rieures qui lui sont contraires.",
+                "line_num": 770
+              },
+              {
+                "title": "Article 67",
+                "node_id": "0072",
+                "summary": "###### Article 67\n\nLe Secr�taire\nG�n�ral � l�Environnement et Conservation de la Nature est charg� de l�ex�cution\ndu pr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 03 octobre 2002.\nSalomon BANAMUHERE BALIENE\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 776
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0073",
+                "summary": "###### Article 7\n\nLe permis\nordinaire de coupe est d�livr� au titulaire d�une concession foresti�re pour lui\npermettre de pr�lever du bois dans la concession, sur une aire n�exc�dant pas\n1.000 hectares.\nUn m�me\nexploitant peut �tre titulaire de plusieurs permis � la fois.",
+                "line_num": 791
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0074",
+                "summary": "###### Article 8\n\nLe permis est\nvalable pour une p�riode d�un an au maximum, allant du 1er\njanvier au 31 d�cembre.\nLe permis\nordinaire est d�livr� par le secr�taire g�n�ral du minist�re charg� des for�ts.\nIl est conforme\nau mod�le repris en annexe du pr�sent arr�t�.\n�2  Du permis de coupe artisanale",
+                "line_num": 801
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0075",
+                "summary": "###### Article 9\n\nLe permis de\ncoupe artisanale est d�livr� aux exploitants personnes physiques qui utilisent\nnotamment une scie en long, une tron�onneuse m�canique ou une scierie mobile en\nvue de proc�der � la coupe du bois.\nUn exploitant\nartisanal n�a droit qu�� un seul permis par an.",
+                "line_num": 813
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "85e88916-788e-49c7-b6a1-8a26097d4f34"
+    ],
+    "0002": [
+      "e9dfc4b6-eb36-4f19-8d55-811eff463f9a"
+    ],
+    "0003": [
+      "b89f0313-13ce-47fe-838a-32881c877969"
+    ],
+    "0004": [
+      "3cdb706e-e106-4ee9-872c-0af6821176ea"
+    ],
+    "0005": [
+      "a0724b66-30b9-4dd3-9dbc-d9f05242e17a"
+    ],
+    "0007": [
+      "b8a52465-9618-48aa-9c95-cba2e3c3277c"
+    ],
+    "0008": [
+      "c9f28e1c-d9f5-464d-a52c-767edf6d48e2"
+    ],
+    "0009": [
+      "5dad81b9-d11f-4c94-9777-0dd19b993bca"
+    ],
+    "0011": [
+      "06e66901-5481-423a-82d3-e3443f550579"
+    ],
+    "0012": [
+      "d4171df6-4a3f-4d6f-b158-756ccff7c5f4"
+    ],
+    "0013": [
+      "6db1b8d1-e5b5-4f7b-9548-f233f5f29855"
+    ],
+    "0014": [
+      "fac5439c-5eb0-4df7-94d3-224ded4f68f3"
+    ],
+    "0015": [
+      "06969a33-d5e5-4b4d-88cf-097346ada00c"
+    ],
+    "0016": [
+      "00016aa4-230c-4145-9680-3b83b1161911"
+    ],
+    "0017": [
+      "ed5041f0-017b-4f76-994d-faee087643af"
+    ],
+    "0018": [
+      "4adaeee2-1728-4ee1-a617-baf47481b625"
+    ],
+    "0020": [
+      "566f66e6-3711-4d31-be2d-cb5297a5feed"
+    ],
+    "0021": [
+      "10bc2467-4a7a-4fcb-ad7a-e71cfeb36cd1"
+    ],
+    "0023": [
+      "3f0705d8-3627-4813-8973-493990de4797"
+    ],
+    "0024": [
+      "ce895223-9520-413a-8a39-8621d104a8ca"
+    ],
+    "0025": [
+      "f6c2c5d6-2a70-4285-8877-5731d1bd394b"
+    ],
+    "0026": [
+      "42c61555-efdb-401b-98f1-0c750c72f99b"
+    ],
+    "0027": [
+      "aa43a84f-0ae9-4039-b23a-f1dca6ee0cfa"
+    ],
+    "0028": [
+      "59d7e600-b86d-4dfa-9e16-c11b7247182f"
+    ],
+    "0029": [
+      "310839e2-3362-410a-b4cc-e73d617f2371"
+    ],
+    "0030": [
+      "dacf917c-2f87-4431-91c8-d555d8412011"
+    ],
+    "0031": [
+      "d78dce68-1260-46c4-902f-e10d3969388b"
+    ],
+    "0032": [
+      "b69ca50c-eb15-4485-aad2-f1263ddafdc1"
+    ],
+    "0033": [
+      "67cb6f6b-758d-4665-8063-f0dd9470c62f"
+    ],
+    "0034": [
+      "6d9531a9-b26a-4cb2-aeba-f1071e4aad85"
+    ],
+    "0035": [
+      "5e9c7bae-21c8-4d08-94dc-40740bb117ba"
+    ],
+    "0036": [
+      "a4a7f3f2-1797-4653-a25f-7f8c1dd31308"
+    ],
+    "0037": [
+      "3ad6e7e6-2f8a-4ba9-b706-75353e68cbd7"
+    ],
+    "0038": [
+      "491440ba-55e3-4960-83e9-08da4bc9745f"
+    ],
+    "0039": [
+      "a3e98ec5-8ac0-40a5-ae47-19024ff94b02"
+    ],
+    "0040": [
+      "3a172950-6df2-43c2-aaa5-d034539fd088"
+    ],
+    "0041": [
+      "8794bcb7-9e35-4273-a6f3-958f7094f422"
+    ],
+    "0042": [
+      "7ece8f9a-9048-4e3e-a097-1dd08d165664"
+    ],
+    "0043": [
+      "21d37dc3-eed3-4f6e-b18a-07a601e132aa"
+    ],
+    "0044": [
+      "99cf2578-fda1-4a98-ad83-172804945ec1"
+    ],
+    "0045": [
+      "604dc21f-898e-4fc3-8d8b-6eb911d97278"
+    ],
+    "0046": [
+      "fbed1ddd-6d59-47c3-bfaa-28e32640f804"
+    ],
+    "0048": [
+      "d9e95fec-e552-4816-9a8c-d826c036f8ad"
+    ],
+    "0049": [
+      "a7848dd4-13bd-445c-8dfa-3513b30a4167"
+    ],
+    "0050": [
+      "c3fe780f-644c-4c71-8cfb-1e68f4fb607e"
+    ],
+    "0052": [
+      "db5bb8db-b352-416b-b25d-f1e9c86bb074"
+    ],
+    "0053": [
+      "f0fa24bc-da4c-4544-b27d-b9f6d566567c"
+    ],
+    "0054": [
+      "af941208-c42a-4d71-a368-5017c5dbbc9b"
+    ],
+    "0055": [
+      "2b8785f9-83c1-4329-891d-0ae118a76bcc"
+    ],
+    "0056": [
+      "0424c25f-9567-45ad-ab4b-999fddc4f74f"
+    ],
+    "0057": [
+      "630c470c-ef07-4b9a-a40f-8830502e2ea2"
+    ],
+    "0058": [
+      "bf708884-4a72-4351-901c-d23cdab090ee"
+    ],
+    "0059": [
+      "d933b0e9-6fcc-48ca-a60a-cf808f965daa"
+    ],
+    "0060": [
+      "d2c4b583-b594-4f5d-9ed6-4c4b9690d9e5"
+    ],
+    "0061": [
+      "978fd592-c6e6-4218-8309-81784ba9c34b"
+    ],
+    "0063": [
+      "1829b467-48ba-4755-8178-325f7d518ccc"
+    ],
+    "0064": [
+      "ec471b53-5873-42ea-9899-879d45b1f9e3"
+    ],
+    "0065": [
+      "f4656caf-a1d0-48ce-a2b0-010216cb2962"
+    ],
+    "0066": [
+      "dab6571f-b8c4-405c-bba1-d3ce09bfe144"
+    ],
+    "0067": [
+      "ff6c4ef5-6ff1-4c62-973a-8589390f91d8"
+    ],
+    "0069": [
+      "7c752083-b71f-4262-874c-f7d488cf9b52"
+    ],
+    "0070": [
+      "9ba1088f-4854-44e7-b5fc-091f53e2fb14"
+    ],
+    "0071": [
+      "e2518252-df49-4edc-8104-1e2591a471bb"
+    ],
+    "0072": [
+      "a29bb774-8c48-4f7f-bff9-6649f5d14ba1"
+    ],
+    "0073": [
+      "be661cd0-c55e-4f9f-9e46-035eaec60304"
+    ],
+    "0074": [
+      "f36df330-7ace-4fa6-b2f8-5a2ac230d492"
+    ],
+    "0075": [
+      "bd7e1740-72a1-4052-98fe-7be6a77ee0a5"
+    ]
+  },
+  "node_count": 76,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:20:42.339936",
+  "article_count": 67,
+  "generation_time_s": 20.95864176750183
+}

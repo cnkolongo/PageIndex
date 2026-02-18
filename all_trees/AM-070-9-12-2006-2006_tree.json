@@ -1,0 +1,241 @@
+{
+  "slug": "AM-070-9-12-2006-2006",
+  "bundle_path": "backups/all_bundles/code/AM-070-9-12-2006-2006.json",
+  "document_id": "12e416f1-62b9-4b2a-904a-a485eb4165d6",
+  "document_title": "AM.070.9.12.2006",
+  "tree_json": {
+    "doc_name": "AM-070-9-12-2006-2006",
+    "structure": [
+      {
+        "title": "AM.070.9.12.2006",
+        "node_id": "0000",
+        "prefix_summary": "# AM.070.9.12.2006",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nL'Arr�t� minist�riel n� E/SG/0/0133/C2/93 du 17 mars 1993 fixant\nles conditions pour l'obtention de l'autorisation d'exploitation\ndes eaux naturelles de surface ou\nsouterraines est modifi� et compl�t� comme ci-dessous :",
+            "line_num": 4
+          },
+          {
+            "title": "TITRE II : SUR LA PLAN TECHNIQUE.",
+            "node_id": "0002",
+            "prefix_summary": "#### TITRE II : SUR LA PLAN TECHNIQUE.",
+            "line_num": 12,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "###### Article 10\n\nEn cas d'avis favorable pour le renouvellement, le Secr�taire\nG�n�ral � l'Energie le confirme par la signature du titre pour la p�riode\nconcern�e.",
+                "line_num": 15
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "This partial document, Article 11, outlines the obligations of the holder of an authorization for the exploitation of natural waters. The main points covered are the requirements to: maintain an active water utility subscription for domestic use; submit monthly production and consumption statistics; pay an annual natural water exploitation tax and monthly consumption royalties to the state; provide unrestricted access for inspections and water sampling by authorized energy officials; and refrain from supplying the extracted water to third parties without prior ministerial approval.",
+                "line_num": 22
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nLa taxe ou redevance qui n'a pas pu �tre recouvr�e pendant la\np�riode au cours de laquelle elle a �t� d�termin�e, sera pay�e par le redevable\nau taux du tarif de l'ann�e ou du mois en cours au moment de sa constatation.",
+                "line_num": 52
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nL'Etat se r�serve tout le droit de r�cup�rer ses cr�ances au\npr�s des exploitants insolvables et de prendre des mesures qui s'imposent allant\njusqu'� l'isolement des �quipements de captage d'eau naturelle de leurs points\nde pr�l�vement.",
+                "line_num": 59
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nToute modification du sch�ma hydraulique initial des\ninstallations doit �tre port�e � la connaissance de la Division Provinciale de\nl'Energie et du Secr�tariat G�n�ral � l'Energie avant son ex�cution, afin de\nl'adapter aux nouvelles conditions d'exploitation.\nIl s'agit notamment :\n- De l'extension du site de captage en vue du renforcement de la\ncapacit� de production, de distribution, de commercialisation ou de stockage ;\n- Du replacement ou de la r�habilitation des unit�s de pompage\nactuellement en service.",
+                "line_num": 67
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "This partial document covers Article 15 of a regulation, detailing the state's authority and procedures regarding water meters for self-operated entities (auto-exploitants). The main points include: the state's right to install, seal, and maintain meters; its sole discretion to determine meter specifications and to verify, relocate, or replace them; the responsibility of the exploiter for meter rental, maintenance, and upkeep; the process for reading consumption indexes by ministry officials; and the penalty for missed readings, which involves billing based on the average of the last three reliable bills.",
+                "line_num": 80
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nEn cas de contestation sur\nl'exactitude des appareils de l'Etat, le consommateur est en droit d'en exiger\nl'�talonnage qui s'effectuera � sa charge dans un atelier agr��.",
+                "line_num": 101
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "###### Article 17\n\nLorsque l'�talonnage prouve\nl'inexactitude des compteurs, la consommation constat�e est annul�e et remplac�e\npar une consommation �gale � la moyenne de trois consommations pr�c�dentes.",
+                "line_num": 108
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nToute cessation d'activit�\npour quelque motif que ce soit doit �tre soumise � des poursuites judiciaires,\nau paiement des arri�r�s des factures de consommation pour la p�riode\nd'exploitation frauduleuse, ainsi qu'� des amendes transactionnelles\nconform�ment �\nla r�glementation en vigueur.",
+                "line_num": 115
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0012",
+                "summary": "###### Article 2\n\nNul ne peut se livrer � l'exploitation des eaux naturelles de\nsurface ou souterraines � des fins industrielles, commerciales, domestiques,\nd'hydro�lectricit� ou mixtes sans l'autorisation du Ministre ayant l'Energie\ndans ses attributions.",
+                "line_num": 125
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\nLes m�mes sanctions reprises aux\narticles 13 et 19 sont appliqu�es � tout exploitant :\n- Qui a r�ussi � pr�lever de l'eau\nen emp�chant l'enregistrement correct des consommations par le compteur ;\n- Dont la complicit� ou la correit�\na permis la fraude ;\n- Qui, sans autorisation du\nMinistre, tout en �tant en relation avec l'administration de l'Energie, se livre\n� l'exploitation des eaux naturelles ;\n- Qui utilise de l'eau naturelle\npour des usages non d�clar�s dans son dossier ;\n- Qui se livre � fournir de l'eau\nnaturelle aux tiers sans autorisation pr�alable du Ministre de l'Energie.",
+                "line_num": 133
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "###### Article 21\n\nLe non-respect des dispositions\nci-dessus peut entra�ner soit le retrait de l'autorisation, soit le refus de son\nrenouvellement et, ce sans pr�judice des poursuites judiciaires et des amendes\ntransactionnelles.",
+                "line_num": 150
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nLa reprise de l'exploitation\nlorsqu'elle a �t� interrompue pour des manquements �voqu�s ci-haut, ne pourra\nintervenir qu'aux conditions suivantes :\n1.\nLe renouvellement de\nla demande d'autorisation d'exploitation ;\n2.\nLa r�installation et\nla fiabilisation des �quipements � charge de l'exploitant ;\n3.\nLa correction des\nirr�gularit�s dans le dossier constat�es au cours de la p�riode d'exploitation\npr�c�dente.",
+                "line_num": 158
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nSont abrog�es toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�:",
+                "line_num": 175
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0017",
+                "summary": "###### Article 24\n\nLe Secr�taire G�n�ral � l'Energie\nest charg� de l'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 9 d�cembre 2006\nSimanga N.-N. Augustin\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 181
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0018",
+                "summary": "The partial document outlines the procedural conditions and steps for obtaining authorization to exploit natural surface or groundwater resources. It specifies that the application must be submitted to the Ministry of Energy, details the internal administrative process for handling the application (including technical review and potential consultations), and provides instructions for applicants residing outside the capital on where to submit their request.",
+                "line_num": 195
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0019",
+                "summary": "This partial document outlines the required components for an application (likely for a water usage permit) submitted by an individual. The main points covered are the list of mandatory documents and information to be included with the request, such as personal identification details, administrative entity details, copies of identity and business registration documents, proof of tax payment, a detailed location sketch, and a technical justification for using natural water resources.",
+                "line_num": 218
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0020",
+                "summary": "The partial document outlines the specific documentation requirements for a legal entity (person morale) applying for an authorization from the Ministry of Energy in the Democratic Republic of Congo. The required documents include proof of the entity's legal registration and status, identification numbers, proof of tax payment, and detailed technical maps and notes justifying the proposed use of natural waters.",
+                "line_num": 247
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0021",
+                "summary": "###### Article 6\n\nToute demande\nincompl�te peut �tre rejet�e.\nLe refus d'octroi\nd'une autorisation n'ouvre droit � aucune indemnit� ou d�dommagement.\nDans ce cas, la\ntaxe pay�e reste acquise.\nNotification en est faite par le Secr�taire G�n�ral � l'Energie\nau demandeur qui dispose d'un d�lai de trois mois � dater de la notification\npour exercer un recours aupr�s de l'administration de l'Energie.",
+                "line_num": 284
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0022",
+                "summary": "###### Article 7\n\nEn cas d'avis favorable, le Secr�taire G�n�ral � l'Energie\npr�pare un projet d'Arr�t� qu'il soumet � la signature du Ministre de l'Energie.\nApr�s signature de l'Arr�t�, le Secr�taire G�n�ral � l'Energie\nd�livre le titre d'autorisation sollicit� dont le renouvellement fera l'objet du\npaiement de la taxe annuelle conform�ment � la Loi. Le titre original et une\nampliation pour publication au journal officiel.",
+                "line_num": 297
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0023",
+                "summary": "###### Article 8\n\nL'autorisation est accord�e pour une dur�e de cinq ans,\nrenouvelable chaque ann�e.",
+                "line_num": 307
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0024",
+                "summary": "###### Article 9\n\nLa demande de renouvellement est introduite au moins quarante\ncinq jours avant l'expiration de la validit� en cours.\nElle est accompagn�e ale toutes\nles statistiques,\nde production ou de production r�alis�es durant cette p�riode, de\nl'original du titre de l'autorisation ainsi que de la preuve de paiement de la\ntaxe r�mun�ratoire du renouvellement.",
+                "line_num": 313
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "ec0f359e-d674-48ca-a123-8438bce773f1"
+    ],
+    "0003": [
+      "aeefc3d5-c80e-423a-8c8a-a5482b4db623"
+    ],
+    "0004": [
+      "8b7afb4f-cc32-45b8-8b9c-555882837d93"
+    ],
+    "0005": [
+      "01227556-d1fc-4599-8e90-6b3394712b9f"
+    ],
+    "0006": [
+      "c77e3177-6796-4dbc-b557-9500e6e4c327"
+    ],
+    "0007": [
+      "c7042565-442e-43a7-b29f-f464dd833d2b"
+    ],
+    "0008": [
+      "1f25baec-7992-47e9-9804-8fdcbe19f132"
+    ],
+    "0009": [
+      "a91a3198-1cd0-4c2c-a976-c9654d16a597"
+    ],
+    "0010": [
+      "b85a9311-c481-4578-a961-e324dc3a8fb0"
+    ],
+    "0011": [
+      "d1295d00-cda7-4041-a60c-15444b894012"
+    ],
+    "0012": [
+      "97f156c3-8d82-4731-b86e-d222aa4896c6"
+    ],
+    "0013": [
+      "53c97edc-9cc4-495d-a097-5e443eed0fd8"
+    ],
+    "0014": [
+      "613a034f-0323-4a4b-9b52-e78a058b6c5b"
+    ],
+    "0015": [
+      "898a659c-43d3-4b12-8672-b69908c1dea1"
+    ],
+    "0016": [
+      "32cb53ba-533f-4c79-9eab-cab1998aa1f0"
+    ],
+    "0017": [
+      "fb27e6a1-77fc-4cf4-afb9-4ed91c57cbab"
+    ],
+    "0018": [
+      "0e22f249-2755-447a-a038-99c851180e4e"
+    ],
+    "0019": [
+      "3a192677-ee1d-4416-a071-6f5f326d8574"
+    ],
+    "0020": [
+      "1aa82fe0-b820-4e0b-b354-f21b3b355c2c"
+    ],
+    "0021": [
+      "b15275b6-3350-4a7c-9e88-461c94e86d92"
+    ],
+    "0022": [
+      "f2c53cbe-230d-4d95-a79a-f48ebf51c58c"
+    ],
+    "0023": [
+      "757914d8-221b-47b9-8ee7-14598d3c249e"
+    ],
+    "0024": [
+      "90e9c8d6-2fbd-4eb2-aeff-4962d8ab0f14"
+    ]
+  },
+  "node_count": 25,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:23:13.779715",
+  "article_count": 23,
+  "generation_time_s": 13.091053247451782
+}

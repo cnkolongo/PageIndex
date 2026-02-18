@@ -1,0 +1,285 @@
+{
+  "slug": "AM-262-2002-03-10-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-262-2002-03-10-2002-2002.json",
+  "document_id": "1707d428-d33c-4752-9957-cc04e57cc0ae",
+  "document_title": "AM.262.2002.03.10.2002",
+  "tree_json": {
+    "doc_name": "AM-262-2002-03-10-2002-2002",
+    "structure": [
+      {
+        "title": "AM.262.2002.03.10.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM.262.2002.03.10.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent arr�t�\nd�termine les mesures applicables aux am�nagements forestiers.\nIl pr�cise les\nr�gles relatives aux reconnaissances et inventaires forestiers et d�termine les\nprincipes d�am�nagement applicables aux diff�rentes cat�gories de for�ts.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nEn cas\nd�attribution d�une concession par la proc�dure de gr� � gr�, le requ�rant peut\nproc�der � une reconnaissance foresti�re pr�alable � l�inventaire.\nLa r�alisation de\nla reconnaissance foresti�re est conditionn�e par l�obtention d�une autorisation\npr�alable d�livr�e par l�administration foresti�re provinciale dans le ressort\nduquel se trouve la for�t.",
+            "line_num": 13
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nL�inventaire �tabli par des personnes\nautres que l�administration foresti�re n�est valable que s�il a �t� jug�\nconforme aux normes d�inventaire pr�vues par le pr�sent arr�t�.\nUn certificat de\nconformit� est d�livr� par l�administration foresti�re moyennant le paiement\nd�une redevance dont le montant est fix� par le Ministre charg� des for�ts.\nChapitre 3 : Dispositions sp�cifiques relatives � l�am�nagement\ndes for�ts\nSection premi�re : Des for�ts class�es",
+            "line_num": 24
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "The partial document outlines the preparatory steps for developing a management plan for a classified forest, focusing on the mandatory socio-economic survey. This survey, conducted by the forest management institution in collaboration with local communities, NGOs, and relevant administrations, aims to inventory forest resources, document biodiversity, assess the forest's ecological potential, and gather data on local demographics and the usage of forest resources by neighboring populations.",
+            "line_num": 37
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nLe plan\nd�am�nagement d�finit les objectifs de l�am�nagement, donne les orientations\nrelatives � la mise en valeur de la for�t, notamment � travers diverses\nactivit�s telles que la recherche, le tourisme, la bio prospection. Il pr�voit\nles mesures susceptibles de favoriser l�implication des communaut�s et des\nassociations locales dans la gestion de la for�t.\nLe plan\nd�am�nagement est �labor� en concertation avec les populations locales\nconcern�es.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\nLe plan\nd�am�nagement peut pr�voir une zone tampon � l�int�rieur de laquelle sont\nexerc�es les activit�s des populations riveraines pour la satisfaction de leurs\nbesoins domestiques, notamment en produits forestiers et en terres de culture\ntemporaire.",
+            "line_num": 66
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nLorsque la for�t\na �t� class�e en vue de la protection des sols contre l��rosion et des\nressources contre le feu, de la protection des sources et des cours d�eau ou de\nla conservation de la biodiversit�, le plan d�am�nagement pr�voit un programme\nde surveillance permanente.",
+            "line_num": 75
+          },
+          {
+            "title": "Section 2 : Des for�ts de production permanente",
+            "node_id": "0008",
+            "prefix_summary": "##### Section 2 : Des for�ts de production permanente",
+            "line_num": 84,
+            "nodes": [
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nLe plan\nd�am�nagement est approuv� par arr�t� du Ministre charg� des for�ts.",
+                "line_num": 87
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "###### Article 17\n\nL�exploitant\nforestier est tenu de produire un plan d�am�nagement comportant notamment :\n1. une\nlocalisation pr�cise des aires de coupe fournie aux moyens d�informations\ncartographiques ;\n2. un\ntraitement, une pr�sentation et une classification de toutes les donn�es\nrelatives � l�exploitation ;\n3. le\ntaux de pr�l�vement de bois par parcelle en fonction de la possibilit� de la\nfor�t.",
+                "line_num": 93
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nL�exploitant\nd�coupe l�ensemble du territoire de son exploitation foresti�re en blocs\nconstitu�s de quadrilat�res contigus et d��gales dimensions.\nLe quadrillage\nest pr�sent� en une seule fois � l��chelle de 1/200 000.",
+                "line_num": 108
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0012",
+                "summary": "###### Article 19\n\nChaque bloc\ncouvre une superficie maximale de 1000 hectares, soit 5 km en direction\nEst-ouest et 2 km en direction Nord-Sud ou l�inverse suivant la configuration du\nterrain.",
+                "line_num": 117
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0013",
+                "summary": "###### Article 2\n\nLes dispositions\ndu pr�sent arr�t� s�appliquent � l�ensemble du domaine forestier.\nElles concernent\nen particulier les for�ts class�es, les for�ts de production permanente et les\nfor�ts communautaires.",
+                "line_num": 125
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0014",
+                "summary": "###### Article 20\n\nLes blocs sont\nnum�rot�s selon les principes des coordonn�es cart�siennes :\nen ordonn�e, la\ndistance entre le point d�origine et le bloc est repr�sent�e par une lettre\nmajuscule;\nen abscisse, la\nm�me distance est repr�sent�e par un chiffre multiple de 5.\nLa num�rotation\net la repr�sentation des blocs sont faites suivant le mod�le repris en annexe au\npr�sent arr�t�.",
+                "line_num": 134
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0015",
+                "summary": "###### Article 21\n\nChaque bloc est\nd�coup� en 40 parcelles de 25 hectares ayant chacune la forme d�un rectangle de\n1 km sur 250 m ou d�un carr� de 500 m de c�t�.\nLes parcelles\nsont num�rot�es au moyen d�une lettre minuscule suivie d�un ou plusieurs\nchiffres, les lettres repr�sentant, en ordonn�e, la situation de la parcelle par\nrapport au point d�origine du bloc et les chiffres donnant, en abscisse, la\nsituation de la parcelle par rapport au point d�origine de la superficie\nforesti�re conc�d�e.\nLa repr�sentation\net la num�rotation des parcelles sont faites suivant les mod�les annex�s au\npr�sent arr�t�.",
+                "line_num": 148
+              }
+            ]
+          },
+          {
+            "title": "Section 3 : Des for�ts communautaires",
+            "node_id": "0016",
+            "prefix_summary": "##### Section 3 : Des for�ts communautaires",
+            "line_num": 164,
+            "nodes": [
+              {
+                "title": "Article 22",
+                "node_id": "0017",
+                "summary": "###### Article 22\n\nLes normes\nprescrites par le pr�sent arr�t� en ce qui concerne le d�coupage et les\ndimensions des parcelles ainsi que l�appellation et les dimensions des blocs\nsont de stricte application.\nPar d�rogation �\nla disposition de l�alin�a pr�c�dent, les concessionnaires qui, � l�entr�e en\nvigueur du pr�sent arr�t�, appliquent un syst�me de num�rotation autre disposent\nd�un d�lai d�un an � compter de l�entr�e en vigueur du pr�sent arr�t� pour s�y\nconformer.",
+                "line_num": 167
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0018",
+                "summary": "###### Article 23\n\nL�am�nagement des\nfor�ts communautaires est soumis aux mesures particuli�res pr�vues par la\npr�sente section.",
+                "line_num": 180
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0019",
+                "summary": "###### Article 24\n\nToute for�t\nattribu�e aux communaut�s locales fait l�objet d�une enqu�te sommaire permettant\nde r�aliser un �tat des lieux g�n�ral du milieu et de conna�tre les besoins de\nla population concern�e.\nL�enqu�te comporte notamment :\nune indication du\ntype de for�t et des essences s�y trouvant ;\nune description\ndes ressources ligneuses et non ligneuses de la for�t ;\nune description\ndes autres ressources naturelles telles que la faune et les ressources en eau ;\nla description\ndes activit�s pratiqu�es dans la for�t, notamment l�agriculture et les autres\nactivit�s productives ;\nla d�mographie et\nl�habitat.",
+                "line_num": 187
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0020",
+                "summary": "###### Article 25\n\nL�exploitation de\nla for�t communautaire est soumise � l��laboration d�un plan d�am�nagement\nsimplifi�.\nLe plan\nd�am�nagement pr�voit notamment :\nla fixation sur\ncarte des limites de la for�t ainsi que leur mat�rialisation par tous moyens\nappropri�s ;\nl��laboration des\ncartes de la for�t ;\nla d�limitation\ndes aires de coupe et des zones de conservation.\nLe plan comporte\n�galement des �l�ments relatifs � la gestion de la for�t.\nChapitre 4 : Dispositions finales",
+                "line_num": 207
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0021",
+                "summary": "###### Article 26\n\nToutes\ndispositions ant�rieures contraires au pr�sent arr�t� sont abrog�es.",
+                "line_num": 226
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0022",
+                "summary": "###### Article 27\n\nLe Secr�taire\nG�n�ral � l�Environnement et Conservation de la Nature est charg� de l�ex�cution\ndu pr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 03 octobre 2002.\nSalomon BANAMUHERE BALIENE\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 232
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0023",
+                "summary": "###### Article 3\n\nL�administration\nforesti�re est responsable de l�am�nagement du domaine forestier. Elle d�termine\nles orientations g�n�rales d�am�nagement des for�ts et en assure le suivi et le\ncontr�le.",
+                "line_num": 247
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0024",
+                "summary": "###### Article 4\n\nL�am�nagement des\nfor�ts class�es rel�ve de la comp�tence de l�institution charg�e de sa gestion.\nL�am�nagement des\nfor�ts de production permanente est r�alis� par le concessionnaire.\nL�am�nagement des\nfor�ts communautaires est r�alis� par la communaut� attributaire de la for�t. La\ncommunaut� locale peut recourir � l�assistance de l�administration foresti�re ou\n� des tiers.\nChapitre 2 :\nDispositions communes relatives �\nl�am�nagement des for�ts",
+                "line_num": 255
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0025",
+                "summary": "###### Article 5\n\nL�am�nagement\nforestier est r�alis� en fonction du d�coupage du domaine forestier en unit�s\nforesti�res.\nLes unit�s\nforesti�res sont des espaces forestiers d�coup�s en consid�ration des\ncaract�ristiques �cologiques propres � chaque zone et des objectifs de la\npolitique foresti�re nationale en vue de les soumettre � un m�me type de\ngestion.",
+                "line_num": 270
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0026",
+                "summary": "###### Article 6\n\nLa gestion des\nfor�ts doit �tre conforme � un plan d�am�nagement �tabli selon la proc�dure\npr�vue par le pr�sent arr�t�.\nLe plan\nd�am�nagement forestier comporte notamment :\n1�.  La\nqualification des intervenants ;\n2�. La d�finition\net la justification des objectifs de l�am�nagement ;\n3�. L��nonc� du\nplan de gestion.",
+                "line_num": 282
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0027",
+                "summary": "###### Article 7\n\nTout am�nagement\nforestier est pr�c�d� par la r�alisation d�un inventaire appropri�. L�inventaire\nforestier peut �tre r�alis� par l�administration foresti�re ou par des tiers.",
+                "line_num": 297
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0028",
+                "summary": "###### Article 8\n\nPour\nl��tablissement d�un inventaire forestier, les normes techniques � appliquer,\nles donn�es � relever, les travaux � ex�cuter et les m�thodes � suivre sont ceux\nrepris aux annexes au pr�sent arr�t� selon que l�inventaire pr�conis� est un\ninventaire national, d�am�nagement, d�allocation ou d�exploitation.",
+                "line_num": 304
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0029",
+                "summary": "The partial document defines four types of forest inventories as per the regulation: a national inventory for general state-level information, a management inventory for protection and conservation at a forest unit scale, an exploitation inventory for detailed data on harvestable resources at a plot level, and an allocation inventory conducted prior to awarding a concession through a direct negotiation procedure.",
+                "line_num": 313
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "bf8afc3a-a3b8-433d-bf93-8247636daa88"
+    ],
+    "0002": [
+      "40521835-7480-4235-a5eb-41ea5ecd5c6b"
+    ],
+    "0003": [
+      "3be22079-8f06-40fa-96e5-0f8fdda61820"
+    ],
+    "0004": [
+      "fd389a7c-72d9-48c2-857c-f0758a6773dd"
+    ],
+    "0005": [
+      "44644f41-8bbb-4b28-8d6e-b5a7137e1b40"
+    ],
+    "0006": [
+      "2bf43cd1-ac7b-426f-bf48-dd924710becc"
+    ],
+    "0007": [
+      "a3229148-7784-40c4-9c2b-d603e80f5cf3"
+    ],
+    "0009": [
+      "39b3a353-8f76-458c-b0ac-3806e1a743c3"
+    ],
+    "0010": [
+      "21490e86-225b-43df-98a6-4bceaa17a811"
+    ],
+    "0011": [
+      "c9f8042d-b235-4065-a2eb-c71faaf7a8cb"
+    ],
+    "0012": [
+      "c48e3486-6829-492d-b1cc-dccd106d332b"
+    ],
+    "0013": [
+      "d2baca7f-97d0-434f-8200-a1297e45dd3d"
+    ],
+    "0014": [
+      "7e6b537a-e4fd-4955-9b01-8aa0e7a829f3"
+    ],
+    "0015": [
+      "18313262-acee-4ba4-8a8f-6d5325814e23"
+    ],
+    "0017": [
+      "8b3c591e-ee6c-48e0-a1e0-433ba072b363"
+    ],
+    "0018": [
+      "f36de2f1-2495-4008-8f91-7b1979a0217e"
+    ],
+    "0019": [
+      "ca06c9c7-21e9-431e-b0c0-23ced0675f4e"
+    ],
+    "0020": [
+      "ea33a80e-3ebe-4007-8131-9a14b2007804"
+    ],
+    "0021": [
+      "36b2d746-3462-454a-9170-8d2320ec4a46"
+    ],
+    "0022": [
+      "5f40d743-aa64-4972-abf0-2df1521edfb1"
+    ],
+    "0023": [
+      "d639f2e8-89c0-4c67-82dd-90de322e59a8"
+    ],
+    "0024": [
+      "f08a1a7c-b5f0-4183-8f78-2203faee23fe"
+    ],
+    "0025": [
+      "f5b3d2eb-4795-412d-9077-da14ae58d69d"
+    ],
+    "0026": [
+      "198f9037-1b1d-4252-a68a-33c356f0509f"
+    ],
+    "0027": [
+      "72857b86-f3d7-4fd7-8cbe-825acdb96de6"
+    ],
+    "0028": [
+      "245fb63a-d9f5-4dc1-971e-6d691d156a17"
+    ],
+    "0029": [
+      "775ff9b6-087c-4933-845f-5d038b1ef27b"
+    ]
+  },
+  "node_count": 30,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:20:47.940428",
+  "article_count": 27,
+  "generation_time_s": 5.535989046096802
+}

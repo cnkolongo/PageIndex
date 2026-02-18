@@ -1,0 +1,33 @@
+{
+  "slug": "A-13-08-1998-1998",
+  "bundle_path": "backups/all_bundles/code/A-13-08-1998-1998.json",
+  "document_id": "62a52504-1a59-49b2-b184-2fe145ae683c",
+  "document_title": "A.13.08.1998",
+  "tree_json": {
+    "doc_name": "A-13-08-1998-1998",
+    "structure": [
+      {
+        "title": "A.13.08.1998",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a178b0fa-1f42-4833-ad40-40837c792ab4"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:29:59.076501",
+  "article_count": 1,
+  "generation_time_s": 0.003509044647216797
+}

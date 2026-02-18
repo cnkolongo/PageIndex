@@ -1,0 +1,439 @@
+{
+  "slug": "AM-1250-012-28-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-1250-012-28-09-2015-2015.json",
+  "document_id": "e03cd452-47a3-4273-9179-8e1713d4061c",
+  "document_title": "AM.1250.012.28.09.2015",
+  "tree_json": {
+    "doc_name": "AM-1250-012-28-09-2015-2015",
+    "structure": [
+      {
+        "title": "AM.1250.012.28.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.1250.012.28.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre II: Du champs d'application",
+            "node_id": "0001",
+            "prefix_summary": "#### Chapitre II: Du champs d'application",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document defines key terms related to pharmaceutical products, traditional medicine, health promotion, and advertising within a regulatory context. It establishes official definitions for items such as advertisements, medical campaigns, promotional materials (e.g., posters, brochures, samples), health professionals, and categories of products (pharmaceuticals, health products, traditional medicines). The definitions focus on information dissemination, marketing activities, and the rational use of medicines, outlining the scope and rules for public health communication and product promotion.",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV : De la publicit�",
+            "node_id": "0003",
+            "prefix_summary": "#### Chapitre IV : De la publicit�",
+            "line_num": 93,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0004",
+                "summary": "###### Article 10\n\nLe service de l'information sur les m�dicaments a comme missions :\n1. Favoriser l'usage rationnel des m�dicaments ;\n2. Contribuer � l'information, � l'�ducation et � la formation continue des\nprofessionnels de sant� ;\n3. Participer au syst�me de pharmacovigilance  avec les autres structures\ncomp�tentes.\n\nSection I : Dispositions g�n�rales",
+                "line_num": 96
+              }
+            ]
+          },
+          {
+            "title": "Chapitre I : Des d�finitions",
+            "node_id": "0005",
+            "prefix_summary": "#### Chapitre I : Des d�finitions",
+            "line_num": 108,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0006",
+                "summary": "The partial document lists the legal ordinances and reasons referenced as the basis for issuing an official decree (arrêté).",
+                "line_num": 111
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0007",
+                "summary": "###### Article 11\n\nSeuls les m�dicaments pour lesquels l'Autorisation de Mise sur le March� est\nvalide peuvent faire l'objet d'une publicit�.",
+                "line_num": 127
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0008",
+                "summary": "###### Article 12\n\nToute publicit� faite � l'�gard d�un m�dicament doit contenir les\ninformations exactes, actualis�es, et v�rifiables. Elle doit:\n1. respecter les dispositions de l'Autorisation de Mise sur le March�;\n2. se conformer aux renseignements figurant dans le r�sum� des caract�ristiques\ndu produit\n3. favoriser l'usage rationnel du m�dicament;\n4. elle ne doit pas porter atteinte � la sant� publique.",
+                "line_num": 133
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0009",
+                "summary": "###### Article 13\n\nIl est particuli�rement interdit :\n1. de faire de la publicit� en utilisant comme support une prescription m�dicale\npar l'insertion des m�dicaments d'une firme quelconque ;\n2. de placer les images sur l'emballage ext�rieur des m�dicaments ;\n3. de mentionner des termes qui frisent l'immoralit� sur l'emballage des\nm�dicaments.",
+                "line_num": 144
+              },
+              {
+                "title": "Section Il: De la  publicit� aupr�s du grand public",
+                "node_id": "0010",
+                "prefix_summary": "##### Section Il: De la  publicit� aupr�s du grand public",
+                "line_num": 154,
+                "nodes": [
+                  {
+                    "title": "Article 14",
+                    "node_id": "0011",
+                    "summary": "The partial document outlines Article 14, which lists specific elements that are prohibited in the advertising of medicines. The prohibitions include making medical acts seem unnecessary, guaranteeing effectiveness or absence of side effects, making comparative superiority claims, suggesting a medicine can improve normal health or that non-use harms it, equating medicine with food, citing cure testimonials, unduly emphasizing market authorization, and using recommendations from scientists, health professionals, or celebrities to encourage consumption.",
+                    "line_num": 157
+                  },
+                  {
+                    "title": "Article 15",
+                    "node_id": "0012",
+                    "summary": "###### Article 15\n\nToute publicit� sur le m�dicament, recettes et\nm�dicaments traditionnels aupr�s de grand public est interdite.",
+                    "line_num": 179
+                  }
+                ]
+              },
+              {
+                "title": "Section III: De la publicit� aupr�s des professionnels de sant�",
+                "node_id": "0013",
+                "prefix_summary": "##### Section III: De la publicit� aupr�s des professionnels de sant�",
+                "line_num": 185,
+                "nodes": [
+                  {
+                    "title": "Article 16",
+                    "node_id": "0014",
+                    "summary": "###### Article 16\n\nToute publication et toute �mission portant sur le savoir traditionnel est\nsoumis au r�gime sp�cial institu� par le guide d'acc�s aux m�dias pour la\npromotion de la m�decine traditionnelle.",
+                    "line_num": 188
+                  },
+                  {
+                    "title": "Article 17",
+                    "node_id": "0015",
+                    "summary": "###### Article 17\n\nLa publicit� destin�e aux professionnels de sant� peut se faire par :\n1.  les encarts dans les journaux sp�cialis�s ;\n2. les documents audiovisuels � J'exclusion de la radio et de la t�l�vision ;\n3. les  colloques, congr�s, conf�rences, s�minaires, symposiums, enseignement\npost universitaire ;\n4. le  mat�riel promotionnel (�chantillons m�dicaux, gadgets, fiche posologique,\netc.)",
+                    "line_num": 195
+                  },
+                  {
+                    "title": "Article 18",
+                    "node_id": "0016",
+                    "summary": "###### Article 18\n\nLe contenu scientifique ainsi que les objectifs de ces r�unions doivent viser\nl'excellence et les expos�s pr�sent�s par les sp�cialistes scientifiques doivent\ncontribuer utilement � la diffusion d'une information qui a un rapport �troit\navec le bon usage de m�dicament.",
+                    "line_num": 206
+                  },
+                  {
+                    "title": "Article 19",
+                    "node_id": "0017",
+                    "summary": "###### Article 19\n\nTout d�l�gu� m�dical est tenu de rapporter au responsable de l'information de\nl'entreprise toutes les informations relatives � l'utilisation des m�dicaments\ndont il assure la publicit�, en particulier en ce  qui concerne les effets\nind�sirables qui leur sont communiqu�s par les personnes visit�es.",
+                    "line_num": 214
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre Ill: De l'information m�dicale et scientifique",
+            "node_id": "0018",
+            "prefix_summary": "#### Chapitre Ill: De l'information m�dicale et scientifique",
+            "line_num": 222,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0019",
+                "summary": "The partial document covers the scope and exceptions of regulations concerning information and advertising related to medications and other health products. It specifies that the rules do not apply to health information campaigns authorized by certain public health authorities or international organizations, nor to educational materials approved for risk management programs. It then introduces a section on medical and scientific information.",
+                "line_num": 225
+              },
+              {
+                "title": "Section IV: Des autres produits de sant�",
+                "node_id": "0020",
+                "prefix_summary": "##### Section IV: Des autres produits de sant�",
+                "line_num": 240,
+                "nodes": [
+                  {
+                    "title": "Article 20",
+                    "node_id": "0021",
+                    "summary": "###### Article 20\n\nNul ne peut exercer le m�tier de d�l�gu� m�dical s'il n'est rattach� � une\nmaison de repr�sentation  ou  � un �tablissement pharmaceutique autoris� et\nn'est pr�alablement enregistr� par l'Autorit� Nationale de\nR�glementation Pharmaceutique.",
+                    "line_num": 243
+                  }
+                ]
+              },
+              {
+                "title": "Section V: De la demande du visa",
+                "node_id": "0022",
+                "prefix_summary": "##### Section V: De la demande du visa",
+                "line_num": 251,
+                "nodes": [
+                  {
+                    "title": "Article 21",
+                    "node_id": "0023",
+                    "summary": "###### Article 21\n\nToute publicit� ou campagne d'information  portant sur les autres produits de\nsant� requiert un visa � d�livrer par l'Autorit� Nationale de Pharmaceutique.",
+                    "line_num": 254
+                  },
+                  {
+                    "title": "Article 22",
+                    "node_id": "0024",
+                    "summary": "The partial document outlines the application process for obtaining a visa (authorization) for pharmaceutical advertising or information campaigns in a French-speaking context. It specifies that the request is submitted to the National Pharmaceutical Regulatory Authority by the marketing authorization holder. Key requirements include submitting the advertising project, planned distribution methods, proof of claims, a copy of the marketing authorization, and packaging samples. The visa must be renewed every two years.",
+                    "line_num": 260
+                  },
+                  {
+                    "title": "Article 23",
+                    "node_id": "0025",
+                    "summary": "###### Article 23\n\nLa commission charg�e d'octroyer le visa est sous la responsabilit�\nde l'Autorit� Nationale de R�glementation Pharmaceutique.",
+                    "line_num": 277
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V: De la commission charg�e de contr�le de la publicit� et de la",
+            "node_id": "0026",
+            "prefix_summary": "#### Chapitre V: De la commission charg�e de contr�le de la publicit� et de la",
+            "line_num": 283,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0027",
+                "summary": "###### Article 24\n\nChaque demande d'obtention d'un visa est subordonn�e au paiement d'une taxe dont\nle montant sera fix� par Arr�t� interminist�riel.\n\ndiffusion des recommandations sur le bon usage des m�dicaments et autres\nproduits de sant�",
+                "line_num": 286
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0028",
+                "summary": "The partial document describes the missions of a commission responsible for advertising control. Its main points include issuing opinions on authorization projects and corrective measures for health professionals' advertising, reviewing and potentially suspending or withdrawing advertising visas for public-facing health products, developing recommendations for proper use of medications and health products, defining promotional practices and advertising campaign conduct for proper use of marketing authorization information, and proposing sanctions.",
+                "line_num": 295
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0029",
+                "summary": "The partial document outlines the composition of the Commission for the Control of Medicinal Products Advertising. It lists the eleven official members, which include representatives from key government ministries (Pharmacy and Medicine, Commerce, Communication, Finance), regulatory and professional bodies (pharmacists', physicians', and dentists' orders), and relevant sectors (pharmaceutical promotion agencies, the pharmaceutical industry, the CSAC, and the National Traditional Medicine Program). It also notes that the commission can co-opt additional experts as needed.",
+                "line_num": 314
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0030",
+                "summary": "###### Article 27\n\nLes membres de la commission sont nomm�s par le Ministre de la Sant� Publique\npar un Arr�t� minist�riel. Le mandat des membres de la commission a une dur�e de\ntrois ans renouvelable une fois;\nll y a autant de membres suppl�ants que de membres effectifs. Les membres\nsuppl�ants sont nomm�s dans les m�mes conditions que les membres effectifs. La\npersonne nomm�e  pour succ�der  � un membre effectif ou suppl�ant ach�ve le\nmandat de son pr�d�cesseur.",
+                "line_num": 334
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0031",
+                "summary": "###### Article 28\n\nLa Commission d�lib�re valablement lorsqu'au moins 2/3 des membres sont\npr�sents.\nLes d�cisions sont prises � la majorit� simple des votes exprim�s. En cas de\npartage des voix, la voix du Pr�sident est pr�pond�rante. En cas d'absence du\npr�sident et du vice-pr�sident, la pr�sidence est assur�e par le membre pr�sent\nle plus �g�.",
+                "line_num": 345
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0032",
+                "summary": "###### Article 29\n\nLe secr�tariat de la commission et de ses groupes de travail est assur� par\nl'Autorit� Nationale de r�glementation pharmaceutique (DPM).",
+                "line_num": 355
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0033",
+                "summary": "The partial document outlines permissible methods for providing information about medicines and health products (Article 3) and establishes the required characteristics for medical and scientific information on these products (Article 4).",
+                "line_num": 361
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0034",
+                "summary": "###### Article 30\n\nLes membres de la Commission et les experts sont\ntenus de traiter confidentiellement les  renseignements dont ils prendraient\nconnaissance � l'occasion de leur mission. Ils s'abstiennent de participer aux\nd�lib�rations dans le cas o� il y a conflit d'int�r�t entre leur fonction et le\ndossier trait�.",
+                "line_num": 387
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0035",
+                "summary": "###### Article 31\n\nLa Commission fixe son r�glement int�rieur et le soumet � l'approbation du\nMinistre de la Sant� Publique.",
+                "line_num": 396
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI : Infractions et  sanctions",
+            "node_id": "0036",
+            "prefix_summary": "#### Chapitre VI : Infractions et  sanctions",
+            "line_num": 402,
+            "nodes": [
+              {
+                "title": "Article 32",
+                "node_id": "0037",
+                "summary": "###### Article 32\n\nLes  membres de la Commission ont droit � une prime d�expertise pour les travaux\nqu'ils r�alisent.",
+                "line_num": 405
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII : Dispositions finales",
+            "node_id": "0038",
+            "prefix_summary": "#### Chapitre VII : Dispositions finales",
+            "line_num": 411,
+            "nodes": [
+              {
+                "title": "Article 33",
+                "node_id": "0039",
+                "summary": "###### Article 33\n\nLes infractions aux dispositions du pr�sent arr�t� sont passibles des sanctions\npr�vues par le D�cret du 19 mars 1952",
+                "line_num": 414
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0040",
+                "summary": "###### Article 34\n\nToutes les autres dispositions ant�rieures et contraires au pr�sent Arr�t� sont\nabrog�es.",
+                "line_num": 420
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0041",
+                "summary": "###### Article 35\n\nLe Secr�taire g�n�ral � la Sant� est charg� de l'ex�cution du pr�sent Arr�t� qui\nentre en vigueur � la date de sa signature.\nFait � Kinshasa, le 28 septembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 426
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0042",
+                "summary": "###### Article 5\n\nL'information scientifique et m�dicale est diffus�e par les sources officielles\nci-apr�s :\nun service en charge de l'information dans les entreprises du m�dicament\n(un service de l'information) ;\n- un centre d'information  et de documentation  sur le m�dicament, sous le\ncontr�le de l'autorit� sanitaire;\n- des institutions de formation, de soins et de recherche qui touchent au\ndomaine de la pharmacie et de\nla m�decine ;\n- des associations � caract�re scientifique et social, notamment les\nassociations de consommateurs, sous le contr�le de l'autorit� de r�glementation\npharmaceutique.",
+                "line_num": 439
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0043",
+                "summary": "###### Article 6\n\nL'information m�dicale et scientifique peut provenir� �galement des laboratoires\npharmaceutiques et   �tre transmise sous diff�rentes formes :\n1. dictionnaires th�rapeutiques ;\n2. revues professionnelles ;\n3. visiteurs m�dicaux;\n4. congr�s, forum de lancement d'un m�dicament.",
+                "line_num": 455
+              },
+              {
+                "title": "Section II: Du centre ou service d'information et de documentation des",
+                "node_id": "0044",
+                "prefix_summary": "##### Section II: Du centre ou service d'information et de documentation des",
+                "line_num": 465,
+                "nodes": [
+                  {
+                    "title": "Article 7",
+                    "node_id": "0045",
+                    "summary": "###### Article 7\n\nL'information m�dicale et scientifique destin�e aux malades peut �tre\npr�sent� sous forme de notices, prospectus et opuscules. Elle doit �tre libell�e\ndans la langue officielle (le fran�ais) et/ou les langues nationales, refl�ter\nfid�lement les donn�es m�dicales et scientifiques valid�es par l'Autorit�\nNationale de R�glementation Pharmaceutique.\n\nm�dicaments et autres produits de sant�",
+                    "line_num": 468
+                  },
+                  {
+                    "title": "Article 8",
+                    "node_id": "0046",
+                    "summary": "###### Article 8\n\nTout �tablissement pharmaceutique titulaire de l'Autorisation de Mise sur le\nMarch� doit s'assurer de la collaboration d�un responsable de l'information sur\nla qualit� de ses m�dicaments conform�ment � la r�glementation du pays.",
+                    "line_num": 479
+                  },
+                  {
+                    "title": "Article 9",
+                    "node_id": "0047",
+                    "summary": "###### Article 9\n\nTout centre d'information pharmaceutique ne relevant pas des entreprises des\nm�dicaments doit �tre agr�� par l'Autorit� Nationale R�glementation\nPharmaceutique.",
+                    "line_num": 486
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "f6de142e-3358-4cc7-83bd-6130d62544c2"
+    ],
+    "0004": [
+      "269822b4-53ac-4a51-ace2-0148bffafe25",
+      "18259c33-0c5e-4850-b317-c32e140e1a3a"
+    ],
+    "0006": [
+      "269822b4-53ac-4a51-ace2-0148bffafe25",
+      "18259c33-0c5e-4850-b317-c32e140e1a3a"
+    ],
+    "0007": [
+      "88a13191-30a2-4e3a-99bb-ae89636ebfa5"
+    ],
+    "0008": [
+      "d516d510-fbf9-4645-adcf-ea4cca7430b8"
+    ],
+    "0009": [
+      "c82385fb-b5b0-4252-aea8-1cd120c4e0cf"
+    ],
+    "0011": [
+      "7782bbfe-bb79-4a9f-90c7-884765df6532"
+    ],
+    "0012": [
+      "2105084b-f02d-4cdd-bfc7-c4997a4c339b"
+    ],
+    "0014": [
+      "8cda4877-3798-49ec-ba7a-bd4a131d5c99"
+    ],
+    "0015": [
+      "d509dd76-e5c7-4e8c-bab3-7ea8d5f900fc"
+    ],
+    "0016": [
+      "872d11bd-ca7b-45c3-af7d-504315beae11"
+    ],
+    "0017": [
+      "55c3ff4f-d54e-4f09-ab36-13a894b09df6"
+    ],
+    "0019": [
+      "64360262-974b-4d43-afcf-451b81814709"
+    ],
+    "0021": [
+      "a895b028-f1c4-49b2-82fc-ab0de5dd5678"
+    ],
+    "0023": [
+      "33528f37-64d8-48c2-aa22-f1361ff83169"
+    ],
+    "0024": [
+      "9ffe3d0a-65f0-4a32-bbfc-cdcbafb527a3"
+    ],
+    "0025": [
+      "43c03e52-24a0-4772-9722-53248c555dfc"
+    ],
+    "0027": [
+      "68dd8917-b9ca-4b08-bf73-65d60d7e587b"
+    ],
+    "0028": [
+      "7e42d5c3-0c6a-4660-b42b-75c96c18ba79"
+    ],
+    "0029": [
+      "6cc23647-4485-4b19-bb77-ec2a06521668"
+    ],
+    "0030": [
+      "396789c9-dc6e-4fa7-83c2-64b5aa96b691"
+    ],
+    "0031": [
+      "d6b5ad40-a507-4c9b-a082-88061dc33276"
+    ],
+    "0032": [
+      "b5e6a1a8-e454-4944-89fd-6fab3e12359f"
+    ],
+    "0033": [
+      "66a62cff-4f1f-439d-8c21-14d493f923b4"
+    ],
+    "0034": [
+      "bc9bb49b-ebde-47db-a2e2-c608a7a3bba9"
+    ],
+    "0035": [
+      "b07970b8-9d59-47ac-985a-5597313b82ba"
+    ],
+    "0037": [
+      "67e21146-e120-4ec6-b2e5-ae7efb1c8ca7"
+    ],
+    "0039": [
+      "28af54f0-2b9d-4762-9ee7-2a385d2f6bbb"
+    ],
+    "0040": [
+      "f0731003-cf92-4508-a142-fbc4774b5a28"
+    ],
+    "0041": [
+      "3b05af01-f2c8-4a75-89b5-4e1e0983b5fa"
+    ],
+    "0042": [
+      "9a6eadc4-a766-4f43-8130-a2b90c4a79e8"
+    ],
+    "0043": [
+      "49f421b7-89f0-4175-91f5-ab7d73714b63"
+    ],
+    "0045": [
+      "d653d931-f719-4752-9bb3-30e21382880c"
+    ],
+    "0046": [
+      "6d4f4578-0893-4303-bbb3-d9dc2f01a318"
+    ],
+    "0047": [
+      "af6f7fba-19d7-4a38-a8fe-c7cc3a057ad6"
+    ]
+  },
+  "node_count": 48,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:31:47.248165",
+  "article_count": 35,
+  "generation_time_s": 29.045943021774292
+}

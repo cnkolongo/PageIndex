@@ -1,0 +1,111 @@
+{
+  "slug": "AM-01-07-1996-1996",
+  "bundle_path": "backups/all_bundles/code/AM-01-07-1996-1996.json",
+  "document_id": "08b84d82-a00b-4d04-a264-1b18770f38cf",
+  "document_title": "AM.01.07.1996",
+  "tree_json": {
+    "doc_name": "AM-01-07-1996-1996",
+    "structure": [
+      {
+        "title": "AM.01.07.1996",
+        "node_id": "0000",
+        "prefix_summary": "# AM.01.07.1996",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is a section of a ministerial order (Arrêté Ministériel 017/CAB/MENI-PME/96) from July 1, 1996. The main points covered are:\n\n1.  **Context:** The order implements a 1961 decree-law related to pricing, issued by the Ministry of Economy and Industry of Zaire.\n2.  **Key Definitions:** It provides legal definitions for two categories of products:\n    *   **\"Imported Products\":** Defined as all products that, after entering Zairian territory, are subject to commercial transactions without having undergone any prior transformation.\n    *   **\"Industrial Products\":** Defined as all products manufactured locally using raw materials and labor.",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0003",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 24,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "summary": "This partial document outlines the method for calculating the cost price of imported goods and the subsequent cost price for retailers in Zaire. It specifies the allowable cost components to be added to the purchase price, including transport, insurance, duties, taxes, banking fees, and fixed allowances for depreciation and other expenses. It also mandates that all included costs must be justified by accounting documents.",
+                "line_num": 27
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0005",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 69,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0006",
+                "summary": "This partial document outlines the method for calculating the industrial product's cost price (Article 6) and the factory selling price (Article 7), and stipulates that all included costs must be supported by accounting documents (Article 8).",
+                "line_num": 72
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0007",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 99,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0008",
+                "summary": "This partial document outlines regulations for profit margins on imported and domestically produced goods. It specifies that wholesalers and retailers cannot sell imported products above a cost-plus price defined by a 1976 decree. For domestic industrial and artisanal products, profit margins are capped at 20% of the defined cost price. Furthermore, it prohibits the cumulative application of both wholesaler and retailer margins when a single entity performs both functions, requiring producers in such cases to sell at the established ex-factory price.",
+                "line_num": 102
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE V",
+            "node_id": "0009",
+            "prefix_summary": "#### CHAPITRE V",
+            "line_num": 120,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0010",
+                "summary": "This partial document contains the final provisions of a legal order or decree. The main points covered are: the obligation for economic operators to submit their price structures to the Ministry of Economy for posteriori control; the penalties for violations, which refer to an existing 1961 price decree; the repeal of a previous departmental order from 1981; and the designation of the Secretary General for National Economy and Industry as responsible for execution, noting the order enters into force upon signature. A disclaimer states the text is unofficial and under construction.",
+                "line_num": 123
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "5d3028e8-9659-446d-a0d0-48b0bc691bb9"
+    ],
+    "0004": [
+      "cb466717-8dfd-4f18-aa55-592c8b9ee4e6"
+    ],
+    "0006": [
+      "1bdbc9d9-504a-47cf-b817-76aaa4bda37c"
+    ],
+    "0008": [
+      "5f41fd02-9d62-4cd3-8b2d-eb375a97336c"
+    ],
+    "0010": [
+      "f11bac2d-b8eb-4d54-a894-d0f8dbd7345f"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:26:15.040866",
+  "article_count": 5,
+  "generation_time_s": 15.264963865280151
+}

@@ -1,0 +1,2080 @@
+{
+  "tree": {
+    "doc_name": "AUDCIF-2017",
+    "doc_description": "The OHADA Uniform Act on Accounting Law and Financial Information (AUDCIF), adopted in 2017, establishes the comprehensive SYSCOHADA accounting system, mandating standardized financial reporting, consolidation rules, and dual reporting under IFRS for listed companies across its member states in Africa.",
+    "structure": [
+      {
+        "title": "OHADA - Acte uniforme relatif au droit comptable et a l'information financiere (AUDCIF)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Acte uniforme relatif au droit comptable et a l'information financiere (AUDCIF)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Titre I - Des comptes personnels des entités (personnes physiques et",
+            "node_id": "0001",
+            "prefix_summary": "#### Titre I - Des comptes personnels des entités (personnes physiques et",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Preambule",
+                "node_id": "0002",
+                "summary": "This partial document is the preamble and opening section of a uniform act adopted by OHADA (Organization for the Harmonization of Business Law in Africa). It establishes the legal foundation and context for the \"Uniform Act Relating to Accounting Law and Financial Information.\"\n\nThe main points covered are:\n1.  **Identification of the Act:** Its full title and the fact it is a Uniform Act.\n2.  **Adoption Details:** The act was adopted unanimously on January 26, 2017, in Brazzaville, Republic of Congo, and published in the Official Journal on February 15, 2017.\n3.  **Governing Body:** It is adopted by the Council of Ministers of OHADA.\n4.  **Legal Basis:** The act is founded upon the revised OHADA Treaty (Port-Louis 1993, Québec 2008), specifically citing Articles 2, 5 to 10, and 12.\n5.  **Procedural Steps:** The adoption followed consideration of the Permanent Secretariat's report, observations from Member States, and an advisory opinion from the Common Court of Justice and Arbitration (Avis n° 003/2016).\n6.  **Structure:** The text begins with general provisions (Chapter I) and references a section concerning the scope of application, specifically mentioning \"legal persons\" (*personnes morales*).",
+                "line_num": 7
+              },
+              {
+                "title": "Article 1",
+                "node_id": "0003",
+                "summary": "###### Article 1\n\nToute entité au sens de l'",
+                "line_num": 42
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0004",
+                "summary": "###### Article 2\n\nci-dessous est soumise aux dispositions du présent Acte uniforme et doit mettre\nen place, pour l'information externe et pour son propre usage, une comptabilité générale conformément audit Acte\nuniforme.\n\nA cet effet :\n\n elle classe, saisit, enregistre dans sa comptabilité les événements qui sont constatés et toutes opérations,\n entraînant des mouvements de valeur, qui sont traitées avec des tiers ou qui sont constatées ou effectuées\n dans le cadre de sa gestion interne ;\n\n elle fournit, après traitement approprié de ces opérations, les redditions de comptes auxquelles elle est\n assujettie légalement ou de par ses statuts, ainsi que les informations nécessaires aux besoins des divers\n utilisateurs.",
+                "line_num": 47
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0005",
+                "summary": "This partial document outlines the entities required to implement financial accounting under the OHADA Uniform Act on Accounting and Financial Reporting. It specifies that this obligation applies to entities governed by other OHADA commercial acts, public and semi-public entities, mixed-economy companies, and generally all entities engaged in repetitive economic activities, whether for profit or not and whether as a main or ancillary activity. It excludes entities subject to public accounting rules. The excerpt also provides the act's adoption and publication details.",
+                "line_num": 64
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0006",
+                "summary": "###### Article 3\n\nLa comptabilité doit satisfaire, dans le respect de la convention de prudence, aux obligations de régularité, de\nsincérité et de transparence inhérentes à la tenue, au contrôle, à la présentation et à la communication des\ninformations qu'elle a traitées.",
+                "line_num": 81
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0007",
+                "summary": "###### Article 4\n\nPour garantir la fiabilité, la compréhension et la comparabilité des informations, la comptabilité de chaque entité\nimplique :\n\n le respect d'une terminologie et de principes directeurs communs à l'ensemble des entités concernées des\n Etats parties au Traité relatif à l'harmonisation du droit des affaires en Afrique ;\n\n la mise en œuvre de postulats, de conventions, de méthodes et de procédures normalisées éventuellement\n par secteurs professionnels ;\n\n une organisation répondant à tout moment aux exigences de collecte, de tenue, de contrôle, de\n présentation et de communication des informations comptables se rapportant aux opérations de l'entité\n visées à l'article premier.",
+                "line_num": 88
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0008",
+                "summary": "The partial document establishes the OHADA Uniform Accounting System (SYSCOHADA). Its main points are:\n1.  The creation of a single, common accounting system for all member states, comprising a General Accounting Plan and a framework for consolidated and combined accounts.\n2.  The system's objective is to standardize the collection, maintenance, control, presentation, and communication of financial information to ensure reliability, understandability, and comparability.\n3.  The exemption of specific entities (like banks, insurance companies, and non-profits) from applying SYSCOHADA.\n4.  The provision for regular updates to the accounting framework, based on the advice of the OHADA Accounting Standards Commission.",
+                "line_num": 104
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0009",
+                "summary": "The partial document covers Article 6 of the OHADA Uniform Act on Accounting Law and Financial Information. It outlines the fundamental principles for applying the OHADA Accounting System, emphasizing: the mandatory observance of the prudence convention based on a reasonable assessment of events; the entity's good faith compliance with rules and procedures; the implementation of internal control procedures by those responsible for the accounts to ensure proper awareness of the entity's activities; and the clear presentation of information without obscuring reality.",
+                "line_num": 123
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0010",
+                "summary": "###### Article 7\n\nLes états financiers de synthèse regroupent les informations financières au moins une fois par an sur une période\nde douze mois, appelée exercice ; ils sont dénommés états financiers annuels.\n\nL'exercice coïncide avec l'année civile.\n\nLa durée de l'exercice est exceptionnellement inférieure à douze mois pour le premier exercice débutant au cours\ndu premier semestre de l'année civile. Cette durée peut être supérieure à douze mois pour le premier exercice\ncommencé au cours du deuxième semestre de l'année.\n\nEn cas de cessation d'activité, pour quelque cause que ce soit, la durée des opérations de liquidation est comptée\npour un seul exercice, sous réserve de l'établissement de situations annuelles provisoires.",
+                "line_num": 145
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0011",
+                "summary": "This partial document outlines the requirements for a complete set of annual financial statements under OHADA regulations. It specifies that the statements must include the Balance Sheet, Income Statement, Cash Flow Statement, and Notes, and must present a true and fair view of the entity's financial position. It mandates comparability across periods and entities. A key point is the requirement for listed companies and those seeking public funding to prepare additional financial statements under International Financial Reporting Standards (IFRS), which are exclusively for financial markets and cannot be used as the basis for determining distributable profits.",
+                "line_num": 160
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0012",
+                "summary": "###### Article 9\n\nLa régularité et la sincérité des informations regroupées dans les états financiers annuels de l'entité résultent d'une\ndescription adéquate, loyale, claire, précise et complète des événements, opérations et situations se rapportant à\nl'exercice.\n\nLa comparabilité des états financiers annuels au cours des exercices successifs nécessite la permanence dans la\nterminologie et dans les méthodes utilisées pour retracer les événements, opérations et situations présentés dans\nces états.",
+                "line_num": 190
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0013",
+                "summary": "###### Article 10\n\nToute entité qui applique correctement le Système comptable OHADA est réputée donner, dans ses états\nfinanciers une image fidèle, de sa situation et de ses opérations, exigée en application de l'",
+                "line_num": 201
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0014",
+                "summary": "###### Article 8\n\nci-dessus.\n\nLorsque l'application d'une prescription comptable se révèle insuffisante ou inadaptée pour donner l'image fidèle,\ndes informations complémentaires ou des justifications nécessaires sont obligatoirement fournies dans les Notes\nannexes.",
+                "line_num": 207
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0015",
+                "summary": "###### Article 11\n\nLes états financiers annuels visés à l'",
+                "line_num": 216
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0016",
+                "summary": "###### Article 8\n\nsont rendus obligatoires, en tout ou en partie, en fonction de la taille\ndes entités appréciée selon des critères relatifs au chiffre d'affaires hors taxes de l'exercice.\n\nLes présentations des états financiers annuels et de tenue de comptes admises par le présent Acte uniforme sont\nle Système normal et le Système minimal de trésorerie.\n\nToute entité est, sauf exception liée à sa taille, soumise au Système normal de présentation des états financiers et\nde tenue des comptes.",
+                "line_num": 221
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0017",
+                "summary": "###### Article 12\n\nAbrogé",
+                "line_num": 233
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II - Organisation comptable",
+            "node_id": "0018",
+            "prefix_summary": "#### Chapitre II - Organisation comptable",
+            "line_num": 238,
+            "nodes": [
+              {
+                "title": "Article 13",
+                "node_id": "0019",
+                "summary": "This partial document covers the eligibility criteria for the Simplified Cash System (Système minimal de trésorerie - SMT) under OHADA accounting law. It specifies the annual turnover thresholds, differentiated by business type (trade, artisanal, and services), below which small entities are subject to this system.",
+                "line_num": 241
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0020",
+                "summary": "###### Article 14\n\nL'organisation comptable mise en place dans l'entité doit satisfaire aux exigences de régularité et de sécurité pour\nassurer l'authenticité des écritures de façon à ce que la comptabilité puisse servir à la fois d'instrument de mesure\ndes droits et obligations des partenaires de l'entité, d'instrument de preuve, d'information des tiers et de gestion.",
+                "line_num": 263
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0021",
+                "summary": "###### Article 15\n\nL'organisation comptable doit assurer :\n\n un enregistrement exhaustif, au jour le jour, et sans retard des informations de base ;\n\n le traitement en temps opportun des données enregistrées ;\n\n la mise à la disposition des utilisateurs des documents requis dans les délais légaux fixés pour leur\n délivrance.",
+                "line_num": 270
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0022",
+                "summary": "This partial document covers accounting procedures and record-keeping requirements for entities under OHADA law. The main points are:\n\n1.  The obligation for entities to create and maintain an updated accounting procedures manual to ensure definitive recording of transactions and long-term access to information.\n2.  The rule that transactions must be recorded individually in chronological order based on their accounting value date.\n3.  The allowance for summarizing similar daily transactions in a single supporting document.\n4.  The requirement to summarize movements within predetermined periods not exceeding one month.\n5.  The inventory process, which involves a physical count of all assets, noting their nature, quantity, and value at the inventory date.\n6.  The requirement to organize and retain inventory data to justify the contents of each recorded asset.",
+                "line_num": 282
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0023",
+                "summary": "This partial document outlines the mandatory conditions for proper and secure accounting organization. The main points covered are:\n\n1.  Accounting must be conducted in the official language and legal currency of the state.\n2.  The double-entry bookkeeping method must be used, ensuring equal totals for debits and credits.\n3.  All accounting entries must be supported by dated, filed, and organized documents that serve as evidence and reference the accounting records.\n4.  The chronological recording of operations must be respected, as specified in subsequent paragraphs (which are cut off in the provided text).",
+                "line_num": 311
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0024",
+                "summary": "###### Article 16\n\nci-dessus ;\n\n 5°) l'identification de chacun de ces enregistrements précisant l'indication de son origine et de son\n imputation, le contenu de l'opération à laquelle il se rapporte ainsi que les références de la pièce\n justificative qui l'appuie ;\n\n 6°) le contrôle par inventaire de l'existence et de la valeur des biens, créances et dettes de l'entité\n conformément aux alinéas 6 et 7 de l'",
+                "line_num": 330
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0025",
+                "summary": "###### Article 16\n\nci-dessus ;\n\n 7°) le recours, pour la tenue de 1a. comptabilité de l'entité, à un plan de comptes normalisé dont la liste\n figure dans le Système comptable OHADA ;\n\n 8°) la tenue obligatoire de livres ou autres supports autorisés ainsi que la mise en œuvre de procédures de\n traitement agréées, permettant d'établir les états financiers annuels visés à l'",
+                "line_num": 342
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0026",
+                "summary": "###### Article 8\n\nci-dessus.",
+                "line_num": 353
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0027",
+                "summary": "This partial document outlines the fundamental structure and flexibility of the OHADA accounting system's chart of accounts. It explains that accounts are grouped into homogeneous categories called classes, specifically classes for financial position and for management. It details the decimal coding system for accounts and establishes key principles: the entity's plan must be sufficiently detailed to record operations, and it allows for the creation of more detailed sub-accounts if needed or the consolidation of overly detailed accounts, provided annual financial statements can still be prepared. The core rule is that transactions must be recorded in accounts whose descriptions match their nature.",
+                "line_num": 358
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0028",
+                "summary": "###### Article 19\n\nLes livres comptables et autres supports dont la tenue est obligatoire sont :\n\n le livre-journal, dans lequel sont inscrits les mouvements de l'exercice, enregistrés en comptabilité, dans les\n conditions exposées au paragraphe 4 de l'",
+                "line_num": 390
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0029",
+                "summary": "This partial document outlines the mandatory accounting books and records required by the OHADA accounting law (Acte Uniforme). It specifies the **Grand-Livre** (General Ledger), the **Balance Générale des Comptes** (General Trial Balance), and the **Livre d'Inventaire** (Inventory Book), detailing their required contents. It also explains that the maintenance of the primary **Livre-Journal** (Journal) and Grand-Livre can be facilitated by using auxiliary books, provided their totals are centralized at least monthly.",
+                "line_num": 398
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0030",
+                "summary": "###### Article 20\n\nLes livres comptables et autres supports doivent être tenus sans blanc ni altération d'aucune sorte.\n\nToute correction d'erreur, commise et découverte sur l'exercice en cours, s'effectue exclusivement par inscription\nen négatif des éléments erronés ; l'enregistrement exact est ensuite opéré.\n\nLa correction d'une erreur significative commise au cours d'un exercice antérieur doit être opérée par ajustement\ndu compte report à nouveau.\n\nToute correction d'erreur découverte sur l'exercice en cours et commise sur les exercices antérieurs doit faire\nl'objet d'une information dans les Notes annexes.",
+                "line_num": 429
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0031",
+                "summary": "###### Article 21\n\nLes petites entités visées à l'",
+                "line_num": 443
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0032",
+                "summary": "###### Article 13\n\nci-dessus qui relèvent du Système minimal de trésorerie tiennent une\ncomptabilité de trésorerie dans les conditions fixées par le Système comptable OHADA.",
+                "line_num": 448
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0033",
+                "summary": "This partial document outlines the specific technical and procedural requirements for an accounting organization when it relies on computerized processing. The main points covered are the seven mandatory conditions to ensure regularity, security, and auditability. These include: ensuring data entry includes origin, content, and allocation; making entries irreversible after validation; preventing back-dated entries through periodic \"computer closings\"; chronological classification by accounting value date; ensuring data integrity and indelible recording; guaranteeing the possibility of control through audit trails and access to documentation; and requiring that periodic outputs are numbered, dated, and supported by reliable source documents. It also states that data transmitted from another system must be supported by probative justification.",
+                "line_num": 454
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0034",
+                "summary": "###### Article 23\n\nLes états financiers annuels sont arrêtés au plus tard dans les quatre mois qui suivent la date de clôture de\nl'exercice. La date d'arrêté doit être mentionnée dans toute transmission des états financiers.",
+                "line_num": 501
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III - Jeu complet d'états financiers annuels",
+            "node_id": "0035",
+            "prefix_summary": "#### Chapitre III - Jeu complet d'états financiers annuels",
+            "line_num": 507,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0036",
+                "summary": "###### Article 24\n\nLes livres comptables ou les documents qui en tiennent lieu, ainsi que les pièces justificatives conservées pendant\ndix ans.",
+                "line_num": 510
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0037",
+                "summary": "###### Article 25\n\nA l'exception des Notes annexes les états financiers annuels visés à l'",
+                "line_num": 516
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0038",
+                "summary": "###### Article 8\n\nci-dessus sont présentés\nconformément à des modèles dont les éléments composants sont classés en rubriques successives, elles-mêmes\nsubdivisées en postes.\n\nCes modèles sont établis en fonction des systèmes comptables prévus aux articles 11 et 13 ci- dessus et\nprésentés conformément à des tracés figurant dans le Système comptable OHADA.",
+                "line_num": 521
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0039",
+                "summary": "###### Article 26\n\nLe Système normal comporte l'établissement du Bilan, du Compte de résultat de l'exercice, du Tableau des flux de\ntrésorerie ainsi que des Notes annexes dont les dispositions principales sont fixées dans le Système comptable\nOHADA.\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 10 / 40\n\f ACTE UNIFORME RELATIF AU DROIT COMPTABLE ET À L'INFORMATION FINANCIÈRE\n Adopté le 26/01/2017 à Brazzaville (CONGO)\n Publié au Journal Officiel n° Spécial du 15/02/2017",
+                "line_num": 531
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0040",
+                "summary": "###### Article 27\n\nAbrogé",
+                "line_num": 543
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0041",
+                "summary": "###### Article 28\n\nLe Système minimal de trésorerie visé à l'",
+                "line_num": 548
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0042",
+                "summary": "###### Article 13\n\nci-dessus repose sur l'établissement d'un Bilan, d'un Compte\nde résultat et de Notes annexes dressés à partir de la comptabilité de trésorerie que doivent tenir les entités\nconformément aux modèles du Système comptable OHADA.\n\nLa conception du Système minimal de trésorerie permet de tenir compte, dans le calcul du résultat et dans\nl'établissement du Bilan, les éléments suivants, lorsqu'ils sont significatifs :\n\n variation des stocks ;\n\n variation des créances ;\n\n variation des dettes.",
+                "line_num": 553
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0043",
+                "summary": "###### Article 29\n\nLe Bilan décrit séparément les éléments d'actif et les éléments de passif constituant le patrimoine de l'entité. 11 fait\napparaître de façon distincte les capitaux propres.\n\nLe Compte de résultat récapitule en liste, les produits et les charges qui font apparaître par cascade les résultats\nintermédiaires et, in fine, le bénéfice net ou la perte nette de l'exercice.\n\nLe Tableau des flux de trésorerie retrace les mouvements « entrée » ou « sortie » de liquidités de l'exercice.\n\nLes Notes annexes complètent et précisent, l'information donnée par les autres états financiers annuels.",
+                "line_num": 569
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0044",
+                "summary": "###### Article 30\n\nLe Bilan de l'exercice fait apparaître de façon distincte :\n\n à l'actif : l'actif immobilisé, l'actif circulant, la trésorerie-actif et l'écart de conversion-actif ;\n\n au passif : les ressources stables, le passif circulant, la trésorerie-passif et l'écart de conversion-passif.",
+                "line_num": 582
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0045",
+                "summary": "The partial document covers the structure and classification requirements for the Profit and Loss Statement (Compte de résultat) under the OHADA accounting system. It specifies that the statement must separate revenues (produits) and expenses (charges) related to ordinary activities (operations of exploitation and financial operations) from those related to non-ordinary activities (operations hors activités ordinaires). Furthermore, it states that this classification must allow for the calculation of intermediate management balances (soldes intermédiaires de gestion) in a cascading manner, as defined by the OHADA accounting system.",
+                "line_num": 591
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0046",
+                "summary": "###### Article 32\n\nLe Tableau des flux de trésorerie de l'exercice fait apparaître la trésorerie nette en début d'exercice, les flux de\ntrésorerie provenant des activités opérationnelles, les flux de trésorerie provenant des opérations d'investissement,\nles flux de trésorerie provenant des capitaux propres, les flux de trésorerie provenant des capitaux étrangers et la\ntrésorerie nette en fin d'exercice.",
+                "line_num": 606
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0047",
+                "summary": "This partial document covers the main points regarding the role and content of the \"Notes annexes\" (accompanying notes) to annual financial statements.\n\nThe key points are:\n1.  The Notes are required supplements to the Balance Sheet, Income Statement, and Cash Flow Statement.\n2.  Their purpose is to provide complementary information, including narrative descriptions, breakdowns of items from the main statements, and details on items not meeting the recognition criteria in those statements.\n3.  They must include all significant information not highlighted elsewhere that could influence users' judgments about the entity's equity, financial position, and results. A specific example given is the amount of commitments given and received.\n4.  Any changes in the presentation of the financial statements or in valuation methods must be disclosed in the Notes.",
+                "line_num": 614
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV - Règles d'évaluation et de détermination du résultat",
+            "node_id": "0048",
+            "prefix_summary": "#### Chapitre IV - Règles d'évaluation et de détermination du résultat",
+            "line_num": 634,
+            "nodes": [
+              {
+                "title": "Article 34",
+                "node_id": "0049",
+                "summary": "The partial document outlines key accounting principles for annual financial statements under OHADA regulations. It mandates that the opening balance sheet must match the previous year's closing balance sheet, prohibits unjustified offsetting of asset/liability and expense/revenue items, requires consistent presentation from one year to the next, and stipulates that each financial statement item must show the corresponding figure from the previous year. It also requires adjustments and disclosures in the notes when items are not comparable between periods.",
+                "line_num": 637
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0050",
+                "summary": "This partial document covers the accounting rules for asset valuation and revaluation. The main points are:\n\n1.  **General Valuation Principle:** Assets are generally valued using the historical cost principle, the prudence convention, and the going concern assumption.\n2.  **Optional Revaluation:** An entity may choose to revalue its tangible and financial fixed assets, following specific articles (62-65).\n3.  **Process for Optional Revaluation:** The decision for this \"free revaluation\" is made by management, who must specify the method, the financial statement items affected, the corresponding amounts, and the tax treatment of the revaluation difference.\n4.  **Legal Revaluation:** The competent authorities of each member state can institute a mandatory \"legal revaluation\" system for entity assets. This legal revaluation may override the rules stated in articles 62-65.",
+                "line_num": 661
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0051",
+                "summary": "###### Article 36\n\nLe coût historique des biens inscrits à l'actif du bilan est constitué par :\n\n le coût réel d'acquisition pour ceux achetés à des tiers, la valeur d'apport pour ceux apportés par les\n actionnaires, les associés ou les membres, la valeur actuelle pour ceux acquis à titre gratuit ou, en cas\n d'échange, par la valeur actuelle de celui des deux éléments dont l'estimation est la plus sûre ;\n\n le coût réel de production pour ceux produits par entité pour elle-même.\n\nLa subvention obtenue, le cas échéant, pour l'acquisition ou la production d'un bien n'a pas d'influence sur le calcul\ndu coût du bien acquis ou produit.",
+                "line_num": 675
+              },
+              {
+                "title": "Article 37",
+                "node_id": "0052",
+                "summary": "This partial document, specifically Article 37 of the OHADA Uniform Act on Accounting and Financial Information, defines the components that constitute the \"real acquisition cost\" or \"real production cost\" of assets for accounting purposes. The main points covered are:\n\n1.  **The composition of the real acquisition cost for a fixed asset (immobilisation):** This includes the net purchase price, directly attributable acquisition costs (fees, duties, commissions), installation charges, and the initial estimate of future dismantling and site restoration costs.\n\n2.  **The composition of the real acquisition cost for inventory or services (merchandise, raw materials):** This is defined as the net purchase price (excluding settlement discounts, which are treated as financial income) plus directly attributable purchase expenses.\n\n3.  **The composition of the real production cost for a fixed asset or service:** This includes the cost of materials, direct production charges, a reasonable allocation of indirect production costs, and the estimated costs of future dismantling and site restoration.\n\n4.  **The treatment of borrowing costs:** Borrowing costs directly attributable to the acquisition, construction, or production of a \"qualifying asset\" (one that takes a long time to get ready for use or sale) are capitalized as part of the asset's cost during the production period.\n\n5.  **General principle:** All attributable costs incurred to bring the asset to its intended location and condition for operation are included in its cost.",
+                "line_num": 689
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0053",
+                "summary": "This partial document outlines the accounting rules for allocating a global acquisition or production cost to different assets acquired or produced together. It specifies two methods: proportional allocation based on individual asset values when possible, and a residual method (by difference) when direct valuation of some assets is not possible. It also mandates disclosure of the chosen valuation method in the notes to the financial statements.",
+                "line_num": 743
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0054",
+                "summary": "The partial document outlines the criteria and procedures for decomposing a tangible fixed asset into its significant components for separate accounting. It specifies four conditions that must be met for such a split: the components must be separable, have different uses, different useful lives, and reliably measurable costs that are significant relative to the total asset cost. It mandates separate accounting for each qualifying component from acquisition or replacement. Finally, it restricts this decomposition practice to specific asset types (like buildings, aircraft, vehicles, and certain industrial equipment) and only if the entity has the necessary statistical data to accurately determine each component's useful life.",
+                "line_num": 766
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0055",
+                "summary": "###### Article 38\n\n-2\n\nLa poursuite de l'exploitation d'une immobilisation corporelle peut être subordonnée à la réalisation régulière de\nrévisions ou d'inspections majeures destinées à identifier d'éventuelles défaillances, avec ou sans remplacement\nde pièces. Lorsqu'une inspection ou une révision majeure est réalisée, son coût est comptabilisé dans la valeur\ncomptable de l'immobilisation corporelle comme un composant à titre de remplacement, si les critères de\ncomptabilisation sont satisfaits. Toute valeur comptable résiduelle du coût de la précédente révision est\ndécomptabilisée.",
+                "line_num": 790
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0056",
+                "summary": "This partial document covers the concept of the \"going concern\" principle in accounting. It states that an entity is normally presumed to be a going concern, meaning it will continue operating for the foreseeable future. The text then outlines two scenarios where this assumption must be reconsidered: 1) when the entity intends or is forced to liquidate or significantly reduce its operations, and 2) when a specific asset or group of assets can no longer be used due to irreversible market or technological changes. The document is identified as part of the OHADA Uniform Act on Accounting and Financial Information.",
+                "line_num": 802
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0057",
+                "summary": "###### Article 40\n\nLa cohérence des évaluations au cours des exercices successifs implique la permanence dans l'application des\nrègles et des procédures les concernant.",
+                "line_num": 819
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0058",
+                "summary": "###### Article 41\n\nToute exception à la permanence visée à l'",
+                "line_num": 825
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0059",
+                "summary": "The partial document covers exceptions to accounting consistency rules, requiring justification for changes based on improved information or imperative circumstances. It lists specific scenarios for such exceptions: exceptional changes in the entity's situation or its legal, economic, or financial environment, and changes due to regulatory amendments. It mandates that the accounting consequences of these authorized exceptions be charged to the opening equity of the fiscal year when recognized. Finally, it requires that all necessary information for understanding these changes be disclosed in the Notes to the financial statements.",
+                "line_num": 830
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0060",
+                "summary": "###### Article 33\n\nci-dessus.",
+                "line_num": 850
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0061",
+                "summary": "###### Article 42\n\nA la clôture de chaque exercice, l'entité doit procéder au recensement et à l'évaluation de ses biens, créances et\ndettes à leur valeur effective du moment, dite valeur actuelle.\n\nLa valeur actuelle est une estimation du moment qui s'apprécie fonction du marché et de l'utilité de l'élément pour\nl'entité.\n\nL'utilité de l'élément pour l'entité est à déterminer dans le cadre de la continuité de l'exploitation ou d'utilisation,\ntelle que définie à l'",
+                "line_num": 855
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0062",
+                "summary": "###### Article 39\n\nci-dessus, ou, le cas échéant, dans l'hypothèse de non-continuité.",
+                "line_num": 867
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0063",
+                "summary": "This partial document covers the rules for inventory valuation in accounting. It defines the inventory value as the current value at the closing date of the financial period. It explains the procedure for comparing this inventory value to the entry value on the balance sheet: if the inventory value is higher, the entry value is generally maintained; if it is lower, the decrease in value must be recorded separately as either an amortization (for a permanent loss) or a depreciation (for a non-permanent loss).",
+                "line_num": 872
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0064",
+                "summary": "This partial document covers the methods for evaluating inventory (stocks and work in progress) according to accounting standards. The main points are:\n\n1.  **Inventory Unit:** Defines the smallest identifiable part that can be inventoried.\n2.  **Valuation Methods at Exit/Inventory:** Specifies two primary approaches:\n    *   **Specific Identification:** Used for unique, identifiable, or non-interchangeable items, valued at their individual entry cost.\n    *   **Cost Formulas:** For interchangeable goods, entities must choose either:\n        *   **FIFO (First-In, First-Out)**\n        *   **Weighted Average Cost**\n3.  **Consistency Principle:** Requires the same method be used for all inventories of a similar nature and use.\n4.  **Flexibility for Different Stocks:** Allows different methods for inventories with different natures or uses.\n5.  **Practical Valuation Techniques:** Permits the use of standard costing or retail method techniques if they approximate the actual cost.",
+                "line_num": 889
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0065",
+                "summary": "This partial document, Article 45 from the OHADA Uniform Act on Accounting Law and Financial Information, defines and explains the key concepts of depreciation (amortissement) for tangible assets. The main points covered are:\n\n1.  **Definition of Depreciation:** It is the systematic allocation of an asset's depreciable amount over its useful life.\n2.  **Key Definitions:** It defines the **depreciable amount** (cost minus residual value) and the **residual value**.\n3.  **Useful Life Determination:** It details the factors that determine an asset's useful life, including expected usage, physical wear, obsolescence, and legal limits.\n4.  **Depreciation Methods:** It lists permitted depreciation methods (straight-line, declining balance, units of production) and explicitly forbids methods based on revenue or financial cost.\n5.  **Application Rules:** It states that the chosen method must be applied consistently, specifies the start date for depreciation, and mandates that depreciation must be recorded even if there is no profit.\n6.  **Revisions:** It explains that the depreciation plan must be revised if there are significant changes in the asset's use or environment.",
+                "line_num": 913
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0066",
+                "summary": "This partial document covers the main principles of asset impairment (dépréciation) according to OHADA accounting standards. The key points are: the requirement to assess assets for indicators of value loss at the end of each period; the obligation to compare the asset's net book value with its recoverable amount and record an impairment if the book value is higher; the mandatory nature of this recognition even in the absence of profit; the distinction in accounting for impairment of fixed assets versus other assets; and the rule that after an impairment, depreciation must be calculated based on the new, reduced carrying amount.",
+                "line_num": 977
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0067",
+                "summary": "###### Article 47\n\nLes amortissements et les dépréciations sont inscrits distinctement à l'actif en diminution de la valeur brute des\nbiens et des créances correspondants pour donner leur valeur comptable nette.",
+                "line_num": 1001
+              },
+              {
+                "title": "Article 48",
+                "node_id": "0068",
+                "summary": "This partial document covers the accounting treatment of provisions for risks and charges under French accounting principles. It defines a provision as an external liability or debt with uncertain timing or amount. Key points include: the requirement to establish provisions for probable risks/charges, their classification on the balance sheet as either long-term financial debt or short-term current liabilities based on the likely timing; the distinction between standard provisions and regulated provisions created solely for legal/fiscal reasons; and the specific requirement for entities to recognize and measure retirement benefit obligations as provisions. The text also details the corresponding expense accounts used for recording provisions of different maturities.",
+                "line_num": 1007
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0069",
+                "summary": "###### Article 49\n\nIl doit être procédé, dans l'exercice, à tous amortissements, dépréciations et provisions nécessaires pour couvrir\nles pertes de valeurs, les risques et les charges probables, même en cas d'absence ou d'insuffisance de bénéfice.\n\nIl doit être tenu compte des risques, charges et produits intervenus au cours de l'exercice ou d'un exercice\nantérieur, même s'ils sont connus seulement entre la date de clôture de l'exercice et celle de l'arrêté des comptes.",
+                "line_num": 1032
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0070",
+                "summary": "###### Article 50\n\nLorsque la valeur des éléments de l'actif et du passif de l'entité dépend des fluctuations des cours des monnaies\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 19 / 40\n\f ACTE UNIFORME RELATIF AU DROIT COMPTABLE ET À L'INFORMATION FINANCIÈRE\n Adopté le 26/01/2017 à Brazzaville (CONGO)\n Publié au Journal Officiel n° Spécial du 15/02/2017\n\nétrangères, des règles particulières d'évaluation s'appliquent dans les conditions définies par les articles 51 à 58\nci-dessous.",
+                "line_num": 1041
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0071",
+                "summary": "###### Article 51\n\nLes biens acquis en devises sont comptabilisés dans l'unité monétaire ayant cours légal dans l'Etat partie par\nconversion de leur coût en devises, sur la base du cours de change du jour de l'acquisition. Cette valeur est\nmaintenue au bilan jusqu'à la date de consommation, de cession ou de disparition des biens.",
+                "line_num": 1054
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0072",
+                "summary": "###### Article 52\n\nLes créances et les dettes libellées en monnaies étrangères sont converties dans l'unité monétaire ayant cours\nlégal dans l'Etat partie, sur la base du cours de change à la date de formalisation de l'accord des parties sur\nl'opération, quand il s'agit de transactions commerciales, ou à la date de mise à disposition des devises, quand il\ns'agit d'opérations financières.",
+                "line_num": 1061
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0073",
+                "summary": "###### Article 53\n\nLorsque la naissance et le règlement des créances ou des dettes s'effectuent dans le même exercice, les écarts\nconstatés par rapport aux valeurs d'entrée, en raison de la variation des cours de change, constituent des pertes\nou des gains de change à inscrire respectivement dans les charges financières ou les produits financiers de\nl'exercice.\n\nIl en est de même, quelle que soit l'échéance des créances et des dettes libellées en monnaies étrangères, dès\nlors qu'une opération de couverture a été conclue à leur sujet au cours de l'exercice et dans la limite du montant de\ncette couverture.",
+                "line_num": 1069
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0074",
+                "summary": "This partial document outlines the accounting treatment for foreign currency receivables and debts at the closing date of a financial period. The main points covered are:\n\n1.  **Year-End Conversion:** Balances in foreign currencies must be revalued at the closing date using the latest exchange rate.\n2.  **Resulting Differences:** The differences from this revaluation adjust the initial amounts and are classified as either:\n    *   **Probable losses:** from an increase in debts or a decrease in receivables.\n    *   **Latent gains:** from an increase in receivables or a decrease in debts.\n3.  **Balance Sheet Recording:** These differences are recorded directly on the balance sheet in specific \"conversion difference\" accounts (asset account for probable losses, liability account for latent gains).\n4.  **Impact on Results:** Latent gains do not affect the calculation of net income. Probable losses, however, require the creation of a provision for foreign exchange losses.",
+                "line_num": 1081
+              },
+              {
+                "title": "Article 55",
+                "node_id": "0075",
+                "summary": "###### Article 55\n\nA la date de règlement des créances et des dettes, les pertes et les gains de change à cette date sont constatés\npar rapport à leur coût historique.",
+                "line_num": 1105
+              },
+              {
+                "title": "Article 56",
+                "node_id": "0076",
+                "summary": "###### Article 56\n\nPar dérogation et à titre exceptionnel, lorsqu'un emprunt est contracté ou qu'un prêt est consenti à l'étranger pour\nune période supérieure à un an, la perte ou le gain résultant à la clôture de l'exercice de l'emprunt ou du prêt en\ndevises doit être étalé sur la durée restant à courir jusqu'au dernier remboursement ou encaissement, en\nproportion des remboursements ou encaissements à venir prévus au contrat. Le gain futur total ou la perte future\ntotale est recalculé à la clôture de chaque exercice et le montant potentiel est mentionné dans les Notes annexes.",
+                "line_num": 1111
+              },
+              {
+                "title": "Article 57",
+                "node_id": "0077",
+                "summary": "###### Article 57\n\nLorsque les opérations traitées en monnaies étrangères sont telles qu'elles concourent à une position globale de\nchange au sein de l'entité, le montant de la dotation à la provision pour pertes de change est limité à l'excédent des\npertes probables sur les gains latents afférents aux éléments inclus dans cette position.\n\nPour l'application de cette disposition, la position globale de change s'entend de la situation, devise par devise, de\ntoutes les opérations engagées contractuellement par l'entité, même si elles n'ont pas encore été inscrites dans les\ncomptes. De plus, le calcul du montant de la provision pour pertes de change doit être ajusté en fonction de\nl'échéance des éléments inclus dans la position globale de change.",
+                "line_num": 1120
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0078",
+                "summary": "###### Article 58\n\nQuand elles subsistent au bilan, les disponibilités en devises sont converties en unité monétaire ayant cours légal\ndans F Etat partie sur la base du dernier cours de change connu à la date de clôture de l'exercice et les écarts\nconstatés sont inscrits directement dans les produits et les charges de l'exercice comme gains de change ou\npertes de change.",
+                "line_num": 1132
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0079",
+                "summary": "This partial document defines the criteria for a financial transaction to be qualified as a \"hedging\" contract (couverture) under OHADA accounting regulations. The main points covered are:\n\n1.  **General Principle:** Hedging contracts must be identified and accounted for as such from their origin until their maturity or termination.\n2.  **Qualifying Conditions:** An operation qualifies as a hedge only if it meets all of the following characteristics:\n    *   It reduces the risk of value fluctuation for the hedged item or a group of homogeneous items.\n    *   The hedged item can be an asset, liability, existing commitment, or a precisely defined, probable future transaction.\n    *   The risk being hedged is identified after considering other assets, liabilities, and commitments.\n    *   A correlation is established between the value changes of the hedged item and the hedging contract (or its underlying instrument for interest rate options), aiming to offset losses with gains.\n3.  **Specific Rule for Sold Options:** A sold option generally does not qualify as a hedging instrument because it does not effectively reduce risk. However, an exception is made if it is designated to offset a purchased option (including embedded ones), in which case it can be considered a hedging instrument.",
+                "line_num": 1140
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0080",
+                "summary": "###### Article 58\n\n-2\n\nLes variations de valeur des contrats négociés sur les marchés organisés, constatées par la liquidation quotidienne\ndes marges débitrices et créditrices, sont portées au compte de résultat en charges ou produits financiers.\n\nLes variations de valeur des options constatées lors de transactions de gré à gré sont enregistrées au compte\nInstruments de trésorerie en attente de régularisation ultérieures :\n\n à l'actif du bilan pour les variations qui correspondent à une perte latente ;\n\n au passif du bilan pour les variations qui correspondent à un gain latent.\n\nLes gains latents n'interviennent pas dans la formation du résultat.\n\nLorsque l'ensemble des transactions de gré à gré engendre une perte latente, celle-ci entraîne la constitution d'une\nprovision financière.",
+                "line_num": 1175
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0081",
+                "summary": "This partial document from the OHADA Uniform Act on Accounting Law and Financial Information explains the accounting treatment for foreign currency transactions when hedging instruments are used.\n\nThe main points covered are:\n\n1.  The principle that a definitive hedge eliminates exchange rate uncertainty by converting the value of foreign currency receivables/payables into the legal tender currency of the State party.\n\n2.  The critical distinction based on the timing of the hedge:\n    *   If the hedge is established **before** the transaction, the receivables and payables are recorded at the hedge rate. This prevents any conversion difference or need for a provision, leaving the financial result unaffected.\n    *   If the hedge is established **after** the transaction, conversion differences and necessary provisions are accounted for until the hedge is in place. Once hedged, the items are converted at the hedge rate, with any differences from the original value recorded in the financial result and any provisions released.",
+                "line_num": 1195
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0082",
+                "summary": "###### Article 58\n\n-4\n\nLorsque les couvertures ne fixent pas définitivement le cours de la monnaie étrangère à l'échéance, le taux de\nconversion des créances et dettes en monnaies étrangères applicable à l'échéance n'est pas connu. Seul le risque\nde perte est réduit par l'instrument de couverture utilisé. Les écarts de conversion relatifs aux créances et dettes en\nmonnaies étrangères sont entièrement constatés. En revanche, la provision pour perte de change n'est constituée\nqu'à concurrence du risque non couvert.",
+                "line_num": 1223
+              },
+              {
+                "title": "Article 59",
+                "node_id": "0083",
+                "summary": "###### Article 59\n\nLe résultat de chaque exercice est indépendant de celui qui le précède et de celui qui le suit. Pour sa\ndétermination, il convient de lui rattacher et de lui imputer tous les événements et toutes les opérations qui lui sont\npropres et ceux-là seulement.",
+                "line_num": 1234
+              },
+              {
+                "title": "Article 60",
+                "node_id": "0084",
+                "summary": "###### Article 60\n\nAbrogé",
+                "line_num": 1241
+              },
+              {
+                "title": "Article 61",
+                "node_id": "0085",
+                "summary": "###### Article 61\n\nLes produits et les charges concernant des exercices antérieurs qui n'ont pu être pris en compte avant la clôture\ndesdits exercices, sont enregistrés, selon leur nature, comme les produits et les charges de l'exercice en cours et\nparticipent à la formation du résultat d'exploitation, financier ou hors activités ordinaires, de cet exercice. Ils doivent\nfaire l'objet d'une mention spécifique dans les Notes annexes.",
+                "line_num": 1246
+              },
+              {
+                "title": "Article 62",
+                "node_id": "0086",
+                "summary": "###### Article 62\n\nDans le respect des dispositions de l'",
+                "line_num": 1254
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0087",
+                "summary": "This partial document covers the accounting rules for the revaluation of assets under the OHADA Uniform Act on Accounting Law and Financial Information. The main points are: revaluation applies to tangible and financial fixed assets; it involves replacing the previous net book value with a revalued amount; partial revaluation is prohibited; the difference between the old and new values is called the \"revaluation surplus\"; and this surplus must be recorded separately within equity on the liabilities side of the balance sheet.",
+                "line_num": 1259
+              },
+              {
+                "title": "Article 63",
+                "node_id": "0088",
+                "summary": "###### Article 63\n\nLa valeur réévaluée d'un élément ne peut, en aucun cas, dépasser sa juste valeur, à la date prise en compte pour\npoint de départ de la réévaluation, c'est-à-dire sa valeur actuelle, telle qu'elle est définie à l'",
+                "line_num": 1280
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0089",
+                "summary": "###### Article 42\n\nci-dessus.\n\nLa date d'effet de la réévaluation doit être la date de clôture de l'exercice de réévaluation.",
+                "line_num": 1286
+              },
+              {
+                "title": "Article 64",
+                "node_id": "0090",
+                "summary": "###### Article 64\n\nLa valeur réévaluée des immobilisations amortissables sert de base au calcul des amortissements sur la durée\nd'utilité restant à courir depuis l'ouverture de l'exercice de réévaluation, sauf révision du plan d'amortissement, en\napplication des dispositions du dernier alinéa de l'",
+                "line_num": 1293
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0091",
+                "summary": "###### Article 45\n\ndu présent Acte uniforme.",
+                "line_num": 1300
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V - Valeur probante des documents, contrôle des comptes, collecte",
+            "node_id": "0092",
+            "prefix_summary": "#### Chapitre V - Valeur probante des documents, contrôle des comptes, collecte",
+            "line_num": 1305,
+            "nodes": [
+              {
+                "title": "Article 65",
+                "node_id": "0093",
+                "summary": "###### Article 65\n\nL'écart de réévaluation ne peut être incorporé au résultat de l'exercice de réévaluation.\n\nIl n'est pas distribuable.\n\nIl peut être incorporé en tout ou partie au capital.\n\n\net publicité des informations comptables",
+                "line_num": 1308
+              },
+              {
+                "title": "Article 66",
+                "node_id": "0094",
+                "summary": "###### Article 66\n\nLe livre-journal et le livre d'inventaire sont cotés, paraphés et numérotés de façon continue par la juridiction\ncompétente de chaque Etat partie concerné.\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 24 / 40\n\f ACTE UNIFORME RELATIF AU DROIT COMPTABLE ET À L'INFORMATION FINANCIÈRE\n Adopté le 26/01/2017 à Brazzaville (CONGO)\n Publié au Journal Officiel n° Spécial du 15/02/2017",
+                "line_num": 1320
+              },
+              {
+                "title": "Article 67",
+                "node_id": "0095",
+                "summary": "###### Article 67\n\nDans les entités qui ont recours à la technique de l'informatique pour la tenue de leur comptabilité, des documents\nélectroniques écrits peuvent tenir lieu de journal et de livre d'inventaire ; dans ce cas, ils doivent être identifiés,\nnumérotés et datés, dès leur établissement, par des moyens légaux offrant toute garantie de respect de la\nchronologie des opérations, de l'irréversibilité et de l'intégrité des enregistrements comptables.",
+                "line_num": 1331
+              },
+              {
+                "title": "Article 68",
+                "node_id": "0096",
+                "summary": "###### Article 68\n\nLa comptabilité régulièrement tenue peut être admise en justice pour servir de preuve entre les entités pour faits de\ncommerce ou autres.\n\nSi elle a été irrégulièrement tenue, elle ne peut être invoquée par son auteur à son profit.",
+                "line_num": 1339
+              },
+              {
+                "title": "Article 69",
+                "node_id": "0097",
+                "summary": "###### Article 69\n\nL'entité détermine, sous sa responsabilité, les procédures nécessaires à la mise en place d'une organisation\ncomptable permettant aussi bien un contrôle interne fiable que le contrôle externe, par l'intermédiaire, le cas\néchéant, de commissaires aux comptes, de la réalité des opérations et de la qualité des comptes, tout en\nfavorisant la collecte des informations.",
+                "line_num": 1347
+              },
+              {
+                "title": "Article 70",
+                "node_id": "0098",
+                "summary": "###### Article 70\n\nDans les entités qui désignent, volontairement ou obligatoirement, des commissaires aux comptes, ces derniers :\n\n soit émettent une opinion indiquant que les états financiers sont réguliers et sincères et donnent une image\n fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine à\n la fin de cet exercice ;\n\n soit expriment en la motivant, une opinion avec réserve ou défavorable ou indiquent qu'ils sont dans\n l'impossibilité d'exprimer une opinion.\n\nLes commissaires aux comptes se prononcent sur la sincérité et la concordance avec les états financiers, des\ninformations données dans le rapport de gestion.",
+                "line_num": 1355
+              },
+              {
+                "title": "Article 71",
+                "node_id": "0099",
+                "summary": "This partial document outlines the requirements for a company's year-end financial reporting under the OHADA Uniform Act. The main points covered are:\n\n1.  **Mandatory Year-End Documents:** At the close of each financial year, management must prepare an inventory, financial statements, a management report, and, where applicable, a social balance sheet.\n2.  **Content of the Management Report:** The management report must describe the company's situation during the past year, its development prospects, and specifically address the continuity of operations, cash flow evolution, and the financing plan.\n3.  **Post-Balance Sheet Events:** Important events occurring between the financial year-end and the report date must be included in the management report.\n4.  **Review Timeline:** All these documents must be sent to the statutory auditors (if any) at least 45 days before the date of the ordinary general meeting.",
+                "line_num": 1370
+              },
+              {
+                "title": "Article 72",
+                "node_id": "0100",
+                "summary": "###### Article 72\n\nLes états financiers annuels et le rapport de gestion établis par les organes d'administration ou de direction, selon\nles cas, sont soumis à l'approbation des actionnaires, des associés ou des membres dans le délai de six mois à\ncompter de la date de clôture de l'exercice.",
+                "line_num": 1392
+              },
+              {
+                "title": "Article 73",
+                "node_id": "0101",
+                "summary": "###### Article 73\n\nLes entités se conforment aux mesures communes de communication des informations aux actionnaires, aux\nassociés ou aux membres et de publicité des états financiers annuels ainsi qu'à celles prévues pour les entités\nfaisant appel public à l'épargne, à la fin du premier semestre, conformément aux dispositions spécifiques aux\nsociétés anonymes faisant appel public à l'épargne prévues dans l'Acte uniforme relatif au droit des sociétés\ncommerciales et du groupement d'intérêt économique.",
+                "line_num": 1399
+              }
+            ]
+          },
+          {
+            "title": "Titre II - Des comptes consolidés et des comptes combinés",
+            "node_id": "0102",
+            "prefix_summary": "#### Titre II - Des comptes consolidés et des comptes combinés",
+            "line_num": 1408,
+            "nodes": [
+              {
+                "title": "Article 73",
+                "node_id": "0103",
+                "summary": "The partial document covers OHADA accounting regulations requiring publicly traded companies and those seeking public funding to submit IFRS financial statements alongside standard OHADA statements. It details the auditor's obligations to provide an opinion on these IFRS statements, specifying the types of opinions that can be issued. The document also includes publication details of the uniform act and introduces a chapter on consolidated accounts.",
+                "line_num": 1411
+              },
+              {
+                "title": "Article 74",
+                "node_id": "0104",
+                "summary": "###### Article 74\n\nToute entité, qui a son siège social ou son activité principale dans l'un des Etats parties et qui contrôle de manière\nexclusive ou conjointe une ou plusieurs autres entités, doit établir et publier chaque année les états financiers\nconsolidés de l'ensemble constitué par toutes ces entités ainsi qu'un rapport sur la gestion de cet ensemble.\n\nLes entités qui n'exercent qu'une influence notable sur une ou plusieurs entités n'ont pas l'obligation d'établir et de\npublier des comptes consolidés.\n\nEn revanche, dès lors qu'il y a obligation d'établir des comptes consolidés, les entités sous influence notable sont\nincluses dans le périmètre de consolidation.",
+                "line_num": 1441
+              },
+              {
+                "title": "Article 75",
+                "node_id": "0105",
+                "summary": "###### Article 75\n\nL'établissement et la publication des états financiers consolidés sont à la charge des organes d'administration et de\ndirection de l'entité dominante de l'ensemble consolidé, dite entité consolidante.\n\nLes états financiers consolidés des entités dont les titres sont inscrits à une bourse de valeurs et celles qui\nsollicitent un financement dans le cadre d'un appel public à l'épargne, doivent être établis et présentés selon les\nnormes IFRS.",
+                "line_num": 1454
+              },
+              {
+                "title": "Article 76",
+                "node_id": "0106",
+                "summary": "###### Article 76\n\nL'obligation de consolidation subsiste même si l'entité consolidante est elle-même sous contrôle exclusif ou\nconjoint d'une ou de plusieurs entités ayant leur siège social et leur activité principale en dehors de l'espace\néconomique formé par les Etats parties. L'identité de cette ou de ces entités est signalée dans les Notes annexes\ndes états financiers personnels de l'entité consolidante de l'espace économique formé par les Etats parties ainsi\nque dans les Notes annexes consolidées.",
+                "line_num": 1464
+              },
+              {
+                "title": "Article 77",
+                "node_id": "0107",
+                "summary": "This partial document from the OHADA Uniform Act on Accounting and Financial Information outlines the conditions under which a parent entity is exempt from the obligation to prepare consolidated financial statements. The exemption applies when the parent entity is itself controlled by another entity within the OHADA legal space that is subject to consolidation. However, it specifies three cases where this exemption cannot be invoked: 1) if the two entities have their registered offices in two different regions of the OHADA space, 2) if the entity makes a public call for savings (public offering), or 3) if consolidated financial statements are required by a group of shareholders representing at least one-tenth of the capital of the parent entity. It also defines the \"regions of the OHADA space\" as institutional economic groupings formed by the member states.",
+                "line_num": 1473
+              },
+              {
+                "title": "Article 78",
+                "node_id": "0108",
+                "summary": "This partial document, from the OHADA Uniform Act on Accounting Law and Financial Information, defines and explains three key concepts of control and influence for the purpose of consolidated financial statements. The main points covered are:\n\n1.  **Exclusive Control (Contrôle exclusif):** The power to direct an entity's financial and operating policies to gain economic benefits. It can result from: holding a majority of voting rights; appointing a majority of the administrative/management bodies for two successive years under specific conditions; or having a dominant influence via a contract or statutes.\n\n2.  **Joint Control (Contrôle conjoint):** The shared control of a jointly operated entity by a limited number of partners/shareholders, where policies require their collective agreement. It is characterized by a limited number of controlling partners (where none can impose exclusive control) and a contractual agreement establishing joint control and specifying which essential decisions require unanimous consent.\n\n3.  **Significant Influence (Influence notable):** The power to participate in, but not control, an entity's financial and operating policies. Indicators include board representation, participation in strategic decisions, significant inter-entity transactions, and technical dependencies. For consolidated accounts, holding at least one-fifth (1/5) of voting rights creates a presumption of significant influence.",
+                "line_num": 1497
+              },
+              {
+                "title": "Article 79",
+                "node_id": "0109",
+                "summary": "###### Article 79\n\nUn jeu complet d'états financiers consolidés comprend : le Bilan, le Compte de résultat, le Tableau des flux de\ntrésorerie, le Tableau de variation des capitaux propres ainsi que les Notes annexes.\n\nIls forment un tout indissociable et sont établis conformément aux dispositions du présent Acte uniforme.\n\nIls sont présentés, conformément aux modèles du système normal fixés par le Système comptable OHADA pour\nles comptes personnels des entités, avec en complément les rubriques et postes spécifiques liés à la\nconsolidation, notamment Ecarts d'acquisition et Intérêts minoritaires.",
+                "line_num": 1549
+              },
+              {
+                "title": "Article 80",
+                "node_id": "0110",
+                "summary": "###### Article 80\n\nLes comptes des entités placées sous le contrôle exclusif de l'entité consolidante sont consolidés par intégration\nglobale.\n\nLes comptes des entités contrôlées conjointement avec d'autres associés ou actionnaires par l'entité consolidante\nsont consolidés par intégration proportionnelle.\n\nLes comptes des entités sur lesquelles l'entité consolidante exerce une influence notable sont consolidés par mise\nen équivalence.",
+                "line_num": 1561
+              },
+              {
+                "title": "Article 81",
+                "node_id": "0111",
+                "summary": "This partial document describes three methods of accounting consolidation for group financial statements: full integration, proportional integration, and the equity method. It explains how the carrying value of investments in subsidiaries is replaced in the consolidated balance sheet under each method. Specifically, it details the substitution of the investment's book value with the underlying assets, liabilities, and equity of the consolidated entities, as determined by consolidation rules.",
+                "line_num": 1573
+              },
+              {
+                "title": "Article 82",
+                "node_id": "0112",
+                "summary": "This partial document covers the accounting treatment of consolidation differences (goodwill) under the OHADA accounting framework. The main points explained are:\n\n1.  **Definition of the Consolidation Difference:** It is the difference between the acquisition cost of shares in a subsidiary and the parent company's share of the subsidiary's net assets at the consolidation date.\n2.  **Allocation of the Difference:** The difference is first allocated to adjust specific balance sheet items of the subsidiary to their fair value. Any remaining, unallocated portion is recognized as an \"acquisition difference\" (goodwill or negative goodwill) on the consolidated balance sheet.\n3.  **Amortization of the Unallocated Difference:** This unallocated acquisition difference is subsequently amortized or written back to the consolidated income statement according to a predetermined schedule.",
+                "line_num": 1587
+              },
+              {
+                "title": "Article 83",
+                "node_id": "0113",
+                "summary": "###### Article 83\n\nLorsque l'écart de consolidation ne peut être ventilé, par suite de l'ancienneté des entités entrant pour la première\nfois dans le périmètre de consolidation, cet écart, qualifié d'écart d'acquisition, peut être imputé directement en\nrésultat consolidé, après déduction des dividendes reçus par le groupe et amortissements de l'écart d'acquisition à\nl'ouverture de l'exercice d'incorporation de ces entités.\n\nToutes explications sur le traitement de l'écart susvisé doivent être données dans les Notes annexes.",
+                "line_num": 1606
+              },
+              {
+                "title": "Article 84",
+                "node_id": "0114",
+                "summary": "###### Article 84\n\nLe chiffre d'affaires consolidé est égal au montant des ventes de biens et services liés aux activités courantes de\nl'ensemble constitué par les entités consolidées par intégration.\n\nIl comprend, après élimination des opérations internes à l'ensemble consolidé :\n\n 1°) le montant net, après retraitements éventuels, du chiffre d'affaires réalisé par les entités consolidées\n par intégration globale ;\n\n 2°) la quote-part de l'entité ou des entités détentrices dans le montant net, après retraitements éventuels,\n du chiffre d'affaires réalisé par les entités consolidées par intégration proportionnelle.",
+                "line_num": 1616
+              },
+              {
+                "title": "Article 85",
+                "node_id": "0115",
+                "summary": "This partial document defines the composition of the consolidated income statement according to OHADA accounting law. It specifies that the statement must include: 1) the results of the parent company, entities fully consolidated, and the proportional share of results from proportionally consolidated entities; and 2) the share of results from equity-accounted entities that is attributable to the parent or other holding companies within the consolidated group.",
+                "line_num": 1630
+              },
+              {
+                "title": "Article 86",
+                "node_id": "0116",
+                "summary": "The partial document outlines the mandatory steps for consolidation in accounting, as per Article 86. It lists six specific operations required for the consolidation of group entities, including the classification and harmonization of accounts, the elimination of internal results and reciprocal accounts, and adjustments for tax implications. It concludes by stating that the consolidating entity may omit any of these steps if their impact is negligible on the overall financial position and results.",
+                "line_num": 1654
+              },
+              {
+                "title": "Article 87",
+                "node_id": "0117",
+                "summary": "###### Article 87\n\nL'écart constaté d'un exercice à l'autre et qui résulte de la conversion en unité monétaire ayant cours légal dans\nl'Etat partie des comptes d'entités étrangères est, selon la méthode de conversion retenue, inscrit distinctement\nsoit dans les capitaux propres consolidés, soit au compte de résultat consolidé.",
+                "line_num": 1681
+              },
+              {
+                "title": "Article 88",
+                "node_id": "0118",
+                "summary": "This partial document covers two specific accounting rules under the OHADA uniform accounting act. The first point explains that certain capital received under non-refundable, non-remunerative emission contracts can be recorded as equity in the consolidated balance sheet. The second point states that assets held by entities subject to specific valuation rules by particular laws must be maintained at that legislated value in the consolidated accounts.",
+                "line_num": 1688
+              },
+              {
+                "title": "Article 89",
+                "node_id": "0119",
+                "summary": "###### Article 89\n\nLe Bilan consolidé est présenté, selon le modèle prévu dans le Système comptable OHADA pour les comptes\npersonnels, Système normal, en faisant toutefois distinctement apparaître :\n\n les écarts d'acquisition ;\n\n les titres mis en équivalence ;\n\n les impôts différés ;\n\n la part du groupe dans les résultats non distribués ;\n\n la part des intérêts minoritaires dans les résultats non distribués.",
+                "line_num": 1703
+              },
+              {
+                "title": "Article 90",
+                "node_id": "0120",
+                "summary": "###### Article 90\n\nLe compte de résultat consolidé est présenté, selon le modèle du Système normal, en faisant distinctement\napparaître :\n\n le résultat net de l'ensemble des entités consolidées par intégration ;\n\n la quote-part des résultats nets des entités consolidées par mise en équivalence ;\n\n la part des associés minoritaires et la part de l'entité consolidante dans le résultat net ;\n\n le résultat par action.",
+                "line_num": 1719
+              },
+              {
+                "title": "Article 91",
+                "node_id": "0121",
+                "summary": "###### Article 91\n\nLes produits et les charges sont classés par nature dans le Compte de résultat consolidé. Ce dernier peut être\naccompagné d'une présentation des produits et des charges classés selon leur destination, sur décision prise par\nl'entité consolidante.",
+                "line_num": 1733
+              },
+              {
+                "title": "Article 92",
+                "node_id": "0122",
+                "summary": "This partial document covers the initial provisions of Article 92 of the OHADA Uniform Act on Accounting and Financial Information. It states that deferred tax assets and liabilities are to be recorded in the Consolidated Balance Sheet and Income Statement. The article begins to define the sources of these deferred taxes, starting with the temporary differences arising from the gap between when a revenue or expense is recognized in the accounts and when it is included in the taxable profit of a later financial period. It also mentions adjustments, eliminations, and reclassifications as a second point, but the text is cut off before detailing them.",
+                "line_num": 1740
+              },
+              {
+                "title": "Article 86",
+                "node_id": "0123",
+                "summary": "###### Article 86\n\nci- dessus ;\n\n 3°) de déficits fiscaux reportables des entités comprises dans la consolidation, dans la mesure où\n leur imputation sur les bénéfices fiscaux futurs est probable.\n\n d'autre part et dans une approche dite bilantielle de la différence entre la valeur comptable d'un actif ou\n d'un passif au bilan et sa base fiscale. La base fiscale d'un actif ou d'un passif est le montant attribué à cet\n actif ou ce passif à des fins fiscales.",
+                "line_num": 1757
+              },
+              {
+                "title": "Article 93",
+                "node_id": "0124",
+                "summary": "###### Article 93\n\nLe Tableau consolidé des flux de trésorerie consolidés, classe les flux de trésorerie en flux engendrés par les\nactivités :\n\n opérationnelles ;\n\n d'investissement ;\n\n de financement.\n\nLe tableau consolidé des flux de trésorerie consolidés fait apparaître la contribution de chaque type d'activité à la\nvariation globale de la trésorerie du groupe.",
+                "line_num": 1769
+              },
+              {
+                "title": "Article 94",
+                "node_id": "0125",
+                "summary": "The partial document outlines the requirements for the Consolidated Notes (Notes annexes consolidées) under OHADA accounting standards. The main points covered are:\n\n1.  **Purpose of the Notes:** They must provide narrative descriptions, breakdowns of financial statement items, and all significant information to properly assess the consolidated group's scope, assets, financial position, and results.\n\n2.  **Mandatory Content:** The Notes must specifically include:\n    *   A statement of compliance with the OHADA consolidated accounting system.\n    *   A summary of the main accounting policies applied.\n    *   Information on contingent liabilities and unrecorded contractual commitments.\n    *   Non-financial information (e.g., financial risk management objectives and methods).\n    *   A table detailing changes in the consolidation scope, covering changes in control percentages, acquisitions, and disposals of holdings.",
+                "line_num": 1784
+              },
+              {
+                "title": "Article 95",
+                "node_id": "0126",
+                "summary": "###### Article 95\n\nSont dispensés de l'établissement et de la publication d'états financiers consolidés, les ensembles d'entités dont le\nchiffre d'affaires ne dépasse pas pour chaque exercice, pendant deux exercices successifs, un total hors taxes de\n500 000 000 FCFA ou l'équivalent dans l'unité monétaire ayant cours légal dans l'Etat partie.\n\nCette limite est établie sur la base des états financiers arrêtés des deux derniers exercices des entités incluses\ndans la consolidation.",
+                "line_num": 1815
+              },
+              {
+                "title": "Article 96",
+                "node_id": "0127",
+                "summary": "This partial document outlines the conditions under which entities can be excluded from a consolidated financial statement perimeter. The main points covered are:\n\n1.  **Exclusion due to loss of control or significant influence:** Entities where the parent has demonstrably lost control or significant influence are left out of the consolidation perimeter.\n\n2.  **Exemption from publishing consolidated accounts:** Parent entities are exempt if they only control entities that themselves qualify for exclusion for specific reasons:\n    *   Severe and long-lasting restrictions that substantially impair control or the transfer of funds from the subsidiary.\n    *   Holdings in a subsidiary are acquired exclusively for resale.\n    *   The information needed for consolidation cannot be obtained without excessive cost or within the legal deadlines for preparing and auditing the accounts.\n\n3.  **Exclusion for negligible size:** Entities that are negligible in importance relative to the whole consolidated group may be excluded.\n\n4.  **Disclosure requirement:** Any exclusion of entities falling under these categories must be justified in the notes to the consolidated financial statements.",
+                "line_num": 1825
+              },
+              {
+                "title": "Article 97",
+                "node_id": "0128",
+                "summary": "This partial document covers the requirements for preparing consolidated financial statements under OHADA accounting law. The main points are:\n\n1.  **Obligation to Provide Information:** Entities within the consolidation scope must provide necessary information to the parent entity.\n2.  **Uniform Reporting Date:** The financial statement closing date must be the same for the parent and all subsidiaries. If different, the subsidiary must prepare additional financial statements to align with the parent's date.\n3.  **Exception for Date Alignment:** A deviation is permitted if aligning dates is difficult, provided the subsidiary's closing date is no more than three months different. In this case, the subsidiary's accounts must be adjusted for significant transactions or events occurring in the interim period.\n4.  **Audit Requirement:** Any additional financial statements prepared by a subsidiary must be audited by a statutory auditor or an authorized accounting professional.",
+                "line_num": 1849
+              },
+              {
+                "title": "Article 98",
+                "node_id": "0129",
+                "summary": "###### Article 98\n\nL'absence d'information ou une information insuffisante relative à une entité entrant dans le périmètre de\nconsolidation ne remet pas en cause l'obligation pour la société dominante d'établir et de publier des comptes\nconsolidés. Dans ce cas exceptionnel, elle est tenue de signaler le caractère incomplet des comptes consolidés.",
+                "line_num": 1874
+              },
+              {
+                "title": "Article 99",
+                "node_id": "0130",
+                "summary": "###### Article 99\n\nUn rapport sur la gestion de l'ensemble consolidé expose la situation de l'ensemble constitué par les entités\ncomprises dans la consolidation, son évolution prévisible, les événements importants survenus entre la date de\nclôture de l'exercice de consolidation et la date à laquelle les comptes consolidés sont établis, ainsi que ses\nactivités en matière de recherche et de développement.",
+                "line_num": 1881
+              },
+              {
+                "title": "Article 100",
+                "node_id": "0131",
+                "summary": "###### Article 100\n\nLorsqu'une entité établit des états financiers consolidés, les commissaires aux comptes, à la lumière des éléments\nprobants obtenus :\n\n soit concluent que les états sont réguliers et sincères et donnent une image fidèle du résultat des\n opérations de l'exercice écoulé, ainsi que de la situation financière et du patrimoine de l'ensemble constitué\n par les entités comprises dans la consolidation à la fin de l'exercice ;\n\n soit expriment, en la motivant, une opinion avec réserve ou défavorable ou indiquent qu'ils sont dans\n l'impossibilité d'exprimer une opinion.\n\nLes commissaires aux comptes se prononcent également sur la sincérité et la concordance avec les états\nfinanciers consolidés, des informations données dans le rapport de gestion.",
+                "line_num": 1889
+              },
+              {
+                "title": "Article 101",
+                "node_id": "0132",
+                "summary": "###### Article 101\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 35 / 40\n\f ACTE UNIFORME RELATIF AU DROIT COMPTABLE ET À L'INFORMATION FINANCIÈRE\n Adopté le 26/01/2017 à Brazzaville (CONGO)\n Publié au Journal Officiel n° Spécial du 15/02/2017\n\nLes états financiers consolidés régulièrement approuvés, le rapport de gestion de l'ensemble consolidé, ainsi que\nle rapport du commissaire aux comptes font l'objet, de la part de l'entité qui a établi les comptes consolidés, d'une\npublicité effectuée selon les modalités prévues par l'",
+                "line_num": 1905
+              },
+              {
+                "title": "Article 73",
+                "node_id": "0133",
+                "summary": "###### Article 73\n\ndu présent Acte uniforme.",
+                "line_num": 1917
+              },
+              {
+                "title": "Article 102",
+                "node_id": "0134",
+                "summary": "###### Article 102\n\nLe tableau d'activité et de résultats prévu à l'",
+                "line_num": 1922
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II - Comptes combinés",
+            "node_id": "0135",
+            "prefix_summary": "#### Chapitre II - Comptes combinés",
+            "line_num": 1927,
+            "nodes": [
+              {
+                "title": "Article 849",
+                "node_id": "0136",
+                "summary": "###### Article 849\n\nde l'Acte uniforme relatif au droit des sociétés\ncommerciales et du G1E indique le montant net du chiffre d'affaires et le résultat des activités ordinaires avant\nimpôts de l'ensemble consolidé. Chacun des postes du tableau comporte l'indication du chiffre relatif au poste\ncorrespondant de l'exercice précédent et du premier semestre de cet exercice.",
+                "line_num": 1930
+              },
+              {
+                "title": "Article 103",
+                "node_id": "0137",
+                "summary": "This partial document covers Article 103 of the OHADA Uniform Act, which establishes the rules for \"combined financial statements\" (*états financiers combinés*). The main points are:\n\n1.  **Definition and Requirement:** It mandates that entities operating as a single economic unit in the OHADA region under a common strategic decision-making center located outside the region—even without formal legal ties of control—must prepare and present combined financial statements as if they were one entity.\n\n2.  **Identification and Disclosure:** To identify such entities, any entity ultimately under the exclusive or joint control of a legal person must disclose this fact in the notes to its own annual financial statements.\n\n3.  **Responsibility Disclosure:** Each involved entity must specify in its notes which entity within the State Party is responsible for preparing the combined accounts.\n\n4.  **Compliance:** These combined financial statements must be prepared strictly according to the specific rules and methods for combined accounts set out in this Uniform Act.\n\n5.  **State Authority:** The competent authorities of the State Parties have the power to require the preparation of combined accounts for groups of entities on their territory, provided there are objective elements justifying the cohesion of the group.",
+                "line_num": 1938
+              },
+              {
+                "title": "Article 104",
+                "node_id": "0138",
+                "summary": "This partial document covers Article 104 of the OHADA Uniform Act on Accounting and Financial Information. It states that the rules for combined financial statements apply to any entity required or choosing to prepare them. It establishes that the preparation and presentation of these combined statements follow the rules for consolidated accounts, with exceptions to be detailed in subsequent articles (105 to 109).",
+                "line_num": 1960
+              },
+              {
+                "title": "Article 105",
+                "node_id": "0139",
+                "summary": "###### Article 105\n\nLe périmètre de combinaison englobe toutes les entités d'un Etat partie ou d'une même région de l'espace OHADA\nsatisfaisant à des critères d'unicité et de cohésion caractérisant l'ensemble économique formé, quels que soient\nleur activité, leur forme juridique ou leur objet, lucratif ou non.",
+                "line_num": 1974
+              },
+              {
+                "title": "Article 106",
+                "node_id": "0140",
+                "summary": "###### Article 106\n\nLes éléments objectifs visés à l'",
+                "line_num": 1981
+              },
+              {
+                "title": "Article 103",
+                "node_id": "0141",
+                "summary": "The partial document outlines the criteria for determining when separate entities can be considered a single economic unit for accounting or regulatory purposes. It lists specific cases where entities are deemed unified based on factors like common control, homogeneous structure, coordinated economic behavior, or binding profit-sharing agreements.",
+                "line_num": 1986
+              },
+              {
+                "title": "Article 106",
+                "node_id": "0142",
+                "summary": "###### Article 106\n\n-1\n\nLes comptes combinés sont obtenus en procédant aux opérations suivantes :\n\n cumul des comptes des entités faisant partie du périmètre des comptes combinés, éventuellement après\n retraitements et reclassement (élimination des incidences sur les comptes des écritures passées pour la\n seule application des législations fiscales, impositions différées comptabilisées...) ;\n\n élimination des comptes réciproques : actifs et passifs, charges et produits ;\n\n neutralisation des résultats provenant d'opérations effectuées entre les entités comprises dans le périmètre.",
+                "line_num": 2008
+              },
+              {
+                "title": "Article 107",
+                "node_id": "0143",
+                "summary": "This partial document outlines the rules for establishing combined equity (\"capitaux propres combinés\") under OHADA accounting law. The main points covered are the specific conditions for calculation in different ownership scenarios:\n\n1.  When there are no participation links between the combined entities, the combined equity is the sum of the restated equity of each entity.\n2.  When capital links exist between the entities, the amount of the holding's investment shown as an asset is offset against the combined equity.\n3.  When the combined entities are owned by an individual or a group of individuals, the portion of equity and results belonging to other partners is treated as minority interests.\n4.  More generally, when a set of entities is combined due to unified management, a common activity, operational integration, or equivalent circumstances, it is necessary to distinguish between partners who have rights to the combined equity and those considered third parties. This distinction determines the minority interests to be included in the consolidated balance sheet and income statement.",
+                "line_num": 2023
+              },
+              {
+                "title": "Article 108",
+                "node_id": "0144",
+                "summary": "###### Article 108\n\nLorsque le lien de capital entre deux ou plusieurs entités dont les comptes sont combinés est d'un niveau suffisant\npour justifier la consolidation entre elles, il est maintenu au bilan combiné les écarts d'évaluation et d'acquisition\ninscrits dans les comptes consolidés.",
+                "line_num": 2051
+              },
+              {
+                "title": "Article 108",
+                "node_id": "0145",
+                "summary": "###### Article 108\n\n-1\n\nUn jeu complet d'états financiers combinés comprend : le Bilan combiné, le Compte de résultat combiné, le\nTableau combiné des flux de trésorerie et les Notes annexes.",
+                "line_num": 2058
+              },
+              {
+                "title": "Article 109",
+                "node_id": "0146",
+                "summary": "The partial document outlines the required disclosures in the Notes to the consolidated financial statements according to OHADA accounting law. The main points specify that the notes must detail the basis for consolidation, the controlling entity, the list of included entities, and the justification for excluding any that meet the inclusion criteria. They must also identify equity holders and minority interests, describe the tax regimes applicable to the various legal forms of the combined entities, and provide narrative explanations or breakdowns of items presented in other financial statements.",
+                "line_num": 2066
+              }
+            ]
+          },
+          {
+            "title": "Titre III - Des dispositions pénales",
+            "node_id": "0147",
+            "prefix_summary": "#### Titre III - Des dispositions pénales",
+            "line_num": 2093,
+            "nodes": [
+              {
+                "title": "Article 110",
+                "node_id": "0148",
+                "summary": "###### Article 110\n\nLes états financiers combinés font l'objet d'un rapport sur la gestion de l'ensemble combiné, et d'une opinion du ou\ndes commissaires aux comptes, suivant les mêmes principes et modalités que ceux prévus pour les états\nfinanciers consolidés.",
+                "line_num": 2096
+              },
+              {
+                "title": "Article 111",
+                "node_id": "0149",
+                "summary": "###### Article 111\n\nEncourent une sanction pénale les dirigeants d'entités au sens de l'",
+                "line_num": 2103
+              }
+            ]
+          },
+          {
+            "title": "Titre IV - Des dispositions transitoires et finales",
+            "node_id": "0150",
+            "prefix_summary": "#### Titre IV - Des dispositions transitoires et finales",
+            "line_num": 2108,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0151",
+                "summary": "###### Article 2\n\ndu présent Acte uniforme qui :\n\n n'auront pas, pour chaque exercice, dressé l'inventaire et établi les états financiers annuels, consolidés ou\n combinés ainsi que, le rapport de gestion et, le cas échéant le bilan social ;\n\n auront sciemment, établi et communiqué des états financiers ne donnant pas une image fidèle du\n patrimoine, de la situation financière et du résultat de l'exercice.\n\nLes infractions prévues par le présent Acte uniformes sont punies conformément aux dispositions du droit pénal en\nvigueur dans chaque Etat partie.",
+                "line_num": 2111
+              },
+              {
+                "title": "Article 111",
+                "node_id": "0152",
+                "summary": "###### Article 111\n\n-1\n\nLes comptes d'actif ou de passif supprimés ou traités autrement par le présent Acte uniforme doivent être traités\ncomme indiqué au titre VIII Opérations spécifiques, Chapitre 41 par le biais d'un compte qui a été créé\nexclusivement à cet effet : 475 Compte transitoire lié à la révision du SYSCOHADA, compte actif-compte passif.",
+                "line_num": 2125
+              },
+              {
+                "title": "Article 112",
+                "node_id": "0153",
+                "summary": "###### Article 112\n\nSous réserve des dispositions de l'",
+                "line_num": 2134
+              },
+              {
+                "title": "Article 113",
+                "node_id": "0154",
+                "summary": "###### Article 113\n\nalinéa 2 ci-dessous, sont abrogées à compter de la date d'entrée en\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 39 / 40\n\f ACTE UNIFORME RELATIF AU DROIT COMPTABLE ET À L'INFORMATION FINANCIÈRE\n Adopté le 26/01/2017 à Brazzaville (CONGO)\n Publié au Journal Officiel n° Spécial du 15/02/2017\n\n vigueur du présent Acte uniforme, les dispositions de l'Acte uniforme du 24 mars 2000 portant organisation et\n harmonisation des comptabilités des entreprises ainsi que toutes dispositions de droit interne antérieures\n contraires.",
+                "line_num": 2139
+              },
+              {
+                "title": "Article 113",
+                "node_id": "0155",
+                "summary": "This partial document covers the publication and effective dates of an OHADA Uniform Act. The main points are:\n\n1.  **Publication Requirements:** The Act, which includes the General Accounting Plan and provisions for consolidated and combined accounts, must be published in the OHADA Official Journal within 60 days of its adoption and in member states' official gazettes.\n\n2.  **Application Date:** The Act becomes applicable 90 days after its official publication.\n\n3.  **Staggered Effective Dates:**\n    *   For the individual (personal) accounts of entities: **January 1, 2018**.\n    *   For consolidated accounts, combined accounts, and financial statements under IFRS standards: **January 1, 2019**.\n\n4.  **Document Details:** It notes the Act was adopted in Brazzaville on **January 26, 2017**.",
+                "line_num": 2153
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0003",
+      "node_title": "Article 1",
+      "article_ids": [
+        "daa6cb9f-a3b6-4f41-b07e-af0ab439bf7d"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article 2",
+      "article_ids": [
+        "4762dbec-bf13-4c0e-b680-1062545a17cc",
+        "ee06ba00-08b9-4b43-97a7-2e838adb5998",
+        "f86517d6-cc6a-4f31-80af-9776dd574164"
+      ]
+    },
+    {
+      "node_id": "0005",
+      "node_title": "Article 2",
+      "article_ids": [
+        "4762dbec-bf13-4c0e-b680-1062545a17cc",
+        "ee06ba00-08b9-4b43-97a7-2e838adb5998",
+        "f86517d6-cc6a-4f31-80af-9776dd574164"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article 3",
+      "article_ids": [
+        "cce75142-6770-4578-954b-682c6fa38f91"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article 4",
+      "article_ids": [
+        "53e7b711-360a-4cb0-be8f-0369dc439070"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article 5",
+      "article_ids": [
+        "b01ca37f-8590-42fc-8c97-7191a487b581"
+      ]
+    },
+    {
+      "node_id": "0009",
+      "node_title": "Article 6",
+      "article_ids": [
+        "bdb8a94b-cb0c-4d57-93ed-055bc60c453c"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article 7",
+      "article_ids": [
+        "4c0da0c4-d66b-4aad-b7e8-81a734147e55"
+      ]
+    },
+    {
+      "node_id": "0011",
+      "node_title": "Article 8",
+      "article_ids": [
+        "e90567d6-1045-440f-9d48-1541d442b296",
+        "b58c6be2-0a71-45e9-a94b-0f58f1602c4b",
+        "77b88256-b260-45b6-8215-f50453f73983",
+        "d0bfccb7-4992-4e2b-bc6b-fd0fff3d1e2c",
+        "f32d7bcc-dd32-464c-8887-f89da9f78887"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article 9",
+      "article_ids": [
+        "67448cc1-bf5d-4a21-b9f1-1457b525326a"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article 10",
+      "article_ids": [
+        "5234394a-51e3-4616-86c1-121a5c756cc5"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article 8",
+      "article_ids": [
+        "e90567d6-1045-440f-9d48-1541d442b296",
+        "b58c6be2-0a71-45e9-a94b-0f58f1602c4b",
+        "77b88256-b260-45b6-8215-f50453f73983",
+        "d0bfccb7-4992-4e2b-bc6b-fd0fff3d1e2c",
+        "f32d7bcc-dd32-464c-8887-f89da9f78887"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article 11",
+      "article_ids": [
+        "d33b5c63-69c5-4ed2-a09e-81a8f64dc2f8"
+      ]
+    },
+    {
+      "node_id": "0016",
+      "node_title": "Article 8",
+      "article_ids": [
+        "e90567d6-1045-440f-9d48-1541d442b296",
+        "b58c6be2-0a71-45e9-a94b-0f58f1602c4b",
+        "77b88256-b260-45b6-8215-f50453f73983",
+        "d0bfccb7-4992-4e2b-bc6b-fd0fff3d1e2c",
+        "f32d7bcc-dd32-464c-8887-f89da9f78887"
+      ]
+    },
+    {
+      "node_id": "0017",
+      "node_title": "Article 12",
+      "article_ids": [
+        "32dd5a7d-bb97-4285-a2d3-b03aff6316ab"
+      ]
+    },
+    {
+      "node_id": "0019",
+      "node_title": "Article 13",
+      "article_ids": [
+        "17c6bad1-6622-4ef9-9c89-7c7863449a99",
+        "5f850aff-1dab-4816-b56f-92554d29a60e",
+        "0bf57535-029f-4057-8e1a-b1f9cee2452d"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article 14",
+      "article_ids": [
+        "3de382ac-05e9-432f-8f20-75614d183e26"
+      ]
+    },
+    {
+      "node_id": "0021",
+      "node_title": "Article 15",
+      "article_ids": [
+        "7c55b756-203d-4c26-8b6f-9438b2848da8"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article 16",
+      "article_ids": [
+        "0f98f6fd-0446-4640-88b1-a55ac29f0487",
+        "43e07681-d458-4fd3-9db3-e042d28dcc02",
+        "b480b4a7-fd86-4f5e-90d9-6d8e6d2edffc"
+      ]
+    },
+    {
+      "node_id": "0023",
+      "node_title": "Article 17",
+      "article_ids": [
+        "1762b750-e1ce-4287-bd2f-3e05a1d8a645",
+        "79ba4c1a-b124-4996-8fa9-fd3a763848d3"
+      ]
+    },
+    {
+      "node_id": "0024",
+      "node_title": "Article 16",
+      "article_ids": [
+        "0f98f6fd-0446-4640-88b1-a55ac29f0487",
+        "43e07681-d458-4fd3-9db3-e042d28dcc02",
+        "b480b4a7-fd86-4f5e-90d9-6d8e6d2edffc"
+      ]
+    },
+    {
+      "node_id": "0025",
+      "node_title": "Article 16",
+      "article_ids": [
+        "0f98f6fd-0446-4640-88b1-a55ac29f0487",
+        "43e07681-d458-4fd3-9db3-e042d28dcc02",
+        "b480b4a7-fd86-4f5e-90d9-6d8e6d2edffc"
+      ]
+    },
+    {
+      "node_id": "0026",
+      "node_title": "Article 8",
+      "article_ids": [
+        "e90567d6-1045-440f-9d48-1541d442b296",
+        "b58c6be2-0a71-45e9-a94b-0f58f1602c4b",
+        "77b88256-b260-45b6-8215-f50453f73983",
+        "d0bfccb7-4992-4e2b-bc6b-fd0fff3d1e2c",
+        "f32d7bcc-dd32-464c-8887-f89da9f78887"
+      ]
+    },
+    {
+      "node_id": "0027",
+      "node_title": "Article 18",
+      "article_ids": [
+        "771579ff-d643-4437-97a5-d6ddcb4e2c5f"
+      ]
+    },
+    {
+      "node_id": "0028",
+      "node_title": "Article 19",
+      "article_ids": [
+        "0ab70b42-9957-427b-a42d-df386517dd4e"
+      ]
+    },
+    {
+      "node_id": "0029",
+      "node_title": "Article 17",
+      "article_ids": [
+        "1762b750-e1ce-4287-bd2f-3e05a1d8a645",
+        "79ba4c1a-b124-4996-8fa9-fd3a763848d3"
+      ]
+    },
+    {
+      "node_id": "0030",
+      "node_title": "Article 20",
+      "article_ids": [
+        "0dd458cc-6bdc-4bab-bb5d-338cf7bb3191"
+      ]
+    },
+    {
+      "node_id": "0031",
+      "node_title": "Article 21",
+      "article_ids": [
+        "a5d6dc5c-5738-44db-a28a-c1b0aaecc5ae"
+      ]
+    },
+    {
+      "node_id": "0032",
+      "node_title": "Article 13",
+      "article_ids": [
+        "17c6bad1-6622-4ef9-9c89-7c7863449a99",
+        "5f850aff-1dab-4816-b56f-92554d29a60e",
+        "0bf57535-029f-4057-8e1a-b1f9cee2452d"
+      ]
+    },
+    {
+      "node_id": "0033",
+      "node_title": "Article 22",
+      "article_ids": [
+        "944e91d8-354d-41af-9ec7-e9b6e4e193d3"
+      ]
+    },
+    {
+      "node_id": "0034",
+      "node_title": "Article 23",
+      "article_ids": [
+        "70833139-1a50-4efe-a23e-d73ec754c15f"
+      ]
+    },
+    {
+      "node_id": "0036",
+      "node_title": "Article 24",
+      "article_ids": [
+        "c2e8f43f-dfd7-45e7-9488-39037178eaf1"
+      ]
+    },
+    {
+      "node_id": "0037",
+      "node_title": "Article 25",
+      "article_ids": [
+        "092487e5-da2b-4f3f-aa29-7f5d92e3b5aa"
+      ]
+    },
+    {
+      "node_id": "0038",
+      "node_title": "Article 8",
+      "article_ids": [
+        "e90567d6-1045-440f-9d48-1541d442b296",
+        "b58c6be2-0a71-45e9-a94b-0f58f1602c4b",
+        "77b88256-b260-45b6-8215-f50453f73983",
+        "d0bfccb7-4992-4e2b-bc6b-fd0fff3d1e2c",
+        "f32d7bcc-dd32-464c-8887-f89da9f78887"
+      ]
+    },
+    {
+      "node_id": "0039",
+      "node_title": "Article 26",
+      "article_ids": [
+        "a9b9dde4-8f59-48cf-a9df-6d2746f7bf59"
+      ]
+    },
+    {
+      "node_id": "0040",
+      "node_title": "Article 27",
+      "article_ids": [
+        "b2c8b140-cdbd-4cbc-baec-268cf512cf2d"
+      ]
+    },
+    {
+      "node_id": "0041",
+      "node_title": "Article 28",
+      "article_ids": [
+        "8d656e8e-3dc3-40d9-921c-b9287cf42383"
+      ]
+    },
+    {
+      "node_id": "0042",
+      "node_title": "Article 13",
+      "article_ids": [
+        "17c6bad1-6622-4ef9-9c89-7c7863449a99",
+        "5f850aff-1dab-4816-b56f-92554d29a60e",
+        "0bf57535-029f-4057-8e1a-b1f9cee2452d"
+      ]
+    },
+    {
+      "node_id": "0043",
+      "node_title": "Article 29",
+      "article_ids": [
+        "5a766b92-33e0-4c94-b7c8-8e538ef73f55"
+      ]
+    },
+    {
+      "node_id": "0044",
+      "node_title": "Article 30",
+      "article_ids": [
+        "bd90e9f7-c604-496c-9d10-56911a2c24fe"
+      ]
+    },
+    {
+      "node_id": "0045",
+      "node_title": "Article 31",
+      "article_ids": [
+        "f24d8b33-4b1e-4171-ab17-7e533fed8a5f"
+      ]
+    },
+    {
+      "node_id": "0046",
+      "node_title": "Article 32",
+      "article_ids": [
+        "a21b8629-3ba7-4277-a674-8a40050177b5"
+      ]
+    },
+    {
+      "node_id": "0047",
+      "node_title": "Article 33",
+      "article_ids": [
+        "5d91823a-8177-49d0-aa45-c6ee906d2987",
+        "fa9ee166-32cf-4a7a-b512-f2de63da66a3"
+      ]
+    },
+    {
+      "node_id": "0049",
+      "node_title": "Article 34",
+      "article_ids": [
+        "eb82f056-ec1d-4bc4-b354-f87bb4899de6"
+      ]
+    },
+    {
+      "node_id": "0050",
+      "node_title": "Article 35",
+      "article_ids": [
+        "c735e30d-b140-4d39-98a4-1599ce6fde23",
+        "16dcdc27-69fb-4095-bdf5-a13d0ed0e041"
+      ]
+    },
+    {
+      "node_id": "0051",
+      "node_title": "Article 36",
+      "article_ids": [
+        "3a797bb4-e356-4eb5-8cfd-3c4baa584c02"
+      ]
+    },
+    {
+      "node_id": "0052",
+      "node_title": "Article 37",
+      "article_ids": [
+        "a42ce016-74e8-4a38-87fc-e8ae067b19fe"
+      ]
+    },
+    {
+      "node_id": "0053",
+      "node_title": "Article 38",
+      "article_ids": [
+        "b029b244-5d29-44e2-be09-3f11f168afd7",
+        "39b172e0-7244-4443-b5ff-d48d2ccee50e",
+        "b786c08d-0f35-45b9-91c5-55085edf38b6"
+      ]
+    },
+    {
+      "node_id": "0054",
+      "node_title": "Article 38",
+      "article_ids": [
+        "b029b244-5d29-44e2-be09-3f11f168afd7",
+        "39b172e0-7244-4443-b5ff-d48d2ccee50e",
+        "b786c08d-0f35-45b9-91c5-55085edf38b6"
+      ]
+    },
+    {
+      "node_id": "0055",
+      "node_title": "Article 38",
+      "article_ids": [
+        "b029b244-5d29-44e2-be09-3f11f168afd7",
+        "39b172e0-7244-4443-b5ff-d48d2ccee50e",
+        "b786c08d-0f35-45b9-91c5-55085edf38b6"
+      ]
+    },
+    {
+      "node_id": "0056",
+      "node_title": "Article 39",
+      "article_ids": [
+        "2647f1fd-1830-4c1e-816e-d37dc94d66b5",
+        "f79f8e2d-7a36-4523-b8b0-7e2ad851f6a5"
+      ]
+    },
+    {
+      "node_id": "0057",
+      "node_title": "Article 40",
+      "article_ids": [
+        "1b4ad35b-2e9b-4fbf-8c7f-041eefa8e4ed",
+        "ca1cde66-10cf-43a6-8590-a8dd1490a069"
+      ]
+    },
+    {
+      "node_id": "0058",
+      "node_title": "Article 41",
+      "article_ids": [
+        "75d23edf-f5a4-4c5c-9cb4-e82576173dce"
+      ]
+    },
+    {
+      "node_id": "0059",
+      "node_title": "Article 40",
+      "article_ids": [
+        "1b4ad35b-2e9b-4fbf-8c7f-041eefa8e4ed",
+        "ca1cde66-10cf-43a6-8590-a8dd1490a069"
+      ]
+    },
+    {
+      "node_id": "0060",
+      "node_title": "Article 33",
+      "article_ids": [
+        "5d91823a-8177-49d0-aa45-c6ee906d2987",
+        "fa9ee166-32cf-4a7a-b512-f2de63da66a3"
+      ]
+    },
+    {
+      "node_id": "0061",
+      "node_title": "Article 42",
+      "article_ids": [
+        "4161f0f8-fbcd-4a62-8e52-4fda77f10655",
+        "0a9453bb-79cd-460a-96f5-f5eee2a43a31"
+      ]
+    },
+    {
+      "node_id": "0062",
+      "node_title": "Article 39",
+      "article_ids": [
+        "2647f1fd-1830-4c1e-816e-d37dc94d66b5",
+        "f79f8e2d-7a36-4523-b8b0-7e2ad851f6a5"
+      ]
+    },
+    {
+      "node_id": "0063",
+      "node_title": "Article 43",
+      "article_ids": [
+        "ab9fb1e0-2ba6-4179-bd4b-c58f648c2b42"
+      ]
+    },
+    {
+      "node_id": "0064",
+      "node_title": "Article 44",
+      "article_ids": [
+        "ff1514c3-2f68-418d-92f6-59c0e36d41d0"
+      ]
+    },
+    {
+      "node_id": "0065",
+      "node_title": "Article 45",
+      "article_ids": [
+        "6e9761cc-3164-463f-9821-0699458673d4",
+        "9d1ec06f-de4f-468d-b403-76211c707b80"
+      ]
+    },
+    {
+      "node_id": "0066",
+      "node_title": "Article 46",
+      "article_ids": [
+        "bd869ea3-d364-478f-9578-c23cf6d5b929"
+      ]
+    },
+    {
+      "node_id": "0067",
+      "node_title": "Article 47",
+      "article_ids": [
+        "7ff471e0-3fe1-46b2-8ec5-7f039bcb90c9"
+      ]
+    },
+    {
+      "node_id": "0068",
+      "node_title": "Article 48",
+      "article_ids": [
+        "ad82eede-d8e3-4ff9-aada-3cc9f1300a3a"
+      ]
+    },
+    {
+      "node_id": "0069",
+      "node_title": "Article 49",
+      "article_ids": [
+        "cdfd64d6-c1b8-4cc0-9d1f-e80f316fe3ba"
+      ]
+    },
+    {
+      "node_id": "0070",
+      "node_title": "Article 50",
+      "article_ids": [
+        "e0af4f4e-e96c-46fb-8305-9344f4f6ceec"
+      ]
+    },
+    {
+      "node_id": "0071",
+      "node_title": "Article 51",
+      "article_ids": [
+        "7c40607b-962f-4346-9c40-ec9627c5fb56"
+      ]
+    },
+    {
+      "node_id": "0072",
+      "node_title": "Article 52",
+      "article_ids": [
+        "2bda818f-c20a-4bae-bd24-f4602b19f531"
+      ]
+    },
+    {
+      "node_id": "0073",
+      "node_title": "Article 53",
+      "article_ids": [
+        "a4ea1d1d-85a8-40cb-ab07-f4d882ede8ed"
+      ]
+    },
+    {
+      "node_id": "0074",
+      "node_title": "Article 54",
+      "article_ids": [
+        "0147439c-e9ab-4f51-ab30-e5179d6541a3"
+      ]
+    },
+    {
+      "node_id": "0075",
+      "node_title": "Article 55",
+      "article_ids": [
+        "e5dd3c45-78e5-4bbd-a737-a7cdad3fd93c"
+      ]
+    },
+    {
+      "node_id": "0076",
+      "node_title": "Article 56",
+      "article_ids": [
+        "9c48ea88-56c9-4654-a4f9-6276d0766c32"
+      ]
+    },
+    {
+      "node_id": "0077",
+      "node_title": "Article 57",
+      "article_ids": [
+        "e63bffe2-c86d-4fa4-9090-dc9749a65872"
+      ]
+    },
+    {
+      "node_id": "0078",
+      "node_title": "Article 58",
+      "article_ids": [
+        "67edc70e-3c79-4947-8beb-10f5931f55de",
+        "195175f1-e1c6-4dab-90f4-0907ac0fdfc0",
+        "8f028dc7-9494-45db-94e2-42f01fb901f1",
+        "4be3b29d-9405-401a-a2aa-28747959e0bb",
+        "87a74035-98ba-4cb0-ae30-41e30dbf3373"
+      ]
+    },
+    {
+      "node_id": "0079",
+      "node_title": "Article 58",
+      "article_ids": [
+        "67edc70e-3c79-4947-8beb-10f5931f55de",
+        "195175f1-e1c6-4dab-90f4-0907ac0fdfc0",
+        "8f028dc7-9494-45db-94e2-42f01fb901f1",
+        "4be3b29d-9405-401a-a2aa-28747959e0bb",
+        "87a74035-98ba-4cb0-ae30-41e30dbf3373"
+      ]
+    },
+    {
+      "node_id": "0080",
+      "node_title": "Article 58",
+      "article_ids": [
+        "67edc70e-3c79-4947-8beb-10f5931f55de",
+        "195175f1-e1c6-4dab-90f4-0907ac0fdfc0",
+        "8f028dc7-9494-45db-94e2-42f01fb901f1",
+        "4be3b29d-9405-401a-a2aa-28747959e0bb",
+        "87a74035-98ba-4cb0-ae30-41e30dbf3373"
+      ]
+    },
+    {
+      "node_id": "0081",
+      "node_title": "Article 58",
+      "article_ids": [
+        "67edc70e-3c79-4947-8beb-10f5931f55de",
+        "195175f1-e1c6-4dab-90f4-0907ac0fdfc0",
+        "8f028dc7-9494-45db-94e2-42f01fb901f1",
+        "4be3b29d-9405-401a-a2aa-28747959e0bb",
+        "87a74035-98ba-4cb0-ae30-41e30dbf3373"
+      ]
+    },
+    {
+      "node_id": "0082",
+      "node_title": "Article 58",
+      "article_ids": [
+        "67edc70e-3c79-4947-8beb-10f5931f55de",
+        "195175f1-e1c6-4dab-90f4-0907ac0fdfc0",
+        "8f028dc7-9494-45db-94e2-42f01fb901f1",
+        "4be3b29d-9405-401a-a2aa-28747959e0bb",
+        "87a74035-98ba-4cb0-ae30-41e30dbf3373"
+      ]
+    },
+    {
+      "node_id": "0083",
+      "node_title": "Article 59",
+      "article_ids": [
+        "bd649e71-2372-42e1-9b34-0caeac4ba4a1"
+      ]
+    },
+    {
+      "node_id": "0084",
+      "node_title": "Article 60",
+      "article_ids": [
+        "72097bef-45cd-4dd2-a666-441ca92f83a7"
+      ]
+    },
+    {
+      "node_id": "0085",
+      "node_title": "Article 61",
+      "article_ids": [
+        "de5fd71e-5644-48bd-b0fe-11930578c225"
+      ]
+    },
+    {
+      "node_id": "0086",
+      "node_title": "Article 62",
+      "article_ids": [
+        "0db91ef9-622a-42d9-8d17-7f450ef8a90b"
+      ]
+    },
+    {
+      "node_id": "0087",
+      "node_title": "Article 35",
+      "article_ids": [
+        "c735e30d-b140-4d39-98a4-1599ce6fde23",
+        "16dcdc27-69fb-4095-bdf5-a13d0ed0e041"
+      ]
+    },
+    {
+      "node_id": "0088",
+      "node_title": "Article 63",
+      "article_ids": [
+        "491f7a0b-b281-42af-8920-32024ad19ef1"
+      ]
+    },
+    {
+      "node_id": "0089",
+      "node_title": "Article 42",
+      "article_ids": [
+        "4161f0f8-fbcd-4a62-8e52-4fda77f10655",
+        "0a9453bb-79cd-460a-96f5-f5eee2a43a31"
+      ]
+    },
+    {
+      "node_id": "0090",
+      "node_title": "Article 64",
+      "article_ids": [
+        "6009b91c-df48-4eb0-96ab-2d61c4d18bc1"
+      ]
+    },
+    {
+      "node_id": "0091",
+      "node_title": "Article 45",
+      "article_ids": [
+        "6e9761cc-3164-463f-9821-0699458673d4",
+        "9d1ec06f-de4f-468d-b403-76211c707b80"
+      ]
+    },
+    {
+      "node_id": "0093",
+      "node_title": "Article 65",
+      "article_ids": [
+        "49d835d3-5c42-4e7d-93b5-89cf2b7a497c"
+      ]
+    },
+    {
+      "node_id": "0094",
+      "node_title": "Article 66",
+      "article_ids": [
+        "cdb66c15-e1f3-4811-847a-aade8846ee4b"
+      ]
+    },
+    {
+      "node_id": "0095",
+      "node_title": "Article 67",
+      "article_ids": [
+        "a563891c-6b4d-435f-83fb-bace3b897127"
+      ]
+    },
+    {
+      "node_id": "0096",
+      "node_title": "Article 68",
+      "article_ids": [
+        "4f6bbb1a-d343-4127-9ca8-b7b1ef12ba59"
+      ]
+    },
+    {
+      "node_id": "0097",
+      "node_title": "Article 69",
+      "article_ids": [
+        "d50da96a-2ca7-4de0-936b-e7a84ddc4fce"
+      ]
+    },
+    {
+      "node_id": "0098",
+      "node_title": "Article 70",
+      "article_ids": [
+        "8ee944b5-c0a8-4233-be8b-e47d5eaa7d18"
+      ]
+    },
+    {
+      "node_id": "0099",
+      "node_title": "Article 71",
+      "article_ids": [
+        "28732cff-b190-431a-be74-ef9bae26d2d8"
+      ]
+    },
+    {
+      "node_id": "0100",
+      "node_title": "Article 72",
+      "article_ids": [
+        "e4478cc6-7caa-4d47-9b10-d5e859d02cb9"
+      ]
+    },
+    {
+      "node_id": "0101",
+      "node_title": "Article 73",
+      "article_ids": [
+        "2c03d629-2614-4530-ad63-7d34bc078f48",
+        "aed124ee-f3ec-4b9a-b39b-def84cea51fc",
+        "8eb9471c-cab8-46c4-9da1-c3c1d7819833"
+      ]
+    },
+    {
+      "node_id": "0103",
+      "node_title": "Article 73",
+      "article_ids": [
+        "2c03d629-2614-4530-ad63-7d34bc078f48",
+        "aed124ee-f3ec-4b9a-b39b-def84cea51fc",
+        "8eb9471c-cab8-46c4-9da1-c3c1d7819833"
+      ]
+    },
+    {
+      "node_id": "0104",
+      "node_title": "Article 74",
+      "article_ids": [
+        "f609f0ed-575b-4a76-85f1-e224bc7f038a"
+      ]
+    },
+    {
+      "node_id": "0105",
+      "node_title": "Article 75",
+      "article_ids": [
+        "56824f21-842a-455d-bffa-37b74b666ad3"
+      ]
+    },
+    {
+      "node_id": "0106",
+      "node_title": "Article 76",
+      "article_ids": [
+        "71550185-c3b7-417c-9466-5838b4858b30"
+      ]
+    },
+    {
+      "node_id": "0107",
+      "node_title": "Article 77",
+      "article_ids": [
+        "e0475d38-845a-4716-84da-0498fecaabbf"
+      ]
+    },
+    {
+      "node_id": "0108",
+      "node_title": "Article 78",
+      "article_ids": [
+        "4e11ba9c-1bd2-405b-a6d1-c1d667d959e9"
+      ]
+    },
+    {
+      "node_id": "0109",
+      "node_title": "Article 79",
+      "article_ids": [
+        "eb16d81d-9889-4978-89b9-2116c41bba08"
+      ]
+    },
+    {
+      "node_id": "0110",
+      "node_title": "Article 80",
+      "article_ids": [
+        "1529c9ff-f34d-4323-8841-044107d4ac1d"
+      ]
+    },
+    {
+      "node_id": "0111",
+      "node_title": "Article 81",
+      "article_ids": [
+        "78446d8c-9490-4c27-9f0a-53118edf2c30"
+      ]
+    },
+    {
+      "node_id": "0112",
+      "node_title": "Article 82",
+      "article_ids": [
+        "832c1a0e-4ea6-4371-9d36-62dcd131d541"
+      ]
+    },
+    {
+      "node_id": "0113",
+      "node_title": "Article 83",
+      "article_ids": [
+        "feb511c2-744a-4ce3-8981-5073d55fec1a"
+      ]
+    },
+    {
+      "node_id": "0114",
+      "node_title": "Article 84",
+      "article_ids": [
+        "3de9ac28-6d9a-469c-8e69-b8e6448b89f3"
+      ]
+    },
+    {
+      "node_id": "0115",
+      "node_title": "Article 85",
+      "article_ids": [
+        "0b7fb1d4-958f-4f9a-8148-5552d156c14f"
+      ]
+    },
+    {
+      "node_id": "0116",
+      "node_title": "Article 86",
+      "article_ids": [
+        "44dcf056-f8c4-455a-b51c-344806be8d02",
+        "4b96267b-0394-46dd-bca2-45aab8407569"
+      ]
+    },
+    {
+      "node_id": "0117",
+      "node_title": "Article 87",
+      "article_ids": [
+        "b60377f0-542a-4b88-a5c3-c3af49bf85e9"
+      ]
+    },
+    {
+      "node_id": "0118",
+      "node_title": "Article 88",
+      "article_ids": [
+        "9b72fbc7-c1e6-46fc-bbff-d4908b194932"
+      ]
+    },
+    {
+      "node_id": "0119",
+      "node_title": "Article 89",
+      "article_ids": [
+        "dd32973d-91f8-4249-a9fa-33f7adf31043"
+      ]
+    },
+    {
+      "node_id": "0120",
+      "node_title": "Article 90",
+      "article_ids": [
+        "157659f3-1225-4c70-952f-f5a9c0fffc24"
+      ]
+    },
+    {
+      "node_id": "0121",
+      "node_title": "Article 91",
+      "article_ids": [
+        "20791558-a622-408b-906a-ad6758129178"
+      ]
+    },
+    {
+      "node_id": "0122",
+      "node_title": "Article 92",
+      "article_ids": [
+        "7bd25585-4403-4885-86fd-134918edc7c8"
+      ]
+    },
+    {
+      "node_id": "0123",
+      "node_title": "Article 86",
+      "article_ids": [
+        "44dcf056-f8c4-455a-b51c-344806be8d02",
+        "4b96267b-0394-46dd-bca2-45aab8407569"
+      ]
+    },
+    {
+      "node_id": "0124",
+      "node_title": "Article 93",
+      "article_ids": [
+        "7d746a1f-0f19-45fb-8a11-f400f31beb58"
+      ]
+    },
+    {
+      "node_id": "0125",
+      "node_title": "Article 94",
+      "article_ids": [
+        "3c94f63f-9f19-49b1-865a-43d647194ac2"
+      ]
+    },
+    {
+      "node_id": "0126",
+      "node_title": "Article 95",
+      "article_ids": [
+        "30c1d2aa-4da1-403a-a2d6-f8aad162904c"
+      ]
+    },
+    {
+      "node_id": "0127",
+      "node_title": "Article 96",
+      "article_ids": [
+        "60787d34-7aaf-4eb0-b241-96a150ba4407"
+      ]
+    },
+    {
+      "node_id": "0128",
+      "node_title": "Article 97",
+      "article_ids": [
+        "359dbd7a-2563-48bc-befe-055f587411a0"
+      ]
+    },
+    {
+      "node_id": "0129",
+      "node_title": "Article 98",
+      "article_ids": [
+        "ab99ee83-300f-47d1-8935-06d39138e374"
+      ]
+    },
+    {
+      "node_id": "0130",
+      "node_title": "Article 99",
+      "article_ids": [
+        "25c51a69-86e3-4513-b282-9f2213080a91"
+      ]
+    },
+    {
+      "node_id": "0131",
+      "node_title": "Article 100",
+      "article_ids": [
+        "8198438c-0566-4799-8364-95920b5b1e46"
+      ]
+    },
+    {
+      "node_id": "0132",
+      "node_title": "Article 101",
+      "article_ids": [
+        "46978fa9-2f3f-4f02-ba50-72003e0d8e6c"
+      ]
+    },
+    {
+      "node_id": "0133",
+      "node_title": "Article 73",
+      "article_ids": [
+        "2c03d629-2614-4530-ad63-7d34bc078f48",
+        "aed124ee-f3ec-4b9a-b39b-def84cea51fc",
+        "8eb9471c-cab8-46c4-9da1-c3c1d7819833"
+      ]
+    },
+    {
+      "node_id": "0134",
+      "node_title": "Article 102",
+      "article_ids": [
+        "a725f05a-894c-43dc-955e-ad704056b057"
+      ]
+    },
+    {
+      "node_id": "0136",
+      "node_title": "Article 849",
+      "article_ids": [
+        "7ad5577d-0b9e-4746-a8ed-b699935f61f7"
+      ]
+    },
+    {
+      "node_id": "0137",
+      "node_title": "Article 103",
+      "article_ids": [
+        "b355f038-ff8b-45a5-a33b-ca2045e7d1b0",
+        "a9af68b5-8b4e-4723-9c2f-b0f3a31e9b0d"
+      ]
+    },
+    {
+      "node_id": "0138",
+      "node_title": "Article 104",
+      "article_ids": [
+        "3b7588a5-d529-4eaa-8b8a-6c91b06e3c65"
+      ]
+    },
+    {
+      "node_id": "0139",
+      "node_title": "Article 105",
+      "article_ids": [
+        "ffaedb37-386c-4790-ad01-4e726a8998b4"
+      ]
+    },
+    {
+      "node_id": "0140",
+      "node_title": "Article 106",
+      "article_ids": [
+        "eb92b214-ed3f-40da-8163-a23cf24d3317",
+        "7c2c63f4-626c-4815-b0f9-dea81571b3e3"
+      ]
+    },
+    {
+      "node_id": "0141",
+      "node_title": "Article 103",
+      "article_ids": [
+        "b355f038-ff8b-45a5-a33b-ca2045e7d1b0",
+        "a9af68b5-8b4e-4723-9c2f-b0f3a31e9b0d"
+      ]
+    },
+    {
+      "node_id": "0142",
+      "node_title": "Article 106",
+      "article_ids": [
+        "eb92b214-ed3f-40da-8163-a23cf24d3317",
+        "7c2c63f4-626c-4815-b0f9-dea81571b3e3"
+      ]
+    },
+    {
+      "node_id": "0143",
+      "node_title": "Article 107",
+      "article_ids": [
+        "dd778176-71ea-4849-820f-1af6f39ab34e"
+      ]
+    },
+    {
+      "node_id": "0144",
+      "node_title": "Article 108",
+      "article_ids": [
+        "a0e0b1ae-4104-48ad-8a5e-afaac13cf44c",
+        "47a3ba10-d223-4afa-a0a9-f5bc896c0290"
+      ]
+    },
+    {
+      "node_id": "0145",
+      "node_title": "Article 108",
+      "article_ids": [
+        "a0e0b1ae-4104-48ad-8a5e-afaac13cf44c",
+        "47a3ba10-d223-4afa-a0a9-f5bc896c0290"
+      ]
+    },
+    {
+      "node_id": "0146",
+      "node_title": "Article 109",
+      "article_ids": [
+        "69e5ab3a-a91d-4f57-a012-237b1f3762ec"
+      ]
+    },
+    {
+      "node_id": "0148",
+      "node_title": "Article 110",
+      "article_ids": [
+        "4f762c75-4f29-4dfd-ae46-deded990f5d3"
+      ]
+    },
+    {
+      "node_id": "0149",
+      "node_title": "Article 111",
+      "article_ids": [
+        "f12cf7f3-9c74-43e5-9618-ff68641fe317",
+        "29be752d-0e81-411e-b8aa-b6e425fdaef1"
+      ]
+    },
+    {
+      "node_id": "0151",
+      "node_title": "Article 2",
+      "article_ids": [
+        "4762dbec-bf13-4c0e-b680-1062545a17cc",
+        "ee06ba00-08b9-4b43-97a7-2e838adb5998",
+        "f86517d6-cc6a-4f31-80af-9776dd574164"
+      ]
+    },
+    {
+      "node_id": "0152",
+      "node_title": "Article 111",
+      "article_ids": [
+        "f12cf7f3-9c74-43e5-9618-ff68641fe317",
+        "29be752d-0e81-411e-b8aa-b6e425fdaef1"
+      ]
+    },
+    {
+      "node_id": "0153",
+      "node_title": "Article 112",
+      "article_ids": [
+        "7c54e7f5-0f8d-43af-b17d-ccb184ebc7a7"
+      ]
+    },
+    {
+      "node_id": "0154",
+      "node_title": "Article 113",
+      "article_ids": [
+        "e02400b3-f850-4a08-9769-2f17c8b00744",
+        "99e2cce7-ca59-4b68-b8eb-190137d92569"
+      ]
+    },
+    {
+      "node_id": "0155",
+      "node_title": "Article 113",
+      "article_ids": [
+        "e02400b3-f850-4a08-9769-2f17c8b00744",
+        "99e2cce7-ca59-4b68-b8eb-190137d92569"
+      ]
+    }
+  ],
+  "bundle_path": "backups/ohada_bundles/AUDCIF-2017.json",
+  "document_id": "1eed0158-6085-40a1-b142-acc8d3816401",
+  "document_title": "OHADA - Acte uniforme relatif au droit comptable et a l'information financiere (AUDCIF)"
+}

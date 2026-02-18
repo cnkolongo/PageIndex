@@ -1,0 +1,71 @@
+{
+  "slug": "AM-005-01-04-2010-2010",
+  "bundle_path": "backups/all_bundles/code/AM-005-01-04-2010-2010.json",
+  "document_id": "bc4d6713-31a1-419e-9e00-e2b67dc85cc8",
+  "document_title": "AM.005.01.04.2010",
+  "tree_json": {
+    "doc_name": "AM-005-01-04-2010-2010",
+    "structure": [
+      {
+        "title": "AM.005.01.04.2010",
+        "node_id": "0000",
+        "prefix_summary": "# AM.005.01.04.2010",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 2",
+            "node_id": "0001",
+            "summary": "###### Article 2\n\nCette d�claration doit are �tablie en quatre exemplaires sur\nun formulaire. de d�claration conforme au mod�le annex� au\npr�sent Arr�t�.\nDeux de ces exemplaires dat�s et sign�s doivent �tre\nexp�di�s � l'Inspecteur du Travail du ressort sous pli recommand� avec\naccus� de r�ception ou d�pos�s � ses bureaux contre accus� de r�ception et\ndans les m�mes conditions un de ces exemplaires dat�s et sign�s doit �tre\nadress� :� l'Office National de l'Emploi du ressort.\nLe quatri�me exemplaire est conserv� par le d�clarant pour\n�tre pr�sent�, aux Inspecteurs et Contr�leurs du Travail en ou de contr�le.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0002",
+            "summary": "###### Article 3\n\nLes employeurs peuvent se procurer les\nformulaires de d�clarations aupr�s des bureaux provinciaux de l'Office\nNational de l'Emploi et de l'Inspection du travail.",
+            "line_num": 18
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0003",
+            "summary": "###### Article 4\n\nLes infractions aux dispositions du\npr�sent Arr�t� sont punies des peines pr�vues � l'article 321 du Code du\ntravail.",
+            "line_num": 25
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0004",
+            "summary": "###### Article 5\n\nToutes les dispositions ant�rieures, contraires au pr�sent\nArm�, sont abrog�es.",
+            "line_num": 32
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0005",
+            "summary": "###### Article 6\n\nLe Secr�taire G�n�ral est charg� de l'ex�cution du pr�sent\nArr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 01 avril 2010\nMobutu Nzanga\nAnnexe\npdf\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 38
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "8a389410-7512-41ba-8f47-ed1fd38942c1"
+    ],
+    "0002": [
+      "ce125fb1-af06-4f84-a9d7-7efcdc3d7b0f"
+    ],
+    "0003": [
+      "7d3e18a3-5c2e-4fa3-a713-7442f25bc8f7"
+    ],
+    "0004": [
+      "7ff37cfe-efa3-46eb-9286-41be78c20cde"
+    ],
+    "0005": [
+      "440ab9f6-85ef-4eb1-9f10-a45a5600644f"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:26:36.497876",
+  "article_count": 5,
+  "generation_time_s": 0.014256954193115234
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "AM-07-06-1921-1921",
+  "bundle_path": "backups/all_bundles/code/AM-07-06-1921-1921.json",
+  "document_id": "431ae7b3-124b-4c60-a173-a9e66b00ea24",
+  "document_title": "AM.07.06.1921",
+  "tree_json": {
+    "doc_name": "AM-07-06-1921-1921",
+    "structure": [
+      {
+        "title": "AM.07.06.1921",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f985f0e4-0b45-4145-8775-4ec490769efc"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:22:05.981162",
+  "article_count": 1,
+  "generation_time_s": 0.002279996871948242
+}

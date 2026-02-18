@@ -1,0 +1,57 @@
+{
+  "slug": "AIM-15-08-2020-2020",
+  "bundle_path": "backups/all_bundles/code/AIM-15-08-2020-2020.json",
+  "document_id": "64316993-2ffa-4e37-95ea-dec9e4c97089",
+  "document_title": "AIM.15.08.2020",
+  "tree_json": {
+    "doc_name": "AIM-15-08-2020-2020",
+    "structure": [
+      {
+        "title": "AIM.15.08.2020",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 14
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "line_num": 301
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0004",
+            "line_num": 849
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "9d744a82-7e87-438c-aa90-707d505ba748"
+    ],
+    "0002": [
+      "692a530c-9ddf-4b26-9921-fc35cdb598ec"
+    ],
+    "0003": [
+      "864310ac-1dce-47e1-a3f9-fe8c5c9673ca"
+    ],
+    "0004": [
+      "5c901d83-a105-4dcb-a83e-483561267e30"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:04:32.852472",
+  "article_count": 4,
+  "generation_time_s": 0.01960921287536621
+}

@@ -1,0 +1,16 @@
+{
+  "global_total": 1299,
+  "total": 50,
+  "offset": 200,
+  "limit": 50,
+  "batch_index": null,
+  "batch_count": null,
+  "concurrency": 1,
+  "completed": 29,
+  "failed": 0,
+  "skipped": 21,
+  "failures": [],
+  "started_at": "2026-02-10T05:19:43.888635",
+  "finished_at": "2026-02-10T05:23:53.376458",
+  "last_updated": "2026-02-10T05:23:53.376405"
+}

@@ -1,0 +1,702 @@
+{
+  "slug": "A-30-09-2020-2020",
+  "bundle_path": "backups/all_bundles/code/A-30-09-2020-2020.json",
+  "document_id": "4cea2ff4-14b3-432f-900b-2486eb4881b7",
+  "document_title": "A.30.09.2020",
+  "tree_json": {
+    "doc_name": "A-30-09-2020-2020",
+    "doc_description": "This document, dated September 30, 2020, is an administrative decree outlining the internal organization, budgetary procedures, judicial calendar, and operational functions of the Court of Accounts (Cour des comptes) in the Democratic Republic of Congo.",
+    "structure": [
+      {
+        "title": "A.30.09.2020",
+        "node_id": "0000",
+        "prefix_summary": "# A.30.09.2020",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe Premier pr�sident\ninstitue, par une d�cision, une Unit� de gestion budg�taire qui se r�unit au\nplus tard le 25 avril pour l'�laboration du projet du budget de l'ann�e N+1.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nL'Unit� de gestion\nbudg�taire est compos�e de :\n- Rapporteur\ng�n�ral ;\n- Conseiller\nfinancier ;\n- Directeur des\nservices g�n�raux ;\n- Directeur des\n�tudes et planification ;\n- Directeur des\nressources humaines ;\n- Sous-\ngestionnaire des cr�dits\n- Contr�leur\nbudg�taire ;\n- Responsable de\nla cellule de gestion des projets et des march�s publics.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "The partial document outlines the budgetary planning process for a Court of Accounts. It specifies the internal departments that must submit their budget forecasts, sets deadlines for their submission and internal review (by April 10th and 20th), and details the subsequent examination and approval process by a budget commission and the court's Superior Council or its bureau, which has a 48-hour window for final adoption.",
+            "line_num": 33
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\nLe Premier pr�sident\ntransmet le budget de la Cour des comptes au Gouvernement au plus tard le 31\njuillet, en vue de son int�gration au budget g�n�ral.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "###### Article 14\n\nEn vue de la reddition\ndes comptes du Premier pr�sident de la Cour des comptes � la pl�ni�re des\nmagistrats, qui se tient le 31 mars, chaque responsable des services\nd�pensiers de la Cour des comptes est tenu de transmettre au plus tard le 10\nmars, les �tats de l'utilisation des cr�dits de son service. Un r�glement\nfinancier d�terminera le mode d'utilisation des fonds.",
+            "line_num": 60
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0006",
+            "summary": "###### Article 15\n\nL'Assembl�e pl�ni�re des\nMagistrats �voqu�e ci-haut est constitu�e des tous les membres de la Cour\ndes comptes. Elle ne peut valablement si�ger qu'� la majorit� simple de ses\nmembres.\nLorsque les circonstances\nl'exigent, ladite assembl�e peut se tenir par vid�oconf�rence.",
+            "line_num": 70
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0007",
+            "summary": "The partial document outlines the annual activity planning and reporting procedures for the chambers of the Court of Accounts. It specifies that each chamber must develop its annual activity program and submit it to the Court's Programs and Reports Committee by December 31 of the preceding year. It then details that the First President convenes a meeting in early January to adopt the Court's annual activity report by a simple majority vote, with the First President's vote serving as the tie-breaker. Finally, the First President issues an order to implement the approved annual activity program.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0008",
+            "summary": "This partial document outlines the procedural requirements for an annual report on irregularities or serious incidents discovered during audit missions. The main points covered are: the legal basis for the report (Constitution and Organic Law), the obligation for audit chambers to report findings to the First President by March 31st, the adoption of the final public report by the Committee on Reporting and Programs within seven days, and the transmission of the report by the First President to the specified authorities in the second half of February.",
+            "line_num": 98
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0009",
+            "summary": "###### Article 18\n\nConform�ment � l'article\n12 alin�a 7 point 15 de la Loi organique n�18/024 du 13 novembre 2018\nportant composition ,organisation et fonctionnement de la Cour des comptes,\noutre le cabinet, le Premier pr�sident de la Cour des comptes dispose d'un\nSecr�tariat compos� d'un Premier secr�taire et des Secr�taires charg�s de :\n- la r�daction et\nla reproduction des courriers ;\n- la r�ception et\nl'exp�dition des courriers ;\n-\nl'enregistrement, du classement et de l'archivage des documents.\nLes membres du cabinet du\nPremier pr�sident doivent justifier des connaissances �tendues, certaines et\nav�r�es, chacun dans son domaine sp�cifique.",
+            "line_num": 115
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0010",
+            "summary": "###### Article 19\n\nL'organisation et le\nfonctionnement des Secr�tariats du Premier pr�sident de la Cour des comptes,\ndu Procureur g�n�ral pr�s cette cour, des chambres et du Rapporteur g�n�ral\nsont fix�s par l'ordonnance du Premier pr�sident de la Cour des comptes.\nLe personnel du\nSecr�tariat du Procureur g�n�ral pr�s la Cour des comptes est nomm� par\nordonnance du Premier pr�sident de cette cour, sur proposition de ce\ndernier.\nLes assistants des\nmembres de la Cour des comptes sont nomm�s par l'ordonnance du Premier\npr�sident de la Cour des comptes sur proposition de ces derniers.",
+            "line_num": 133
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\nConform�ment � l'article\n3 de la Loi organique n�18/024 du 13 novembre 2018, la Cour des comptes est\nl'Institution sup�rieure de contr�le des finances et des biens publics en\nR�publique D�mocratique du Congo. Elle est une juridiction financi�re ayant\ncomp�tence sur toute l'�tendue du territoire national.\nElle comprend un si�ge et\nun parquet.",
+            "line_num": 148
+          },
+          {
+            "title": "Section 3 : Des",
+            "node_id": "0012",
+            "prefix_summary": "##### Section 3 : Des",
+            "line_num": 159,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\nPour tout d�placement du\nPremier pr�sident, � l'ext�rieur comme � l'int�rieur du pays, l'ordre de\nmission et l'autorisation de sortie lui sont d�livr�s par le Procureur\ng�n�ral et vice versa.\n\npr�sidents de chambre",
+                "line_num": 162
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "###### Article 21\n\nLes pr�sidents des\nchambres sont choisis parmi les Conseillers ma�tres ayant obtenu la\nmeilleure cotation. Toutefois si la cotation est la m�me, c'est l'anciennet�\nqui pr�vaut.",
+                "line_num": 172
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nApr�s r�ception du\nprogramme annuel d'activit�s, le Pr�sident de chambre r�partit les t�ches\naux membres de sa chambre.\nEn cas de mission, il\nd�signe par un ordre de mission le Magistrat rapporteur ou les membres de\nl'�quipe de contr�le.",
+                "line_num": 180
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nOutre le secr�tariat\nadministratif, le pr�sident de chambre dispose d'un secr�taire particulier,\nd'un chauffeur et d'une garde pour sa s�curit�.\nLes autres membres de la\nCour des comptes disposent d'un Secr�taire particulier et d'un chauffeur.",
+                "line_num": 190
+              }
+            ]
+          },
+          {
+            "title": "Section 4 : Du Procureur",
+            "node_id": "0017",
+            "prefix_summary": "##### Section 4 : Du Procureur",
+            "line_num": 199,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0018",
+                "summary": "The partial document covers procedural rules for training sessions within the Court of Accounts. The main points are: the preparation of the draft agenda by specific officials; the requirement for the session's president to submit both the draft agenda and the previous session's minutes for approval by present members; the voting procedure (simple majority with the president's tie-breaking vote); and the signing of the minutes by designated officials.",
+                "line_num": 202
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0019",
+                "summary": "###### Article 25\n\nAvant d'entrer en\nfonction, le Procureur g�n�ral pr�s la Cour des comptes est install�e au\ncours d'une audience pl�ni�re solennelle pr�sid�e par le Premier pr�sident\nde la Cour des comptes, avec le concours du Minist�re public.\nIl pr�te le serment pr�vu\npour les magistrats de la Cour des comptes.",
+                "line_num": 221
+              }
+            ]
+          },
+          {
+            "title": "Section 5 : Du",
+            "node_id": "0020",
+            "prefix_summary": "##### Section 5 : Du",
+            "line_num": 231,
+            "nodes": [
+              {
+                "title": "Article 26",
+                "node_id": "0021",
+                "summary": "###### Article 26\n\nOutre le Secr�tariat du\nParquet g�n�ral, le Procureur g�n�ral b�n�ficie des services administratifs\nde la Cour des comptes.\nCe Secr�tariat est dirig�\npar le Premier secr�taire et des Secr�taires charg�s de:\n- la r�daction et\nla reproduction des courriers ;\n- la r�ception et\nl'exp�dition des courriers ;\n-\nl'enregistrement, du classement et de l'archivage des documents.\nLe Procureur g�n�ral\ndispose aussi d'un Chauffeur, quatre gardes commises � sa s�curit�, deux\nmembres du protocole et deux plantons.\n\nRapporteur g�n�ral",
+                "line_num": 234
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0022",
+                "summary": "###### Article 27\n\nLe Rapporteur g�n�ral est\nd�sign� parmi les plus jeunes pr�sident des chambres.\nLes deux Rapporteurs\ng�n�raux adjoints sont choisis parmi les plus jeunes Conseillers ma�tres ou\nConseillers r�f�rendaires.",
+                "line_num": 254
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0023",
+                "summary": "###### Article 28\n\nLe Rapporteur g�n�ral de\nla Cour des comptes tient plume � l'audience.\nOutre le Secr�tariat\nadministratif, le Rapporteur g�n�ral dispose d'un Secr�taire particulier,\nd'un Chauffeur et d'une garde commise � sa s�curit�.",
+                "line_num": 263
+              }
+            ]
+          },
+          {
+            "title": "Section 6 : Du Greffier",
+            "node_id": "0024",
+            "prefix_summary": "##### Section 6 : Du Greffier",
+            "line_num": 272,
+            "nodes": [
+              {
+                "title": "Article 29",
+                "node_id": "0025",
+                "summary": "###### Article 29\n\nLes deux Rapporteurs\ng�n�raux adjoints sont charg�s, l'un des questions administratives et\nfinanci�res et l'autre des questions techniques. Une ordonnance du Premier\npr�sident consacre cette r�partition des t�ches.\n\nen chef et des Greffiers",
+                "line_num": 275
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0026",
+                "summary": "###### Article 3\n\nLa Cour des comptes\nrel�ve de l'Assembl�e nationale dans les mati�res ci-apr�s :\n- La nomination\ndes membres de la Cour des comptes par le Pr�sident de la R�publique, apr�s\navis de l'Assembl�e nationale ;\n- La promotion, la\nmise � la retraite, la d�mission, la rel�ve anticip�e de fonction, la\nr�vocation et, le cas �ch�ant, la r�habilitation des membres de la Cour des\ncomptes, sur proposition du Conseil sup�rieur de la Cour des comptes, apr�s\navis de l'Assembl�e nationale.",
+                "line_num": 285
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0027",
+                "summary": "The partial document outlines the role and responsibilities of the Chief Clerk (Greffier en chef) of the central registry of the Court of Accounts. The main points covered are the Chief Clerk's position under the authority of the General Rapporteur, their duty to supervise the entire registry and maintain order within it, and their task of distributing work to other registry heads.\n\nThe document then details a non-exhaustive list of the Chief Clerk's specific duties, which include: receiving accounts and documents, countersigning court rulings, preserving and issuing copies of official acts, registering cases brought before the court, tracking case files, maintaining records of deliberations and audits, drafting parts of rulings under direction, notifying parties of court decisions, serving as secretary for all court formations, recording proceedings, and drawing up required official acts.",
+                "line_num": 299
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0028",
+                "summary": "The partial document lists the various official registers maintained at the central registry of the Court of Accounts. These include registers for management accounts, management faults, appeals, appeals of management faults, retraction, revision, recusal, referral after cassation, oath-taking, as well as registers for opinions and conclusions, acts of the First President, fines, audit reports, pronouncements, and accountings.",
+                "line_num": 341
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0029",
+                "summary": "###### Article 32\n\nOutre le statut des\nagents des carri�res de services publics de l'Etat, le personnel technique\net administratif de la Cour des comptes est r�git par un r�glement\nd'administration particulier conform�ment � l'article 23 alin�a 4 de la Loi\norganique susvis�e.\nChapitre\n2 : Des missions de la Cour des comptes",
+                "line_num": 377
+              }
+            ]
+          },
+          {
+            "title": "Section 1 : Du",
+            "node_id": "0030",
+            "prefix_summary": "##### Section 1 : Du",
+            "line_num": 388,
+            "nodes": [
+              {
+                "title": "Article 33",
+                "node_id": "0031",
+                "summary": "###### Article 33\n\nLes missions de la Cour\ndes comptes sont pr�vues aux articles 24, 25, 26, 28, 29,\n30, 31, 34, 35 et 36 de\nLoi organique susvis�e.\nChapitre 3 : De\nl'organisation et du fonctionnement de la Cour des comptes\n\nfonctionnement de la Cour des comptes\nParagraphe 1 : Du Conseil\nsup�rieur de la Cour des comptes",
+                "line_num": 391
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0032",
+                "summary": "###### Article 34\n\nConform�ment � l'article\n52 de la Loi organique n�18/024 du 18 novembre 2018 susvis�e, le\nfonctionnement du Conseil sup�rieur de la Cour des comptes est fix� par son\nR�glement int�rieur.\nParagraphe 2 : Des\nformations d�lib�rantes\nA. De l'audience pl�ni�re\nsolennelle",
+                "line_num": 405
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0033",
+                "summary": "###### Article 35\n\nL'Audience pl�ni�re\nsolennelle regroupe l'ensemble des membres de la Cour des comptes et se\nr�unit sous la direction du Premier pr�sident.\nElle se r�unit pour\ntraiter des mati�res fix�es � l'article 69 de la Loi organique n�18/024 du\n13 novembre 2018.\nB. Chambres r�unies",
+                "line_num": 417
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0034",
+                "summary": "###### Article 36\n\nDans la premi�re\nquinzaine du mois de janvier de chaque ann�e, le Premier pr�sident de la\nCour des comptes prend une ordonnance instituant les chambres r�unies.\nLadite ordonnance reprend\nles noms de tous les pr�sidents des chambres y compris leurs suppl�ants.\nLa Cour des comptes,\ntoutes chambres r�unies ne peut si�ger qu'avec au moins sept de ses membres.\nToutefois, s'agissant de\nl'adoption du rapport de contr�le sur l'ex�cution des �dits et d�cisions\nbudg�taires, le pr�sident de la chambre de la province concern�e doit y\nprendre part.\nParagraphe 3 : Des\nformations consultatives\nDu Conseil de direction",
+                "line_num": 428
+              }
+            ]
+          },
+          {
+            "title": "Titre III : De la",
+            "node_id": "0035",
+            "prefix_summary": "#### Titre III : De la",
+            "line_num": 446,
+            "nodes": [
+              {
+                "title": "Article 37",
+                "node_id": "0036",
+                "summary": "###### Article 37\n\nLes d�cisions du Conseil\nde direction sont prises � la majorit� simple des voies des membres\npr�sents.\n\nproc�dure devant la Cour des comptes\nChapitre 1 : Du\ncontr�le juridictionnel\nParagraphe 1 : Du\njugement des comptes",
+                "line_num": 449
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0037",
+                "summary": "###### Article 38\n\nConform�ment aux articles\n91 alin�as 2 de la Loi organique portant composition, organisation et\nfonctionnement de la Cour des comptes et 33 du R�glement g�n�ral sur la\ncomptabilit� publique, les Comptables publics principaux assignataires\nd�posent leurs comptes de gestion � la Cour des comptes au plus tard le 31\nmars de l'ann�e qui suit celle se rapportant aux op�rations.\nLes comptes sont d�pos�s\nau greffe central.\nLe Greffier en chef en\nv�rifie l'�tat d'examen.",
+                "line_num": 462
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0038",
+                "summary": "###### Article 39\n\nConform�ment aux articles\n92 alin�a 1 de la Loi organique et 32 alin�as 2 et 3 du R�glement g�n�ral\nsur la Comptabilit� publique, le compte de gestion du Comptable public est\nen �tat d'examen lorsqu'il est :\n- �tabli dans la\nforme trac�e par les instructions du Ministre du pouvoir central ayant les\nfinances dans ses attributions ;\n- certifi� sinc�re\net v�ritable, dat� et sign� par le Comptable public titulaire du bureau\ncomptable ou par le commis d'office ;\n- appuy� des\npi�ces justificatives.",
+                "line_num": 476
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0039",
+                "summary": "###### Article 4\n\nLe si�ge de la Cour des\ncomptes est �tabli � Kinshasa. Toutefois, il peut �tre transf�r�,\nprovisoirement par l'arr�t� du Premier pr�sident en tout autre lieu de la\nR�publique D�mocratique du Congo, apr�s avis du Conseil de direction,\nlorsque les circonstances l'exigent.",
+                "line_num": 492
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0040",
+                "summary": "###### Article 40\n\nLe compte de gestion est\npr�par� est mis en �tat d'examen par le Comptable principal assignataire des\nrecettes ou des d�penses en fonction au 31 d�cembre de l'exercice concern�.",
+                "line_num": 501
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0041",
+                "summary": "###### Article 41\n\nLe contenu du compte de\ngestion est d�termin� par le R�glement g�n�ral sur la Comptabilit� publique.",
+                "line_num": 508
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0042",
+                "summary": "###### Article 42\n\nLe compte qui n'est pas\nen �tat d'examen est renvoy� au Comptable public principal pour\nr�gularisation dans un d�lai qui ne d�passe pas un mois, par le Greffier qui\nen informe le Procureur g�n�ral.\nCe d�lai commence �\ncourir � partir de la notification de la mise en demeure faite par le\nProcureur g�n�ral au comptable concern�.",
+                "line_num": 514
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0043",
+                "summary": "###### Article 43\n\nEn mati�re de jugement\ndes comptes, la saisine de la Cour des comptes s'op�re par le d�p�t des\ncomptes au Greffe central, contre accus� de r�ception.",
+                "line_num": 525
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0044",
+                "summary": "The partial document outlines the procedure for handling an account that is under review. It specifies that the Chief Registrar must register it in the general roll, place it in a case file, and record several details on that file: the general roll number, the number of bundles transmitted, the date of receipt at the Registry, the chamber to which the file is assigned, and the relevant financial periods, entity, organization, accounting unit, and account.\n\nIt then states that the Chamber Registrar must record the file in their intake register, note the specific roll number on the file folder, and forward it to the president of the relevant chamber.",
+                "line_num": 532
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0045",
+                "summary": "###### Article 45\n\nLes audiences de la\nchambre sont publiques, sous r�serve du respect de l'ordre public ou de\nbonnes moeurs, au cas contraire, le pr�sident de chambre ordonne le huis\nclos. Toutefois, la presse ne peut y acc�der que sur autorisation du\npr�sident de chambre.",
+                "line_num": 554
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0046",
+                "summary": "###### Article 46\n\nLe Magistrat rapporteur\nest responsable de la conduite de la mission dont il est charg�. Il est tenu\nd'informer p�riodiquement le pr�sident de chambre, de l'�tat d'avancement de\nses investigations.",
+                "line_num": 563
+              },
+              {
+                "title": "Article 48",
+                "node_id": "0047",
+                "summary": "###### Article 48\n\nLe Magistrat rapporteur\ndoit �tayer les constatations de son Rapport par des �l�ments probants et\ndes propositions motiv�es de suites � y r�server. Un Magistrat\ncontre-rapporteur peut �tre d�sign� par le pr�sident de chambre � cet effet.",
+                "line_num": 571
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0048",
+                "summary": "###### Article 49\n\nConform�ment � l'article\n107 de la Loi organique n�018/024 du 13 novembre 2018 portant composition,\norganisation et fonctionnement de la Cour des comptes, le pr�sident de\nchambre transmet, par l'entremise du Greffier, le rapport du Magistrat\nrapporteur et, le cas �ch�ant, celui du Magistrat contre-rapporteur au\nProcureur g�n�ral pour ses conclusions.\nLe Greffier appose sur la\nminute du rapport l'empreinte du timbre � Communication au Procureur g�n�ral\n� et transmet le dossier � ce dernier.",
+                "line_num": 579
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0049",
+                "summary": "###### Article 5\n\nConform�ment � l'article\n5 de la Loi organique n�18/024 du 13 novembre 2018, la Cour des comptes\njouit d'une autonomie administrative et financi�re. Elle dispose d'une\ndotation propre.\nDans l'exercice de ses\nattributions, elle n'est soumise qu'� l'autorit� de la loi.",
+                "line_num": 592
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0050",
+                "summary": "###### Article 50\n\nLe rapport � fin d'arr�t\nd�finitif et les conclusions du Procureur g�n�ral sont examin�s et d�lib�r�s\ndans les formes pr�vues aux articles 108 et 109 de la Loi organique\nn�018/024 du 13 novembre 2018 portant composition, organisation et\nfonctionnement de la Cour des comptes.",
+                "line_num": 602
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0051",
+                "summary": "###### Article 51\n\nChaque Comptable public\nprincipal assignataire en activit� ou ayant cess� ses fonctions doit\ncommuniquer son adresse et tout changement y relatif � la Cour des comptes.\nFaute de le faire, le\nProcureur g�n�ral le met en demeure.\nLa non-communication de\ncette adresse un mois apr�s la mise en demeure est assimil�e � la faute de\ngestion, conform�ment l'article 98 alin�a 4 de la Loi organique n�18/024 du\n13 novembre 2018.",
+                "line_num": 611
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0052",
+                "summary": "This partial document discusses procedures for adjudicating public accounts. It specifies that a primary public accountant can be relieved of personal financial responsibility if they present a valid requisition order from the Authorizing Officer for operations subject to a debit. In such cases, the Authorizing Officer's liability is examined according to established legal procedures. It also notes that if the Authorizing Officer is a high-level official mentioned in the law, the case is referred to the relevant political bodies. The excerpt ends by introducing a subsection on the judgment of de facto management.",
+                "line_num": 624
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0053",
+                "summary": "###### Article 53\n\nConform�ment � l'article\n121 de la Loi organique, la proc�dure de jugement pour gestion de fait ob�it\naux m�mes r�gles que celles applicables � la gestion du Comptable public\npatent.\nLe jugement pour gestion\nde fait rel�ve de la chambre des comptes.\nParagraphe 3 : De la\ndiscipline budg�taire et financi�re",
+                "line_num": 641
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0054",
+                "summary": "###### Article 54\n\nLa faute de gestion\nrel�ve de la chambre de discipline budg�taire et financi�re\nArticle\n55\nConform�ment � l'article\n98 alin�a 4 de la Loi organique susvis�e, toute entrave � l'action de la\nCour des comptes est assimil�e � une faute de gestion.\nL'entrave � l'action de\nla Cour des comptes est le fait de faire obstacle � l'exercice des fonctions\nde contr�le des Magistrats et/ou Agents de v�rification de ladite\njuridiction.",
+                "line_num": 653
+              },
+              {
+                "title": "Article 56",
+                "node_id": "0055",
+                "summary": "###### Article 56\n\nEn mati�re de discipline\nbudg�taire et financi�re, la saisine de la Cour des comptes est r�serv�e au\nProcureur g�n�ral pr�s cette cour, organe des poursuites. Ce dernier saisit\nla Cour des comptes par une d�cision de d�f�r�.",
+                "line_num": 668
+              },
+              {
+                "title": "Article 57",
+                "node_id": "0056",
+                "summary": "###### Article 57\n\nEn mati�re de discipline\nbudg�taire et financi�re, lorsque le Magistrat rapporteur estime qu'il n'y a\naucune charge � retenir et que telle est aussi l'opinion du Procureur\ng�n�ral, ce dernier proc�de au classement sans suite du dossier. Il en\ninforme la Cour comptes, l'autorit� dont d�pend la personne mise en cause\nainsi que cette derni�re.\nSi le Procureur g�n�ral\nest d'un avis contraire, il saisit directement la formation de jugement par\nune d�cision de renvoi.",
+                "line_num": 676
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0057",
+                "summary": "###### Article 58\n\nL'instruction et le\njugement de l'entrave � l'action de la Cour des comptes rel�vent de la\nchambre de discipline budg�taire et financi�re.",
+                "line_num": 689
+              },
+              {
+                "title": "Article 59",
+                "node_id": "0058",
+                "summary": "###### Article 59\n\nLes arr�ts d�finitifs de\nla Cour des comptes sont publi�s au Journal officiel et � son site web. Le\nRapporteur g�n�ral est tenu d'assurer cette publication.\nChapitre 2 : Du\ncontr�le de gestion",
+                "line_num": 696
+              }
+            ]
+          },
+          {
+            "title": "Titre II : De la",
+            "node_id": "0059",
+            "prefix_summary": "#### Titre II : De la",
+            "line_num": 705,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0060",
+                "summary": "The partial document covers the judicial calendar and ceremonial procedures of the Court of Accounts (Cour des comptes). It specifies the start and end dates of the judicial year and holidays, along with provisions for urgent sessions during the break. It details the solemn opening assembly and the ceremonial speeches given during it. The text then introduces the beginning of a section on the court's composition, missions, organization, and functioning, starting with Chapter 1 on its composition and the first section regarding its members.",
+                "line_num": 708
+              },
+              {
+                "title": "Article 60",
+                "node_id": "0061",
+                "summary": "###### Article 60\n\nLe fonctionnaire ou\nl'Agent de l'administration, du service, de l'entreprise ou de\nl'�tablissement public charg� de donner suite aux r�f�r�s et notes du\nPremier pr�sident de la Cour des comptes, vis� � l'article 152 de la Loi\norganique n�18/024 du 13 novembre 2018, exerce d'office la fonction de\nr�f�rent ou point focal de la cour pr�s l'entit� concern�e.",
+                "line_num": 736
+              },
+              {
+                "title": "Article 61",
+                "node_id": "0062",
+                "summary": "###### Article 61\n\nPour arr�ter un rapport\nsur les comptes et la gestion d'un organisme, la chambre si�ge comme\nformation de jugement, conform�ment aux dispositions de l'article 157 de la\nLoi organique n�18/024 du 13 novembre 2018 portant organisation et\nfonctionnement de la Cour des comptes.\nA cet effet, seront\nd'application les dispositions de l'article 82 de la Loi organique pr�cit�e,\nqui dispose ce qui suit : � La chambre si�ge avec un pr�sident de c�ans et\ndes Conseillers en pr�sence du Minist�re public. Elle est assist�e d'un\nGreffier�.",
+                "line_num": 746
+              },
+              {
+                "title": "Article 62",
+                "node_id": "0063",
+                "summary": "###### Article 62\n\nConform�ment aux\ndispositions de l'article 158 de la Loi organique n�18/024 du 13 novembre\n2018, le Procureur g�n�ral pr�s la Cour des comptes est tenu de d�f�rer\ndevant les autorit�s ou juridictions comp�tentes tout t�moin d�faillant qui,\nsans justifier d'un motif l�gitime d'excuse, ne compara�t pas, bien que cit�\nr�guli�rement, ou qui refuse de pr�ter serment ou de d�poser quand il en a\nl'obligation.",
+                "line_num": 760
+              },
+              {
+                "title": "Article 63",
+                "node_id": "0064",
+                "summary": "###### Article 63\n\nLes observations du\nMinist�re public sont requises avant l'adoption du rapport d�finitif du\ncontr�le de gestion par la chambre.",
+                "line_num": 771
+              },
+              {
+                "title": "Article 64",
+                "node_id": "0065",
+                "summary": "###### Article 64\n\nConform�ment � l'article\n175 alin�a 2 de la Loi organique n�18/024 du 13 novembre 2018, le\nrecouvrement de d�bets et amendes est suivi par le Minist�re public pr�s la\nCour des comptes.\nA cet effet, le Procureur\ng�n�ral transmet au Premier pr�sident au plus tard le 15 d�cembre, un\nrapport sur le recouvrement de ces droits.\nLes �l�ments de ce\nrapport doivent figurer dans le rapport annuel pr�vu par la Loi organique\nn�18/024 du 13 novembre 2018 portant organisation et fonctionnement de la\nCour des comptes.\nChapitre 3 : Des\nvoies de recours\nParagraphe 1 : De l'appel",
+                "line_num": 778
+              },
+              {
+                "title": "Article 65",
+                "node_id": "0066",
+                "summary": "###### Article 65\n\nLes arr�ts d�finitifs de\nla Cour des comptes sont susceptibles d'appel devant la formation\ninter-chambres, conform�ment � l'article 176 de la Loi organique. Il est\nsursis � l'ex�cution des arr�ts jusqu'� la d�cision sur l'appel.\nLe pr�sident de la\nformation inter-chambres fixe la date, l'heure et le jour de l'audience par\nune ordonnance.",
+                "line_num": 796
+              },
+              {
+                "title": "Article 66",
+                "node_id": "0067",
+                "summary": "###### Article 66\n\nLes pi�ces d'instruction\net l'exp�dition de l'arr�t dont appel sont transmises dans les dix jours du\nprononc� par le Greffier de la chambre qui a rendu l'arr�t au greffe de\nl�inter-chambre.\nChapitre 4 : Du\nd�lib�r� et du prononc�",
+                "line_num": 807
+              },
+              {
+                "title": "Article 67",
+                "node_id": "0068",
+                "summary": "###### Article 67\n\nLes d�lib�r�s sont\nsecrets et obligatoires.\nLe Magistrat rapporteur a\nune voix d�lib�rative.\nLes d�cisions sont prises\n� la majorit� simple des membres.\nEn cas d'�galit� des\nvoix, celle du pr�sident de c�ans est pr�pond�rante.\nEn toute mati�re, le\nprononc� intervient � la date indiqu�e par la composition.\nChapitre 5 : De\nl'exception d'inconstitutionnalit� soulev�e devant la Cour des comptes.",
+                "line_num": 817
+              },
+              {
+                "title": "Article 68",
+                "node_id": "0069",
+                "summary": "###### Article 68\n\nToute personne poursuivie\npeut invoquer l'exception d'inconstitutionnalit� dans une affaire qui la\nconcerne devant la Cour des comptes. Celle-ci sursoit � statuer et saisit\ntoutes affaires cessantes la Cour constitutionnelle.\nL'exception\nd'inconstitutionnalit� est soulev�e in limine litis et une seule fois. En\ncas de r�it�ration, la cour passe outre.\nChapitre 6 : Des\naudiences",
+                "line_num": 833
+              },
+              {
+                "title": "Section 2 : Du",
+                "node_id": "0070",
+                "prefix_summary": "##### Section 2 : Du",
+                "line_num": 846,
+                "nodes": [
+                  {
+                    "title": "Article 7",
+                    "node_id": "0071",
+                    "summary": "###### Article 7\n\nConform�ment aux articles\n8 et 292 de la Loi organique n�18/024 du 13 novembre 2018, sont membres de\nla Cour des comptes, les Magistrats du si�ge et du Parquet G�n�ral pr�s\ncette cour.\n\nPremier pr�sident",
+                    "line_num": 849
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Titre IV : Des",
+            "node_id": "0072",
+            "prefix_summary": "#### Titre IV : Des",
+            "line_num": 859,
+            "nodes": [
+              {
+                "title": "Article 70",
+                "node_id": "0073",
+                "summary": "###### Article 70\n\nLes audiences ordinaires\nde la Cour des comptes se tiennent le lundi, le mercredi et le vendredi �\npartir de 9 h 00� jusqu'� l'�puisement du r�le.\nEn mati�re de jugement\ndes comptes, les audiences se tiennent chaque lundi et Concernant la faute\nde gestion, elles le sont chaque mercredi.\nPour toutes les autres\nmati�res de la Cour des comptes, les audiences se tiennent le vendredi.\n\ndispositions finales",
+                "line_num": 862
+              },
+              {
+                "title": "Article 71",
+                "node_id": "0074",
+                "summary": "###### Article 71\n\nLe pr�sent Arr�t� entre\nen vigueur � la date de la signature.\nFait � Kinshasa, le 30\nseptembre 2020.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 876
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0075",
+                "summary": "This partial document outlines the roles, responsibilities, and term of office for the \"Premier président\" (First President) of the \"Cour des comptes\" (Court of Audit).\n\nThe main points covered are:\n1.  **General Role:** The First President is the head of the Court, ensuring its general management.\n2.  **Specific Duties:** These include presiding over court sessions and deliberations, ensuring proper procedure and order, managing debates and votes, and communicating with the court's internal bodies.\n3.  **Term of Office:** The mandate is for five years and is renewable only once. Upon completion, the individual returns to their previous rank within the Court.",
+                "line_num": 890
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0076",
+                "summary": "###### Article 9\n\nLe Premier pr�sident de\nla cour des comptes est l'Ordonnateur du budget de la dite cour. A ce titre,\nil engage, liquide et ordonnance toutes les d�penses de la Cour des comptes\n(si�ge et parquet).",
+                "line_num": 914
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "4f14dde8-1e95-4a80-b573-519b6c41c58e"
+    ],
+    "0002": [
+      "e86037d1-328b-4898-9b75-15d2915a4c62"
+    ],
+    "0003": [
+      "a1157fcd-17ad-4774-b19a-b491d0fa7f85"
+    ],
+    "0004": [
+      "9708c37b-14d8-4b67-a4a6-d29b17a42e2e"
+    ],
+    "0005": [
+      "3ee8ef64-2ae3-4131-87ae-86a9c5ad2870"
+    ],
+    "0006": [
+      "83050e27-ad88-45e1-9880-edb517a343e7"
+    ],
+    "0007": [
+      "5ff771ff-7b32-488b-bca4-78b4f8d5280b"
+    ],
+    "0008": [
+      "c7f8c1c5-cd92-429f-81a9-9d9653baaaad"
+    ],
+    "0009": [
+      "622de2b2-5567-47a5-b978-83975e1da865"
+    ],
+    "0010": [
+      "7a1ea938-7d11-4fa6-802b-46027f976362"
+    ],
+    "0011": [
+      "51c27829-aa53-414b-b083-729745feaa39"
+    ],
+    "0013": [
+      "18b981b6-32a3-4770-8966-c04cf264e3fe"
+    ],
+    "0014": [
+      "361ba3ea-eeed-4fef-8656-033f23ba6bad"
+    ],
+    "0015": [
+      "2a1d2880-c5e8-4928-9cc0-5d63830132dc"
+    ],
+    "0016": [
+      "85d58084-5698-42e6-8054-407dd9a638b7"
+    ],
+    "0018": [
+      "9dd5db04-a3a9-4367-8fc9-670a9030dd07"
+    ],
+    "0019": [
+      "61c7d76f-921c-4fda-ad12-befd120c78e5"
+    ],
+    "0021": [
+      "598373d8-628b-4e26-85e8-7ddb31336981"
+    ],
+    "0022": [
+      "ebfa0f2f-35bf-4265-9b8a-72bcd346b611"
+    ],
+    "0023": [
+      "1c9faa70-65a3-4ad3-897a-8aa26ee96138"
+    ],
+    "0025": [
+      "15e2dfc2-32cc-4479-a7f1-166baf0a7363"
+    ],
+    "0026": [
+      "366bc75e-204b-4e10-8c7f-fcc9e9d6bbcb"
+    ],
+    "0027": [
+      "19b53ea6-20b0-419e-b364-152b146786fc"
+    ],
+    "0028": [
+      "5fb79661-41b5-4219-95b6-51b3e43be1a0"
+    ],
+    "0029": [
+      "b46048db-572a-440b-b988-e8dc379dfc3c"
+    ],
+    "0031": [
+      "a38afb10-5969-4f52-a4dc-2d0c23f42b06"
+    ],
+    "0032": [
+      "4ee466fe-cd92-4664-a445-41a9ea2f1799"
+    ],
+    "0033": [
+      "17bf86b6-cdc5-458f-ae1e-47e7f4ea56ae"
+    ],
+    "0034": [
+      "a402e4c9-d454-4e41-aeb5-98f8b0c0dba8"
+    ],
+    "0036": [
+      "2cb64a10-6812-40c3-bdc0-767f4fc0f0d4"
+    ],
+    "0037": [
+      "47e8cd52-62d1-4095-843b-4f6b286bac7d"
+    ],
+    "0038": [
+      "642d5bc9-f8b5-48f3-bb38-994d54b82519"
+    ],
+    "0039": [
+      "f69333d4-68d6-47c6-a342-3f98c63df663"
+    ],
+    "0040": [
+      "7db1961c-2559-4606-b8b9-f4c9b25bb2f7"
+    ],
+    "0041": [
+      "9631edce-627c-4360-a8f7-fde39e4c1844"
+    ],
+    "0042": [
+      "767c19a6-8de2-4e96-a541-48c1246b1a41"
+    ],
+    "0043": [
+      "c9f83855-6546-4bf6-8001-115601ba22a2"
+    ],
+    "0044": [
+      "3394734c-2640-4deb-94f1-07cb95287faf"
+    ],
+    "0045": [
+      "ccc35398-15e1-4688-86b2-f23e1187adc9"
+    ],
+    "0046": [
+      "acbd3304-af4f-4bc5-be76-ff2ff1366c17"
+    ],
+    "0047": [
+      "6e2b7838-841e-4aae-b86e-bbfa371c9df7"
+    ],
+    "0048": [
+      "c66367e5-7e23-4403-8b1d-e2c88c2b592f"
+    ],
+    "0049": [
+      "e0f848d7-f802-4514-ad4e-69d5bc4a0053"
+    ],
+    "0050": [
+      "6734d620-a3f8-42c4-bd4b-288fa15a9078"
+    ],
+    "0051": [
+      "e127eff6-2bae-4507-aa4e-4d37a844a6e6"
+    ],
+    "0052": [
+      "0320a6bf-6392-48a4-8b27-72b57c7eb338"
+    ],
+    "0053": [
+      "b719cdfa-ec30-4692-8f8b-621123410aeb"
+    ],
+    "0054": [
+      "09174be4-80ff-494e-bf8d-bff492211c05"
+    ],
+    "0055": [
+      "f9306d77-8b6f-4abc-b193-febbc48b5108"
+    ],
+    "0056": [
+      "0890cb6b-5d1a-4d84-830c-8bee6600f14c"
+    ],
+    "0057": [
+      "aed24162-f040-4841-b135-4fd687c82fd9"
+    ],
+    "0058": [
+      "5e2e978f-5535-4af2-ab07-347c0d0958eb"
+    ],
+    "0060": [
+      "084ec1d9-1f7e-4696-a511-3192ebc304df"
+    ],
+    "0061": [
+      "8c204e64-2f92-4b98-9ff7-6be34e8d78a1"
+    ],
+    "0062": [
+      "14587ea2-6437-4469-bab2-c80ca6d4d8cc"
+    ],
+    "0063": [
+      "710ea482-e32a-43ec-a036-a969b03e6493"
+    ],
+    "0064": [
+      "9763ce4f-8af8-478b-a4d7-5491c69d5efe"
+    ],
+    "0065": [
+      "8162d90e-1426-460e-bf2f-e1af75dab49a"
+    ],
+    "0066": [
+      "07797478-cc09-42bd-b9cb-2ea991264ef7"
+    ],
+    "0067": [
+      "c92e43c3-93f0-4235-8f19-f78a8cf5c69c"
+    ],
+    "0068": [
+      "d17c7ef9-0048-4f51-9cfc-ff813553c6f6"
+    ],
+    "0069": [
+      "034bb2cc-08ad-4705-b2bd-10f0903fd557"
+    ],
+    "0071": [
+      "cbf3eca5-cef2-4eed-9a45-94143005308a"
+    ],
+    "0073": [
+      "8f19c87b-d61f-4e49-bb4d-60c85d59243e"
+    ],
+    "0074": [
+      "3988f8d3-a57c-4485-a59d-1c3a4f06bdb7"
+    ],
+    "0075": [
+      "af408b08-ad17-4f98-9fe1-c50535b1a48a"
+    ],
+    "0076": [
+      "7803d483-26b7-4166-81dd-f46258d09f14"
+    ]
+  },
+  "node_count": 77,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:42:15.312105",
+  "article_count": 67,
+  "generation_time_s": 25.361929178237915
+}

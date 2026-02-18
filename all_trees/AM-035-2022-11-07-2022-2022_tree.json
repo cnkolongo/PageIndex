@@ -1,0 +1,228 @@
+{
+  "slug": "AM-035-2022-11-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AM-035-2022-11-07-2022-2022.json",
+  "document_id": "2a706220-57d8-42e0-a7ef-4166adc2dce9",
+  "document_title": "AM.035.2022.11.07.2022",
+  "tree_json": {
+    "doc_name": "AM-035-2022-11-07-2022-2022",
+    "structure": [
+      {
+        "title": "AM.035.2022.11.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AM.035.2022.11.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� fixe,\nconform�ment � l'article 58 de la Loi n� 20/017, les conditions et modalit�s\nd'examen des d�clarations et d'octroi des certificats d'agr�ments des activit�s\ndes T�l�communications et Technologies de l'Information et de la Communication\nsoumises au r�gime de la d�claration.",
+            "line_num": 4
+          },
+          {
+            "title": "Titre V : De la dur�e, du",
+            "node_id": "0002",
+            "prefix_summary": "#### Titre V : De la dur�e, du",
+            "line_num": 13,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "This partial document covers the procedures and characteristics of an \"agreement certificate\" following an investigation or instruction process. The main points include:\n\n1.  **Certificate Issuance:** The regulatory authority issues the certificate, informs the Minister, and sends a copy to the Secretary General of PTNTIC for taxation.\n2.  **Payment Requirement:** The certificate is only delivered to the applicant after payment of the required fees to the Public Treasury.\n3.  **Certificate Characteristics:** The certificate is described as personal, non-transferable, and cannot be subject to subcontracting.\n4.  **Administrative Actions:** The text also mentions the renewal, modification, and withdrawal of the certificate.",
+                "line_num": 16
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "###### Article 11\n\nLa dur�e de validit� du\ncertificat d'agr�ment est de cinq (5) ans.\nCette dur�e court � dater de\nla d�livrance du titre au requ�rant, par l'Autorit� de r�gulation.",
+                "line_num": 31
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nLe renouvellement de la\nd�claration se fait sur demande du Titulaire douze (12) mois avant l'expiration\nde l'ancien titre.\nLa demande de renouvellement\nest adress�e � l'Autorit� de r�gulation et est accompagn�e d'un rapport complet\nsur l'exploitation de l'activit� d�clar�e.\nElle est analys�e par\nl'Autorit� de r�gulation, conform�ment aux articles 6 � 10 du pr�sent Arr�t�.\nUn exploitant dont le\ncertificat d�agr�ment a expir�, est en droit de poursuivre l�exploitation �\ncondition de fournir la preuve de la demande de renouvellement.",
+                "line_num": 39
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nLes modifications peuvent\n�tre apport�es aux certificats d'agr�ment, soit � l'initiative de l'Autorit� de\nr�gulation, soit � la demande du Titulaire.\nQuand la demande de\nmodification �mane du Titulaire, elle doit contenir les �l�ments suivants :\n- Une demande adress�e\n� l'Autorit� de r�gulation conform�ment � la proc�dure pr�vue par les articles 6\n� 10 du pr�sent Arr�t� ;\n- Un rapport complet sur l'�tat de l'activit� d�clar�e ;\n- Une note explicative\ndes raisons li�es � cette modification ;\n- Une preuve de paiement des frais d��tude.",
+                "line_num": 54
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nL'Autorit� de r�gulation\npeut, pour des raisons techniques ou pour se conformer � de nouvelles exigences,\nnotamment celles relevant de la s�curit� publique ou de la d�fense nationale, ou\nr�sultant d'un changement � l'�chelle internationale accept� par la R�publique\nD�mocratique du Congo, demander, � tout moment, aux Titulaires, d'apporter des\nmodifications aux conditions techniques de leurs certificats d'agr�ment sans\nfrais.",
+                "line_num": 70
+              }
+            ]
+          },
+          {
+            "title": "Titre VI : Des dispositions",
+            "node_id": "0008",
+            "prefix_summary": "#### Titre VI : Des dispositions",
+            "line_num": 81,
+            "nodes": [
+              {
+                "title": "Article 15",
+                "node_id": "0009",
+                "summary": "###### Article 15\n\nL'Autorit� de r�gulation se\nr�serve le droit de retrait du certificat d'agr�ment en cas de non-respect des\nobligations li�es � l'exploitation de l'activit� d�clar�e ou pour toute autre\nraison �voqu�e � l'article 14 du pr�sent Arr�t�, conform�ment � la\nr�glementation en vigueur.\n\np�nales et finales",
+                "line_num": 84
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0010",
+                "summary": "###### Article 16\n\nToute exploitation sans titre\nd'une activit� soumise au r�gime de d�claration est punie conform�ment aux\ndispositions l�gales et r�glementaires en vigueur.",
+                "line_num": 95
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0011",
+                "summary": "###### Article 17\n\nToutes les dispositions\nant�rieures contraires au pr�sent Arr�t� sont abrog�es.",
+                "line_num": 102
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0012",
+                "summary": "###### Article 18\n\nLe pr�sident du Coll�ge de\nl�ARPTC ainsi que le Secr�taire g�n�ral aux Postes, T�l�communications et\nNouvelles Technologies de l'Information et de la Communication sont charg�s,\nchacun en ce qui le concerne, de l'ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa, le 11\njuillet 2022.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 108
+              }
+            ]
+          },
+          {
+            "title": "Titre II : Activit�s soumises",
+            "node_id": "0013",
+            "prefix_summary": "#### Titre II : Activit�s soumises",
+            "line_num": 125,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "The partial document defines key terms and acronyms related to telecommunications and ICT regulation in the Democratic Republic of the Congo. It establishes the regulatory authority (ARPTC), explains the concept of a \"declaration\" as a notification procedure, and provides definitions for terms like \"requérant\" (applicant), \"titulaire\" (license holder), and relevant laws and organizations (OHADA, RCCM). The text serves as an article of definitions within a legal order or decree.",
+                "line_num": 128
+              }
+            ]
+          },
+          {
+            "title": "Titre III : De la",
+            "node_id": "0015",
+            "prefix_summary": "#### Titre III : De la",
+            "line_num": 164,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0016",
+                "summary": "This partial document outlines the types of telecommunications and ICT networks and services that require prior declaration to the Regulatory Authority. It lists seven specific categories, including non-radio networks, internal networks, certain radio stations, community internet centers, cybercafés, value-added services, and private surveillance systems. It also states that the Authority acknowledges declarations by issuing an approval certificate and informs the Minister. The text ends by mentioning the preparation of the declaration file.",
+                "line_num": 167
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0017",
+                "summary": "###### Article 4\n\nToute personne d�sirant\nexploiter un r�seau et/ou fournir un service des t�l�communications et\ntechnologies de l'information et de la communication soumis au r�gime de\nd�claration doit saisir, � cette fin, l'Autorit� de r�gulation.",
+                "line_num": 197
+              }
+            ]
+          },
+          {
+            "title": "Titre IV : De la proc�dure",
+            "node_id": "0018",
+            "prefix_summary": "#### Titre IV : De la proc�dure",
+            "line_num": 205,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0019",
+                "summary": "This partial document outlines the additional requirements for a legal entity (personne morale) applying for a telecommunications/ICT network or service provider license in the Democratic Republic of the Congo. It specifies that the applicant must be properly incorporated under OHADA forms and submit a declaration file to the Regulatory Authority. The required documents listed are: a declaration form, a notarized copy of the statutes and the commercial register (RCCM), detailed technical documentation of equipment, and proof of financial capacity certified by a bank headquartered in the DRC.",
+                "line_num": 208
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0020",
+                "summary": "###### Article 6\n\nLe dossier de la d�claration\nest adress� � l'Autorit� de r�gulation en deux exemplaires.\nLa d�claration est r�dig�e en\nfran�ais et d�pos�e aupr�s de l'Autorit� de r�gulation contre accus� de\nr�ception. Elle peut �tre �galement envoy�e par courrier postal.\nL�instruction d�une\nd�claration est subordonn�e au paiement des frais d��tudes du dossier dont le\ntaux est fix� par un Arr�t� du Ministre.",
+                "line_num": 231
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0021",
+                "summary": "###### Article 7\n\nSeul le dossier r�guli�rement\nconstitu� conform�ment aux articles 5 et 6 du pr�sent Arr�t� sera examin�.\nA dater de la r�ception de la\nd�claration, l'Autorit� de r�gulation statue dans un d�lai ne d�passant pas dix\njours calendaires.\nPendant l'instruction, le\nrequ�rant peut �tre invit� � apporter des pr�cisions ou des pi�ces\ncompl�mentaires et n�cessaires � l'�tude de son dossier. A la fin de\nl'instruction, une suite motiv�e sur la d�claration est notifi�e au requ�rant.",
+                "line_num": 243
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0022",
+                "summary": "###### Article 8\n\nLe certificat d'agr�ment\ncontient les renseignements suivants quant au requ�rant :\n- L'identit� compl�te ;\n- Le domicile ou le si�ge social ;\n- Les sp�cifications\ntechniques du r�seau ou service agr��.",
+                "line_num": 256
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0023",
+                "summary": "###### Article 9\n\nLe refus �ventuel est motiv�\net notifi� au requ�rant par l'Autorit� de r�gulation.\nLe requ�rant peut\nr�introduire un dossier de d�claration r�vis� apr�s les modifications\nn�cessaires. Ce dossier n'est pas assujetti au paiement des frais d'instruction\ndu dossier.\nApr�s deux refus, le\nrequ�rant est tenu de d�poser un nouveau dossier de d�claration moyennant\npaiement des frais d��tude.",
+                "line_num": 266
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "c66fa9f0-972c-494f-8ea9-a241b0252133"
+    ],
+    "0003": [
+      "380e1e70-1877-4564-a41f-9ea7fe751a96"
+    ],
+    "0004": [
+      "4adb625e-b2ea-4838-93b3-7db1cf6eb33c"
+    ],
+    "0005": [
+      "f12b8b97-eca2-421d-a95c-a71a01d97dff"
+    ],
+    "0006": [
+      "fe5ecce7-44d9-49bf-b8e9-65c58b7ecee0"
+    ],
+    "0007": [
+      "8891e15e-aec9-48ae-b353-7bcef2e6c84e"
+    ],
+    "0009": [
+      "238227ed-8400-49a9-81bb-3ca0d95a6764"
+    ],
+    "0010": [
+      "0abd14ec-b7d9-4d81-8383-6aba9fdcea93"
+    ],
+    "0011": [
+      "869d53fc-bee1-4ce0-96fb-a836583b1362"
+    ],
+    "0012": [
+      "a6a15b10-eeee-4f9c-a865-62e61fc0ec45"
+    ],
+    "0014": [
+      "543ba173-3195-4bfc-92e9-9a727b31dcae"
+    ],
+    "0016": [
+      "a576e110-9fb5-49b1-93f8-2b8a9dc6faf5"
+    ],
+    "0017": [
+      "77cc50f4-a4b3-4c6b-944f-14c17c92f67d"
+    ],
+    "0019": [
+      "1a273b17-72a6-48ac-8f47-9a6eeaf11b81"
+    ],
+    "0020": [
+      "79962b8f-41cb-44f5-b6e5-bbdc86cb0c4d"
+    ],
+    "0021": [
+      "fe081fc1-30b5-4649-87c6-2522962e0a71"
+    ],
+    "0022": [
+      "6993b85c-3921-4ce0-a267-0f45c7c6d103"
+    ],
+    "0023": [
+      "fbef85ce-94c4-4f2e-8702-637e72bb7dcc"
+    ]
+  },
+  "node_count": 24,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:26:46.162711",
+  "article_count": 18,
+  "generation_time_s": 9.646648168563843
+}

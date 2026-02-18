@@ -1,0 +1,80 @@
+{
+  "slug": "AM-221-16-06-2011-prenoms-2011",
+  "bundle_path": "backups/all_bundles/code/AM-221-16-06-2011-prenoms-2011.json",
+  "document_id": "30922ab5-ccca-408c-b6b7-9808da591327",
+  "document_title": "AM.221.16.06.2011.prenoms",
+  "tree_json": {
+    "doc_name": "AM-221-16-06-2011-prenoms-2011",
+    "structure": [
+      {
+        "title": "AM.221.16.06.2011.prenoms",
+        "node_id": "0000",
+        "prefix_summary": "# AM.221.16.06.2011.prenoms",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 2",
+            "node_id": "0001",
+            "summary": "###### Article 2\n\nLes �l�ments du nom comprennent le nom, le post-nom et\nle\npr�nom.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0002",
+            "summary": "###### Article 3\n\nLe nom et le post-nom doivent �tre puis�s dans le patrimoine culturel congolais.\nIls ne\npeuvent en aucun cas �tre contraire aux bonnes m�urs ni rev�tir un\ncaract�re injurieux, humiliant ou\nprovocateur.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0003",
+            "summary": "###### Article 4\n\n: Le patrimoine\nculturel congolais �voqu� � l'article 58 du Code de la Famille tient\ncompte, pour ce qui est des pr�noms, de la\nla�cit� de ('Etat, de La libert� de\nreligion et de la diversit� culturelle, proclam�es aux articles 1 er,\n22 alin�a ler et 46 alin�a 3 de la Constitution.",
+            "line_num": 20
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0004",
+            "summary": "###### Article 5\n\n: Les pr�noms peuvent �tre puis�s aussi bien dans la culture du pays que dans le\nchristianisme, l'islam ou toute autre\nconfession l�galement reconnue sur le territoire national.\nIls ne doivent pas �tre contraires aux bonnes m�urs ni rev�tir\nun caract�re injurieux, humiliant ou provocateur.",
+            "line_num": 30
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0005",
+            "summary": "###### Article 6\n\n: Le Secr�taire G�n�ral � la Justice est charg� de l'ex�cution du pr�sent arr�t�\nqui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 16 juin 2011\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 39
+          },
+          {
+            "title": "Article l",
+            "node_id": "0006",
+            "summary": "###### Article l\n\nVu\nl'Ordonnance n� 10/025 du 19 f�vrier 2010 portant nomination des Vice-Premiers\nMinistres, des Ministres et des Vice-Ministres;\nVu le\nd�cret n� PM/008/95 du 10 mars 1995 portant cr�ation de la carte nationale\nd'identit�, sp�cialement en son article 4, point 1;\nVu l'urgence et La n�cessit�\nARRETE\nArticle\n1er: Conform�ment � l'article 56 de La loi n� 87-010 du 1er ao�t 1987 portant Code\nde la Famille,\ntout congolais est d�sign� par un nom compos� d'un ou de\nplusieurs �l�ments qui servent �\nl'identifier.",
+            "line_num": 51
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "0cafaca3-25b6-4692-b02e-50fef268146a"
+    ],
+    "0002": [
+      "89301ee5-8a88-4f81-b045-ed22d5d1419e"
+    ],
+    "0003": [
+      "84873305-cc2b-4e15-b612-49d94526f6fa"
+    ],
+    "0004": [
+      "f8390b30-59b5-4c8f-ae11-79ec5c7374d5"
+    ],
+    "0005": [
+      "f4d43f2e-bb46-44a0-9624-be2609581ccf"
+    ],
+    "0006": [
+      "6c659635-ed72-4ba8-bc20-b41b796161db"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:45:39.291390",
+  "article_count": 6,
+  "generation_time_s": 0.020756959915161133
+}

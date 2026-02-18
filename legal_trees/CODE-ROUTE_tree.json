@@ -1,0 +1,1798 @@
+{
+  "tree": {
+    "doc_name": "CODE-ROUTE",
+    "doc_description": "This document is the 1978 Zairian Highway Code, detailing comprehensive traffic regulations, vehicle registration, driver licensing, road signage, and specific legal procedures for vehicle immobilization, impoundment, and removal from circulation.",
+    "structure": [
+      {
+        "title": "Code de la route",
+        "node_id": "0000",
+        "prefix_summary": "# Code de la route",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nDROIT PENAL - ROULAGE\nCode de la route\nLOI 78-022 du 30 ao�t 1978 portant nouveau Code de la\nroute.",
+            "line_num": 4
+          },
+          {
+            "title": "TITRE VI",
+            "node_id": "0002",
+            "prefix_summary": "#### TITRE VI",
+            "line_num": 12,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "###### Article S10\n\nNUM�RO D'IMMATRICULATION, SIGNE DISTINCTIF ET MARQUES",
+                "line_num": 15
+              },
+              {
+                "title": "Article S100",
+                "node_id": "0004",
+                "summary": "This partial document covers the legal procedures for the immobilization (impounding) of vehicles. The main points are the conditions for lifting the immobilization, the authority responsible for doing so, the conversion to a full impoundment if the initial infraction is not resolved within 48 hours, permissions for limited vehicle movement after the infraction ceases, and a special restriction on immobilizing vehicles carrying perishable goods.",
+                "line_num": 20
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0005",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 51,
+            "nodes": [
+              {
+                "title": "Article S101",
+                "node_id": "0006",
+                "summary": "This partial document covers legal provisions regarding the impoundment (\"mise en fourrière\") of vehicles. The main points include:\n\n1.  **Definition and Authority:** Defines impoundment as the transfer of a vehicle to a designated holding area at the owner's expense, ordered by a judicial police officer.\n2.  **Grounds for Impoundment:** Lists specific situations justifying impoundment, such as illegal parking obstructing traffic or access, abandonment of a vehicle for 15+ days, failure to comply with mandatory technical inspections, or operating a public transport vehicle without authorization.\n3.  **Procedure and Notification:** Describes the process where a ticketing agent refers the matter to a judicial police officer. It outlines the requirement for a formal written injunction to the owner (sent via registered mail) in certain cases, though this can be waived for urgency and replaced with an oral order.\n4.  **Right to Contest:** States that affected parties can challenge the impoundment decision before the competent judicial authority, which must confirm or lift the measure within five days.\n5.  **Logistics and Costs:** Details how the vehicle is to be moved to the impound lot, stipulates that owners are responsible for all towing and impoundment fees (which become public revenue if public resources are used), and notes that rates are set by a financial authority based on vehicle category.\n6.  **Execution and Exceptions:** Specifies that once the transfer operation has begun, it cannot be interrupted. It also allows for an exception where the vehicle may be left in the owner's custody if they reside locally, provided the vehicle's registration document is confiscated.",
+                "line_num": 54
+              },
+              {
+                "title": "Article S102",
+                "node_id": "0007",
+                "summary": "This partial document outlines the legal procedures for the impoundment (\"mise en fourrière\") of vehicles. The main points covered are:\n\n*   The process for notifying judicial authorities and the vehicle owner about an impoundment.\n*   The conditions and authorities responsible for releasing a vehicle from impound (\"mainlevée\").\n*   Procedures for temporary release for repairs.\n*   Conditions for the final release, including payment of costs.\n*   Specific rules for vehicles deemed unsafe, requiring repairs before release.\n*   The process for declaring a vehicle abandoned after 45 days (or 10 days for low-value, unsafe vehicles) and its subsequent destruction.\n*   The allocation of costs for towing, storage, and disposal, and the handling of any proceeds from sale.",
+                "line_num": 127
+              },
+              {
+                "title": "Article S103",
+                "node_id": "0008",
+                "summary": "This partial document covers legal and administrative procedures related to vehicle impoundment, demolition, and financial liabilities. The main points include:\n\n1.  The state's acquisition of proceeds from vehicle sales after a two-year claim period.\n2.  The owner's liability for any shortfall if sale proceeds don't cover administrative costs.\n3.  The public authority's non-liability for damages to vehicles in unsecured impound lots.\n4.  The establishment of a standard contract for public entities to hire companies for vehicle demolition.\n5.  Procedures for impounding a vehicle used in an offense if the perpetrator cannot provide a local address, job, or financial guarantee, including a required judicial decision within five days and the charging of resulting costs to the offender.",
+                "line_num": 198
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0009",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 230,
+            "nodes": [
+              {
+                "title": "Article S104",
+                "node_id": "0010",
+                "summary": "This partial document outlines the legal procedure for the definitive removal of a vehicle from circulation due to severe deterioration. The main points covered are:\n\n1.  **Grounds for Removal:** An expert report finding the vehicle is so dilapidated that its operation would seriously compromise user safety.\n2.  **Administrative Action:** The competent administrative authority can order the vehicle's permanent withdrawal from traffic.\n3.  **Owner's Right to Appeal:** The owner has the right to request a counter-expertise (a second expert opinion).\n4.  **Consequences of Definitive Removal:**\n    *   The vehicle is returned to its owner for the purpose of destruction.\n    *   The owner must pay the vehicle impound (fourrière) fees.\n    *   The vehicle registration document (\"carte rose\") is seized by the administration and cancelled.",
+                "line_num": 233
+              },
+              {
+                "title": "Article S105",
+                "node_id": "0011",
+                "summary": "###### Article S105\n\nENTREE  EN VIGUEUR\nArt. 157. - Le pr�sent Code de la Route entre en vigueur\nle 25 juillet 1979.",
+                "line_num": 247
+              },
+              {
+                "title": "Article S106",
+                "node_id": "0012",
+                "summary": "###### Article S106\n\nANNEXES AU LIVRE PREMIER",
+                "line_num": 254
+              },
+              {
+                "title": "Article S107",
+                "node_id": "0013",
+                "summary": "###### Article S107\n\nANNEXE I  CONDITIONS TECHNIOUES RELATIVES AUX AUTOMOBILES ET",
+                "line_num": 259
+              },
+              {
+                "title": "Article S108",
+                "node_id": "0014",
+                "summary": "###### Article S108\n\nAUX REMOROUES ANNEXE  II PERMIS NATIONAL DE CONDUIRE",
+                "line_num": 264
+              },
+              {
+                "title": "Article S109",
+                "node_id": "0015",
+                "summary": "###### Article S109\n\nANNEXES AU LIVRE II\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 269
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0016",
+                "summary": "###### Article S11\n\nD'IDENTIFICATION DES AUTOMOBILES ET DES REMORQUES",
+                "line_num": 280
+              }
+            ]
+          },
+          {
+            "title": "TITRE VII",
+            "node_id": "0017",
+            "prefix_summary": "#### TITRE VII",
+            "line_num": 285,
+            "nodes": [
+              {
+                "title": "Article S12",
+                "node_id": "0018",
+                "summary": "###### Article S12\n\nDES PERMIS DE CONDUIRE",
+                "line_num": 288
+              }
+            ]
+          },
+          {
+            "title": "LIVRE II",
+            "node_id": "0019",
+            "prefix_summary": "### LIVRE II",
+            "line_num": 293,
+            "nodes": [
+              {
+                "title": "Article S13",
+                "node_id": "0020",
+                "summary": "###### Article S13\n\nDE LA SIGNALISATION ROUTI�RE\nCHAPITRE I er SIGNAUX ROUTIERS",
+                "line_num": 296
+              },
+              {
+                "title": "CHAPITRE II",
+                "node_id": "0021",
+                "prefix_summary": "#### CHAPITRE II",
+                "line_num": 302,
+                "nodes": [
+                  {
+                    "title": "Article S14",
+                    "node_id": "0022",
+                    "summary": "###### Article S14\n\nSIGNAUX LUMINEUX DE CIRCULATION",
+                    "line_num": 305
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE III",
+                "node_id": "0023",
+                "prefix_summary": "#### CHAPITRE III",
+                "line_num": 310,
+                "nodes": [
+                  {
+                    "title": "Article S15",
+                    "node_id": "0024",
+                    "summary": "###### Article S15\n\nMARQUES ROUTI�RES",
+                    "line_num": 313
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IV",
+                "node_id": "0025",
+                "prefix_summary": "#### CHAPITRE IV",
+                "line_num": 318,
+                "nodes": [
+                  {
+                    "title": "Article S16",
+                    "node_id": "0026",
+                    "summary": "###### Article S16\n\nDIVERS",
+                    "line_num": 321
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LIVRE III",
+            "node_id": "0027",
+            "prefix_summary": "### LIVRE III",
+            "line_num": 326,
+            "nodes": [
+              {
+                "title": "Article S17",
+                "node_id": "0028",
+                "summary": "###### Article S17\n\nDES CONTRAVENTIONS DE POLICE EN MATI�RE DE CIRCULATION\nROUTI�RE\nTITRE 1er  DES INFRACTIONS AUX R�GLES CONCERNANT LA CONDUITE",
+                "line_num": 329
+              },
+              {
+                "title": "Article S18",
+                "node_id": "0029",
+                "summary": "###### Article S18\n\nDES V�HICULES ET DES ANIMAUX",
+                "line_num": 336
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0030",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 341,
+                "nodes": [
+                  {
+                    "title": "Article S19",
+                    "node_id": "0031",
+                    "summary": "###### Article S19\n\nDES INFRACTIONS AUX R�GLES CONCERNANT L'USAGE DES VOIES",
+                    "line_num": 344
+                  }
+                ]
+              },
+              {
+                "title": "TITRE I",
+                "node_id": "0032",
+                "prefix_summary": "#### TITRE I",
+                "line_num": 349,
+                "nodes": [
+                  {
+                    "title": "Article S2",
+                    "node_id": "0033",
+                    "summary": "###### Article S2\n\nLIVRE PREMIER  DE LA R�GLEMENTATION SUR LA CIRCULATION ROUTI�RE\n er DES DISPOSITIONS PR�LIMINAIRES",
+                    "line_num": 352
+                  },
+                  {
+                    "title": "Article S20",
+                    "node_id": "0034",
+                    "summary": "###### Article S20\n\nOUVERTES � LA CIRCULATION PUBLIQUE",
+                    "line_num": 358
+                  }
+                ]
+              },
+              {
+                "title": "TITRE III",
+                "node_id": "0035",
+                "prefix_summary": "#### TITRE III",
+                "line_num": 363,
+                "nodes": [
+                  {
+                    "title": "Article S21",
+                    "node_id": "0036",
+                    "summary": "###### Article S21\n\nDES INFRACTIONS CONCERNANT LES V�HICULES EUX-M�MES ET LEUR",
+                    "line_num": 366
+                  },
+                  {
+                    "title": "Article S22",
+                    "node_id": "0037",
+                    "summary": "###### Article S22\n\n�QUIPEMENT",
+                    "line_num": 371
+                  }
+                ]
+              },
+              {
+                "title": "TITRE IV",
+                "node_id": "0038",
+                "prefix_summary": "#### TITRE IV",
+                "line_num": 376,
+                "nodes": [
+                  {
+                    "title": "Article S23",
+                    "node_id": "0039",
+                    "summary": "###### Article S23\n\nDES INFRACTIONS AUX R�GLES CONCERNANT LES CONDITIONS",
+                    "line_num": 379
+                  },
+                  {
+                    "title": "Article S24",
+                    "node_id": "0040",
+                    "summary": "###### Article S24\n\nADMINISTRATIVES DE CIRCULATION DES V�HICULES ET DE LEURS CONDUCTEURS",
+                    "line_num": 384
+                  }
+                ]
+              },
+              {
+                "title": "TITRE V",
+                "node_id": "0041",
+                "prefix_summary": "#### TITRE V",
+                "line_num": 389,
+                "nodes": [
+                  {
+                    "title": "Article S25",
+                    "node_id": "0042",
+                    "summary": "###### Article S25\n\nDES DISPOSITIONS CONCERNANT LE PERMIS DE CONDUIRE",
+                    "line_num": 392
+                  }
+                ]
+              },
+              {
+                "title": "TITRE VI",
+                "node_id": "0043",
+                "prefix_summary": "#### TITRE VI",
+                "line_num": 397,
+                "nodes": [
+                  {
+                    "title": "Article S26",
+                    "node_id": "0044",
+                    "summary": "###### Article S26\n\nDES DISPOSITIONS G�N�RALES",
+                    "line_num": 400
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LIVRE IV",
+            "node_id": "0045",
+            "prefix_summary": "### LIVRE IV",
+            "line_num": 405,
+            "nodes": [
+              {
+                "title": "Article S27",
+                "node_id": "0046",
+                "summary": "###### Article S27\n\nDES CONSTATATIONS DES INFRACTIONS ET SANCTIONS DIVERSES\nTITRE 1er  DE LA SUSPENSION DU PERMIS DE CONDUIRE",
+                "line_num": 408
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0047",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 414,
+                "nodes": [
+                  {
+                    "title": "Article S28",
+                    "node_id": "0048",
+                    "summary": "###### Article S28\n\nIMMOBILISATION, MISE EN FOURRI�RE ET RETRAIT DE LA CIRCULATION",
+                    "line_num": 417
+                  },
+                  {
+                    "title": "Article S29",
+                    "node_id": "0049",
+                    "summary": "###### Article S29\n\nDE CERTAINS V�HICULES\nCHAPITRE 1er  DISPOSITIONS PR�LIMINAIRES",
+                    "line_num": 422
+                  }
+                ]
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0050",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 428,
+                "nodes": [
+                  {
+                    "title": "Article S3",
+                    "node_id": "0051",
+                    "summary": "###### Article S3\n\nDE LA CIRCULATION ROUTI�RE",
+                    "line_num": 431
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE II",
+                "node_id": "0052",
+                "prefix_summary": "#### CHAPITRE II",
+                "line_num": 436,
+                "nodes": [
+                  {
+                    "title": "Article S30",
+                    "node_id": "0053",
+                    "summary": "###### Article S30\n\nIMMOBILISATION",
+                    "line_num": 439
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE III",
+                "node_id": "0054",
+                "prefix_summary": "#### CHAPITRE III",
+                "line_num": 444,
+                "nodes": [
+                  {
+                    "title": "Article S31",
+                    "node_id": "0055",
+                    "summary": "###### Article S31\n\nMISE EN FOURRI�RE",
+                    "line_num": 447
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IV",
+                "node_id": "0056",
+                "prefix_summary": "#### CHAPITRE IV",
+                "line_num": 452,
+                "nodes": [
+                  {
+                    "title": "Article S32",
+                    "node_id": "0057",
+                    "summary": "###### Article S32\n\nRETRAIT DE LA CIRCULATION",
+                    "line_num": 455
+                  },
+                  {
+                    "title": "Article S33",
+                    "node_id": "0058",
+                    "summary": "###### Article S33\n\nLIVRE PREMIER  DE LA",
+                    "line_num": 460
+                  }
+                ]
+              },
+              {
+                "title": "TITRE I",
+                "node_id": "0059",
+                "prefix_summary": "#### TITRE I",
+                "line_num": 465,
+                "nodes": [
+                  {
+                    "title": "Article S34",
+                    "node_id": "0060",
+                    "summary": "###### Article S34\n\nR�GLEMENTATION SUR LA CIRCULATION ROUTI�RE\n er DES",
+                    "line_num": 468
+                  },
+                  {
+                    "title": "Article S35",
+                    "node_id": "0061",
+                    "summary": "This partial document contains the preliminary provisions (Articles 1 and 2) of a law, specifically from \"Article S35.\" The main points covered are:\n\n1.  **Scope of the Law (Article 1):** It defines that the law governs traffic on public roads, including pedestrians, vehicles, and animals (draft, pack, saddle, and livestock). It explicitly excludes vehicles on rails using the public road.\n\n2.  **Definitions (Article 2):** This article provides legal definitions for key terms used in the law, including:\n    *   \"Vehicle in international circulation\" and the conditions for it.\n    *   Key road infrastructure terms: \"agglomeration,\" \"road,\" \"carriageway,\" \"lane,\" \"intersection,\" \"square,\" \"path,\" \"dirt road,\" \"pedestrian way,\" \"level crossing,\" and \"motorway.\"\n    *   The state of a vehicle: \"stopped\" and \"parked\" (the definition for \"parked\" is cut off mid-sentence).",
+                    "line_num": 474
+                  },
+                  {
+                    "title": "Article S36",
+                    "node_id": "0062",
+                    "summary": "This partial document contains definitions from a legal or regulatory code, specifically Article S36, related to road traffic. It defines key terms concerning vehicle classification, parking, and right-of-way rules. The definitions cover categories like \"cycle,\" \"moped,\" \"motorcycle,\" \"motor vehicle,\" \"automobile,\" various types of trailers (e.g., \"trailer,\" \"semi-trailer,\" \"light trailer\"), and combinations like \"vehicle combination\" and \"articulated vehicle.\" It also defines roles such as \"driver,\" and technical terms like \"maximum authorized mass,\" \"unladen weight,\" and \"laden weight.\" Finally, it clarifies traffic concepts including \"direction of traffic\" and the obligation to \"give way.\"",
+                    "line_num": 557
+                  },
+                  {
+                    "title": "Article S37",
+                    "node_id": "0063",
+                    "summary": "This partial document covers articles from a traffic code or road law. The main points are:\n\n1.  **Definitions:** It defines the term \"technical regulations for mopeds and motorcycles.\"\n2.  **Traffic Signals and Rules:** It establishes the hierarchy of traffic control, stating that road users must obey proper signals, that road signage prevails over general traffic rules, and that functioning traffic lights override priority signs at the same location.\n3.  **Authorized Officers:** It lists the qualified agents (e.g., traffic police, gendarmerie, specific officials, military police) who are authorized to enforce traffic laws.\n4.  **Traffic Officer Instructions:** It details the requirements for officers regulating traffic to be visible and describes the specific meanings of their hand and light signals (e.g., raised arm for \"stop,\" horizontal arm for \"stop,\" swinging red light).\n5.  **Obligation to Obey Officers:** It states that instructions from traffic officers must be obeyed immediately and take precedence over all signals and general rules. It also grants officers the authority to order the movement of parked vehicles and, if necessary, to move them at the owner's risk and expense.",
+                    "line_num": 628
+                  }
+                ]
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0064",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 701,
+                "nodes": [
+                  {
+                    "title": "Article S38",
+                    "node_id": "0065",
+                    "summary": "This partial document covers Articles 7 to 10 of a road traffic code or law. The main points are:\n\n1.  **General Rules for Road Users (Article 7):** Obligations to avoid dangerous behavior, creating obstacles, damaging roads, and the duty to safely signal any unavoidable obstacle.\n\n2.  **Requirements for Drivers (Article 8):** Stipulates that every moving vehicle or herd must have a driver, who must be physically and mentally fit, knowledgeable, in control of their vehicle/animals, and have undergone mandatory driving instruction.\n\n3.  **Movement of Herds (Article 9):** Requires herds to be split into moderate-sized groups with sufficient gaps between them to facilitate traffic flow during migrations.\n\n4.  **Position on the Roadway (Article 10):** Establishes rules for driving on the right, keeping to the right edge of the road, and specifies which part of the road to use (e.g., main carriageway, cycle paths). It also outlines rules for lane use on one-way streets, multi-lane roads, and roads with multiple carriageways.",
+                    "line_num": 704
+                  },
+                  {
+                    "title": "Article S39",
+                    "node_id": "0066",
+                    "summary": "This partial document covers traffic regulations, specifically articles 11 through 13.5. The main points are:\n\n1.  **Positioning around road obstacles (Article 11):** Rules for passing refuges, bollards, or other devices on the roadway, generally keeping them to the left, with exceptions for specific signage or two-way roads.\n\n2.  **General rules for maneuvers (Article 12):** Requirements for drivers before executing any maneuver (changing lanes, turning, parking). They must ensure it is safe, not endanger other road users, and signal their intention clearly and in advance using indicators or arm signals.\n\n3.  **Overtaking and circulation in lanes (Article 13):** Detailed rules for overtaking other moving vehicles. Key points include:\n    *   Overtaking is normally done on the left, with an exception for a vehicle signaling and moving left to turn or stop.\n    *   Prerequisites for overtaking on the left: ensuring no one behind is overtaking, the vehicle ahead isn't signaling to overtake, the lane is clear for a sufficient distance, and the driver can safely return to the normal lane.\n    *   The obligation to signal the intention to overtake.\n    *   The requirement to leave a sufficient safety distance when overtaking.\n    *   The document begins to address rules for roads with at least two lanes in the same direction (Article 13.5).",
+                    "line_num": 781
+                  }
+                ]
+              },
+              {
+                "title": "TITRE III",
+                "node_id": "0067",
+                "prefix_summary": "#### TITRE III",
+                "line_num": 856,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0068",
+                    "summary": "###### Article S4\n\nDE L'ADMISSION EN CIRCULATION NATIONALE DES AUTOMOBILES ET DE",
+                    "line_num": 859
+                  },
+                  {
+                    "title": "Article S40",
+                    "node_id": "0069",
+                    "summary": "This partial document covers traffic regulations, specifically rules for overtaking (passing) and lane usage on multi-lane roads. The main points are:\n\n1.  **Rules for consecutive overtaking:** A driver who has just completed an overtake may stay in the lane they used to perform it in order to immediately pass another vehicle, provided they do not significantly hinder faster drivers behind them. This rule does not apply to cyclists, moped riders, motorcyclists, or drivers of heavy vehicles or slow cars.\n\n2.  **Rules for dense, slow-moving traffic:** In congested conditions where vehicles move in files at uniform speeds, moving faster than an adjacent file is not considered overtaking. A driver not on the right edge of the road may only change lanes to prepare for a turn or to park.\n\n3.  **Lane discipline based on road markings:**\n    *   Continuous lines must not be crossed or straddled.\n    *   On roads with discontinuous lines, drivers must normally use the rightmost lane and may only cross the lines to overtake (under specific conditions) or to cross the roadway.\n    *   When a lane is marked with both a continuous and a discontinuous line side-by-side, a driver may cross the continuous line only if the discontinuous line is on their side at the start of the maneuver.\n\n4.  **Prohibitions on overtaking on the left:** Overtaking on the left is forbidden in various hazardous situations, including:\n    *   When oncoming traffic is not visible at a safe distance.\n    *   When passing a towed vehicle or a vehicle with more than two wheels at certain railway crossings and intersections.\n    *   On two-way roads when approaching or at the crest of a hill, in curves, or where visibility is insufficient (unless it can be done without crossing a continuous center line).\n    *   Immediately before and within intersections (with specific exceptions) and at unguarded railway crossings (with an exception for signal-controlled crossings).\n    *   When approaching a pedestrian crossing where a vehicle has stopped or is slowing down.",
+                    "line_num": 864
+                  },
+                  {
+                    "title": "Article S41",
+                    "node_id": "0070",
+                    "summary": "This partial document covers traffic regulations from a legal code, specifically Articles 14, 15, 16, and 17. The main points are rules for overtaking, oncoming traffic (croisement), speed, and distance between vehicles.\n\nKey regulations include: the obligation for a driver being overtaken to move to the right and not accelerate; rules for yielding to faster vehicles when driving a slow or large vehicle; the principle that oncoming traffic passes on the right, with specific rules for mountain roads where the descending vehicle must yield; the requirement for drivers to always control their speed according to conditions and visibility; and the mandate to maintain a safe following distance, with specific spacing rules for large vehicles outside built-up areas to facilitate overtaking.",
+                    "line_num": 944
+                  },
+                  {
+                    "title": "Article S42",
+                    "node_id": "0071",
+                    "summary": "This partial document covers traffic regulations from a legal code, specifically articles on convoy spacing, speed limits, slowing down procedures, and rules for intersections and right-of-way.\n\nThe main points are:\n1.  **Convoy Regulations (Art. 17):** Rules for minimum spacing between vehicles in a convoy (50 meters), with exceptions and specific signaling requirements for military convoys.\n2.  **Speed Limits (Art. 18):** Establishes general speed limits (e.g., 60 km/h in built-up areas, 120 km/h on highways) with variations for vehicle types (like buses and heavy goods vehicles) and exemptions for emergency vehicles.\n3.  **Slowing Down (Art. 19):** Prohibits unnecessary harsh braking and mandates that drivers ensure it is safe before significantly reducing speed, requiring a hand signal unless brake lights are used.\n4.  **Intersections and Right-of-Way (Art. 20):** Requires increased caution at intersections. It outlines the obligation to yield to vehicles on the main road when entering from a dirt path or private property, and establishes the general \"priority to the right\" rule at intersections, with noted exceptions. It also prohibits entering an intersection if blocked by congestion.",
+                    "line_num": 1013
+                  },
+                  {
+                    "title": "Article S43",
+                    "node_id": "0072",
+                    "summary": "This partial document covers traffic regulations, specifically articles 21, 22, and 23. The main points are:\n\n1.  **Changing Direction (Article 21):** Rules for executing turns, including the requirement to position the vehicle correctly (close to the right edge for a right turn, near the center or left edge for a left turn) and to yield to oncoming traffic and cyclists during the maneuver.\n\n2.  **Stopping and Parking (Article 22):** General rules for where and how to stop or park a vehicle. This includes parking off the roadway outside built-up areas, parking on the right side of the road, and requirements for parallel, single-file parking. It also lists specific exceptions where parking on the left or in the middle of the road is permitted.\n\n3.  **Prohibition of Stopping and Parking (Article 23):** Lists locations where stopping and parking are forbidden, such as on pedestrian crossings, tram tracks, sidewalks, cycle paths, and in any location where the vehicle would pose a danger (e.g., in tunnels or on overpasses).",
+                    "line_num": 1087
+                  },
+                  {
+                    "title": "Article S44",
+                    "node_id": "0073",
+                    "summary": "This partial document covers traffic regulations, specifically articles S44, 24, and 25. The main points are prohibitions on stopping/parking and rules for vehicle immobilization.\n\nKey prohibitions include stopping on bridges, near crests and curves with insufficient visibility, and where crossing a solid line is forbidden. Within built-up areas, abusive stopping or parking is prohibited.\n\nArticle 24 details a comprehensive list of no-parking zones, such as near level crossings, intersections, bus stops, property entrances, taxi stands, in front of traffic signals, near pedestrian crossings, and where the free passage would be reduced to less than 3 meters. It also requires drivers to secure their vehicles when leaving them and mandates the use of warning devices for immobilized vehicles outside built-up areas under certain conditions.\n\nArticle 25 establishes a semi-monthly alternate parking system for an entire built-up area, requiring parking on the odd-numbered side of the street from the 1st to the 15th of the month and on the even-numbered side from the 16th to the month's end.",
+                    "line_num": 1167
+                  },
+                  {
+                    "title": "Article S45",
+                    "node_id": "0074",
+                    "summary": "This partial document covers traffic and parking regulations from a legal code or ordinance. The main points include:\n\n*   Rules for alternate semi-monthly parking in certain areas, including exceptions.\n*   Time-limited parking at meters and a general prohibition on parking certain vehicles (e.g., non-operational, for sale, or heavy trucks) for more than 24 hours on public roads.\n*   A rule against opening vehicle doors if it creates danger for other road users.\n*   Requirements for road users to yield to trams and other rail vehicles on shared roadways.\n*   Detailed safety rules for level crossings (railroad crossings), including speed limits, prohibitions on crossing when barriers are down, and procedures in case of a breakdown on the tracks.\n*   Regulations for traffic on motorways and similar roads, including restrictions on which vehicles are allowed, prohibitions on stopping and reversing, and rules for entering traffic from an access road.",
+                    "line_num": 1253
+                  },
+                  {
+                    "title": "Article S46",
+                    "node_id": "0075",
+                    "summary": "This partial document covers traffic regulations, specifically rules for highway usage and pedestrian conduct. It details how to enter and exit highways, lists prohibited activities on highways (like processions, advertising parades, and driving lessons), and outlines pedestrian obligations regarding sidewalks, road usage, and crossing procedures, including rules for marked crosswalks and unmarked crossings.",
+                    "line_num": 1330
+                  },
+                  {
+                    "title": "Article S47",
+                    "node_id": "0076",
+                    "summary": "This partial document covers traffic regulations, specifically the behavior of drivers towards pedestrians and rules for cyclists, moped riders, and motorcyclists.\n\nThe main points are:\n1.  **Driver obligations at pedestrian crossings:** Rules for yielding and stopping for pedestrians at both signal-controlled and uncontrolled crosswalks, including during turns.\n2.  **Driver behavior near public transport:** Requirement to slow down or stop when passing a stationary public transport vehicle to allow passengers to board or alight.\n3.  **General driver duty towards pedestrians:** Mandate to stop for pedestrians on crosswalks and not to obstruct pedestrians crossing at intersections, even without marked crossings.\n4.  **Rules for cyclists and motorized two-wheelers:** Prohibitions include riding without hands on the handlebars, carrying obstructive loads, being towed, holding animals, exceeding 40 km/h (for cyclists), and riding two abreast in certain conditions.\n5.  **Passenger transport:** Restrictions on carrying passengers on bicycles, mopeds, and motorcycles unless proper extra seats are fitted.\n6.  **Use of cycle paths:** Obligation for cyclists and moped riders to use existing cycle paths and not the main carriageway.\n7.  **Protection of processions:** A brief mention prohibiting road users from cutting through military columns or groups of children.",
+                    "line_num": 1408
+                  },
+                  {
+                    "title": "Article S48",
+                    "node_id": "0077",
+                    "summary": "This partial document covers traffic regulations, specifically outlining the required behavior of drivers towards specific groups and vehicles. The main points include: rules for yielding to school patrols, authorized public processions, and bicycle race participants; mandatory procedures for giving right-of-way to emergency vehicles with flashing lights and sirens; specific rules for interacting with public transport buses and school buses, including stopping for children; regulations concerning passengers (e.g., not overloading, restrictions on children in front seats); and initial provisions on the required safety construction of motor vehicles and trailers.",
+                    "line_num": 1487
+                  },
+                  {
+                    "title": "Article S49",
+                    "node_id": "0078",
+                    "summary": "This partial document covers legal articles from a traffic or road safety code. The main points are:\n\n1.  **Vehicle Safety Requirements (Article 39):** Vehicles must be constructed and equipped to ensure the safety of occupants and other road users, adhering to technical rules set by the relevant transport authority.\n\n2.  **Driver Conduct After an Accident (Article 40):** It details the mandatory actions for anyone involved in an accident, differentiated by the type of damage:\n    *   **General duties:** Stop safely, provide aid or alert emergency services, and provide identity if requested.\n    *   **For material damage only:** Ensure traffic safety, remain at the scene to jointly document the incident (using an amicable report form or involving the police), and provide contact details to any absent injured party.\n    *   **For accidents with bodily injuries:** Provide aid, preserve the scene for investigation, and alert and wait for the police, unless authorized to leave or needing medical care themselves.\n\n3.  **Rules for Broken-Down Vehicles and Fallen Loads (Article 41):** It prescribes obligations for drivers of disabled vehicles, including:\n    *   Moving the vehicle off the roadway or properly parking it.\n    *   A prohibition on repairing vehicles on the public road except in cases of force majeure.\n    *   The requirement to use warning devices (e.g., a hazard triangle, simultaneous use of all turn signals, or a portable flashing light) if the vehicle must be left in a location where stopping is prohibited.",
+                    "line_num": 1563
+                  },
+                  {
+                    "title": "Article S5",
+                    "node_id": "0079",
+                    "summary": "###### Article S5\n\nLEURS REMORQUES",
+                    "line_num": 1641
+                  },
+                  {
+                    "title": "Article S50",
+                    "node_id": "0080",
+                    "summary": "This partial document covers regulations for vehicle safety and load management. The main points are:\n\n1.  **Use of Warning Triangles (Article 41):** Rules for placing a warning triangle for broken-down vehicles over 3,500 kg, specifying minimum distances (30m outside built-up areas) and visibility requirements.\n\n2.  **General Load Requirements (Article 42):** Prescriptions that a vehicle's load must not exceed its maximum authorized weight and must be secured to ensure it does not obstruct the driver's view, compromise stability, endanger people, damage property, cause avoidable nuisance, or obscure lights, reflectors, and license plates.\n\n3.  **Load Signalling/Marking (Article 43):** Requirements for marking loads that protrude beyond the vehicle. It specifies the use of red/white reflective panels or lights at night, and mandates additional side reflectors on the load itself under certain conditions (e.g., if the load extends more than 3 meters behind the vehicle's last reflector).\n\n4.  **Load Dimensions (Article 44):** A maximum width limit of 2.50 meters for a loaded motor vehicle, animal-drawn vehicle, or their trailer (with exceptions noted as starting).",
+                    "line_num": 1646
+                  },
+                  {
+                    "title": "Article S51",
+                    "node_id": "0081",
+                    "summary": "This partial document covers regulations for vehicle load dimensions and special transport permits. It specifies maximum allowable widths for various vehicles (like those carrying bulk goods, motorcycles, bicycles) and rules for front/rear overhang. It sets a maximum loaded height of 4 meters. The text then details the authorization process for \"exceptional transports\" (oversized/overweight indivisible loads), including permit conditions, validity, required signage, and penalties for non-compliance. Finally, it states rules for vehicle combinations, generally limiting a motor vehicle to towing one trailer, with specific exceptions.",
+                    "line_num": 1724
+                  },
+                  {
+                    "title": "Article S52",
+                    "node_id": "0082",
+                    "summary": "This partial document contains articles from a traffic or vehicle code, specifically covering regulations for various non-standard vehicle types and situations. The main points include:\n\n*   Rules for specific vehicle ensembles (e.g., construction, agricultural, miniature tourist, and advertising vehicles), including a maximum length restriction.\n*   Regulations for towing disabled vehicles, including requirements for signaling long connections and restrictions on makeshift towing equipment.\n*   Detailed rules for animal-drawn vehicles (attelés), covering the number of animals, control requirements, and mandatory convoyeurs (attendants) for long vehicles or large loads.\n*   Rules for handcarts and rickshaws (pousse-pousse), restricting their road use, requiring them to keep to the side, and prohibiting night circulation.\n*   Regulations for drivers of animals (beasts of burden, cattle, or saddle animals), requiring sufficient attendants and prohibiting galloping within populated areas.\n*   Delegation of authority to set specific traffic rules for ports, airports, and railway stations, with a requirement for these rules to be posted.\n*   The document concludes by introducing the next article (51) on audible and visual warnings.",
+                    "line_num": 1800
+                  },
+                  {
+                    "title": "Article S53",
+                    "node_id": "0083",
+                    "summary": "This partial document covers traffic regulations, specifically articles 51 to 56. The main points are the rules for using audible and visual warnings, the proper adjustment of rear-view mirrors, and mandatory safety equipment. It details when horn use is permitted and prohibited, allows light signals instead of horns at night, and mandates seatbelt use for front-seat occupants with specific exemptions. It also requires protective helmets for motorcycle riders and passengers. The majority of the text defines comprehensive lighting requirements for different vehicles (motor vehicles, trailers, animal-drawn vehicles) during nighttime or poor visibility, specifying the color, number, and placement of front and rear lights.",
+                    "line_num": 1878
+                  },
+                  {
+                    "title": "Article S54",
+                    "node_id": "0084",
+                    "summary": "This partial document covers regulations regarding vehicle lighting and parking, specifically exceptions to standard lighting rules. The main points are:\n\n1.  **Exceptions for parked vehicles:** It outlines when standard lighting requirements do not apply to stationary or parked vehicles, such as on well-lit roads, for certain small vehicles parked within built-up areas, and for specific two-wheeled vehicles.\n\n2.  **Prohibited light colors:** It strictly prohibits displaying red lights or reflectors facing forward and white or selective yellow lights or reflectors facing rearwards, with listed exceptions (e.g., reversing lights, license plates, emergency vehicle lights).\n\n3.  **Pedestrian safety:** It encourages pedestrians, particularly schoolchildren, to wear reflective clothing or accessories at night to increase their visibility.\n\n4.  **Use of main beam and dipped beam headlights:** It specifies the conditions under which main beam headlights must not be used (e.g., in well-lit areas, to avoid dazzling other road users) and mandates the use of dipped beam headlights when main beams are prohibited.",
+                    "line_num": 1965
+                  },
+                  {
+                    "title": "Article S55",
+                    "node_id": "0085",
+                    "summary": "This partial document covers regulations for the use of various vehicle lights under specific conditions. The main points are:\n\n1.  **Use of Position Lights:** They must be used simultaneously with main-beam, dipped-beam, or fog lights. They may be used alone when the vehicle is stopped/parked, or on non-motorway roads when visibility is sufficient.\n\n2.  **Use of Fog Lights:** They may only be used in fog, heavy rain, or on narrow, winding roads.\n\n3.  **Use of Dipped-Beam Headlights:** Their use is mandatory within built-up areas.\n\n4.  **Light Warning Signals:** Describes that warnings consist of the intermittent flashing of dipped-beam or main-beam headlights, or the alternating flashing of both.\n\n5.  **Use of Special Lights:**\n    *   **Spotlights and work lights:** Can only be used when strictly necessary and must not dazzle other drivers.\n    *   **Reverse lights:** Must not dazzle other drivers.\n    *   **Flashing amber lights:** May only be used when vehicles are actively engaged in the tasks that justify their installation (e.g., breakdown recovery vehicles at the scene or while towing).",
+                    "line_num": 2052
+                  }
+                ]
+              },
+              {
+                "title": "TITRE III",
+                "node_id": "0086",
+                "prefix_summary": "#### TITRE III",
+                "line_num": 2085,
+                "nodes": [
+                  {
+                    "title": "Article S56",
+                    "node_id": "0087",
+                    "summary": "###### Article S56\n\nDE L'ADMISSION EN",
+                    "line_num": 2088
+                  },
+                  {
+                    "title": "Article S57",
+                    "node_id": "0088",
+                    "summary": "The partial document covers national vehicle registration regulations in Zaire (now the Democratic Republic of the Congo). The main points include:\n\n1.  **Mandatory Registration (Art. 59):** All automobiles and non-light trailers in national circulation must be registered in Zaire, requiring a valid registration certificate issued by the Finance department. Details on the certificate's required information (e.g., registration number, owner details, chassis number) are specified.\n2.  **Registration Plate Display (Art. 60):** Rules for displaying the registration number on the front and/or rear of vehicles, motorcycles, and trailers.\n3.  **National Distinguishing Sign (Art. 61):** Requirement for vehicles to display the Zairian national sign \"ZRE\" at the rear.\n4.  **Identification Marks (Art. 62):** Requirement for vehicles to carry identification marks as defined elsewhere in the law.\n5.  **Technical Specifications (Art. 63):** Stipulation that vehicles must comply with technical standards outlined in an annex.\n\nThe text also includes specific provisions for articulated vehicles, international vehicles, and the establishment of a national vehicle registration and statistics service.",
+                    "line_num": 2093
+                  },
+                  {
+                    "title": "Article S58",
+                    "node_id": "0089",
+                    "summary": "###### Article S58\n\nlivre 1 er de la pr�sente loi. Ils doivent, en outre, �tre en bon �tat de\nmarche.",
+                    "line_num": 2170
+                  }
+                ]
+              },
+              {
+                "title": "TITRE IV",
+                "node_id": "0090",
+                "prefix_summary": "#### TITRE IV",
+                "line_num": 2176,
+                "nodes": [
+                  {
+                    "title": "Article S59",
+                    "node_id": "0091",
+                    "summary": "###### Article S59\n\nDE L 'ADMISSION EN CIRCULATION",
+                    "line_num": 2179
+                  }
+                ]
+              },
+              {
+                "title": "TITRE IV",
+                "node_id": "0092",
+                "prefix_summary": "#### TITRE IV",
+                "line_num": 2184,
+                "nodes": [
+                  {
+                    "title": "Article S6",
+                    "node_id": "0093",
+                    "summary": "###### Article S6\n\nDE L 'ADMISSION EN CIRCULATION NATIONALE DES CYCLES ET DES",
+                    "line_num": 2187
+                  },
+                  {
+                    "title": "Article S60",
+                    "node_id": "0094",
+                    "summary": "This partial document outlines the technical requirements for non-motorized cycles (bicycles) and mopeds (cyclomoteurs) in national circulation.\n\nFor bicycles, the main points are the need for: an effective brake, an audible bell (with no other sound signal allowed), a rear red reflector, and lighting devices (white/yellow front light and red rear light).\n\nFor mopeds, the requirements are: two independent brakes, an audible bell or sound signal, an effective silent exhaust system, and lighting devices (white/selective front light, red rear light, and rear red reflector).",
+                    "line_num": 2192
+                  }
+                ]
+              },
+              {
+                "title": "TITRE V",
+                "node_id": "0095",
+                "prefix_summary": "#### TITRE V",
+                "line_num": 2216,
+                "nodes": [
+                  {
+                    "title": "Article S61",
+                    "node_id": "0096",
+                    "summary": "###### Article S61\n\nDES D�ROGATIONS � L 'OBLIGATION",
+                    "line_num": 2219
+                  },
+                  {
+                    "title": "Article S62",
+                    "node_id": "0097",
+                    "summary": "###### Article S62\n\nD�ADMETTRE EN CIRCULATION INTERNATIONALE  LES AUTOMOBILE5 ET LES",
+                    "line_num": 2224
+                  },
+                  {
+                    "title": "Article S63",
+                    "node_id": "0098",
+                    "summary": "This partial document outlines Article 65 of a legal code (likely a traffic or vehicle regulation code for Zaire, now the Democratic Republic of the Congo). The main points covered are the conditions under which foreign vehicles are **not admitted for international circulation** on Zairian territory. The specific prohibitions include:\n\n1.  Vehicles exceeding weight or dimension limits set for domestically registered vehicles, with exceptions granted by international agreement.\n2.  An explanation that certain protrusions (like tires, anti-skid devices, mirrors, indicators, and customs seals) are not considered a violation of the maximum width limit.\n3.  Mopeds and motorcycles if the driver or passenger is not wearing a protective helmet.\n4.  Heavy vehicles (over 3,500 kg) may be subject to special conditions on difficult roads or terrain.\n5.  Vehicles with asymmetrical headlights not adjusted for the local direction of traffic.\n6.  Vehicles bearing a distinguishing sign other than the one prescribed for it.",
+                    "line_num": 2229
+                  }
+                ]
+              },
+              {
+                "title": "TITRE VI",
+                "node_id": "0099",
+                "prefix_summary": "#### TITRE VI",
+                "line_num": 2272,
+                "nodes": [
+                  {
+                    "title": "Article S64",
+                    "node_id": "0100",
+                    "summary": "###### Article S64\n\nNUM�RO D'IMMATRICULATION, SIGNE",
+                    "line_num": 2275
+                  },
+                  {
+                    "title": "Article S65",
+                    "node_id": "0101",
+                    "summary": "The partial document covers regulations for the identification marks on automobiles and trailers. It specifies requirements for:\n1.  **Registration numbers** (Article 66): Rules for their composition (Arabic numerals and Latin letters), readability from 40 meters, and the material and mounting of the license plate.\n2.  **Distinctive signs** (Article 67): Specifications for an oval badge displaying one to three letters, including dimensions, color (black on white), and placement rules to avoid confusion with the registration number.\n3.  **Identification marks** (Article 68): Mandatory permanent markings, including the manufacturer's name, chassis/serial number, and engine number. It also notes specific requirements for mopeds.",
+                    "line_num": 2280
+                  }
+                ]
+              },
+              {
+                "title": "TITRE VII",
+                "node_id": "0102",
+                "prefix_summary": "#### TITRE VII",
+                "line_num": 2339,
+                "nodes": [
+                  {
+                    "title": "Article S66",
+                    "node_id": "0103",
+                    "summary": "This partial document covers regulations for the validity and issuance of driving permits in Zaire. The main points are:\n\n1.  **Recognition of Valid Permits:** It specifies which national and international driving permits are recognized as valid for driving in Zaire, based on language (French), conformity with annexes, and issuance by the proper national or regional commission.\n\n2.  **Conditions and Restrictions for Validity:** It outlines exceptions where a permit may not be recognized, such as if special medical conditions noted on the permit are not met, or if the holder is under the minimum age (18 years general, 21 years for specific vehicle categories C, D, and E).\n\n3.  **Rules for Vehicle Combinations:** It details the types of trailers that can be attached to vehicles in categories B, C, and D without changing the vehicle's classification for permit purposes.\n\n4.  **Issuance of International Permits:** It states that an international driving permit can only be issued to the holder of a valid national permit and cannot be valid for longer than that corresponding national permit.\n\n5.  **Recognition of Foreign-Issued Permits:** It addresses the validity of permits issued by states party to the 1968 Vienna Convention, including rules for drivers who change their normal residence to Zaire.\n\n6.  **Minimum Conditions for Issuing National Permits:** It establishes that national permits are only issued after passing theoretical and practical exams, including knowledge of economical driving. Permits are issued by a dedicated commission and are valid for 5 years.\n\n7.  **Renewal and Medical Examination:** It specifies that a permit is renewed upon presentation of a medical certificate issued by a commission of at least two doctors.\n\n8.  **Theoretical Exam Content:** It states that the theoretical exam must test the candidate's knowledge of traffic rules and specific rules for the vehicle category corresponding to the requested permit.",
+                    "line_num": 2342
+                  },
+                  {
+                    "title": "Article S67",
+                    "node_id": "0104",
+                    "summary": "This partial document covers regulations for driver's licensing and permits. It specifies the content, duration, and location of the practical driving exam. It establishes two groups of drivers (A/B and C/D/E) and lists the twelve medical criteria for assessing physical and mental fitness. The text details the legal procedures for the withdrawal or suspension of a driving license due to serious offenses or medical incapacity. It also mandates the organization of licensing commissions and includes a transitional provision invalidating old permits one year after the new law's promulgation.",
+                    "line_num": 2413
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LIVRE II",
+            "node_id": "0105",
+            "prefix_summary": "### LIVRE II",
+            "line_num": 2499,
+            "nodes": [
+              {
+                "title": "Article S68",
+                "node_id": "0106",
+                "summary": "This partial document is from a legal text, specifically Article S68, concerning road signage. It covers three main points:\n\n1.  **Classification of Road Signs:** It defines three main categories: warning signs (indicating danger), regulatory signs (imposing obligations, limitations, or prohibitions), and information signs (providing guidance and useful information). Each category is further subdivided.\n\n2.  **Placement of Signs:** It details rules for installing signs to ensure they are visible and effective. This includes their typical placement on the right side, repetition over or on the other side of the road when necessary, validity across the carriageway, and specific rules for roads with separated carriageways. It also mandates that signs should not obstruct traffic or pedestrians.\n\n3.  **Specifications and Inscriptions:** It standardizes the dimensions of signs (small, normal, large, and very large) based on road type and speed. It also includes a transitional provision allowing for the addition of explanatory text on or below signs for five years after the law's enactment to aid understanding.",
+                "line_num": 2502
+              }
+            ]
+          },
+          {
+            "title": "livre II",
+            "node_id": "0107",
+            "prefix_summary": "### livre II",
+            "line_num": 2583,
+            "nodes": [
+              {
+                "title": "Article S69",
+                "node_id": "0108",
+                "summary": "This partial document covers regulations for road signs, specifically focusing on warning signs and priority signs. It details the rules for their placement, usage, and supplementary information.\n\nThe main points are:\n1.  **Language Requirement:** Inscriptions on signs must be in French.\n2.  **Warning Signs (Danger):** Rules for their placement to ensure maximum effectiveness day and night, including guidelines for indicating the distance to the hazard and the length of a dangerous road section.\n3.  **Priority Signs:** Specifications for various signs (B1 \"Yield\", B2 \"Stop\", B3 \"Priority Road\", B4 \"End of Priority\") that govern right-of-way at intersections and narrow passages. It details their meaning, placement rules, and the use of advance warning signs.",
+                "line_num": 2586
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0109",
+                "summary": "###### Article S7\n\nCYCLOMOTEURS",
+                "line_num": 2652
+              },
+              {
+                "title": "Article S70",
+                "node_id": "0110",
+                "summary": "This partial document covers regulations for road signs, specifically within a legal or administrative code. It details the placement and specifications for various types of signs, including:\n\n*   **Priority and Give Way Signs (Art. 70):** Rules for placing B2a (give way) and B3 (priority road) signs at intersections.\n*   **Prohibition/Restriction and Mandatory Signs (Art. 80-81):** Descriptions of these signs from annexes, along with common rules for their placement (e.g., near where the rule begins, possible advance placement for visibility, and the use of supplementary plates).\n*   **Information Signs (Art. 82):** Signs providing useful information to road users.\n*   **Advance Direction Signs (Art. 83):** Rules for the placement distance of advance warning signs for intersections, varying between urban areas and highways.\n*   **Direction Signs (Art. 84):** Specifications for how destination names and distances are to be displayed on directional signs.\n*   **Route Identification Signs (Art. 85):** Design of signs identifying roads by number or name (enclosed in a rectangle or shield).\n*   **Location Signs (Art. 86):** The use of signs to indicate borders, administrative limits, or names of places (like towns or rivers).",
+                "line_num": 2657
+              },
+              {
+                "title": "Article S71",
+                "node_id": "0111",
+                "summary": "This partial document covers articles from a traffic code or road regulation law. It details specific traffic signs and their usage. The main points include: the application of general traffic rules within agglomerations as indicated by signs E9a and E9c; the placement of confirmation signs for directions after leaving large agglomerations; the placement of the E11a sign at pedestrian crossings; general rules for placing informational signs, specifying they should only be installed where indispensable and may be repeated with distance indicators; and a reference to annexes describing signs related to stopping and parking restrictions and other useful indications.",
+                "line_num": 2727
+              },
+              {
+                "title": "CHAPITRE II",
+                "node_id": "0112",
+                "prefix_summary": "#### CHAPITRE II",
+                "line_num": 2768,
+                "nodes": [
+                  {
+                    "title": "Article S72",
+                    "node_id": "0113",
+                    "summary": "###### Article S72\n\nSIGNAUX LUMINEUX DE",
+                    "line_num": 2771
+                  },
+                  {
+                    "title": "Article S73",
+                    "node_id": "0114",
+                    "summary": "This partial document is Article 91, which defines the light signals used to regulate vehicle traffic. It details the meaning of non-flashing lights (green, red, yellow) and flashing lights (red and yellow), including specific rules for intersections. It describes the composition and rules for two-color and three-color signal systems, and provides general requirements for their placement, visibility, and standardization. The text cuts off while describing the vertical arrangement of lights.",
+                    "line_num": 2776
+                  },
+                  {
+                    "title": "Article S74",
+                    "node_id": "0115",
+                    "summary": "This partial document covers technical specifications and regulations for traffic light systems, primarily focusing on the placement, colors, shapes, and meanings of various signal lights.\n\nThe main points include:\n*   The required positioning of lights in multi-color systems (e.g., red on top or left, yellow in the middle for a three-color system).\n*   Rules for circular lights and the use of flashing yellow lights.\n*   Detailed regulations for green arrow signals, including their meaning for permitted directions and rules for vehicles in dedicated lanes.\n*   Specifications for signals placed above individual lanes on multi-lane roads, including the specific shapes for red (crossed bars) and green (downward arrow) lights.\n*   Provisions for special cases and part-time signal use.\n*   Rules for traffic signals intended exclusively for cyclists, requiring a bicycle symbol.\n*   The transition to regulations for pedestrian-only signals, defining the meanings of non-flashing green, yellow, and red lights, as well as flashing green lights.",
+                    "line_num": 2846
+                  },
+                  {
+                    "title": "Article S75",
+                    "node_id": "0116",
+                    "summary": "This partial document outlines technical specifications for pedestrian traffic signals. It describes a two-color system (red and green) that must never display both lights simultaneously. The signals must be arranged vertically with red on top and green on bottom, using symbols of a standing pedestrian for red and a walking pedestrian for green. A key requirement is that these signals must be designed and positioned to avoid any confusion by drivers, ensuring they are not mistaken for vehicle traffic signals.",
+                    "line_num": 2915
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE III",
+                "node_id": "0117",
+                "prefix_summary": "#### CHAPITRE III",
+                "line_num": 2930,
+                "nodes": [
+                  {
+                    "title": "Article S76",
+                    "node_id": "0118",
+                    "summary": "This partial document covers regulations regarding road markings (marques routières). It defines their general purpose and then details specific types.\n\nThe main points are:\n1.  **General Provision (Art. 93):** Road markings are used to regulate, warn, or guide traffic, either alone or to reinforce other signs.\n2.  **Longitudinal Markings (Art. 94):** Rules for lines along the road.\n    *   A single or double continuous line means it is forbidden to cross or straddle it.\n    *   A broken (discontinuous) line is for guiding traffic or warning of an upcoming continuous line/hazard.\n    *   A combination line (continuous next to broken) means drivers must obey the line on their side.\n    *   It clarifies which lines are not considered longitudinal markings (e.g., edge of carriageway lines).\n3.  **Transverse Markings (Art. 95):** Rules for lines across the road.\n    *   A continuous line indicates the stop line for a STOP sign (B2a), traffic light, or other control.\n    *   A broken line indicates the yield line for a GIVE WAY sign (B1).\n    *   It describes markings for pedestrian and bicycle crossings.\n4.  **Other Markings (Art. 96 intro):** The document begins describing other markings like arrows, chevrons, or text, used to repeat signal indications or provide information not easily given by signs.",
+                    "line_num": 2933
+                  },
+                  {
+                    "title": "Article S77",
+                    "node_id": "0119",
+                    "summary": "This partial document covers regulations regarding road markings, specifically their meaning, application, and appearance. It details the use of lines and markings to indicate parking zones, bus stops, lane directions, and areas where vehicles are prohibited from entering. It explains the significance of continuous lines, discontinuous lines, zigzag lines, and markings with symbols or inscriptions for specific vehicle categories. The text also specifies the colors for different markings (white, blue, yellow) and provides rules for their visibility, including reflectivity and dimensional adjustments for driver perspective.",
+                    "line_num": 3002
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE IV",
+                "node_id": "0120",
+                "prefix_summary": "#### CHAPITRE IV",
+                "line_num": 3060,
+                "nodes": [
+                  {
+                    "title": "Article S78",
+                    "node_id": "0121",
+                    "summary": "This partial document covers regulations for road safety signage at construction sites and railway crossings. It specifies the required markings, barriers, and lighting for construction zones, including color schemes and reflective devices. For railway crossings, it details the use of flashing lights, audible signals, and stop signs, along with rules for barrier operation and driver conduct when approaching a crossing.",
+                    "line_num": 3063
+                  },
+                  {
+                    "title": "Article S79",
+                    "node_id": "0122",
+                    "summary": "This partial document covers traffic regulations, specifically the meaning of a yellow traffic light and the signage requirements for railway level crossings.\n\nThe main points are:\n1.  The yellow traffic light indicates that no vehicle may cross the stop line, except for vehicles that are so close when it illuminates that they cannot stop safely.\n2.  The required markings for level crossing barriers (e.g., alternating red/white stripes).\n3.  The placement of the B7 signal at unguarded level crossings and the exceptions to this rule.\n4.  The use of supplementary warning signs (with one, two, or three red diagonal bars) to indicate the distance to a railway crossing.",
+                    "line_num": 3136
+                  }
+                ]
+              },
+              {
+                "title": "TITRE V",
+                "node_id": "0123",
+                "prefix_summary": "#### TITRE V",
+                "line_num": 3174,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0124",
+                    "summary": "###### Article S8\n\nDES D�ROGATIONS � L 'OBLIGATION  D�ADMETTRE EN CIRCULATION",
+                    "line_num": 3177
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LIVRE III",
+            "node_id": "0125",
+            "prefix_summary": "### LIVRE III",
+            "line_num": 3182,
+            "nodes": [
+              {
+                "title": "Article S80",
+                "node_id": "0126",
+                "summary": "###### Article S80\n\nDES CONTRAVENTIONS DE POLICE EN",
+                "line_num": 3185
+              },
+              {
+                "title": "Article S81",
+                "node_id": "0127",
+                "summary": "###### Article S81\n\nMATI�RE DE CIRCULATION ROUTI�RE\nTITRE 1er  DES INFRACTIONS AUX",
+                "line_num": 3190
+              },
+              {
+                "title": "Article S82",
+                "node_id": "0128",
+                "summary": "This partial document outlines traffic regulations, specifically focusing on offenses and penalties related to alcohol-impaired driving, hit-and-run incidents, and various other traffic violations.\n\nThe main points covered are:\n\n1.  **Driving Under the Influence of Alcohol:** It defines specific blood alcohol concentration (BAC) thresholds (≥1.00 g/L and ≥1.50 g/L) and corresponding fines. It mandates alcohol screening tests for drivers suspected of these offenses or involved in accidents, followed by medical examinations if needed. Refusing these tests or examinations is itself a punishable offense. Separate, harsher penalties are prescribed for driving in a state of \"manifest drunkenness.\"\n\n2.  **Failure to Stop After an Accident (Hit-and-Run):** It penalizes drivers who flee the scene of an accident to avoid legal responsibility.\n\n3.  **General Traffic Violations:** It lists fines for contravening various rules of the road, including wrong-way driving, speeding, improper overtaking, failure to yield, ignoring traffic signs/signals/markings, and illegal stopping/parking. Penalties are doubled for repeat offenses.\n\n4.  **Regulations for Non-Motorized Vehicles and Animals:** It prescribes lower fines for violations concerning the conduct of animals and vehicles other than motor vehicles.",
+                "line_num": 3196
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0129",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 3275,
+                "nodes": [
+                  {
+                    "title": "Article S83",
+                    "node_id": "0130",
+                    "summary": "###### Article S83\n\nDES INFRACTIONS AUX R�GLES CONCERNANT L'USAGE DES",
+                    "line_num": 3278
+                  },
+                  {
+                    "title": "Article S84",
+                    "node_id": "0131",
+                    "summary": "This partial document contains Articles 108 to 112 of a legal code (likely a highway or traffic code). The main points covered are the penalties for various offenses related to public roads and traffic circulation. Specifically, it outlines fines for:\n\n1.  Causing damage to a public road through imprudence, fault, or negligence (Art. 108).\n2.  Failing to remove objects or displays placed on or near a road that disturb traffic or distract drivers, after being ordered to do so by an authorized officer (Art. 109).\n3.  Placing or attempting to place obstacles on a road to hinder or obstruct traffic (Art. 110).\n4.  Violating specific rules concerning pedestrian circulation (Art. 111).\n5.  Organizing motor vehicle races on a public road without proper administrative authorization (Art. 112).\n\nThe articles specify fine ranges (in a currency denoted by \"Z.\") for each offense and, in the case of damage, also mandate compensation for repair costs.",
+                    "line_num": 3283
+                  }
+                ]
+              },
+              {
+                "title": "TITRE III",
+                "node_id": "0132",
+                "prefix_summary": "#### TITRE III",
+                "line_num": 3315,
+                "nodes": [
+                  {
+                    "title": "Article S85",
+                    "node_id": "0133",
+                    "summary": "###### Article S85\n\nDES INFRACTIONS CONCERNANT LES",
+                    "line_num": 3318
+                  },
+                  {
+                    "title": "Article S86",
+                    "node_id": "0134",
+                    "summary": "This partial document covers legal articles (S86, Art. 113-115) outlining fines for violations related to vehicles and their equipment. The main points are:\n\n1.  **Article 113:** Lists specific technical and usage violations punishable by a fine of 2 to 30 Z (currency unit). These include faults with brakes, lighting, signaling, mirrors, windshield wipers, tires, exhaust systems, seat belts/helmets, as well as offenses like causing excessive noise/dust, abandoning a broken-down vehicle, and improper loading. Fines are doubled for repeat offenses.\n\n2.  **Article 114:** Prescribes heavier fines (100 to 500 Z) for the intentional use of false license plates or identification on a motor vehicle or trailer, or plates that misrepresent the vehicle or user. The court may also order confiscation of the vehicle.\n\n3.  **Article 115:** Establishes a fine (30 to 100 Z) for operating a motor vehicle or trailer on public roads without the required official license plates, with the fine doubled for repeat offenses.",
+                    "line_num": 3323
+                  }
+                ]
+              },
+              {
+                "title": "TITRE IV",
+                "node_id": "0135",
+                "prefix_summary": "#### TITRE IV",
+                "line_num": 3387,
+                "nodes": [
+                  {
+                    "title": "Article S87",
+                    "node_id": "0136",
+                    "summary": "###### Article S87\n\nDES INFRACTIONS AUX R�GLES",
+                    "line_num": 3390
+                  },
+                  {
+                    "title": "Article S88",
+                    "node_id": "0137",
+                    "summary": "###### Article S88\n\nCONCERNANT LES CONDITIONS ADMINISTRATIVES DE CIRCULATION DES V�HICULES ET DE",
+                    "line_num": 3395
+                  },
+                  {
+                    "title": "Article S89",
+                    "node_id": "0138",
+                    "summary": "###### Article S89\n\nLEURS CONDUCTEURS\nArt. 116. - Toute personne qui aura contrevenu aux\ndispositions du livre 1 er concernant la justification de la possession des\nautorisations et pi�ces administratives r�guli�rement obtenues, sera punie d'une\namende de 10 Z. � 50 Z.\nArt. 117. - Toute personne qui aura fait usage\nd'autorisations et de pi�ces administratives exig�es pour la circulation d'un\nv�hicule � moteur ou remorqu�, qu'elle savait fausses ou alt�r�es, sera punie\nd'une amende de 100 Z. � 500 Z.",
+                    "line_num": 3400
+                  },
+                  {
+                    "title": "Article S9",
+                    "node_id": "0139",
+                    "summary": "###### Article S9\n\nINTERNATIONALE",
+                    "line_num": 3413
+                  }
+                ]
+              },
+              {
+                "title": "TITRE V",
+                "node_id": "0140",
+                "prefix_summary": "#### TITRE V",
+                "line_num": 3418,
+                "nodes": [
+                  {
+                    "title": "Article S90",
+                    "node_id": "0141",
+                    "summary": "###### Article S90\n\nDES DISPOSITIONS CONCERNANT LE",
+                    "line_num": 3421
+                  },
+                  {
+                    "title": "Article S91",
+                    "node_id": "0142",
+                    "summary": "This partial document covers legal provisions regarding driving licenses. The main points are the penalties for driving without a valid or appropriate license, the rules for license renewal, and the judicial measures for license suspension, cancellation, and the prohibition from obtaining a license. It specifies fines for offenses, lists infractions that can lead to suspension (such as involuntary homicide or injuries), and outlines the consequences for driving after a suspension or cancellation has been ordered, including penalties for failing to surrender a revoked license.",
+                    "line_num": 3426
+                  }
+                ]
+              },
+              {
+                "title": "TITRE VI",
+                "node_id": "0143",
+                "prefix_summary": "#### TITRE VI",
+                "line_num": 3469,
+                "nodes": [
+                  {
+                    "title": "Article S92",
+                    "node_id": "0144",
+                    "summary": "This partial document contains Articles 124 to 129 from a legal code (likely related to road traffic). The main points covered are:\n\n1.  The driver of a vehicle is criminally responsible for offenses committed while driving.\n2.  The recidivism of traffic offenses is independent of where the first offense was committed.\n3.  All traffic offenses on public roads must be brought before the competent courts.\n4.  The penalty for a driver refusing to stop for law enforcement or to submit to required checks (a fine of 10 to 50 Z).\n5.  The penalty for selling non-approved vehicle devices or equipment (a fine of 10 to 50 Z).\n6.  The penalty for using non-approved vehicle devices or equipment (a smaller fine of 1 to 5 Z).\n\nThe text establishes general provisions for legal responsibility, jurisdiction, and specific penalties for non-compliance with traffic laws.",
+                    "line_num": 3472
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LIVRE IV",
+            "node_id": "0145",
+            "prefix_summary": "### LIVRE IV",
+            "line_num": 3500,
+            "nodes": [
+              {
+                "title": "Article S93",
+                "node_id": "0146",
+                "summary": "###### Article S93\n\nDES CONSTATATIONS DES",
+                "line_num": 3503
+              },
+              {
+                "title": "Article S94",
+                "node_id": "0147",
+                "summary": "###### Article S94\n\nINFRACTIONS ET SANCTIONS DIVERSES\nTITRE 1er  DE LA",
+                "line_num": 3508
+              },
+              {
+                "title": "Article S95",
+                "node_id": "0148",
+                "summary": "This partial document outlines the legal provisions for the suspension of a driver's license. It specifies that a court can order a suspension for drivers who commit certain traffic violations. The text then lists 18 specific infractions from the Highway Code that can lead to suspension, including dangerous overtaking, speeding, ignoring right-of-way, dangerous parking, driving without lights, ignoring stop signs or red lights, and driving under the influence of alcohol.",
+                "line_num": 3514
+              },
+              {
+                "title": "TITRE II",
+                "node_id": "0149",
+                "prefix_summary": "#### TITRE II",
+                "line_num": 3572,
+                "nodes": [
+                  {
+                    "title": "Article S96",
+                    "node_id": "0150",
+                    "summary": "###### Article S96\n\nIMMOBILISATION, MISE EN",
+                    "line_num": 3575
+                  },
+                  {
+                    "title": "Article S97",
+                    "node_id": "0151",
+                    "summary": "###### Article S97\n\nFOURRI�RE ET RETRAIT DE LA CIRCULATION DE CERTAINS V�HICULES\nCHAPITRE 1er",
+                    "line_num": 3580
+                  },
+                  {
+                    "title": "Article S98",
+                    "node_id": "0152",
+                    "summary": "This partial document outlines legal provisions for immobilizing, impounding, and removing vehicles from circulation. The main points covered are:\n\n1.  The conditions under which vehicles can be immobilized, impounded, or withdrawn from circulation, as referenced from other articles of the law.\n2.  Exceptions to these measures: they do not apply to participants in public order operations, and impoundment rules do not apply to military vehicles.\n3.  Specific grounds for taking action against a vehicle, including violations that compromise road safety, public tranquility, hygiene, the aesthetics of protected sites, or the normal use of public roads. This includes vehicles left parked in the same public spot for more than seven consecutive days.\n4.  Potential consequences for such vehicles, which can range from impoundment to being sold off or destroyed.",
+                    "line_num": 3586
+                  }
+                ]
+              },
+              {
+                "title": "CHAPITRE II",
+                "node_id": "0153",
+                "prefix_summary": "#### CHAPITRE II",
+                "line_num": 3611,
+                "nodes": [
+                  {
+                    "title": "Article S99",
+                    "node_id": "0154",
+                    "summary": "This partial document covers legal provisions regarding the immobilization (impounding) of vehicles. The main points define immobilization, specify who can order it, and list the violations that justify it (such as drunk driving, lacking a valid license, or having a dangerously defective vehicle). It details procedures for allowing a qualified driver to take over, for moving the vehicle to a repair location, and for the documentation required when the vehicle remains immobilized. The text also outlines the administrative process of notifying judicial authorities.",
+                    "line_num": 3614
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0001",
+      "node_title": "Article S1",
+      "article_ids": [
+        "da2769db-2cec-4434-90fe-bc9d769adaa2"
+      ]
+    },
+    {
+      "node_id": "0003",
+      "node_title": "Article S10",
+      "article_ids": [
+        "491ea779-1de0-4d7b-80be-ca3cba9de179"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article S100",
+      "article_ids": [
+        "f05bb08b-6003-41ea-91d0-31bd5a68b263"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article S101",
+      "article_ids": [
+        "f83d2423-e647-4144-8619-de6723a5ce77"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article S102",
+      "article_ids": [
+        "e01bbff8-61c2-4c20-ac7b-832f27edc88b"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article S103",
+      "article_ids": [
+        "a30449ce-39b2-4f01-8464-8a60d0e84d21"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article S104",
+      "article_ids": [
+        "ed9153e6-98bd-4f81-a834-8aa5dfa2c976"
+      ]
+    },
+    {
+      "node_id": "0011",
+      "node_title": "Article S105",
+      "article_ids": [
+        "9bca4a34-8c5b-4284-8676-3421abb41c87"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article S106",
+      "article_ids": [
+        "80704b73-fa9a-4682-8def-2c6c267ad2ac"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article S107",
+      "article_ids": [
+        "5a570938-3b8e-4e22-8daa-26ee50cb2935"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article S108",
+      "article_ids": [
+        "f898cc62-1544-4df1-86eb-87f801aae116"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article S109",
+      "article_ids": [
+        "1ab46f35-dfbf-45c9-9b8c-0424b22c0e55"
+      ]
+    },
+    {
+      "node_id": "0016",
+      "node_title": "Article S11",
+      "article_ids": [
+        "fd3e0b9b-6d0a-4643-b971-5d5b6c356619"
+      ]
+    },
+    {
+      "node_id": "0018",
+      "node_title": "Article S12",
+      "article_ids": [
+        "64606ddf-2a2d-4bb1-8c42-6c6b85c462a1"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article S13",
+      "article_ids": [
+        "c322edef-4a68-4e92-ad6b-01574f23ff08"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article S14",
+      "article_ids": [
+        "5b8a24d8-89c2-423d-a6f2-8390ffd0677e"
+      ]
+    },
+    {
+      "node_id": "0024",
+      "node_title": "Article S15",
+      "article_ids": [
+        "5c9b1e62-fcaa-4f31-ace7-bae82bd1a772"
+      ]
+    },
+    {
+      "node_id": "0026",
+      "node_title": "Article S16",
+      "article_ids": [
+        "03f04dea-700f-41fc-9a92-86751eaf04c0"
+      ]
+    },
+    {
+      "node_id": "0028",
+      "node_title": "Article S17",
+      "article_ids": [
+        "76070117-77b5-43d9-8ae3-5ae2aa490b3d"
+      ]
+    },
+    {
+      "node_id": "0029",
+      "node_title": "Article S18",
+      "article_ids": [
+        "3d078114-8eb9-4c0c-bfbd-720bfe0dfa3d"
+      ]
+    },
+    {
+      "node_id": "0031",
+      "node_title": "Article S19",
+      "article_ids": [
+        "46bf0f2e-5595-4b4d-99a2-fcb6aefb733a"
+      ]
+    },
+    {
+      "node_id": "0033",
+      "node_title": "Article S2",
+      "article_ids": [
+        "12602b5f-6818-4aef-a4b3-9bd32d7f98b9"
+      ]
+    },
+    {
+      "node_id": "0034",
+      "node_title": "Article S20",
+      "article_ids": [
+        "f07b70a4-ee65-420a-8d8c-fb0d78200ba6"
+      ]
+    },
+    {
+      "node_id": "0036",
+      "node_title": "Article S21",
+      "article_ids": [
+        "2887743d-fe68-4ce0-a99f-5c06174876c8"
+      ]
+    },
+    {
+      "node_id": "0037",
+      "node_title": "Article S22",
+      "article_ids": [
+        "52157e6c-53ed-4ab0-a0a0-190e3ca06151"
+      ]
+    },
+    {
+      "node_id": "0039",
+      "node_title": "Article S23",
+      "article_ids": [
+        "e2567d8d-ad75-4f9e-a365-0367af22b7c7"
+      ]
+    },
+    {
+      "node_id": "0040",
+      "node_title": "Article S24",
+      "article_ids": [
+        "a24f4381-434e-41ab-8c7f-490066862413"
+      ]
+    },
+    {
+      "node_id": "0042",
+      "node_title": "Article S25",
+      "article_ids": [
+        "40f56403-0571-4b0f-96c4-2d5809fb2a6c"
+      ]
+    },
+    {
+      "node_id": "0044",
+      "node_title": "Article S26",
+      "article_ids": [
+        "ec78fb24-a419-4416-ac72-d01056d69701"
+      ]
+    },
+    {
+      "node_id": "0046",
+      "node_title": "Article S27",
+      "article_ids": [
+        "21e79674-a65b-49e3-81cc-016350f79b61"
+      ]
+    },
+    {
+      "node_id": "0048",
+      "node_title": "Article S28",
+      "article_ids": [
+        "56c67fba-0c03-47c6-9f55-bf55856830d9"
+      ]
+    },
+    {
+      "node_id": "0049",
+      "node_title": "Article S29",
+      "article_ids": [
+        "daeb2322-aac1-4345-99be-3e0f8fbf0fbe"
+      ]
+    },
+    {
+      "node_id": "0051",
+      "node_title": "Article S3",
+      "article_ids": [
+        "6712a2a9-b80a-4d8e-8414-ce8581cd2d0a"
+      ]
+    },
+    {
+      "node_id": "0053",
+      "node_title": "Article S30",
+      "article_ids": [
+        "2ee8ae5e-a9c6-44f2-87e5-613899b8b717"
+      ]
+    },
+    {
+      "node_id": "0055",
+      "node_title": "Article S31",
+      "article_ids": [
+        "6d3d8f85-b7d4-40f6-a085-3d373c92f6da"
+      ]
+    },
+    {
+      "node_id": "0057",
+      "node_title": "Article S32",
+      "article_ids": [
+        "570d3e1b-5c14-478a-bc1f-1ce5712c4ec1"
+      ]
+    },
+    {
+      "node_id": "0058",
+      "node_title": "Article S33",
+      "article_ids": [
+        "3e781b38-c475-4bfe-a785-39985b259ca0"
+      ]
+    },
+    {
+      "node_id": "0060",
+      "node_title": "Article S34",
+      "article_ids": [
+        "586df136-8c48-4347-80b3-a5fb9e8a8894"
+      ]
+    },
+    {
+      "node_id": "0061",
+      "node_title": "Article S35",
+      "article_ids": [
+        "50db584b-255a-4c2b-a37b-c1f668a228ce"
+      ]
+    },
+    {
+      "node_id": "0062",
+      "node_title": "Article S36",
+      "article_ids": [
+        "885133eb-80d0-4fac-ad7b-098082c275e1"
+      ]
+    },
+    {
+      "node_id": "0063",
+      "node_title": "Article S37",
+      "article_ids": [
+        "f14733a4-e9ad-46db-95bb-425e096892c5"
+      ]
+    },
+    {
+      "node_id": "0065",
+      "node_title": "Article S38",
+      "article_ids": [
+        "cf53665d-cb6b-4fe3-8dc0-8c9207995593"
+      ]
+    },
+    {
+      "node_id": "0066",
+      "node_title": "Article S39",
+      "article_ids": [
+        "4289f365-20d3-4460-a6be-d511c2b39205"
+      ]
+    },
+    {
+      "node_id": "0068",
+      "node_title": "Article S4",
+      "article_ids": [
+        "6bb1b5d7-f8bf-44da-8fef-db2caa6bbdd6"
+      ]
+    },
+    {
+      "node_id": "0069",
+      "node_title": "Article S40",
+      "article_ids": [
+        "b358603b-f267-469c-b40d-0db3f6fda320"
+      ]
+    },
+    {
+      "node_id": "0070",
+      "node_title": "Article S41",
+      "article_ids": [
+        "21df5e18-ecd6-4e48-88c8-0d22d81e0efb"
+      ]
+    },
+    {
+      "node_id": "0071",
+      "node_title": "Article S42",
+      "article_ids": [
+        "9b024724-566c-4dd6-a1a5-8a0141e538af"
+      ]
+    },
+    {
+      "node_id": "0072",
+      "node_title": "Article S43",
+      "article_ids": [
+        "a7e400da-6611-4f76-9a9f-e92586d45bea"
+      ]
+    },
+    {
+      "node_id": "0073",
+      "node_title": "Article S44",
+      "article_ids": [
+        "6af8fc68-62e7-49ef-acc1-11106794b594"
+      ]
+    },
+    {
+      "node_id": "0074",
+      "node_title": "Article S45",
+      "article_ids": [
+        "49a8ae0a-0ded-481f-8a78-5805fb83c198"
+      ]
+    },
+    {
+      "node_id": "0075",
+      "node_title": "Article S46",
+      "article_ids": [
+        "002ac1e3-a3a7-4733-982c-11ae2c4649e6"
+      ]
+    },
+    {
+      "node_id": "0076",
+      "node_title": "Article S47",
+      "article_ids": [
+        "969b5c24-1a83-47c2-8f5d-743be03223a4"
+      ]
+    },
+    {
+      "node_id": "0077",
+      "node_title": "Article S48",
+      "article_ids": [
+        "5f9562a2-3b95-4006-b221-c1acffa78535"
+      ]
+    },
+    {
+      "node_id": "0078",
+      "node_title": "Article S49",
+      "article_ids": [
+        "5f66ebe2-59eb-4bf5-90df-971f05bc5759"
+      ]
+    },
+    {
+      "node_id": "0079",
+      "node_title": "Article S5",
+      "article_ids": [
+        "910a5344-1c72-4c8e-a7ae-23a5194850ff"
+      ]
+    },
+    {
+      "node_id": "0080",
+      "node_title": "Article S50",
+      "article_ids": [
+        "906d433d-1dfd-4e16-a115-f305bd2635e3"
+      ]
+    },
+    {
+      "node_id": "0081",
+      "node_title": "Article S51",
+      "article_ids": [
+        "6b3a4209-5fde-470e-bdc7-dc056de9cdaa"
+      ]
+    },
+    {
+      "node_id": "0082",
+      "node_title": "Article S52",
+      "article_ids": [
+        "3ad74c79-321a-4701-b40a-267de392a847"
+      ]
+    },
+    {
+      "node_id": "0083",
+      "node_title": "Article S53",
+      "article_ids": [
+        "a6e42113-c0f4-4df4-846e-cb76747961c8"
+      ]
+    },
+    {
+      "node_id": "0084",
+      "node_title": "Article S54",
+      "article_ids": [
+        "40a8b447-e183-473a-90bd-9f9a6f7727ba"
+      ]
+    },
+    {
+      "node_id": "0085",
+      "node_title": "Article S55",
+      "article_ids": [
+        "2c344e79-ac44-48a2-aa43-63c9be0bd28e"
+      ]
+    },
+    {
+      "node_id": "0087",
+      "node_title": "Article S56",
+      "article_ids": [
+        "b42e1495-fe93-4ae6-bec5-56bae8218120"
+      ]
+    },
+    {
+      "node_id": "0088",
+      "node_title": "Article S57",
+      "article_ids": [
+        "0b0bb3b2-ddbb-4438-bf5c-93cebf44462e"
+      ]
+    },
+    {
+      "node_id": "0089",
+      "node_title": "Article S58",
+      "article_ids": [
+        "46ea82d4-3eea-434a-90af-a6ec541c9e20"
+      ]
+    },
+    {
+      "node_id": "0091",
+      "node_title": "Article S59",
+      "article_ids": [
+        "cd457d75-1c88-46f7-90cb-8ccb64e6993b"
+      ]
+    },
+    {
+      "node_id": "0093",
+      "node_title": "Article S6",
+      "article_ids": [
+        "bfd4c6f2-8c49-4093-b18d-6cadd4c79476"
+      ]
+    },
+    {
+      "node_id": "0094",
+      "node_title": "Article S60",
+      "article_ids": [
+        "55e54036-d155-47c1-83be-001cdd88ac01"
+      ]
+    },
+    {
+      "node_id": "0096",
+      "node_title": "Article S61",
+      "article_ids": [
+        "43df4b34-06d5-48d0-921e-b6947d658335"
+      ]
+    },
+    {
+      "node_id": "0097",
+      "node_title": "Article S62",
+      "article_ids": [
+        "cc1dcc9c-b87b-4c7f-befa-a509a3bbb7ee"
+      ]
+    },
+    {
+      "node_id": "0098",
+      "node_title": "Article S63",
+      "article_ids": [
+        "a31e6478-3c4d-4748-bb68-a8ab599b6051"
+      ]
+    },
+    {
+      "node_id": "0100",
+      "node_title": "Article S64",
+      "article_ids": [
+        "fbc35bcc-5157-4999-a1ec-f1007b422d4c"
+      ]
+    },
+    {
+      "node_id": "0101",
+      "node_title": "Article S65",
+      "article_ids": [
+        "404e142a-31ab-4aca-80db-e9b7f8b9b011"
+      ]
+    },
+    {
+      "node_id": "0103",
+      "node_title": "Article S66",
+      "article_ids": [
+        "5067c51a-8261-4142-8f7d-92649034dc65"
+      ]
+    },
+    {
+      "node_id": "0104",
+      "node_title": "Article S67",
+      "article_ids": [
+        "b55a36ed-b645-4dc0-8525-aafdf61c3c4d"
+      ]
+    },
+    {
+      "node_id": "0106",
+      "node_title": "Article S68",
+      "article_ids": [
+        "fa35304d-6bfc-4496-a3af-31c85ce67f63"
+      ]
+    },
+    {
+      "node_id": "0108",
+      "node_title": "Article S69",
+      "article_ids": [
+        "058a1e1c-f9b4-4446-acc9-e4395bd47e76"
+      ]
+    },
+    {
+      "node_id": "0109",
+      "node_title": "Article S7",
+      "article_ids": [
+        "8fa0f41b-7a5f-4e13-a42a-db1d1b9ef90b"
+      ]
+    },
+    {
+      "node_id": "0110",
+      "node_title": "Article S70",
+      "article_ids": [
+        "96b3dc91-4694-4f1c-b549-5dcc040546a8"
+      ]
+    },
+    {
+      "node_id": "0111",
+      "node_title": "Article S71",
+      "article_ids": [
+        "d5aa6580-9ac6-4cb3-a794-34079dfd50cc"
+      ]
+    },
+    {
+      "node_id": "0113",
+      "node_title": "Article S72",
+      "article_ids": [
+        "d4b162d0-c4f8-4f08-8d0a-65216ea9cb37"
+      ]
+    },
+    {
+      "node_id": "0114",
+      "node_title": "Article S73",
+      "article_ids": [
+        "6490ea5f-0297-46a6-9914-54e74633f935"
+      ]
+    },
+    {
+      "node_id": "0115",
+      "node_title": "Article S74",
+      "article_ids": [
+        "ec08b4ba-9d71-43c5-9e5f-500a17c496d3"
+      ]
+    },
+    {
+      "node_id": "0116",
+      "node_title": "Article S75",
+      "article_ids": [
+        "2979dc66-cec9-4cb4-9589-4783bf45bb2a"
+      ]
+    },
+    {
+      "node_id": "0118",
+      "node_title": "Article S76",
+      "article_ids": [
+        "cd5a82c7-d341-4c54-b818-538eab4cc11d"
+      ]
+    },
+    {
+      "node_id": "0119",
+      "node_title": "Article S77",
+      "article_ids": [
+        "abef548b-68f4-4118-a32b-4942b50a5327"
+      ]
+    },
+    {
+      "node_id": "0121",
+      "node_title": "Article S78",
+      "article_ids": [
+        "962e7222-fbc7-492d-b80b-7ce67c2184f3"
+      ]
+    },
+    {
+      "node_id": "0122",
+      "node_title": "Article S79",
+      "article_ids": [
+        "42b7e4fa-1465-4384-8255-7a7a550be207"
+      ]
+    },
+    {
+      "node_id": "0124",
+      "node_title": "Article S8",
+      "article_ids": [
+        "a42b2d96-a9e6-47d8-9bbc-a12d35a50567"
+      ]
+    },
+    {
+      "node_id": "0126",
+      "node_title": "Article S80",
+      "article_ids": [
+        "9e1cc954-9812-44c1-bd4f-84da2d917394"
+      ]
+    },
+    {
+      "node_id": "0127",
+      "node_title": "Article S81",
+      "article_ids": [
+        "edf66e36-62c8-4ac9-9ff2-a731aefcfb28"
+      ]
+    },
+    {
+      "node_id": "0128",
+      "node_title": "Article S82",
+      "article_ids": [
+        "029e94f2-0fca-4b64-ad6b-04b52b11848a"
+      ]
+    },
+    {
+      "node_id": "0130",
+      "node_title": "Article S83",
+      "article_ids": [
+        "0bca35ac-6f98-45fb-89b6-9d988959fd53"
+      ]
+    },
+    {
+      "node_id": "0131",
+      "node_title": "Article S84",
+      "article_ids": [
+        "b0b71ecf-4197-4ca1-aa46-b46102aad0e1"
+      ]
+    },
+    {
+      "node_id": "0133",
+      "node_title": "Article S85",
+      "article_ids": [
+        "adbdf38f-a7f4-4c36-b689-541a0d225bae"
+      ]
+    },
+    {
+      "node_id": "0134",
+      "node_title": "Article S86",
+      "article_ids": [
+        "65c82bf0-4390-494b-9839-5e883cdb04dc"
+      ]
+    },
+    {
+      "node_id": "0136",
+      "node_title": "Article S87",
+      "article_ids": [
+        "d9489d37-e546-4c6d-af91-a0f868fd5098"
+      ]
+    },
+    {
+      "node_id": "0137",
+      "node_title": "Article S88",
+      "article_ids": [
+        "05abd664-2385-4d2c-b2f4-9d20a3a00763"
+      ]
+    },
+    {
+      "node_id": "0138",
+      "node_title": "Article S89",
+      "article_ids": [
+        "50663b39-434b-4f97-a661-0609ef3265de"
+      ]
+    },
+    {
+      "node_id": "0139",
+      "node_title": "Article S9",
+      "article_ids": [
+        "358309c6-e33c-4543-9a3d-a0eab5a2e3a1"
+      ]
+    },
+    {
+      "node_id": "0141",
+      "node_title": "Article S90",
+      "article_ids": [
+        "31486bb4-ffb7-4bc2-9529-aff83b61f3ad"
+      ]
+    },
+    {
+      "node_id": "0142",
+      "node_title": "Article S91",
+      "article_ids": [
+        "261e7ba0-6ef6-4818-9c8d-c9d1dd51cb59"
+      ]
+    },
+    {
+      "node_id": "0144",
+      "node_title": "Article S92",
+      "article_ids": [
+        "52b7f0d8-f01b-4559-a8bb-83285849df7d"
+      ]
+    },
+    {
+      "node_id": "0146",
+      "node_title": "Article S93",
+      "article_ids": [
+        "c43450fa-6e84-4127-82f0-2ae6700f3ae4"
+      ]
+    },
+    {
+      "node_id": "0147",
+      "node_title": "Article S94",
+      "article_ids": [
+        "df0471ef-69d7-4568-8bc0-f5c6ef3ed334"
+      ]
+    },
+    {
+      "node_id": "0148",
+      "node_title": "Article S95",
+      "article_ids": [
+        "cbf695b7-df77-4616-9713-8627fbd08e2c"
+      ]
+    },
+    {
+      "node_id": "0150",
+      "node_title": "Article S96",
+      "article_ids": [
+        "65336cf6-ea98-4ea9-91cd-818447eef8b8"
+      ]
+    },
+    {
+      "node_id": "0151",
+      "node_title": "Article S97",
+      "article_ids": [
+        "82541a86-7514-4fd1-a59e-49afd63d5937"
+      ]
+    },
+    {
+      "node_id": "0152",
+      "node_title": "Article S98",
+      "article_ids": [
+        "22efc1f3-8497-43b5-a46f-d5dabb6316dd"
+      ]
+    },
+    {
+      "node_id": "0154",
+      "node_title": "Article S99",
+      "article_ids": [
+        "00554078-c524-440d-ad31-08d393592b39"
+      ]
+    }
+  ],
+  "bundle_path": "backups/rdc_bundles/CODE-ROUTE.json",
+  "document_id": "40437a1f-90d8-4c54-a2f0-94424f51bc91",
+  "document_title": "Code de la route"
+}

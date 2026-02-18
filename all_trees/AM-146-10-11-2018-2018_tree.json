@@ -1,0 +1,657 @@
+{
+  "slug": "AM-146-10-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-146-10-11-2018-2018.json",
+  "document_id": "593d5399-2992-4e3f-9af4-11ee6e635989",
+  "document_title": "AM.146.10.11.2018",
+  "tree_json": {
+    "doc_name": "AM-146-10-11-2018-2018",
+    "doc_description": "This document is the Democratic Republic of the Congo's Ministerial Order No. AM.146.10.11.2018, dated 10 November 2018, which establishes the detailed implementation rules for the general social security regime, covering employer and worker affiliation, contribution collection, and the administration of family, occupational risk, and pension benefits.",
+    "structure": [
+      {
+        "title": "AM.146.10.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.146.10.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "###### Article S10\n\nCOTISATIONS,\nDE",
+            "line_num": 9
+          },
+          {
+            "title": "Article S11",
+            "node_id": "0003",
+            "summary": "###### Article S11\n\nLIQUIDATION\nET DU\nSERVICE\nDES",
+            "line_num": 15
+          },
+          {
+            "title": "Article S12",
+            "node_id": "0004",
+            "summary": "###### Article S12\n\nPRESTATIONS\nAINSI\nQUE",
+            "line_num": 23
+          },
+          {
+            "title": "Article S13",
+            "node_id": "0005",
+            "summary": "###### Article S13\n\nLES OBLIGATIONS\nQUI",
+            "line_num": 30
+          },
+          {
+            "title": "Article S14",
+            "node_id": "0006",
+            "summary": "###### Article S14\n\nINCOMBENT\nAUX",
+            "line_num": 36
+          },
+          {
+            "title": "Article S15",
+            "node_id": "0007",
+            "summary": "###### Article S15\n\nEMPLOYEURS\nET AUX",
+            "line_num": 42
+          },
+          {
+            "title": "Article S16",
+            "node_id": "0008",
+            "summary": "This partial document is the preamble or introductory section of a legal article (Article S16) from the Democratic Republic of the Congo. It enumerates the legal and regulatory texts that serve as the foundation and authority for the article that follows. The main points covered are the citations of various international conventions, the national constitution, national laws (primarily from July 2016 concerning social security, family code, and labor code), presidential ordinances (concerning government organization and appointments), and a key decree from July 2018 that created the National Social Security Fund (CNSS). The purpose is to establish the legal framework upon which the subsequent provisions of the article are based.",
+            "line_num": 48
+          },
+          {
+            "title": "Article S17",
+            "node_id": "0009",
+            "summary": "###### Article S17\n\nFINANCES/2015/0143\ndu\n12\nmai\n2015\nportant\ninstitution\nde\nla\nd�claration\net\ndu\npaiement\nuniques\ndes\nimp�ts,\ncotisations\nsociales\net\ncontributions\npatronales\nsur\nles\nr�mun�rations\n;\nRevu\nl�Arr�t�\nminist�riel\n8/61\ndu\n21\noctobre\n1961\nportant\nR�glement\ng�n�ral\nde\nl�assurance\n;\nRevu\nl�Arr�t�\nminist�riel\nn�",
+            "line_num": 355
+          },
+          {
+            "title": "Article S18",
+            "node_id": "0010",
+            "summary": "###### Article S18\n\n049/CAB/MIN/ETPS/MBL/2012\ndu\n10\nd�cembre\n2012\nrelatif\n� l�affiliation\ndes\nemployeurs,\n�\nl�immatriculation\ndes\ntravailleurs\nainsi\nqu�aux\nmodalit�s\net conditions\nde\nversement\ndes\ncotisations\n� la s�curit�\nsociale\n;\nConsid�rant\nla\nRecommandation\nno",
+            "line_num": 402
+          },
+          {
+            "title": "Article S19",
+            "node_id": "0011",
+            "summary": "###### Article S19\n\n25/CM/CIPRES\ndu\n23\nf�vrier\n2005,\nrelative\naux\ndispositions\napplicables\n�\nla\ngestion\ntechnique\ndes\nbranches\ndans\nles\nOrganismes\nde Pr�voyance\nSociale\ndes\nEtats\nmembres\nde\nla CIPRES\n;\nLe\nConseil\nNational\ndu\nTravail\net\nde\nla S�curit�\nSociale\nentendu\nen\nsa session\nordinaire\ndu\n18\nau 24\nmai\n2018\n;\nConsid�rant\nla\nn�cessit�\n;\nA R\nR E T\nE :",
+            "line_num": 434
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0012",
+            "summary": "###### Article S2\n\nMINISTERIEL\nN�",
+            "line_num": 490
+          },
+          {
+            "title": "TITRE I",
+            "node_id": "0013",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 496,
+            "nodes": [
+              {
+                "title": "Article S20",
+                "node_id": "0014",
+                "summary": "###### Article S20\n\n:",
+                "line_num": 499
+              },
+              {
+                "title": "Article S21",
+                "node_id": "0015",
+                "summary": "###### Article S21\n\nASSUJETTISSEMENT\nDES",
+                "line_num": 504
+              },
+              {
+                "title": "Article S22",
+                "node_id": "0016",
+                "summary": "###### Article S22\n\nEMPLOYEURS\nET\nDES",
+                "line_num": 510
+              }
+            ]
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0017",
+            "prefix_summary": "#### Chapitre\nI",
+            "line_num": 517,
+            "nodes": [
+              {
+                "title": "Article S23",
+                "node_id": "0018",
+                "summary": "This partial document outlines the legal definitions and mandatory enrollment requirements for employers and workers under the general social security regime in the Democratic Republic of Congo. It specifies that all employers using workers under a labor contract must enroll. It defines a \"worker\" broadly and lists eight categories of workers who are compulsorily enrolled, including domestic workers, state personnel without a special regime, and certain international workers. The document also begins to describe the administrative procedures for employer registration, including the use of a single form through a one-stop shop.",
+                "line_num": 521
+              },
+              {
+                "title": "Section",
+                "node_id": "0019",
+                "prefix_summary": "##### Section\n2 :\nFormalit�s",
+                "line_num": 1118,
+                "nodes": [
+                  {
+                    "title": "Article S24",
+                    "node_id": "0020",
+                    "summary": "This partial document outlines the registration and reporting requirements for employers and workers, likely within a social security or labor administration system. The main points covered are:\n\n1.  **Information Required for Employer Registration:** It details the data an employer must provide, including company details (start date, address, sector, workforce numbers) and extensive personal information about company leaders and managers (names, birth details, nationality, identification, criminal record).\n\n2.  **Specific Registration Forms:** It describes the contents of two key forms:\n    *   **Form Mod.AE:** For certain employers, requiring identification details, activity description, employment start date, number of workers, and total monthly wages.\n    *   **Form Mod.IMT (Worker Registration):** Mandatory for registering each worker within 15 days of hiring. It lists exhaustive personal and employment data for the worker, including family details (spouse, children), contract, salary, and education. Additional documents are required for foreign workers.\n\n3.  **Administrative Procedures:** It states that the administering \"Caisse\" (Fund) must issue an affiliation number to the employer within three days and must register the worker and issue a social security card within ten days of receiving the application.",
+                    "line_num": 1123
+                  },
+                  {
+                    "title": "Article S25",
+                    "node_id": "0021",
+                    "summary": "This partial document covers articles from a social security or labor code, detailing employer and worker obligations regarding registration, documentation, and declarations to the Social Security Fund (Caisse). The main points are:\n\n1.  **Automatic Coverage & Rejection of Registration**: If the Fund fails to register a worker on time, the worker is deemed covered in case of a social risk. A rejected registration must be formally motivated and notified.\n2.  **Worker Registration & Social Security Card**: Employers must request a worker's social security card upon hiring. If the worker is unregistered, the employer must complete the registration. Workers must report a lost card to get a replacement.\n3.  **Mandatory Declarations to the Fund**: Employers must declare all hiring and firing movements using a specific form (Mod.AM), providing details like company name, worker names, and dates. The union delegation must verify this declaration is made.\n4.  **Death Notification**: Employers must report a worker's death within 15 days using a certified form (Mod.AD), containing specific details about the employer, the deceased worker, and the death.\n5.  **Penalties for Non-Compliance**: Employers who fail to comply with affiliation and registration formalities are subject to fines as stipulated by the broader social security law.",
+                    "line_num": 1788
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE II",
+            "node_id": "0022",
+            "prefix_summary": "#### TITRE II",
+            "line_num": 2161,
+            "nodes": [
+              {
+                "title": "Article S26",
+                "node_id": "0023",
+                "summary": "###### Article S26\n\n:",
+                "line_num": 2164
+              },
+              {
+                "title": "Article S27",
+                "node_id": "0024",
+                "summary": "###### Article S27\n\nPERCEPTION\nDES",
+                "line_num": 2169
+              }
+            ]
+          },
+          {
+            "title": "partie",
+            "node_id": "0025",
+            "prefix_summary": "## partie\nd",
+            "line_num": 2175,
+            "nodes": [
+              {
+                "title": "Article S28",
+                "node_id": "0026",
+                "summary": "This partial document is from Article S28 of a legal text, focusing on social security contributions in the Democratic Republic of the Congo. The main points covered are:\n\n1.  **Definition of Contribution Base (Assiette):** It defines the \"worker's contribution base\" as the total remuneration subject to contributions. It provides a detailed, non-exhaustive list of what is included (e.g., salary, commissions, bonuses, benefits in kind, paid leave) and what is specifically excluded (e.g., healthcare, housing allowance, transport costs) from this remuneration.\n\n2.  **Calculation of Contributions:** It states that employer contributions are calculated by applying rates, set by a Prime Ministerial Decree, to the total remuneration defined in Article 17.\n\n3.  **Declaration of Contributions:** It outlines the obligation to declare contributions monthly, within 15 days following the relevant civil month. It specifies two declaration methods: through a single administrative window (using a unified monthly declaration form) or through the competent territorial office of the Social Security Fund. It imposes penalties for late declaration and notes that the unified declaration is self-assessing.",
+                "line_num": 2179
+              },
+              {
+                "title": "Article S29",
+                "node_id": "0027",
+                "summary": "This partial document outlines specific administrative requirements and reporting formats for social security contributions and payroll declarations in a regulatory context. It details the mandatory information to be included in three key documents: a general debtor identification form (Article S29), an employer contribution declaration form (Mod. DC, Article 23), and an individual worker's pay slip (Article 25). The main points covered are the precise data fields required for each form, rules for submission (including electronic transmission for employers with over 25 workers), and the monthly reporting obligation for social contributions, even if no workers were employed.",
+                "line_num": 2794
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0028",
+                "summary": "###### Article S3\n\n146/CAB/MINETAT/MTEPS/01/2018\nDU\n10\nNOVEMBRE\n2018\nFIXANT\nLES",
+                "line_num": 3448
+              },
+              {
+                "title": "Chapitre",
+                "node_id": "0029",
+                "prefix_summary": "#### Chapitre\nII\n:\nModalit�s",
+                "line_num": 3459,
+                "nodes": [
+                  {
+                    "title": "Article S30",
+                    "node_id": "0030",
+                    "summary": "This partial document covers a section of regulations concerning the declaration, payment, and collection of social security contributions.\n\nThe main points are:\n\n1.  **Employer Obligations for Contribution Payments:** The employer is solely responsible for paying all due contributions to the Fund (\"Caisse\"), including the worker's share. This responsibility is definitive and cannot be transferred. Specific rules are outlined for workers employed successively by multiple employers.\n\n2.  **Payment Deadlines and Penalties:** Contributions must be credited to the Fund's account within 15 days following the relevant calendar month. Failure to pay on time results in a penalty and requires regularization within a short grace period. In cases of cessation of activity, all due contributions become immediately payable.\n\n3.  **Accepted Payment Methods:** Contributions can be paid via bank transfer, cash deposit slip, cheque, or in cash at the Fund's counter. Any payment must specify key details like the employer's name, affiliation number, period, and amount.\n\n4.  **Collection Procedures for Unpaid Sums:** The collection process is initiated by the Fund sending a certified account statement to the employer, which serves as a formal demand for payment. This statement must contain specific information about the employer and the debt.\n\n5.  **Escalation to Enforcement:** If the employer does not comply within eight days of receiving the demand, the Fund can issue an authenticated certificate of debt. Once approved by the relevant Minister, this certificate becomes an enforceable title, allowing for seizure and other recovery measures as per OHADA uniform law. The debt collection action is subject to a ten-year statute of limitations.",
+                    "line_num": 3465
+                  },
+                  {
+                    "title": "Article S31",
+                    "node_id": "0031",
+                    "summary": "This partial document outlines employer obligations and penalties related to social security contributions. It specifies the required information employers must provide (name, registration number, address, and total contributions due). It details the calculation of late payment penalties and establishes a three-month appeal process for contesting official notices, with consequences for acceptance or rejection of the appeal. Finally, it lists fines for intentionally providing inaccurate information or omitting to withhold/pay worker contributions, citing specific articles of a 2016 social security law, and notes that penalties are doubled for repeat offenses.",
+                    "line_num": 4094
+                  }
+                ]
+              },
+              {
+                "title": "TITRE III",
+                "node_id": "0032",
+                "prefix_summary": "#### TITRE III",
+                "line_num": 4392,
+                "nodes": [
+                  {
+                    "title": "Article S32",
+                    "node_id": "0033",
+                    "summary": "###### Article S32",
+                    "line_num": 4395
+                  },
+                  {
+                    "title": "Article S33",
+                    "node_id": "0034",
+                    "summary": "###### Article S33\n\n: LIQUIDATION\nET\nSERVICE\nDES",
+                    "line_num": 4398
+                  }
+                ]
+              },
+              {
+                "title": "titre",
+                "node_id": "0035",
+                "prefix_summary": "#### titre\nd",
+                "line_num": 4406,
+                "nodes": [
+                  {
+                    "title": "Article S34",
+                    "node_id": "0036",
+                    "summary": "The partial document covers the legal provisions for family benefits within a social security system. It defines the three types of benefits included in the family benefits branch: prenatal allowances, maternity allowances, and family allowances. It outlines the general conditions for eligibility, including registration with the social security fund, proof of professional activity, and payment of contributions. The text then details the specific conditions and procedures for obtaining prenatal allowances, including the purpose of the benefit, eligibility criteria for insured women or spouses, the required declaration of pregnancy within the first three months, the contents of the declaration form, and the issuance of a pregnancy and maternity record book. The payment of prenatal allowances is conditional upon the submission of medical certificates.",
+                    "line_num": 4410
+                  },
+                  {
+                    "title": "Article S35",
+                    "node_id": "0037",
+                    "summary": "This partial document outlines regulations for prenatal and maternity benefits within a social security system (Caisse). It specifies the mandatory medical examinations required during pregnancy (3rd, 6th, and 8th months) and details the information required on official medical certificates (forms F2, F3, F4). It defines the eligibility conditions, required documentation (including forms F5 and F6), and application procedures for receiving maternity allowances, which are payable for the entire nine months of pregnancy. The document also states the fixed monetary amount for the maternity allowance per birth and briefly introduces a daily allowance (Indemnité journalière).",
+                    "line_num": 5043
+                  },
+                  {
+                    "title": "Article S36",
+                    "node_id": "0038",
+                    "summary": "This partial document outlines regulations for maternity benefits (indemnité journalière de maternité) within a social security system. The main points covered are:\n\n1. **Purpose and Eligibility Conditions**: The daily maternity allowance compensates for lost wages during maternity leave. Eligibility requires the insured woman to be registered with the fund for at least 12 months before the presumed delivery date and to cease all salaried work during the 14-week leave period (6 weeks before and 8 weeks after delivery).\n\n2. **Required Procedures and Documentation**: Detailed instructions are given for submitting the maternity allowance application (form F7), including distribution of copies and required information about the insured woman, employer, and beneficiary. The process requires supporting documents such as pay slips, a medical certificate, employer notification, and, upon return to work, documents like a birth certificate and employer attestation. Procedures for extension of leave are also described.\n\n3. **Calculation and Duration of the Allowance**: The allowance is paid for 14 weeks, contingent on cessation of work. It may be extended for up to three additional weeks if medically justified due to pregnancy or childbirth-related illness.",
+                    "line_num": 5698
+                  },
+                  {
+                    "title": "Article S37",
+                    "node_id": "0039",
+                    "summary": "This partial document covers regulations related to maternity leave benefits and family allowances. It specifies that the estimated delivery date cannot prevent a woman from receiving her entitled maternity benefit, details the calculation of the daily maternity allowance based on average salary, and outlines the conditions, application procedures, and calculation methods for family allowances. It defines eligible children, lists the required declarations and documents for employers and employees, and sets conditions for maintaining the allowance, such as medical certificates for young children and school attendance certificates for older children.",
+                    "line_num": 6332
+                  }
+                ]
+              },
+              {
+                "title": "Chapitre",
+                "node_id": "0040",
+                "prefix_summary": "#### Chapitre\nII\n: Branche",
+                "line_num": 6961,
+                "nodes": [
+                  {
+                    "title": "Article S38",
+                    "node_id": "0041",
+                    "summary": "This partial document covers two main sections of social security regulations, likely from the Democratic Republic of the Congo.\n\nThe first main point details the rules for **family allowances**. It specifies:\n*   The monthly payment schedule and beneficiary conditions (children must be dependents, living with the worker, and not engaged in lucrative work).\n*   Definitions of \"effectively living with\" the worker, including for students and family separations due to work, force majeure, employer actions, or custom.\n*   The start of entitlement from a child's birth.\n*   Non-cumulation with prenatal allowances.\n*   Eligibility requirements based on a minimum of 15 days or 120 hours of work in a month.\n*   How the monthly amount is calculated (per child rate and number of children).\n\nThe second main point introduces the branch of **occupational risks**. It covers:\n*   The definition of covered risks: occupational accidents and occupational diseases (including diseases of occupational origin).\n*   A detailed definition of an occupational accident, including commute accidents and accidents during work-related travel.\n*   Definitions of occupational diseases and diseases presumed to be of occupational origin, and the process for recognizing the latter.\n*   The types of benefits provided in case of an accident or disease: benefits in kind (medical, surgical, dental care, pharmaceuticals, hospital maintenance, and transport) and/or cash benefits.",
+                    "line_num": 6966
+                  },
+                  {
+                    "title": "Section",
+                    "node_id": "0042",
+                    "prefix_summary": "##### Section\n3 :\nFormalit�s",
+                    "line_num": 7587,
+                    "nodes": [
+                      {
+                        "title": "Article S39",
+                        "node_id": "0043",
+                        "summary": "This partial document covers sections of a social security or workers' compensation law, detailing the benefits provided for work-related injuries and occupational diseases, as well as the reporting obligations for employers.\n\nThe main points are:\n1.  **List of In-Kind Benefits (Article S39):** Specifies medical and support services covered, including transportation for treatment, provision/maintenance of orthopedic/prosthetic devices, glasses, nursing care, home visits, and functional rehabilitation/professional re-training.\n2.  **List of Cash Benefits (Article 76):** Enumerates financial compensations, such as daily allowances for temporary incapacity, pensions for permanent incapacity, survivors' pensions, funeral expense allowances, and rehabilitation/reclassification costs.\n3.  **Employer Reporting Obligations (Article 77):** Requires employers to declare work accidents (within 60 days) and occupational diseases (within 120 days) to the relevant fund (\"Caisse\") using specific forms (A1 and M1). It outlines procedures if the employer fails to report and specifies deadlines for victims or their representatives to file declarations.\n4.  **Content of Accident Declaration Form (Article 78):** Details the extensive information required on the accident report form (Model A1), including details about the employer, the victim, witnesses, the accident circumstances, and the victim's remuneration. It also specifies distribution copies of the report and allows for electronic submission.\n5.  **Content of Occupational Disease Declaration Form (Article 79):** Begins listing the required information for the occupational disease report form (Model M1), mirroring many details from the accident report, such as information about the employer and the victim.",
+                        "line_num": 7592
+                      },
+                      {
+                        "title": "Article S4",
+                        "node_id": "0044",
+                        "summary": "###### Article S4\n\nMODALITES",
+                        "line_num": 8236
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Section",
+                    "node_id": "0045",
+                    "prefix_summary": "##### Section\n4 :\nCalcul",
+                    "line_num": 8241,
+                    "nodes": [
+                      {
+                        "title": "Article S40",
+                        "node_id": "0046",
+                        "summary": "This partial document covers administrative procedures and compensation rules for work-related accidents or occupational diseases under a social security system. It details the required elements of an employer's declaration of an incident, the distribution of documents to various authorities (the Fund/Caisse, the victim, employer, labor inspection, and social welfare division), and the medical certification process using specific forms (A1/A2, M1/M2, A3/M3, A4/M4). It also outlines the employer's obligations for providing and renewing medical follow-up certificates. Finally, it specifies the calculation and conditions for daily incapacity benefits (indemnité journalière), including the rate (two-thirds of average daily wage) and reductions during hospitalization for workers without family dependents.",
+                        "line_num": 8246
+                      },
+                      {
+                        "title": "Article S41",
+                        "node_id": "0047",
+                        "summary": "This partial document outlines regulations for calculating compensation (rent and allowances) for victims of work-related accidents. It specifies how to determine the average daily and monthly remuneration used as the basis for calculations, particularly for victims with less than three months of service. It details the rules for permanent disability pensions, including rates for total (85% of average monthly pay) and partial disability (adjusted by degree of incapacity). It covers the assessment process for permanent partial disability, medical expertise in case of disagreement, and a supplement for victims requiring constant assistance. It also addresses cases where disability is below 15% (replaced by a lump-sum allowance) and rules for recalculating benefits if a beneficiary suffers a subsequent accident, including using the highest salary base. Finally, it mentions entitlement to family allowances during temporary incapacity or for permanent disability above 66%.",
+                        "line_num": 8873
+                      },
+                      {
+                        "title": "Article S42",
+                        "node_id": "0048",
+                        "summary": "The partial document covers articles from a legal or regulatory text concerning workers' compensation and occupational injury/illness benefits. Main points include: the temporary nature of incapacity pensions and procedures for revision based on medical reassessment; specific remuneration rules for apprentices, trainees, and detainees; employer obligations in the event of an accident; and the comprehensive coverage of medical care, prosthetics, and in-kind benefits (medical assistance, pharmaceuticals, hospitalization, transport) by the responsible fund (\"Caisse\"), including terms for reimbursement and emergency care.",
+                        "line_num": 9488
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Chapitre",
+                "node_id": "0049",
+                "prefix_summary": "#### Chapitre\nIII :\nBranche",
+                "line_num": 10138,
+                "nodes": [
+                  {
+                    "title": "Article S43",
+                    "node_id": "0050",
+                    "summary": "This partial document covers provisions from a social security or labor code, specifically detailing benefits and procedures related to work accidents, occupational diseases, and pensions.\n\nThe main points are:\n\n1.  **Covered Medical Aids and Rehabilitation (Article S43):** It lists items and services covered following a work accident, such as prosthetic/orthopedic devices, glasses, nursing care, home visits, and functional rehabilitation/reclassification.\n\n2.  **Survivor Benefits in Case of Fatal Accident (Article 97):** It outlines the financial reparations allocated to survivors of a deceased worker, including:\n    *   A lifetime pension for the surviving spouse (with conditions on marriage duration and cessation upon remarriage).\n    *   Orphan pensions for children.\n    *   Pensions for dependent direct ascendants (parents) if there is no surviving spouse or children.\n    *   A funeral expense allowance.\n\n3.  **Minimum Pension Amount (Article 98):** It establishes a floor for disability or survivor pensions, stating they cannot be less than 25% of the guaranteed minimum wage for an ordinary laborer.\n\n4.  **Pension Benefits Overview (Article 99):** It states that the pension branch provides retirement pensions, old-age allowances, disability pensions, and survivor pensions.\n\n5.  **Retirement Pension and Old-Age Allowance (Articles 100-103):** This section details the conditions and procedures for retirement, including:\n    *   The retirement age (60 years) and minimum insurance period (180 months/15 years).\n    *   The requirement to cease all salaried activity.\n    *   Provisions for an old-age allowance if the insurance period is insufficient.\n    *   An option to buy back missing contribution months.\n    *   The administrative formalities for applying for a retirement pension.",
+                    "line_num": 10143
+                  },
+                  {
+                    "title": "Article S44",
+                    "node_id": "0051",
+                    "summary": "This partial document outlines the administrative and legal provisions for a retirement pension system. The main points covered are:\n\n1.  **Required Information for a Pension Application:** It lists the 13 specific pieces of personal, familial, employment, and financial information an applicant must declare, along with the supporting documents required.\n\n2.  **Calculation of Retirement Pension and Old-Age Allowance:**\n    *   The retirement pension is calculated based on an average monthly salary.\n    *   A base rate of 40% is granted after 180 months (15 years) of insurance, with increases for longer contribution periods.\n    *   Minimum and maximum pension amounts are defined.\n    *   The old-age allowance is calculated as twice the last contributory salary per 12-month insurance period, with a legal minimum.\n\n3.  **Conditions and Procedures for Early Retirement:** It details the eligibility criteria for voluntary early retirement (age 55+, 180 months of insurance, cessation of work) and for early retirement due to disability. It also specifies the application form (PA1/PA2) and the additional declarations required from the applicant.",
+                    "line_num": 10797
+                  },
+                  {
+                    "title": "Section",
+                    "node_id": "0052",
+                    "prefix_summary": "##### Section\n2 :\nPension",
+                    "line_num": 11442,
+                    "nodes": [
+                      {
+                        "title": "Article S45",
+                        "node_id": "0053",
+                        "summary": "This partial document covers regulations concerning early retirement pensions and disability pensions under a social security scheme (Caisse). It details two types of early retirement: voluntary (PA1) and due to premature physical/mental wear (PA2), specifying who must apply, employer obligations, and required documentation. It states that voluntary early pension amounts are reduced by 5% per year of early retirement.\n\nThe document then defines eligibility for a disability pension (invalidity), requiring a permanent reduction in capacity certified by a doctor, making the insured unable to earn one-third of a comparable worker's wage. It outlines conditions, including minimum insurance periods for non-professional illness and different rules for non-professional accidents. It specifies the application process (form PI1), required declarations by the applicant, and the necessary accompanying medical certificate (form PI2) detailing the nature and cause of the disability, excluding cases due to intentional fault or special risks like crimes or accidents during certain activities.",
+                        "line_num": 11447
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Section",
+                    "node_id": "0054",
+                    "prefix_summary": "##### Section\n3 :\nPension",
+                    "line_num": 12067,
+                    "nodes": [
+                      {
+                        "title": "Article S46",
+                        "node_id": "0055",
+                        "summary": "This partial document covers sections from a legal or social security code related to disability and survivor pensions. The main points include:\n\n1.  **Exclusions from Coverage:** Lists conditions (e.g., accidents from dangerous sports, intoxication, intentional fault, work for a third party, war) under which a disease or accident is not covered.\n2.  **Medical Certification Requirements:** Details what a medical certificate must contain, including examinations performed, description of affections, and, if necessary, a statement that the invalid requires constant assistance from a third person. It also outlines procedures for revision exams if the disability's permanence is uncertain.\n3.  **Calculation of Disability Pension:** Explains that the disability pension is calculated like a retirement pension and is replaced by a retirement pension at age 65. It specifies a 50% increase if constant assistance from a third person is required.\n4.  **Survivors' Pension and Allocation:** Defines the conditions for entitlement to a survivors' pension (e.g., death of a pension holder or insured meeting certain criteria) and who qualifies as a survivor (spouse, children, dependent ascendants). It also covers the extinction of the spouse's pension upon remarriage and the conditions for a lump-sum survivor's allocation.\n5.  **Application Formalities:** Describes the procedure for applying for survivors' benefits, including the required form (Model PS) and its distribution to the relevant parties.",
+                        "line_num": 12072
+                      },
+                      {
+                        "title": "Article S47",
+                        "node_id": "0056",
+                        "summary": "This partial document covers the procedural requirements for applying for survivors' pensions. It details the declarations required from the claimant regarding the deceased worker and themselves (including information for spouses, orphans, or ascendants). It specifies additional information needed if no prior retirement or disability pension application was made by the deceased, including employment history and earnings. It outlines the employer's certification obligations regarding the claimant's declarations and the eligibility of beneficiaries. Finally, it introduces the topic of calculating survivors' pensions and allowances.",
+                        "line_num": 12733
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Chapitre",
+                "node_id": "0057",
+                "prefix_summary": "#### Chapitre\nIV\n:\nDispositions",
+                "line_num": 13410,
+                "nodes": [
+                  {
+                    "title": "Article S48",
+                    "node_id": "0058",
+                    "summary": "This partial document covers regulations regarding survivor benefits and administrative procedures for social security pensions.\n\nThe main points are:\n\n1.  **Distribution of Survivor Pensions (Article 128):** It details how a deceased insured person's retirement, disability, or early retirement pension is allocated to survivors. The surviving spouse receives 50%, and the other 50% is shared equally among school-age orphans (up to age 25 for students). A remarried surviving spouse is entitled to a lump-sum payment. If there is no surviving spouse, the orphans' share is doubled. In the absence of both a spouse and orphans, dependent direct ascendants receive 100% of the pension.\n\n2.  **Lump-Sum Survivor Allocation (Article 129):** Specifies that a lump-sum survivor's allowance is equal to twelve times the monthly retirement pension the insured would have been entitled to after 180 months of insurance, distributed according to the rules in Article 128.\n\n3.  **Effective Date of Pensions (Article 130):** Establishes that old-age, disability, early, and survivor pensions start on the first day of the month following the one in which the eligibility conditions are met. Payments are not backdated for more than six months from the application date.\n\n4.  **Notification of Decisions:**\n    *   **For Family Benefits (Article 131):** Mandates that decisions granting or denying family benefits must be notified directly to the declarant or claimant, listing specific required information for both approvals and refusals.\n    *   **For Pensions and Occupational Risks (Articles 132-134):** Decisions on pensions, annuities, and allowances must be notified to the insured or their beneficiaries. A granting decision results in a formal \"brevet\" (certificate) containing detailed personal, financial, and administrative information. Refusals must be reasoned and include specific details about the insured. Notification can be done by electronic mail.",
+                    "line_num": 13416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "partie",
+            "node_id": "0059",
+            "prefix_summary": "## partie\nd",
+            "line_num": 14073,
+            "nodes": [
+              {
+                "title": "Article S49",
+                "node_id": "0060",
+                "summary": "This partial document covers sections of regulations related to social security benefits administration. The main points are:\n\n1.  **Required Information for a Benefit Decision:** It lists the mandatory elements that must be included in a notification of a benefit decision, such as applicant details, file number, nature of the requested benefit, and justification for any refusal.\n\n2.  **Handling of Supporting Documents:** It specifies that original documents submitted by an applicant are returned upon notification of the decision, while certified copies are kept in the fund's archives.\n\n3.  **Appeals Process (Graceful and Hierarchical):** It outlines the procedure for appealing a decision. Applicants have six months to file an appeal with the competent management center or the Director General. The fund has 30 days to respond. If unsatisfied, the beneficiary can refer the matter to a technical commission before going to court.\n\n4.  **Payment of Family Benefits:** This section details the payment methods (bank transfer or cash) and specific rules for:\n    *   **Prenatal and Maternity Allowances:** Payment schedules and beneficiaries (e.g., to the mother or, in case of her death, the child's guardian).\n    *   **Daily Maternity Indemnity:** Payment is made monthly upon submission of required documents, with provisions for employer subrogation if they continue salary payments.\n    *   **Family Allowances:** Paid in arrears monthly or quarterly, with rules for payment in cases of a child's death, cessation of professional activity, and the death of the insured. Payment can be made via the fund or delegated to the employer under specific conditions.\n\n5.  **Payment of Other Benefits:** It mentions the payment of pensions, old-age and survivor allowances, annuities, and disability indemnities, though details for these are not provided in this excerpt.",
+                "line_num": 14077
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0061",
+                "summary": "###### Article S5\n\nD'AFFILIATION\nDES",
+                "line_num": 14710
+              },
+              {
+                "title": "Article S50",
+                "node_id": "0062",
+                "summary": "This partial document outlines the administrative procedures and regulations for the payment and management of social benefits (pensions, survivor benefits, disability allowances) by a social security fund (\"la Caisse\"). The main points covered are:\n\n*   **Payment Frequency:** Benefits are generally paid quarterly, but monthly payments or other arrangements can be determined by the fund's administration.\n*   **Payment Processing:** The fund transmits funds and detailed beneficiary lists (including names, addresses, decision numbers, and amounts due) to payment centers and banks, which can be done electronically.\n*   **Reporting and Reconciliation:** Payment centers must return proof of payments, unpaid amounts, and reasons for non-payment within three months, with a partial report required after 45 days. Banks report within three months, and all entities must return any leftover funds to designated accounts.\n*   **Temporary Disability Benefits:** These are paid at the same regular intervals as wages (weekly to monthly), directly to the beneficiary, spouse, or an authorized proxy. Employers who continue paying an incapacitated employee are subrogated to the employee's rights to the allowance if they are up-to-date on social contributions.\n*   **Change of Address:** Beneficiaries must notify their payment center of any address change using a specific form or letter, accompanied by copies of identification and the social benefit certificate.\n*   **Physical Verification:** Pension/annuity beneficiaries must undergo a physical check at their payment center at the start of each semester. Orphan beneficiaries must do so during the first quarter of each year, with required documents (birth certificate or certificate of life) specified based on the child's age (under 6 or at least 6 years old).",
+                "line_num": 14716
+              }
+            ]
+          },
+          {
+            "title": "partie",
+            "node_id": "0063",
+            "prefix_summary": "## partie\nd",
+            "line_num": 15334,
+            "nodes": [
+              {
+                "title": "Article S51",
+                "node_id": "0064",
+                "summary": "This partial document covers sections of a legal or regulatory text, likely from the Democratic Republic of Congo, dealing with social security administration. The main points are:\n\n1.  **Documentation Requirements for Dependents:** It specifies the documents needed to prove the status of children (e.g., school attendance certificates, apprenticeship certificates, or medical certificates for those unable to work).\n\n2.  **Payment Methods for Pensions and Annuities:** It outlines how pensions and annuities are paid (directly by the fund, through banks, or designated payers), including specific methods for sick/invalid beneficiaries and for beneficiaries residing abroad (involving reciprocity agreements).\n\n3.  **Treatment of Unpaid Benefits upon Death:** It states that unpaid pension/annuity arrears are paid to the deceased beneficiary's rightful claimants, and are not disbursed if no claimants exist.\n\n4.  **Definition of Remuneration and Career:** It defines key terms for calculating social benefits: \"remuneration,\" \"average monthly remuneration\" (with detailed calculation rules), and \"career\" (the period from registration to cessation of salaried activity).\n\n5.  **Rules on Combining Benefits:** It states that family benefits cannot be combined with retirement, early retirement, or disability pensions. The text begins to address rules following a work accident before cutting off.",
+                "line_num": 15338
+              },
+              {
+                "title": "Chapitre",
+                "node_id": "0065",
+                "prefix_summary": "#### Chapitre\nV :\nDispositions",
+                "line_num": 15955,
+                "nodes": [
+                  {
+                    "title": "Article S52",
+                    "node_id": "0066",
+                    "summary": "This partial document outlines rules for combining different types of disability, survivor, and retirement pensions within a social security or insurance system. It specifies that when a beneficiary is entitled to both a permanent disability annuity and an invalidity pension due to a work-related illness, only the annuity is paid, with a supplemental payment if the pension amount is higher. Similar rules apply to survivor benefits. It details how multiple pensions or annuities are combined, typically granting the highest benefit plus half of the other. The document also covers the continuation of family allowances for survivors, the cessation and resumption of various pensions when conditions change, and the transition from daily accident benefits to permanent disability annuities. It establishes procedures for reviewing and adjusting invalidity pensions based on periodic medical examinations.",
+                    "line_num": 15960
+                  },
+                  {
+                    "title": "Article S53",
+                    "node_id": "0067",
+                    "summary": "This partial document outlines regulations from a social security or insurance decree (arrêté). It covers the conditions under which benefits can be suspended, denied, or expire. The main points are:\n\n1.  **Obligations of the Beneficiary:** The insured person cannot refuse required medical exams (risk of pension suspension) and must comply with administrative formalities and use provided medical/rehabilitation services.\n\n2.  **Time Limits for Revision and Prescription:**\n    *   Limits are set for revising a disability assessment (5, 10, or 15 years depending on cause).\n    *   Strict prescription (statute of limitation) periods are defined for claiming different benefits (e.g., 1 year for daily allowances, 10 years for pensions).\n\n3.  **Grounds for Suspension or Denial of Benefits:** Rights can be suspended for non-compliance or lost if the event was caused by an intentional fault or an infraction of social security regulations. However, survivors may still receive half the benefits in case of death.\n\n4.  **Third-Party Liability:** If an event is due to a third party's fault, the fund pays the insured but is subrogated to their rights to seek recovery from that third party. The employer is only considered a liable third party in cases of intentional harm.\n\n5.  **Payment Rules for Accrued Rights:** Unclaimed liquidated benefits expire after 1 or 3 years depending on the type. Arrears for pensions/rentes are not paid for periods more than six months prior to the application date.\n\n6.  **Pension Rules:** A person receiving an early pension cannot also claim a retirement pension. If a pensioner resumes salaried activity, their pension is suspended and their new earnings are subject to contributions.",
+                    "line_num": 16616
+                  },
+                  {
+                    "title": "Article S54",
+                    "node_id": "0068",
+                    "summary": "This partial document contains articles from a social security regulation or ministerial decree, likely from the Democratic Republic of Congo (referencing Kinshasa and Law n°16/009). The main points covered are:\n\n1.  **Protection of Social Security Benefits:** It specifies that social security payments are only attachable/transferable for specific debts (housing loans from the Fund or alimony obligations), and only up to a limited fraction (one-fifth or one-third). Family allowances are completely non-attachable and non-transferable.\n2.  **Exemption from Fees:** Documents required to obtain benefits are exempt from all duties and must be issued free of charge.\n3.  **Penalties for Fraud:** It establishes penalties for anyone who intentionally makes false declarations to obtain benefits or advantages for themselves or others, referencing specific legislation.\n4.  **Continuity and Valorization of Benefits:** It states that granted pensions, annuities, and family benefits continue to be paid under the conditions of the awarding decision. Any potential increase in benefit values is determined by a ministerial order.\n5.  **Administrative Provisions:** The text includes standard legal clauses regarding the effective date of the decree (January 1, 2019), the abrogation of contrary prior provisions, and the official (Director General of the National Social Security Fund) charged with its execution.",
+                    "line_num": 17247
+                  },
+                  {
+                    "title": "Article S6",
+                    "node_id": "0069",
+                    "summary": "###### Article S6\n\nEMPLOYEURS,",
+                    "line_num": 17575
+                  },
+                  {
+                    "title": "Article S7",
+                    "node_id": "0070",
+                    "summary": "###### Article S7\n\nD�IMMATRICULATION",
+                    "line_num": 17580
+                  },
+                  {
+                    "title": "Article S8",
+                    "node_id": "0071",
+                    "summary": "###### Article S8\n\nDES TRAVAILLEURS,",
+                    "line_num": 17585
+                  },
+                  {
+                    "title": "Article S9",
+                    "node_id": "0072",
+                    "summary": "###### Article S9\n\nDE PERCEPTION\nDES",
+                    "line_num": 17590
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "83226a0f-b0fb-45e8-b154-2f1802032804"
+    ],
+    "0002": [
+      "96797c6d-af2d-483b-937a-f79138d13d10"
+    ],
+    "0003": [
+      "f7a5def8-6aec-40f4-ad3c-0fe8af338d5b"
+    ],
+    "0004": [
+      "c46b026f-6845-4f43-8cac-4f272ef3aac4"
+    ],
+    "0005": [
+      "b444c871-ddb5-4682-a483-300053dd019f"
+    ],
+    "0006": [
+      "17328af5-9786-4ded-9da3-abcd72c789e8"
+    ],
+    "0007": [
+      "cc758967-b429-45f9-9f9d-7d2fd8d0f7f6"
+    ],
+    "0008": [
+      "e3a478f5-fe90-4ec1-a5a7-c5f4f8333ee7"
+    ],
+    "0009": [
+      "5ce2d5b6-20a7-4336-96d3-b288513711b1"
+    ],
+    "0010": [
+      "bd8a4766-403c-48b6-ba6a-acc2e44062b9"
+    ],
+    "0011": [
+      "3bb82054-519a-49cf-b1dd-c1469a3da846"
+    ],
+    "0012": [
+      "bb77d514-5b9d-42fb-924e-62665bb7a673"
+    ],
+    "0014": [
+      "3ab3ea6b-9dc3-40f7-a27f-6d2f3e5a0bf2"
+    ],
+    "0015": [
+      "4e111113-cef2-4637-b1fa-d669031f0af7"
+    ],
+    "0016": [
+      "3684c36e-1100-4e72-bafb-52724e38a35c"
+    ],
+    "0018": [
+      "d73a5ea1-6e0e-4d4a-8a78-9671ed52c5d4"
+    ],
+    "0020": [
+      "19895c24-9549-48dc-95da-35257afc5569"
+    ],
+    "0021": [
+      "5bc46511-d4ee-4d6e-a3b5-1a7a6a864c4f"
+    ],
+    "0023": [
+      "607e9423-44d3-4970-b7ec-ba74a9ad59c5"
+    ],
+    "0024": [
+      "2b845da4-e52d-4e9a-a7b3-e357f387068e"
+    ],
+    "0026": [
+      "61231ab2-9f3a-494b-8500-a0f8aeb07c68"
+    ],
+    "0027": [
+      "04cff751-3ba5-4ea7-940a-a06869154944"
+    ],
+    "0028": [
+      "619006ff-3395-493a-ad8d-c8a49099cb31"
+    ],
+    "0030": [
+      "90def7bf-3d36-4d8a-9eb6-d0378b315b6b"
+    ],
+    "0031": [
+      "63744d47-202c-4c5f-9762-adc984e32a41"
+    ],
+    "0033": [
+      "0f0a0a9d-5057-44c8-9f78-e0becce90ae4"
+    ],
+    "0034": [
+      "1d052f21-a1a6-467e-807b-bf6e7e02b79e"
+    ],
+    "0036": [
+      "52302aad-8fae-452e-a1fe-fbe6ffc1d5b2"
+    ],
+    "0037": [
+      "283a0ebe-b26a-4b24-9abf-c0884d5dc41d"
+    ],
+    "0038": [
+      "5b5e3523-923c-4b3d-8896-3640bd6eb94c"
+    ],
+    "0039": [
+      "7e4d8b77-2a1b-4807-a2a4-939387cdae09"
+    ],
+    "0041": [
+      "e0969c60-9b52-4875-abaf-b1038aad9ed7"
+    ],
+    "0043": [
+      "6ca6dabb-cea5-4cf2-8675-af91b7ab132b"
+    ],
+    "0044": [
+      "ca60b656-dec4-4e44-996f-cf2c6ca61204"
+    ],
+    "0046": [
+      "48180e8c-355b-4c88-a75f-34487da1a22c"
+    ],
+    "0047": [
+      "c893fd99-65ee-4780-9528-6ba064f11d10"
+    ],
+    "0048": [
+      "856979d8-21d0-4f14-88e0-9e0afd202609"
+    ],
+    "0050": [
+      "ac72701c-3ce4-416c-be37-5922ccc4c5b6"
+    ],
+    "0051": [
+      "2d2bad2f-a4f4-4bd3-9c37-9dd8d147fdca"
+    ],
+    "0053": [
+      "4e446be4-3af3-465a-92df-3162c91a7d3b"
+    ],
+    "0055": [
+      "4fa7c74c-b6a0-419f-949c-68e8bb831a27"
+    ],
+    "0056": [
+      "198f146f-6ae3-47f1-bb9f-5e98347d702a"
+    ],
+    "0058": [
+      "c2aa49dd-eef7-4533-97f8-04fdadfb0db0"
+    ],
+    "0060": [
+      "a2d3ecaf-7d8e-4650-900b-1ba116443b0f"
+    ],
+    "0061": [
+      "505391b8-1ff8-43ce-8356-04813e6e2fa5"
+    ],
+    "0062": [
+      "c71525a2-5d8e-4768-bde5-5be199f44076"
+    ],
+    "0064": [
+      "a60d96e3-a2cc-4ef4-b896-2014e5cc867c"
+    ],
+    "0066": [
+      "4316c39d-3826-41da-8bf0-2afaeb7cdd48"
+    ],
+    "0067": [
+      "e4dbff09-6835-42dc-b498-caeb083a8a05"
+    ],
+    "0068": [
+      "7d4122a3-9c4a-4061-92cb-13368c74811f"
+    ],
+    "0069": [
+      "d5afa294-45ab-41c4-b7d1-6236018a116f"
+    ],
+    "0070": [
+      "785a93f6-b567-4f41-94ae-cf6fd6604921"
+    ],
+    "0071": [
+      "601e7e37-f1a0-4f11-820e-a3675e5917ab"
+    ],
+    "0072": [
+      "cf91dde8-7410-42e8-a115-c56cba109b62"
+    ]
+  },
+  "node_count": 73,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:36:52.435265",
+  "article_count": 54,
+  "generation_time_s": 68.8454098701477
+}

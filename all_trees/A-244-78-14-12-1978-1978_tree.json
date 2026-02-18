@@ -1,0 +1,41 @@
+{
+  "slug": "A-244-78-14-12-1978-1978",
+  "bundle_path": "backups/all_bundles/code/A-244-78-14-12-1978-1978.json",
+  "document_id": "ecae3adf-e3d6-45d4-9594-8a5efe60899a",
+  "document_title": "A.244.78.14.12.1978",
+  "tree_json": {
+    "doc_name": "A-244-78-14-12-1978-1978",
+    "structure": [
+      {
+        "title": "A.244.78.14.12.1978",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "line_num": 42
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "6b18be31-35ec-4837-b6af-8cfe86c33afd"
+    ],
+    "0002": [
+      "fac3c08e-236b-4dd3-b614-6e39098ff44b"
+    ]
+  },
+  "node_count": 3,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:33:32.429830",
+  "article_count": 2,
+  "generation_time_s": 0.0042438507080078125
+}

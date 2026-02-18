@@ -1,0 +1,33 @@
+{
+  "slug": "AI-006-08-05-2007-2007",
+  "bundle_path": "backups/all_bundles/code/AI-006-08-05-2007-2007.json",
+  "document_id": "90880309-ac85-4af7-8dbd-0a44c82e52cb",
+  "document_title": "AI.006.08.05.2007",
+  "tree_json": {
+    "doc_name": "AI-006-08-05-2007-2007",
+    "structure": [
+      {
+        "title": "AI.006.08.05.2007",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "07fd0a52-65a5-4009-a132-785f10637144"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:30:05.044619",
+  "article_count": 1,
+  "generation_time_s": 0.0019378662109375
+}

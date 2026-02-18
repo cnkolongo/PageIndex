@@ -1,0 +1,125 @@
+{
+  "slug": "AM-003-15-09-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM-003-15-09-2017-2017.json",
+  "document_id": "7a89c67b-d89f-4924-88a3-d48028d51882",
+  "document_title": "AM.003.15.09.2017",
+  "tree_json": {
+    "doc_name": "AM-003-15-09-2017-2017",
+    "structure": [
+      {
+        "title": "AM.003.15.09.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM.003.15.09.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nIl est institu� dans chaque �tablissement de soins public ou priv� en R�publique\nD�mocratique du Congo, le Dossier Physique du Malade, DPM en sigle.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nSont abrog�es. Toutes dispositions ant�rieures contraires au pr�sent Arr�t� qui\nsort ses effets � la date de sa signature.",
+            "line_num": 10
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLe Secr�taire g�n�ral � la Sant� et Inspecteur g�n�ral de la sant� sont charg�s\nchacun en ce qui le concerne de 1'execution de cet Arr�t�.\nDr Oly Ilunga Kalenga.\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 16
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0004",
+            "summary": "###### Article 2\n\nLe dossier du malade est un outil central d'organisation et d'administration des\nsoins dans tout Etablissement de soins, contribuant notamment :\na. Au suivi et � l'am�lioration de la qualit� de la prise en charge du patient ;\nb. A la coordination des soins entre les professionnels ;\nc. A la continuit� des soins.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0005",
+            "summary": "###### Article 3\n\nCe dossier physique du malade est unique et constitu� de :\na. Dossier administratif ;\nb. Dossier m�dical ;\nc. Dossier de soins infirmiers.",
+            "line_num": 38
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0006",
+            "summary": "###### Article 4\n\nSauf d�rogation pr�vue par la Loi, le contenu du dossier physique du malade est\nsoumis � la r�gie du secret professionnel, son contenu appartient au service\ninfirmier et m�dical.",
+            "line_num": 46
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0007",
+            "summary": "###### Article 5\n\nTout en mentionnant � caract�re lisible son nom sur le dossier physique du\nmalade, le professionnel de sant� est tenu de consigner dans le dossier tout\nacte pose sur le patient.\nAucune information a caract�re subjectif ou en forme de jugement du patient ne\npeut figurer sur le dossier du malade ;",
+            "line_num": 53
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0008",
+            "summary": "###### Article 6\n\nAucun Etablissement de soins ne peut se dessaisir du dossier du malade en cas de\ntransfert dans un autre �tablissement. Toutefois, l'Etablissement qui effectue\nle transfert est tenu de mettre � l�institution qui re�oit le patient, un\nrapport m�dical complet.",
+            "line_num": 62
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0009",
+            "summary": "###### Article 7\n\nLe dossier du malade est la propri�t� de l'Etablissement de soins qui en assure\nla garde, la protection et 1'archivage.",
+            "line_num": 70
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0010",
+            "summary": "###### Article 8\n\nAucun Etablissement de soins ne peut supprimer le dossier du malade � sa sortie.",
+            "line_num": 76
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0011",
+            "summary": "###### Article 9\n\nTout manquement au pr�sent arr�t� expose le contrevenant � des sanctions\nadministratives et/ou judiciaires s'il �chait.",
+            "line_num": 81
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "dcfd2294-97de-44f8-b3c9-36fd2c6ec05b"
+    ],
+    "0002": [
+      "db94747d-bacd-486d-afc2-ea8353340655"
+    ],
+    "0003": [
+      "a9522128-d6a5-4a69-a820-b91bff8f09dd"
+    ],
+    "0004": [
+      "a8bbd339-faed-44cd-8cf9-f889b89d3d17"
+    ],
+    "0005": [
+      "3f434f2d-547d-491e-948d-afad4c6e1a50"
+    ],
+    "0006": [
+      "18a786fe-0916-4e6f-b68c-2a99f6ef0304"
+    ],
+    "0007": [
+      "14bec76d-b39f-4e93-b0f9-16d9f38a918e"
+    ],
+    "0008": [
+      "e9b6e277-9d33-452a-b090-003dcee3fe42"
+    ],
+    "0009": [
+      "51c21587-e221-4774-9015-a783bf376419"
+    ],
+    "0010": [
+      "9b7a0db9-95be-4839-b242-1c23d4d2cc8c"
+    ],
+    "0011": [
+      "02f44a4e-15d1-4598-8160-6a1fd79570e1"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:57.877577",
+  "article_count": 11,
+  "generation_time_s": 0.012621164321899414
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "AIM-02-06-2025-2020",
+  "bundle_path": "backups/all_bundles/code/AIM-02-06-2025-2020.json",
+  "document_id": "32c51b34-8b1a-4d07-952b-f28e26d9b3d6",
+  "document_title": "AIM.02.06.2025",
+  "tree_json": {
+    "doc_name": "AIM-02-06-2025-2020",
+    "structure": [
+      {
+        "title": "AIM.02.06.2025",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.02.06.2025",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document specifies the pricing rates for state-owned land plots designated for residential, commercial, industrial, mixed-use, and agropastoral purposes in the Democratic Republic of Congo. It states that the fees, taxes, and charges for these plots, marketed under a specific procedure, are set in US Dollars but payable in Congolese Francs at the official daily exchange rate, as detailed in accompanying annexes.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "This partial document explains the classification and equivalence of land use types for the application of tax rates. It specifies that certain types of land are assimilated (considered equivalent) to four main categories: residential/commercial, industrial, agricultural/livestock, and mixed-use. The text provides concrete examples for each category, such as artisan workshops being equivalent to residential/commercial land, or quarry sites being equivalent to industrial land. It also defines mixed-use land as property where the title does not indicate one of the specific uses outlined in a referenced land law.",
+            "line_num": 16
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLa redevance annuelle due pour la construction des canaux ou aqueducs � l'usage\ndu secteur priv�, pour l'�tablissement des chemins de fer, des lignes\nt�l�phoniques ou �lectriques, d'ol�oducs ou autres voies de transports ou de\ncommunications sur terres domaniales, est fix�e au tableau de l'annexe 11 du\npr�sent Arr�t�.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes taux des droits fixes et proportionnels d'enregistrement sont repris �\nl'annexe I du pr�sent Arr�t�. Les droits proportionnels sont calcul�s soit sur\nla valeur v�nale expertis�e, soit sur la valeur d�clar�e par les parties dans\nl�acte transactionnel. Tout rapport d'expertise-�valuation pr�sent� par un\nExpert ind�pendant doit �tre vis� par une commission constitu�e des trois\nExperts immobiliers de l'Administration fonci�re.",
+            "line_num": 45
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLa redevance annuelle sur concession ordinaire dont les taux sont fix�s aux\nannexes II, III et IV du pr�sent Arr�t� concerne les �trangers, les personnes\nphysiques, les personnes morales ainsi que les associations conform�ment � la\nLoi n�73- 021 du 20 juillet 1973, telle que modifi�e et compl�t�e � ce jour.\nLa redevance annuelle sur concession ordinaire est assise sur- les concessions\nordinaires �num�r�es aux articles 109, 374 et 375 de la Loi n�73-021 du 20\njuillet 1973 sus �voqu�e.",
+            "line_num": 55
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLa d�claration des �l�ments de l'assiette taxable servant au calcul de la\nredevance sur concession ordinaire (contrat de concession ordinaire, contrat\nd'occupation provisoire et/ou certificat d'enregistrement d'une concession\nordinaire) doit intervenir au plus tard le 15 f�vrier de chaque ann�e et le\npayement au plus tard le 31 mars de la m�me ann�e.",
+            "line_num": 66
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nSont abrog�es toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 75
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nLe Secr�taire g�n�ral aux Affaires Fonci�res et le Directeur g�n�ral des\nRecettes Administratives, judiciaires, domaniales et de participations sont\ncharg�s, chacun en ce qui le concerne, de l'ex�cution du pr�sent Arr�t�.\nFait � Kinshasa, le 02 juin 2020\nAnnexes pdf\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 80
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "765d4471-0d2e-407d-abcf-479eb2563f78"
+    ],
+    "0002": [
+      "1996e2d3-c07b-4e6d-bd64-fcaa2ebea992"
+    ],
+    "0003": [
+      "aa0e119f-6922-4e24-9d79-0a24180f79d3"
+    ],
+    "0004": [
+      "ce1fd429-a0aa-45e9-bcde-e14030591762"
+    ],
+    "0005": [
+      "8adf2153-8c0e-41bf-bb5f-fb0c1cc64750"
+    ],
+    "0006": [
+      "d7ad9a79-693b-4aab-9422-96e40ddfc671"
+    ],
+    "0007": [
+      "32676c3c-feb8-41f8-be2f-770dc50de915"
+    ],
+    "0008": [
+      "7189a96b-f65a-4dff-bfed-343e9f79a884"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:57:23.359040",
+  "article_count": 8,
+  "generation_time_s": 6.502662181854248
+}

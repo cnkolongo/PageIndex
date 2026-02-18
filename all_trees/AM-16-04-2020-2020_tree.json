@@ -1,0 +1,461 @@
+{
+  "slug": "AM-16-04-2020-2020",
+  "bundle_path": "backups/all_bundles/code/AM-16-04-2020-2020.json",
+  "document_id": "49ca3d5a-b0b3-48d4-bb09-f41377bea352",
+  "document_title": "AM.16.04.2020",
+  "tree_json": {
+    "doc_name": "AM-16-04-2020-2020",
+    "structure": [
+      {
+        "title": "AM.16.04.2020",
+        "node_id": "0000",
+        "prefix_summary": "# AM.16.04.2020",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre II : Des moyens",
+            "node_id": "0001",
+            "prefix_summary": "#### Chapitre II : Des moyens",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document covers the legal provisions for interest and late-payment penalties on debts owed to the public treasury. It specifies:\n\n1.  The interest rate applied when the administration grants payment facilities (other than a deferral), which is set at the official commercial bank interest rate.\n2.  A detailed, escalating scale of late penalties for unpaid excise duties and related debts, calculated as a percentage of the principal amount and increasing with the duration of the delay (from 6% for the first 15 days up to 50% after 120 days). These penalties are not applied cumulatively.\n3.  The rule that if a taxpayer fails to pay on time without having been granted a payment facility, both the credit interest and the late penalties are calculated from the due date of the obligations.",
+                "line_num": 7
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "###### Article 10\n\nLes cigarettes fabriqu�es\nlocalement destin�es � l'exportation ne sont pas soumises au r�gime d'apposition\ndes signes fiscaux tel que fix� par le pr�sent Arr�t�.Section 2 : Du marquage\ndes produits d'accises autres que les cigarettes.",
+                "line_num": 45
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "###### Article 11\n\n1. II est instaur� des\nsignes fiscaux consistant en timbres, banderoles autocollantes, �tiquettes\nautocollantes et codes s�curis�s, appos�s suivant un syst�me de marquage de\ns�curit� sur les produits d'accises autres que les cigarettes.\n2. Les caract�ristiques\ndes signes fiscaux d�crits au point 1 ci-dessus sont d�termin�es � l'annexe 2 du\npr�sent Arr�t�.",
+                "line_num": 53
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "This partial document outlines the specific categories of excisable goods subject to the first stage of marking and traceability regulations under a ministerial order. The listed items primarily include alcoholic beverages (such as spirits, wines, and beers), non-alcoholic beverages (including table waters, mineral waters, juices, and soft drinks), and additionally extend to telecommunications and internet services (like data, messaging, voice services, and value-added services).",
+                "line_num": 64
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "This partial document covers regulations regarding the fiscal marking of products in the Democratic Republic of the Congo. The main points are:\n\n1.  The obligation for manufacturers and importers to label products with a fiscal sign as instructed by customs authorities.\n2.  The specific rules for applying these fiscal signs: on packaging abroad for products destined for Congolese consumption, or exceptionally at importers' facilities after customs clearance.\n3.  The timing requirements: imported products must be marked before being released for consumption, and domestically manufactured products must be marked before their sale or transfer. Importers must provide proof of payment for the fiscal stamps.",
+                "line_num": 106
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nSont interdits :\na) toute intrusion\ntechnique visant � copier ou � contrefaire les �l�ments du syst�me de marquage\nde s�curit� ;\nb) tout acte de\nmalveillance visant � entraver les op�rations de marquage ou le bon\nfonctionnement du syst�me de marquage de s�curit�.",
+                "line_num": 135
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV : Du",
+            "node_id": "0008",
+            "prefix_summary": "#### Chapitre IV : Du",
+            "line_num": 146,
+            "nodes": [
+              {
+                "title": "Article 15",
+                "node_id": "0009",
+                "summary": "###### Article 15\n\nLes modalit�s\nd'acquisition, d'apposition et de contr�le des signes fiscaux sur les emballages\ndes produits concern�s sont fix�es par une d�cision du Directeur g�n�ral des\nDouanes et Accises.\n\nmonitorage des services des t�l�communications",
+                "line_num": 149
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0010",
+                "summary": "###### Article 16\n\nII est instaur� :\n1. un syst�me de\nmonitorage des services de t�l�communication soumis aux droits d'accises ;\n2. une redevance de\nmonitorage dont le taux et les modalit�s de perception sont fix�s par d�cision\ndu Directeur g�n�ral des Douanes et Accises.",
+                "line_num": 159
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V : De la",
+            "node_id": "0011",
+            "prefix_summary": "#### Chapitre V : De la",
+            "line_num": 169,
+            "nodes": [
+              {
+                "title": "Article 17",
+                "node_id": "0012",
+                "summary": "###### Article 17\n\nChaque fournisseur de\nservices est tenu de d�poser toute information que l'administration estime utile\nsur des serveurs s�curis�s accessibles en permanence, selon les modalit�s\nd�termin�es par le Directeur g�n�ral des Douanes et Accises.\n\nd�ductibilit� des droits d'accises et du droit d'accises sp�cial",
+                "line_num": 172
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0013",
+                "summary": "This partial document outlines the conditions and restrictions for claiming a tax deduction related to excise duties. Specifically, it states that only the manufacturer of finished products is eligible to claim the deduction. The benefit is subject to several conditions: proof that excise duties were paid on the raw materials, proof that excise duties were collected on the finished products, verification that the raw materials were physically incorporated into the finished products, and a time limit of six months from the use of the raw materials to claim the deduction.",
+                "line_num": 182
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0014",
+                "summary": "###### Article 19\n\nLa d�duction ne peut �tre\nop�r�e que sur la d�claration des produits d'accises aff�rents aux produits\nfinis fabriqu�s � partir des mati�res premi�res concern�es.",
+                "line_num": 203
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : Des signes",
+            "node_id": "0015",
+            "prefix_summary": "#### Chapitre III : Des signes",
+            "line_num": 210,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0016",
+                "summary": "This partial document covers regulations for paying excise duties in foreign currency in the Democratic Republic of Congo. It specifies the eligible locations and circumstances for such payments, requires the foreign currency to be listed by the Central Bank, and outlines procedures for collectors in areas without authorized financial agents.",
+                "line_num": 213
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0017",
+                "summary": "This partial document outlines rules for calculating a tax deduction related to excise duties. It specifies that the deduction amount cannot exceed the excise duties (and possibly a special excise duty) collected on the finished products sold. If the calculated deduction is higher than this collected amount, it is only allowed up to the collected amount, and any remaining balance cannot be deducted.",
+                "line_num": 245
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0018",
+                "summary": "###### Article 21\n\nToute d�duction indue des\ndroits d'accises et, le cas �ch�ant, du droit d'accises sp�cial est r�put�e\nfrauduleuse et r�prim�e conform�ment aux dispositions de l'article 139 point 1\nde l'Ordonnance-loi n� 18/002 du 13 mars 2018 portant Code des accises telle que\nmodifi�e et compl�t�e � ce jour. Chapitre VI : Du remboursement des droits\nd'accises et du droit d'accises sp�cial",
+                "line_num": 259
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0019",
+                "summary": "This partial document outlines the conditions and procedures for obtaining a refund of excise duties and/or special excise duty when goods have been sold without applying these charges. The main points covered are the three key conditions for the refund: 1) The request must be made by the liable party within a 3-year deadline from the date the excise product declaration was registered. 2) The application must be submitted to the customs office where the original excise declaration was filed. 3) The refund request must be accompanied by specific supporting documents, including an invoice proving the duties were not charged and the corresponding excise declaration with proof of duty payment.",
+                "line_num": 269
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII : Du droit",
+            "node_id": "0020",
+            "prefix_summary": "#### Chapitre VII : Du droit",
+            "line_num": 291,
+            "nodes": [
+              {
+                "title": "Article 23",
+                "node_id": "0021",
+                "summary": "###### Article 23\n\n1. Le remboursement des\ndroits d'accises et/ou du droit d'accises sp�cial ne peut �tre effectu� que par\nvoie de compensation.\n2. Au titre des frais\nd'administration, il est op�r� une retenue de 10% sur le montant faisant objet\nde remboursement lorsque le motif ayant conduit audit remboursement est\nimputable au redevable.\n\nd'accises sp�cial",
+                "line_num": 294
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0022",
+                "summary": "This partial document outlines the establishment of a special excise duty, in addition to existing duties, on a specific list of tobacco, tobacco substitutes, and related products. The listed items include various smoking products (like water pipes, cigars, cigarettes), electronic cigarettes and their cartridges, and manufactured tobacco substitutes.",
+                "line_num": 307
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0023",
+                "summary": "This partial document outlines the excise duty rates for various tobacco products, electronic cigarettes, and their substitutes. It lists specific tax percentages (20% or 30%) for categories such as water pipes, manufactured tobacco, e-cigarettes, cigars, cigarettes, and tobacco extracts. The text concludes by indicating a transition to a new chapter concerning the regime for alcohols and alcoholic beverages.",
+                "line_num": 336
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0024",
+                "summary": "###### Article 26\n\n1. En application des\ndispositions de l'article 77 de l'Ordonnance-loi n�18/002 du 13 mars 2018\nportant\nCode des accises telle\nque modifi�e et compl�t�e � ce jour, les Entit�s administratives d�centralis�es\nmettent en circulation,\nau prix qu'elles fixent, les imprim�s de licences suivant le formulaire repris �\nl'annexe 3 du pr�sent Arr�t�.\n2. Les Entit�s\nadministratives d�centralis�es sont tenues de transmettre mensuellement au\nbureau de\ndouane le plus proche,\nles informations relatives � l'octroi des licences vis�es au point 1 ci-dessus.",
+                "line_num": 364
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0025",
+                "summary": "This partial document, Article 27, defines and describes eight model licenses (A, B, D, E, F, H, K, R) for the commercial handling of alcoholic beverages and industrial alcohols. It specifies the activities each license permits (e.g., importing, manufacturing, selling, serving) and the types of beverages covered (e.g., distilled spirits, fermented drinks, denatured alcohol). The article also includes specific restrictions for certain licenses, such as prohibiting consumption on the premises or limiting sales to specific locations like vehicles in transit or private clubs.",
+                "line_num": 381
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0026",
+                "summary": "###### Article 28\n\n1. La licence est\npersonnelle et est �tablie exclusivement au nom de l'importateur, du fabricant\nou pr�parateur, du d�bitant ou du n�gociant. Elle ne peut �tre utilis�e que dans\nl'�tablissement qu'elle d�signe.\n2. Elle est valide pour\nune dur�e ne d�passant pas l'ann�e civile de son obtention.",
+                "line_num": 418
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0027",
+                "summary": "###### Article 29\n\nSans pr�judice des\ndispositions de l'article 28 point 2 ci-dessus, il peut �tre d�livr� des\nlicences � dur�e r�duite � l'occasion des f�tes, des foires, d'expositions ou\ndes manifestations analogues.",
+                "line_num": 428
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0028",
+                "summary": "###### Article 3\n\n1. Il est instaur� des\nsignes fiscaux officiels d�crits � l'annexe 1 du pr�sent Arr�t�, qui doivent\n�tre appos�s sur les emballages des cigarettes import�es et/ ou fabriqu�es\nlocalement avant leur mise en circulation sur le territoire de la R�publique\nD�mocratique du Congo.\n2. Les signes fiscaux\nvis�s au point 1 ci-dessus sont appos�s sur les emballages de 10 ou 20\ncigarettes de la mani�re suivante :\n3. sur les emballages\nl�gers, ils servent de fermeture ;\n4. sur les emballages\nautres que l�gers, sur le coin sup�rieur droit du couvercle rabattable.",
+                "line_num": 436
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0029",
+                "summary": "This partial document outlines the procedural requirements for applying for a license. It details that applications must be submitted in writing or electronically to decentralized administrative authorities. It specifies the required personal information, supporting documents (like a certificate of good conduct and a recent criminal record extract), and fiscal identifiers for individual applicants. For legal entities, it lists additional required information such as the company name, purpose, headquarters, and the necessary notarized copies of corporate documents (statutes, commercial registration, and national identification).",
+                "line_num": 452
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0030",
+                "summary": "###### Article 31\n\n1. Lorsque la demande de\nlicence est introduite, l'autorit� comp�tente statue dans les 30 jours. Pass� ce\nd�lai, la licence est r�put�e acquise, l'accus� de r�ception faisant foi.\n2. Le renouvellement\nd'une licence s'obtient sur base d'une simple demande �crite ou par voie\n�lectronique � laquelle est jointe, outre les documents vis�s � l'article 29 du\npr�sent Arr�t�, une copie de la licence expir�e.",
+                "line_num": 476
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0031",
+                "summary": "This partial document outlines the grounds for the refusal of a license. It states that an applicant has the right to appeal a refusal according to the law. It then lists specific conditions under which a license must always be denied, including: lack of good conduct, previous convictions for public drunkenness, repeated tax violations, repeated violations of alcohol regulations, bankruptcy fraud, and repeated violations of price control legislation.",
+                "line_num": 487
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0032",
+                "summary": "This partial document outlines the conditions and procedures for the withdrawal of a license. It specifies that a license can be revoked if the holder no longer meets the original granting conditions or falls under specific prohibitions. The withdrawal must be justified and formally communicated. Consequences include an immediate prohibition from conducting the licensed activities, a one-year ban on obtaining a new license, and the automatic invalidation of all related administrative authorizations.",
+                "line_num": 511
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0033",
+                "summary": "###### Article 34\n\n1. La licence peut �tre\nsuspendue par l'autorit� qui l'a d�livr�e lorsque le d�tenteur se rend coupable\ndes faits autres que ceux pr�vus � l'article 33 ci-dessus. Dans ce cas,\nl'autorit� comp�tente d�termine la dur�e de la suspension qui ne peut exc�der 60\njours.\n2. La suspension de la\nlicence entraine �galement celle de toutes les autorisations d�livr�es par\nl'Administration pour les activit�s couvertes par ladite licence.",
+                "line_num": 532
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0034",
+                "summary": "###### Article 35\n\nLa poursuite des\nactivit�s pour lesquelles la licence retir�e ou suspendue a �t� d�livr�e, malgr�\nles mesures conservatoires prises, est punie conform�ment aux dispositions de\nl'article 139 de l'Ordonnance-loi n�18/002 du 13 mars 2018 portant Code des\naccises telle que modifi�e et compl�t�e � ce jour. Chapitre IX : De la\nd�claration des produits issus du raffinage",
+                "line_num": 544
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0035",
+                "summary": "###### Article 36\n\nEn application des\ndispositions de l'article 93 de l'Ordonnance-loi n�18/002 du 13 mars 2018\nportant Code des accises telle que modifi�e et compl�t�e � ce jour, la\ntemp�rature � laquelle le volume et la densit� des carburants terrestres et\nd'aviation sont d�termin�s aux fins de liquider les droits d'accises et, le cas\n�ch�ant, le droit d'accises sp�cial est la temp�rature � 15 � Celsius. Chapitre\nX : De l'admission en entrep�t d'accises",
+                "line_num": 554
+              }
+            ]
+          },
+          {
+            "title": "Chapitre XI : Des",
+            "node_id": "0036",
+            "prefix_summary": "#### Chapitre XI : Des",
+            "line_num": 565,
+            "nodes": [
+              {
+                "title": "Article 37",
+                "node_id": "0037",
+                "summary": "This partial document contains Article 37 of a legal text, which establishes a permanent ban on certain categories of goods from entering public excise warehouses. The prohibited goods are listed and include: dangerous, bulky, dusty, or unsanitary goods; goods requiring special installations; goods prohibited for reasons of morality, public order, security, hygiene, public health, veterinary or phytosanitary concerns; and goods prohibited for intellectual property protection reasons. The article also stipulates that these goods may only be admitted into specially adapted public excise warehouses.",
+                "line_num": 568
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0038",
+                "summary": "###### Article 38\n\nSans pr�judice des\ndispositions de l'article 26 du pr�sent Arr�t�, les licences en cours de\nvalidit� demeurent valables jusqu'� leur expiration.",
+                "line_num": 599
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0039",
+                "summary": "This partial document outlines transition rules for applying excise tax codes in the Democratic Republic of Congo. It specifies that from January 1, 2019, locally manufactured or imported goods and services must be declared under the new 2018 excise code. Goods and services supplied before that date remain governed by the old 2012 excise code until stock depletion. Goods already in production on January 1, 2019 are considered manufactured before that date and must also be declared under the old 2012 code.",
+                "line_num": 606
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0040",
+                "summary": "###### Article 4\n\n1. Le Directeur g�n�ral\ndes Douanes et Accises peut autoriser l'insertion sur les signes fiscaux, par le\nfournisseur ou le fabricant, des �l�ments de tra�abilit� ;\n2. Le respect du code\ncouleur pr�vu � l'annexe 1 du pr�sent Arr�t� est de rigueur.",
+                "line_num": 623
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0041",
+                "summary": "###### Article 40\n\naux dispositions de l'article 38 ci dessus, les marchandises fabriqu�es\nlocalement ou import�es avant le 1er janvier 2019 et celles en cours de\nfabrication � cette date peuvent b�n�ficier des taux de droits d'accises et le\ncas �ch�ant du droit d'accises sp�cial pr�vus par l'Ordonnance-loi n�18/002 du\n13 mars 2018 portant Code des accises lorsque ces derniers sont plus favorables\nau redevable.",
+                "line_num": 632
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0042",
+                "summary": "###### Article 41\n\nEn vue de l'application\ndes dispositions de l'article 39 points 2 et 3 ci-dessus, les fabricants sont\ntenus de communiquer � l'Administration d�s l'entr�e en vigueur du pr�sent\nArr�t� Minist�riel, les stocks de marchandises fabriqu�es avant le lerjanvier\n2019.",
+                "line_num": 642
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0043",
+                "summary": "###### Article 42\n\nEst abrog�, l'Arr�t�\nminist�riel n� 038/CAB/MIN.FINANCES/2018 du 31 d�cembre 2018 portant mesures\nd'application du Code des accises.",
+                "line_num": 651
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0044",
+                "summary": "###### Article 43\n\nLe pr�sent Arr�t� entre\nen vigueur � la date de sa signature.\nFait � Kinshasa, le 16\navril 2020\nAnnexes\npdf\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 658
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0045",
+                "summary": "###### Article 5\n\n1. Les signes fiscaux �\napposer, au cours d'une ann�e, sur les emballages des cigarettes fabriqu�es\nlocalement ou import�es sont command�s aupr�s de l'administration, au plus tard\navant la fin du troisi�me trimestre de l'ann�e pr�c�dente.\n2. En cas de besoin, des\ncommandes ponctuelles peuvent �tre faites aupr�s de l'administration.\n3. Pour �tre valable,\ntoute commande de signes fiscaux doit �tre accompagn�e du paiement du montant\ntotal de la commande.\n4. En aucun cas, le\nmontant d'achat de l'imprim� ne peut �tre rembours� par l'administration.",
+                "line_num": 674
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0046",
+                "summary": "This partial document defines regulations for fiscal stamps on cigarettes. It covers: the requirement for stamps to carry a manufacturer/importer tax ID; the provision of non-identifying stamps for contingencies; the authority of the Customs Director to set usage rules; the non-replacement of delivered stamps except if unusable due to administrative/printing errors; the administration's recourse against the printer for defective stamps; the destruction procedure for returned unusable stamps; and the continued use of existing stamps after specification changes until stock depletion.",
+                "line_num": 689
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0047",
+                "summary": "###### Article 7\n\n1. L'administration fait\nfabriquer des signes fiscaux sur base d'un cahier de charges contenant les\nsp�cifications reprises � l'annexe 1 du pr�sent Arr�t�.\n2. L'administration tient\nune comptabilit� de gestion des signes fiscaux.",
+                "line_num": 717
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0048",
+                "summary": "###### Article 8\n\nLe prix d'acquisition des\nsignes fiscaux est fix� par une d�cision du Directeur g�n�ral des Douanes et\nAccises.",
+                "line_num": 726
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0049",
+                "summary": "###### Article 9\n\nSont interdits, toute\ncession et/ou tout �change de signes fiscaux, � quelque titre que ce soit, entre\nfabricants et/ou importateurs des cigarettes.",
+                "line_num": 733
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "ec2315b5-9771-410d-89c9-647e808c0a22"
+    ],
+    "0003": [
+      "4a2dd25d-0334-489e-b212-1b08be543d1e"
+    ],
+    "0004": [
+      "73105997-5f59-4c86-b99b-5392c8a10dcf"
+    ],
+    "0005": [
+      "d7d235e9-c15c-45c5-9141-12b48db2281f"
+    ],
+    "0006": [
+      "2632620b-0a69-451e-b586-cafaa141fcbd"
+    ],
+    "0007": [
+      "e6c7473c-998d-487e-bc66-a3f495778006"
+    ],
+    "0009": [
+      "b343d380-ad5c-4853-8919-0219874b4b3a"
+    ],
+    "0010": [
+      "727da5b0-0450-4ee3-9349-d18cbb2840cf"
+    ],
+    "0012": [
+      "978226e2-f8c4-4c7b-88f8-1c896134c2ac"
+    ],
+    "0013": [
+      "42fe02a6-b1c8-45c2-a487-7093a5e7048b"
+    ],
+    "0014": [
+      "8ed9ec1d-9dd0-4076-ae32-ead40c96a2f9"
+    ],
+    "0016": [
+      "db9ce297-ea22-4caf-a6cb-7a7fa98a1c80"
+    ],
+    "0017": [
+      "61957e50-e684-4f3d-8b37-fe0583a7404d"
+    ],
+    "0018": [
+      "83ed574f-d2a3-492a-a661-d4ac77348fc4"
+    ],
+    "0019": [
+      "2b4c13ba-03b4-44fb-951e-b3a503adc3fb"
+    ],
+    "0021": [
+      "ec327265-64b7-44e0-b908-e87207e31a42"
+    ],
+    "0022": [
+      "85121f89-51f5-432e-bad4-b4f5bacfe91a"
+    ],
+    "0023": [
+      "11b20372-841e-4a76-bffc-462ce1a6b25c"
+    ],
+    "0024": [
+      "afc435e7-80a5-4341-acf2-9231aac2671f"
+    ],
+    "0025": [
+      "8cca628f-8886-49ed-b0c2-b5f1a9b5aa68"
+    ],
+    "0026": [
+      "7d3a0d89-e724-4aa0-a36d-a89be09d6264"
+    ],
+    "0027": [
+      "2cc9974d-b030-4792-9665-d0468ed640ed"
+    ],
+    "0028": [
+      "1673d75d-6582-4cd1-ad9f-bacc7ae61238"
+    ],
+    "0029": [
+      "216f9079-b77c-4232-ad13-bf5c77151a3f"
+    ],
+    "0030": [
+      "c5043ade-eb9c-46be-abd7-72db98981ff3"
+    ],
+    "0031": [
+      "aba2740b-f40d-44bd-8db6-0903e6d8e63b"
+    ],
+    "0032": [
+      "e140a58e-9667-4297-a9d2-c8f6b1b99a41"
+    ],
+    "0033": [
+      "85ede1fb-4896-4ec6-b419-07f49fc34f48"
+    ],
+    "0034": [
+      "71647d1f-5abb-497c-a09d-13c3884b3e25"
+    ],
+    "0035": [
+      "0dbca922-b6fc-47d1-a6fc-4cbe1d370f3e"
+    ],
+    "0037": [
+      "d0b1aa75-63d4-4452-8468-89a386783fe8"
+    ],
+    "0038": [
+      "55959763-43f6-47fe-a64e-6150fd8565b6"
+    ],
+    "0039": [
+      "1455fe2a-ba33-47c1-b941-c2a98234b0e9"
+    ],
+    "0040": [
+      "1829aaf6-75ec-4f76-bf86-9ca94fc9f1c5"
+    ],
+    "0041": [
+      "e7690d21-811e-4700-b1c4-16cc3e4dd44a"
+    ],
+    "0042": [
+      "6e2714d6-64fd-43d6-896e-59702861b0b0"
+    ],
+    "0043": [
+      "8d0f1a88-e6a3-4183-adad-24606cb6ce65"
+    ],
+    "0044": [
+      "48350ff8-69c8-45a2-942a-7e912cfce2ab"
+    ],
+    "0045": [
+      "c7c49c82-b146-445b-856d-c81136a7416b"
+    ],
+    "0046": [
+      "1415817f-9f3d-4c1f-9427-69f789cd810b"
+    ],
+    "0047": [
+      "ddcc472b-f715-4615-ae68-50675a488ea1"
+    ],
+    "0048": [
+      "f8d507d5-22c7-4593-ac96-8416be35b077"
+    ],
+    "0049": [
+      "3a43cbd7-7bed-48ff-9416-5249f46c23d6"
+    ]
+  },
+  "node_count": 50,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:33:40.075642",
+  "article_count": 43,
+  "generation_time_s": 25.69645404815674
+}

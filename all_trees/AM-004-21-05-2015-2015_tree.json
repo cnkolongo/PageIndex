@@ -1,0 +1,104 @@
+{
+  "slug": "AM-004-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-004-21-05-2015-2015.json",
+  "document_id": "aaef537b-08ba-4d0e-a311-a398c37d1bf9",
+  "document_title": "AM.004.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-004-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.004.21.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.004.21.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "This partial document is the beginning of a ministerial order (Arrêté ministériel) from the Minister of Tourism. The main points covered are:\n\n1.  **Identification of the Order:** It introduces a new order (number 004/CAB/MIN/TOURISME/00/MWB/) dated May 21, 2015, which modifies and supplements a previous 1993 order.\n2.  **Subject Matter:** The order pertains to the construction and layout conditions for restaurants and similar establishments (cafeterias, snack bars, self-service, etc.).\n3.  **Legal Basis (Preamble):** The document lists the constitutional, legal, and regulatory texts that provide the authority for issuing this order. This includes the Constitution, laws on provincial administration, ordinances on government organization, and a prior 1979 ordinance on hotel establishment conditions.\n4.  **Structure:** It announces the start of \"TITLE 1,\" indicating the document is structured into formal titles or chapters.",
+            "line_num": 4
+          },
+          {
+            "title": "titre d",
+            "node_id": "0002",
+            "prefix_summary": "#### titre d",
+            "line_num": 44,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "This partial document outlines the regulatory requirements for obtaining technical approval to construct or renovate a restaurant in the Democratic Republic of Congo. The main points covered are:\n\n1.  **Mandatory Pre-Approval:** Any restaurant construction or renovation project requires prior technical approval from the Ministry of Tourism before work begins.\n2.  **Scope of Approval:** The technical approval covers the site choice, construction/renovation plans, and the establishment's standard, resulting in an approval certificate.\n3.  **Application Process:** It specifies where to submit the application dossier (to provincial authorities) based on whether the restaurant is of national or provincial interest, referencing a specific ministerial order.\n4.  **Required Documents:** A list of seven required documents for the application is provided, including a request letter, site/architectural plans, cost details, building permit, proof of ownership/lease, national ID number, and commerce/land credit registry.\n5.  **Modification Requirement:** Any later modification to the initial architectural plan requires obtaining a new technical approval.",
+                "line_num": 47
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "###### Article S3\n\n: DES CONDITIONS SPECIFIQUES DE CONSTRUCTION ET D�AMENAGEMENT DES RESTAURANTS ET",
+                "line_num": 106
+              },
+              {
+                "title": "Section",
+                "node_id": "0005",
+                "prefix_summary": "##### Section\n1 : Conditions de construction et d�am�nagement d�un restaurant � 0 fourchette.",
+                "line_num": 111,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0006",
+                    "summary": "This partial document outlines construction and facility requirements for restaurants, categorized by their \"fork\" rating (0 to 4 forks). It details specific technical standards for foundational elements like reinforced concrete foundations, walls, columns, and frameworks. It further specifies norms for roofing, interior finishes (paint, tiling), and essential systems including plumbing, electrical, and ventilation. Requirements for dining space dimensions, doors, windows, and safety standards for prefabricated structures are also covered.",
+                    "line_num": 115
+                  }
+                ]
+              },
+              {
+                "title": "Section",
+                "node_id": "0007",
+                "prefix_summary": "##### Section\n1 : Conditions g�n�rales d�am�nagement des restaurants :",
+                "line_num": 239,
+                "nodes": [
+                  {
+                    "title": "Article S5",
+                    "node_id": "0008",
+                    "summary": "###### Article S5\n\n: LES CONDITIONS D�AMENAGEMENT DES RESTAURANTS\n\nArticle\n20\nLes\nconditions d�am�nagement d�un restaurant � 0 fourchette se conforment aux\nprescrits des �l�ments contenus dans l�article 5.\nArticle\n21\nTous\nles travaux d�am�nagement d�un restaurant de 1 � 4 fourchettes doivent se\nconformer aux prescrits de la section 1�re\net � l�article 21 du pr�sent Arr�t�.\nTITRE 3",
+                    "line_num": 243
+                  },
+                  {
+                    "title": "Article S6",
+                    "node_id": "0009",
+                    "summary": "###### Article S6\n\n: LES CONDITIONS D�AMENAGEMENT DES SIMILAIRES\nArticle\n22\nLes\nrestaurants dits similaires doivent se conformer aux prescrits du pr�sent\narr�t�.\nArticle\n23\nLe\nSecr�taire g�n�ral au Tourisme est charg� de l�ex�cution du pr�sent Arr�t� qui\nentre en vigueur � la date de sa signature.\nFait �\nKinshasa, le 21 mai 2015\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                    "line_num": 261
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "df6b1d36-d79e-4c9c-b5b9-f0acf60ee1c0"
+    ],
+    "0003": [
+      "e9ee9015-f4a7-46ac-ad09-cc5fa6324855"
+    ],
+    "0004": [
+      "bae28eaf-2e03-4cc3-9cdd-175fdb122691"
+    ],
+    "0006": [
+      "c95740df-57e2-4bd7-ac56-4136da1baa51"
+    ],
+    "0008": [
+      "6415a6b2-722d-48d1-9a26-c5227d858cdd"
+    ],
+    "0009": [
+      "30252a1f-c14c-48ee-b91b-18b43a6ac688"
+    ]
+  },
+  "node_count": 10,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:02:11.272033",
+  "article_count": 6,
+  "generation_time_s": 13.493978261947632
+}

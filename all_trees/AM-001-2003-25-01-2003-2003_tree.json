@@ -1,0 +1,71 @@
+{
+  "slug": "AM-001-2003-25-01-2003-2003",
+  "bundle_path": "backups/all_bundles/code/AM-001-2003-25-01-2003-2003.json",
+  "document_id": "2a40d9ea-4f9e-476f-8b1d-13e05076993e",
+  "document_title": "AM.001.2003.25.01.2003",
+  "tree_json": {
+    "doc_name": "AM-001-2003-25-01-2003-2003",
+    "structure": [
+      {
+        "title": "AM.001.2003.25.01.2003",
+        "node_id": "0000",
+        "prefix_summary": "# AM.001.2003.25.01.2003",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\nIl est �tabli et\npubli� en annexe du pr�sent Arr�te la liste compl�te des droits miniers et de\ncarri�res en vigueur confirm�s, celle des droits renonc�s et celle des droits\nrec1am�s.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLe pr�sent Arr�t�\nMinist�riel et son annexe seront publi�s dans le Journal Officiel de la\nR�publique D�mocratique du Congo, dans les journaux sp�cialis�s ainsi que dans\nles quotidiens locaux, diffus�s sur Internet et pourront �tre affich�s dans les\nlocaux de l'Administration des Mines et des repr�sentations diplomatiques et\nconsulaires pr�sentes en R�publique D�mocratique du Congo.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nA la publication\nde ces listes, celle des droits faisant l'objet de r�clamation ou de contentieux\nest d�f�r�e � la Commission de Validation des droits miniers et de carri�res.\nTant que le contentieux n'est pas r�solu, le p�rim�tre concern� ne peut faire\nl'objet d'une nouvelle demande d'un droit minier ou de carri�res.",
+            "line_num": 22
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nTous les\ntitulaires des droits miniers ou et de carri�res en vigueur confirm�s, de\ncarri�res valides conform�ment aux dispositions de l'article 337 du Code Minier\ndoivent dans les trois mois de l� entr�e en vigueur du R�glement Minier\ntransformer leurs droits conform�ment aux dispositions dudit Code.",
+            "line_num": 31
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLe Secr�taire G�n�ral des Mines est  charg� de l'ex�cution du pr�sent Arr�t� qui\nentre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 25 janvier 2003.\nJean Louis NKULU KITSHUNKU\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 40
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "22c293e9-8af7-4835-926f-bdc223bc42c8"
+    ],
+    "0002": [
+      "639c9ab2-8fe1-435c-a4c8-a4c657aaf1fb"
+    ],
+    "0003": [
+      "8549fca3-51a0-4277-822c-3b1fd6988dc4"
+    ],
+    "0004": [
+      "6a848bbb-5d4c-4e3f-aefe-20c9424d771f"
+    ],
+    "0005": [
+      "e39518f0-949d-4c7b-ba72-587d9553e316"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:57.842653",
+  "article_count": 5,
+  "generation_time_s": 0.010917186737060547
+}

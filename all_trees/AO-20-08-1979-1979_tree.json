@@ -1,0 +1,475 @@
+{
+  "slug": "AO-20-08-1979-1979",
+  "bundle_path": "backups/all_bundles/code/AO-20-08-1979-1979.json",
+  "document_id": "99299f05-6f4c-4696-9fa2-1fecd8fca305",
+  "document_title": "AO.20.08.1979",
+  "tree_json": {
+    "doc_name": "AO-20-08-1979-1979",
+    "structure": [
+      {
+        "title": "AO.20.08.1979",
+        "node_id": "0000",
+        "prefix_summary": "# AO.20.08.1979",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\n20 ao�t 1979. � ARR�T� D�ORGANISATION JUDICIAIRE 299/79 portant r�glement\nint�rieur des cours, tribunaux et parquets. (Minist�re de la Justice)\ner DES COURS ET TRIBUNAUX",
+                "line_num": 7
+              },
+              {
+                "title": "Section 3",
+                "node_id": "0003",
+                "prefix_summary": "##### Section 3",
+                "line_num": 14,
+                "nodes": [
+                  {
+                    "title": "Article S10",
+                    "node_id": "0004",
+                    "summary": "This partial document outlines judicial procedures within courts and tribunals. It covers:\n1. The role and duties of the reporting judge (*juge rapporteur*), including deadlines for submitting reports.\n2. The operation of courts, detailing rules for ordinary, supplementary, and solemn public hearings, including scheduling and special occasions like judicial openings or memorials.\n3. The structure and functions of internal judicial bodies: the Conference of Presidents, the Plenary Assembly, and the Mixed Assembly, focusing on their roles in organizational decisions, principle questions, and ensuring coherent court operations.",
+                    "line_num": 17
+                  },
+                  {
+                    "title": "Article S11",
+                    "node_id": "0005",
+                    "summary": "This partial document outlines procedural and organizational rules for a Supreme Court of Justice and other courts. It covers the role of the public prosecutor in plenary assemblies, the creation of specialized commissions, and the rules for mixed assemblies of judges and prosecutors. It also details the appointment of customary law consultants, sets the vacation periods for different court levels, and specifies the procedures for registering cases on the court docket, including the required information for each entry.",
+                    "line_num": 86
+                  },
+                  {
+                    "title": "Article S12",
+                    "node_id": "0006",
+                    "summary": "This partial document outlines procedural rules for court proceedings, focusing on case scheduling, adjournments, the submission of legal arguments, and the assessment of indigence (financial need) for legal aid.\n\nThe main points covered are:\n\n1.  **Case Scheduling and Publicity:** Rules for posting court dockets (lists of cases) in advance of hearings, varying by court level (Supreme Court, Court of Appeal, High Court).\n2.  **Annual Case Review:** A procedure for the presidents of the Court of Appeal and High Court to call and manage the general docket in private, administrative, tax, and labor law matters each November, including the removal of settled or inactive cases.\n3.  **Rules on Adjournments (Remises):** Strict limits on granting case postponements:\n    *   A maximum of three adjournments is generally allowed.\n    *   Specific time limits are set for the first (one month) and second (fifteen days) adjournments.\n    *   A third adjournment requires the authorization of the court president, granted only in cases of proven *force majeure*.\n    *   Failure to meet these conditions results in the case proceeding or being sent back to the general docket.\n4.  **Submission of Legal Arguments (Conclusions):** Requirements for written conclusions to be exchanged between parties at least three days before the hearing, and the procedure for recording oral conclusions.\n5.  **Signing and Filing of Arguments:** The process for signing and formally filing legal conclusions with the court clerk.\n6.  **Exception for Criminal Matters:** The adjournment rules in Article 28 do not apply in repressive (criminal) matters.\n7.  **Assessment of Indigence:** Criteria for evaluating a person's financial need for legal aid, based on different types of employment:\n    *   **Public officials/military:** Based on salary credentials from the previous quarter.\n    *   **Parastatal/private company agents:** Based on pay slips from the previous quarter.\n    *   **Merchants/liberal professionals:** Based on income tax documents from the previous fiscal year.\n    *   The document cuts off while discussing the limits of using an \"attestation of indigence.\"",
+                    "line_num": 153
+                  },
+                  {
+                    "title": "Article S13",
+                    "node_id": "0007",
+                    "summary": "This partial document covers procedural rules for the deliberation, pronouncement, and execution of court judgments and rulings. It specifies:\n1. The deliberation process for collegiate benches and single-judge decisions, including the president's role and voting order.\n2. Time limits for pronouncing decisions after deliberation, with provisions for extensions.\n3. The procedure for transmitting judgments to magistrates responsible for execution.\n4. The unanimous decision requirement for authorizing or refusing execution, and the hierarchical process for resolving disagreements among magistrates, ultimately involving the Inspectorate General of the Judicial Council and the Prosecutor General.\n5. The requirement for a signed deliberation record and a register of authorized/refused executions.\n6. Parties' right to appeal execution decisions and the mandatory reporting of these decisions to the Prosecutor General.\n7. The communication of written conclusions to the Public Ministry for opinion.",
+                    "line_num": 221
+                  }
+                ]
+              },
+              {
+                "title": "Section 4",
+                "node_id": "0008",
+                "prefix_summary": "##### Section 4",
+                "line_num": 290,
+                "nodes": [
+                  {
+                    "title": "Article S14",
+                    "node_id": "0009",
+                    "summary": "The partial document covers procedural rules regarding the involvement of the Public Prosecutor's Office (Ministère public) in judicial proceedings, the handling of direct citations, monthly reporting of case statuses, the transmission of court judgments, administrative oversight of courts, and the publication of Supreme Court rulings. It also begins to outline the organizational structure of court registries.",
+                    "line_num": 293
+                  },
+                  {
+                    "title": "Article S15",
+                    "node_id": "0010",
+                    "summary": "The partial document outlines the organizational structure and record-keeping duties of court registry offices (greffes) within the judicial system. It specifies the hierarchical leadership (chief clerk, principal clerk, divisional clerk) and the different specialized registries (civil, criminal, administrative, etc.) for the Supreme Court, Court of Appeal, and High Court.\n\nThe main focus is on the mandatory registers each registry must maintain. It details the types of registers (e.g., for case enrollment, receipts, cash book, specific legal procedures) and lists the precise registers required for the civil, criminal, and administrative registries of the Supreme Court, including registers for appeals, constitutional reviews, election disputes, and criminal revisions.",
+                    "line_num": 366
+                  },
+                  {
+                    "title": "Article S16",
+                    "node_id": "0011",
+                    "summary": "This partial document covers provisions from a legal code or statute regarding the registry and administrative functions of judicial courts. It specifies the types of registers to be maintained at various courts (Supreme Court of Justice, Courts of Appeal, High Courts) for different legal matters (e.g., case lists, costs, consultations, judgements in administrative, criminal, civil, commercial, social, and fiscal cases). It also mentions the establishment of a Public Relations and Protocol service for courts and notes the applicability of these rules to the State Security Court.",
+                    "line_num": 448
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE II",
+            "node_id": "0012",
+            "prefix_summary": "#### TITRE II",
+            "line_num": 494,
+            "nodes": [
+              {
+                "title": "Article S17",
+                "node_id": "0013",
+                "summary": "###### Article S17\n\nDU MINIST�RE PUBLIC",
+                "line_num": 497
+              }
+            ]
+          },
+          {
+            "title": "titre d",
+            "node_id": "0014",
+            "prefix_summary": "#### titre d",
+            "line_num": 502,
+            "nodes": [
+              {
+                "title": "Article S18",
+                "node_id": "0015",
+                "summary": "This partial document outlines the organizational structure and responsibilities within the public prosecutor's offices (parquets) of a judicial system, likely from a legal code. The main points covered are:\n\n1.  The role of the **Coordinating First Attorney General**, who oversees all sections and services, maintains internal order and discipline, must be informed of important matters, resolves issues outside any section's competence, and keeps the Prosecutor General informed.\n\n2.  The duties of the **Section Chief First Attorney General**, including distributing cases, setting the schedule for court appearances, and ensuring the smooth operation of their section.\n\n3.  The procedure for an **Attorney General** assigned to a case to draft conclusions/requisitions, with specific deadlines for filing, especially in cassation (appeal) matters.\n\n4.  The powers and duties of the **Prosecutor General at the Court of Appeal** and the **Public Prosecutor**, including their full authority over public action, case distribution, supervision of magistrates, and the ability to personally handle only complex or delicate cases.\n\n5.  The supervisory authority of these heads of office, including the right to request files, order investigations, and initiate disciplinary action for non-compliance. They must also point out deficiencies in case files to the investigating magistrate.",
+                "line_num": 505
+              },
+              {
+                "title": "Section 2",
+                "node_id": "0016",
+                "prefix_summary": "##### Section 2",
+                "line_num": 574,
+                "nodes": [
+                  {
+                    "title": "Article S19",
+                    "node_id": "0017",
+                    "summary": "This partial document outlines the supervisory and procedural duties of various public prosecutors (Procureur Général, Procureur de la République, Avocat Général, Substituts) within a judicial system. The main points covered are:\n\n1.  **Oversight and Correction:** Senior prosecutors are tasked with preventing errors by giving instructions, recommendations, or admonishments to magistrates, and verifying the regularity, legality, and diligence of judicial investigations.\n2.  **Case File Review:** Specific duties include verifying case files before trial scheduling to avoid future supplementary investigations, ensuring evidence of offenses is present, and preventing anyone from being summoned before a criminal court without demonstrable proof of guilt.\n3.  **Instructions to Police:** The Procureur de la République must give precise instructions to judicial police officers for the proper preservation of a defendant's property.\n4.  **Internal Organization:** It covers the distribution of cases, the supervisory roles of the Avocat Général and First Substitute over other substitutes and judicial activity, and the primary responsibility of substitutes for case preparation.\n5.  **Reporting and Inspection:** Regular quarterly activity reports and at least biannual inspections of prosecutor's offices are mandated for both the Procureur Général and the Procureur de la République.\n6.  **Weekly Coordination:** Senior prosecutors must hold weekly meetings with magistrates under their supervision to review professional ethics and discuss service operations.\n7.  **Structure of the Prosecutor's Office:** The document begins to describe the internal structure of the general prosecutor's office, mentioning it comprises a Judicial Section (handling appeals to the Supreme Court) and a Public Action Section (supervising all public prosecution magistrates and police officers).",
+                    "line_num": 577
+                  }
+                ]
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0018",
+                "prefix_summary": "##### Section 1",
+                "line_num": 646,
+                "nodes": [
+                  {
+                    "title": "Article S2",
+                    "node_id": "0019",
+                    "summary": "This partial document is a table of contents for a legal text, specifically \"Article S2,\" which outlines the organization of courts and tribunals. It covers the division of courts into sections and chambers, the roles and responsibilities of various judicial presidents and judges, the operational procedures of the courts (including hearings, deliberations, and execution of judgments), and the administrative services supporting the judiciary.",
+                    "line_num": 649
+                  },
+                  {
+                    "title": "Article S20",
+                    "node_id": "0020",
+                    "summary": "This partial document outlines the organizational structure and specific functions of the prosecution services (parquet) within a judicial system, likely from a legal code or statute. It details the roles of the General Prosecutor's Office, appellate court prosecutor's offices, and high court prosecutor's offices.\n\nThe main points covered are:\n*   The core functions of the prosecution service, including receiving case notifications, preparing indictments, and handling specific cases for the Supreme Court, with strict limitations on opening cases without express authorization.\n*   The leadership structure of prosecution sections, headed by First General Advocates.\n*   The establishment, public access, and managerial role of secretariats within each prosecution office.\n*   A detailed breakdown of the internal divisions of these secretariats (e.g., general services, public relations, administrative services for judicial instruction, budget, personnel).\n*   The specific responsibilities of each division, such as handling mail, statistics, case files, pardon requests, judgment execution, and logistical management.",
+                    "line_num": 683
+                  },
+                  {
+                    "title": "Article S21",
+                    "node_id": "0021",
+                    "summary": "This partial document outlines the internal administrative and procedural rules for a public prosecutor's office (Ministère public). The main points covered are:\n\n1.  **The role of specific services:** It defines the responsibilities of the \"services de l'action publique\" for controlling administrative services and preventive detentions, and the \"service de l'exécution des jugements\" for enforcing court judgments, managing fines, and maintaining judicial archives.\n\n2.  **Registration of cases:** A core section details strict procedures for logging all cases received by prosecutors in a central register. It mandates immediate registration, prohibits delays or use of special preliminary registers, and specifies the exact information required for each entry (e.g., defendant details, charges, dates, outcomes).\n\n3.  **Handling complex cases:** Rules are provided for re-registering cases involving multiple defendants if resolved separately, and for logging cases under appeal, cassation, or revision with specific additional details.\n\n4.  **Maintenance of registers:** It lists the various official registers that must be kept at the general prosecutor's office, including separate registers for cases at first instance, on appeal, for different types of cassation appeals, constitutional disputes, electoral contests, and cases sent to a supreme court's combined sections.",
+                    "line_num": 752
+                  }
+                ]
+              },
+              {
+                "title": "Section 3",
+                "node_id": "0022",
+                "prefix_summary": "##### Section 3",
+                "line_num": 824,
+                "nodes": [
+                  {
+                    "title": "Article S22",
+                    "node_id": "0023",
+                    "summary": "The partial document outlines the registry-keeping requirements for public prosecutor's offices (parquets) and the initial duties of an investigating magistrate.\n\nIt specifies the various mandatory registries to be maintained, such as registries for seized objects, non-offense facts, transactional fines, preventive detentions, and the execution of judgments. It then details the purpose and procedures for some key registries, including the registry for other prosecutor's offices and the registry for seized objects.\n\nThe text subsequently transitions to the duties of an investigating magistrate. It covers procedures for handling complaints and police reports, determining when a judicial investigation is unnecessary, and how to address insufficient police inquiries, including the use of formal requests for information.",
+                    "line_num": 827
+                  },
+                  {
+                    "title": "Article S23",
+                    "node_id": "0024",
+                    "summary": "This partial document outlines procedural rules for judicial investigations in a French-language legal context, likely from a code of criminal procedure. It covers the use of formal requests for information (\"réquisitions\") and letters rogatory (\"commissions rogatoires\"), specifying their scope, issuance (to local police or, via delegation, to magistrates), and handling in urgent cases. It details the duties of the investigating magistrate (\"magistrat-instructeur\") regarding case files, initial reviews of complaints, and the first interrogation of the accused, focusing on safeguarding the accused's property and finances. Procedures for executing letters rogatory abroad and domestically are defined, including required content, transmission via diplomatic channels, and handling of transactional fines. The document also begins to address procedures for arrest warrants (\"mandats d'amener\") executed outside the jurisdiction of the prosecuting authority handling the investigation.",
+                    "line_num": 923
+                  }
+                ]
+              },
+              {
+                "title": "Section 4",
+                "node_id": "0025",
+                "prefix_summary": "##### Section 4",
+                "line_num": 993,
+                "nodes": [
+                  {
+                    "title": "Article S24",
+                    "node_id": "0026",
+                    "summary": "This partial document contains legal provisions from the Criminal Procedure Code of Congo (likely the Democratic Republic of Congo). It covers three main sections:\n\n1.  **Costs of Foreign Requests (Article 136):** Rules for handling expenses incurred from executing international letters of request (\"commissions rogatoires\") in criminal matters, including reciprocity, treaty obligations, and reimbursement.\n\n2.  **Closing Cases without Further Action (\"Classement sans suite\") (Articles 137-141):** Procedures and authority for terminating cases without prosecution. It details when prior authorization is not required, notification requirements for certain cases, exceptions for minor traffic offenses and stray animals, the power to reopen closed cases, and internal oversight mechanisms.\n\n3.  **Prosecution Decisions and Investigation Notices (Articles 142-146):** Guidelines on who has the authority to decide to prosecute (Section 5). Section 6 outlines the requirement for opening and closing investigation notices, procedures for seeking higher guidance in complex cases, and the specific content required for these official notices, emphasizing the precise formulation of the charges.",
+                    "line_num": 996
+                  }
+                ]
+              },
+              {
+                "title": "Section 7",
+                "node_id": "0027",
+                "prefix_summary": "##### Section 7",
+                "line_num": 1067,
+                "nodes": [
+                  {
+                    "title": "Article S25",
+                    "node_id": "0028",
+                    "summary": "This partial document covers procedural regulations for judicial case files and notifications at the end of a criminal investigation (instruction). It specifies the required content of the concluding report, the rules for organizing and transmitting case files between prosecutors, and the obligations to inform political and administrative authorities about legal actions involving their subordinates or matters impacting public order.",
+                    "line_num": 1070
+                  },
+                  {
+                    "title": "Article S26",
+                    "node_id": "0029",
+                    "summary": "This partial document covers sections from a legal code or procedure manual, likely concerning criminal procedure and administrative oversight. The main points detailed are:\n\n1.  **The interaction between judicial authorities and government/superiors regarding prosecution decisions:** It outlines procedures for superiors to raise objections to planned prosecutions and for authorities to inform the judiciary of political interests that may warrant closing a case.\n\n2.  **The transmission of copies of judgments and court rulings:** Specific rules are provided for sending copies of judgments to regional governments or concerned authorities, particularly regarding politically appointed individuals, officials, and civil servants. The procedures differ based on whether the judgment is final or interlocutory.\n\n3.  **Providing information to parties and interested persons:** This includes regulations on the delivery of copies and communication of criminal/disciplinary files (under the authority of the Prosecutor General) and obligations for the investigating magistrate to inform complainants about the outcome of their complaint (e.g., closure, settlement fine, or decision to prosecute).\n\n4.  **Documents and reports to be sent to the Prosecutor General:** Detailed instructions are given for distributing multiple copies of notices of case opening and closing notes, as well as judgments. Specific rules apply for sending copies of judgments involving acquittals or sentences over one year, including exceptions when an appeal is lodged.",
+                    "line_num": 1141
+                  },
+                  {
+                    "title": "Article S27",
+                    "node_id": "0030",
+                    "summary": "This partial document covers procedural regulations for judicial and prosecutorial authorities, primarily focusing on the transmission of documents and the handling of seized funds.\n\nThe main points are:\n\n1.  **Document Transmission Protocols:** It specifies how copies of judgments, inspection reports (for prisons and courts), quarterly registers, and case files (e.g., for suicides or suspicious deaths) must be distributed to various judicial offices, particularly the Prosecutor General's office.\n\n2.  **Handling of Seized Money and Valuables:** It establishes rules for prosecutorial offices detaining money seized during judicial investigations. It details procedures for restitution if the seizure is lifted, or for transfer to the court registry if prosecution proceeds, explicitly forbidding deposit into public accounts in these cases.\n\n3.  **Handling of Other Funds (e.g., Damages):** It outlines procedures for when court officers hold funds like court-awarded damages. If the beneficiary is present, the officer acts as an intermediary for immediate payment. If absent, the funds are deposited with a public accountant (the court clerk) for later disbursement to the rightful claimant.",
+                    "line_num": 1212
+                  }
+                ]
+              },
+              {
+                "title": "Section 8",
+                "node_id": "0031",
+                "prefix_summary": "##### Section 8",
+                "line_num": 1279,
+                "nodes": [
+                  {
+                    "title": "Article S28",
+                    "node_id": "0032",
+                    "summary": "This partial document covers a section of a legal code or procedural manual, specifically \"Article S28.\" The main points are regulations concerning three areas within the criminal justice system:\n\n1.  **Pre-trial Detention (Détention préventive):** It establishes that pre-trial detention should be the exception, not the rule. It outlines the duties of the investigating magistrate to propose alternatives for minor offenses, strictly respect legal deadlines for presenting detainees before a judge, and appeal decisions denying detention when necessary.\n\n2.  **Appeals by the Public Prosecutor's Office (Recours du Ministère public):** It mandates the public prosecutor to automatically appeal all cases where the death penalty or life imprisonment is imposed. It also requires appeals when sentences are deemed disproportionate and obligates the prosecutor to ensure timely applications for conditional release for eligible convicts.\n\n3.  **Prison Competence and Production (Compétence pénitentiaire):** It details the responsibility of prosecutors to oversee prison labor and \"penitentiary production.\" It establishes a reporting chain where prison wardens submit quarterly production reports to prosecutors, who then compile annual reports for the central justice administration to monitor trends and improvements.",
+                    "line_num": 1282
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0033",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 1341,
+            "nodes": [
+              {
+                "title": "Article S29",
+                "node_id": "0034",
+                "summary": "This partial document covers Sections 1 to 5 of Article S29, concerning \"Tribunaux de Paix\" (Peace Courts) and \"Tribunaux de Police\" (Police Courts). The main points are:\n\n1.  **General Provisions:** The rules for police courts remain valid until peace courts are installed. Judges of peace courts, due to their hybrid role as both judges and public prosecutors, are governed by regulations applicable to both courts and prosecutors' offices.\n\n2.  **Registration Procedures:** Details on how cases are registered on the court roll and in the public prosecutor's register, following the rules for courts and prosecutors' offices respectively. It lists the specific registers (roll, costs, fines, seizures, judged cases) to be maintained at the police court clerk's office and outlines how cost statements are prepared.\n\n3.  **Transmission of Documents:** Requires the monthly transmission to the public prosecutor of cases closed without further action (including those settled by transactional fines) and of all judgments rendered by the police court, accompanied by appropriate notes.\n\n4.  **Periodical Reports:** Mandates the creation of monthly summary reports, including a table summarizing case statistics (numbers inscribed, pending, closed, transferred, judged) and a list of cases still pending at month's end. Similar reports are required for witnesses and free accused persons available to the court.\n\n5.  **Handling of Funds:** States that the rules prescribed for public prosecutors regarding money held by the court are also applicable, as needed, to judges of police courts.",
+                "line_num": 1344
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0035",
+                "summary": "###### Article S3\n\nII DU MINIST�RE PUBLIC",
+                "line_num": 1408
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV",
+            "node_id": "0036",
+            "prefix_summary": "#### TITRE IV",
+            "line_num": 1413,
+            "nodes": [
+              {
+                "title": "Article S30",
+                "node_id": "0037",
+                "summary": "###### Article S30\n\nDISPOSITIONS COMMUNES AUX",
+                "line_num": 1416
+              },
+              {
+                "title": "Article S31",
+                "node_id": "0038",
+                "summary": "The partial document covers sections 31 of a legal code, detailing procedural rules for courts and prosecutors. The main points include: procedures for handling flagrant offenses, requirements for biographical notes and reports, rules for correspondence, management of court furniture and libraries, and a list of standard abbreviations used in judicial documents.",
+                "line_num": 1421
+              },
+              {
+                "title": "Article S32",
+                "node_id": "0039",
+                "summary": "###### Article S32\n\nR.M.P. Registre du Minist�re public\nR.A.T. Registre des amendes transactionnelles\nR.F.N.I. Registre des faits non infractionnels\nR.A.P. Registre �autres parquets�\nR.T. Registre des tutelles\nB.C.S. Bureau central de signalement\nR.O.S. Registre des objets",
+                "line_num": 1497
+              }
+            ]
+          },
+          {
+            "title": "TITRE V",
+            "node_id": "0040",
+            "prefix_summary": "#### TITRE V",
+            "line_num": 1508,
+            "nodes": [
+              {
+                "title": "Article S33",
+                "node_id": "0041",
+                "summary": "This partial document contains the final provisions (DISPOSITIONS FINALES) of a legal order or decree (arrêté). The main points covered are: the abrogation of previous internal regulations for courts, tribunals, and prosecution offices that contradict this new order (Art. 203); the immediate entry into force of this order upon signature (Art. 204); and the future entry into force of new internal regulations made under this order upon their publication (Art. 205). The text concludes with a disclaimer stating the site is under construction and that the published texts are not an official source and do not engage the responsibility of the hosting association.",
+                "line_num": 1511
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0042",
+                "prefix_summary": "##### Section 1",
+                "line_num": 1530,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0043",
+                    "summary": "This partial document outlines the structure and operational procedures of prosecutorial offices (parquets) within a legal system, specifically referencing Congo. It details the organization hierarchy, the management of judicial investigations and duties, case handling (including decisions to prosecute or close cases), communication protocols with authorities and parties, financial matters, and procedures related to pre-trial detention and appeals by the public prosecutor.",
+                    "line_num": 1533
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0044",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 1582,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0045",
+                "summary": "###### Article S5\n\nDES TRIBUNAUX DE PAIX ET DES TRIBUNAUX DE POLICE\nSection 1re G�n�ralit�s\nSection 2 De l�inscription au r�le et au registre du Minist�re public\nSection 3 De la transmission des jugements des tribunaux de police et\ndes dossiers class�s sans suite\nSection 4 Des pi�ces p�riodiques �tablies par les juges des tribunaux de\npolice\nSection 5 Des sommes d�argent d�tenues par les tribunaux de police",
+                "line_num": 1585
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV",
+            "node_id": "0046",
+            "prefix_summary": "#### TITRE IV",
+            "line_num": 1597,
+            "nodes": [
+              {
+                "title": "Article S6",
+                "node_id": "0047",
+                "summary": "###### Article S6\n\nDISPOSITIONS COMMUNES AUX COURS, TRIBUNAUX ET PARQUETS\n� 1er. De la flagrance\n� 2. Des notes biographiques, des rapports et statistiques\n� 3 .Des correspondances avec les tiers et les sup�rieurs hi�rarchiques\n� 4. De la gestion du mobilier et des biblioth�ques\n� 5. Des abr�viations courantes",
+                "line_num": 1600
+              }
+            ]
+          },
+          {
+            "title": "TITRE V",
+            "node_id": "0048",
+            "prefix_summary": "#### TITRE V",
+            "line_num": 1610,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0049",
+                "summary": "###### Article S7\n\nDISPOSITIONS FINALES\nTITRE Ier DES",
+                "line_num": 1613
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0050",
+                "summary": "###### Article S8\n\nCOURS ET TRIBUNAUX",
+                "line_num": 1619
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0051",
+                "prefix_summary": "##### Section 1",
+                "line_num": 1624,
+                "nodes": [
+                  {
+                    "title": "Article S9",
+                    "node_id": "0052",
+                    "summary": "This partial document outlines the organizational structure and division of judicial courts and tribunals into sections and chambers, along with the roles and powers of court presidents, section presidents, and chamber presidents.\n\nThe main points covered are:\n1. The composition of the Supreme Court of Justice, appellate courts, and other tribunals into specific judicial, administrative, and legislative sections, further divided into civil and criminal chambers.\n2. Rules governing when courts sit with all sections or chambers united, and the presiding officials for such sessions.\n3. The minimum number of judges required for chambers and sections.\n4. The broad administrative powers of the presidents of courts and tribunals, including determining the number of chambers, distributing cases, presiding over sessions, ensuring orderly case processing, and maintaining discipline.\n5. The specific duties of section presidents (distributing cases within their section) and chamber presidents (assigning cases to judges and determining chamber composition).",
+                    "line_num": 1627
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "4b7c52d4-e105-44cf-b498-8fd1f6d8780e"
+    ],
+    "0004": [
+      "f38507de-b805-4399-81a7-6693ca6d82a3"
+    ],
+    "0005": [
+      "56de4ce2-589b-41a3-898c-2a0761009d91"
+    ],
+    "0006": [
+      "1d7c3cfb-2f2c-4db4-ad25-8086f85ae586"
+    ],
+    "0007": [
+      "ea70c545-babd-4bc4-b0a4-f7ffd125f85b"
+    ],
+    "0009": [
+      "157f0056-6d09-49a8-8f0a-112dcff4670b"
+    ],
+    "0010": [
+      "9d42d550-8d07-44ef-a261-4402b2e0feeb"
+    ],
+    "0011": [
+      "6a5df9f9-4110-4256-9189-08c198a73945"
+    ],
+    "0013": [
+      "4d6c4ba6-3720-4772-9ea1-51ab7cbcae7f"
+    ],
+    "0015": [
+      "b081a30c-d419-40b1-88f2-87435b496197"
+    ],
+    "0017": [
+      "a318c0a1-a4ff-4a62-9089-620b790a0c51"
+    ],
+    "0019": [
+      "e00e66e3-ab70-4e3f-b398-f7f707426eeb"
+    ],
+    "0020": [
+      "633de794-b31b-445f-914c-a61895c403af"
+    ],
+    "0021": [
+      "93e69dd2-e6d0-4b3a-afec-a6955d4654eb"
+    ],
+    "0023": [
+      "fcc4c6b2-7a4a-4145-b7ba-d2e1bfa788d6"
+    ],
+    "0024": [
+      "4d20ee1e-9284-438d-8ffc-88b5421544f9"
+    ],
+    "0026": [
+      "0d16a8a0-5f35-4e4a-a920-302e74aa6462"
+    ],
+    "0028": [
+      "67982d9d-5439-45d2-96b5-548be56d14b7"
+    ],
+    "0029": [
+      "4c07be01-df07-4f0d-949e-c54db8bf2d12"
+    ],
+    "0030": [
+      "c935db2a-a536-4477-84cb-a9ce07b40a19"
+    ],
+    "0032": [
+      "ac3e96d4-f658-44ed-9b78-6d09ef0a974a"
+    ],
+    "0034": [
+      "5428db2c-526e-4fe9-97ac-f667e1b2fafd"
+    ],
+    "0035": [
+      "733664b5-9bdc-4a13-ae88-48aae822f521"
+    ],
+    "0037": [
+      "170bead2-acc3-463f-899e-0f81e73724df"
+    ],
+    "0038": [
+      "02a9bb74-8d91-4c49-bcdd-15f49183c3b5"
+    ],
+    "0039": [
+      "b846f653-b31b-4d24-ad22-1e4fcbe0ec21"
+    ],
+    "0041": [
+      "15748355-7fc7-4810-8a93-cf5d5165ce72"
+    ],
+    "0043": [
+      "71d5f7ac-8516-4d99-bf27-fe90f7f22d5a"
+    ],
+    "0045": [
+      "e3725e14-dfc4-4572-9860-bd95dddf7bcd"
+    ],
+    "0047": [
+      "789332c8-c6c1-4fa5-89c5-0b679fc1f079"
+    ],
+    "0049": [
+      "4fd82f7f-598a-4fd2-a89d-49512d2c30c0"
+    ],
+    "0050": [
+      "79d2a154-bd63-4e73-bd0c-7ee34f9f5240"
+    ],
+    "0052": [
+      "fd4f1267-ba86-4ef4-9fa9-100d4ea85b3e"
+    ]
+  },
+  "node_count": 53,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:46:26.952937",
+  "article_count": 33,
+  "generation_time_s": 36.323193073272705
+}

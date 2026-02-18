@@ -1,0 +1,121 @@
+{
+  "slug": "AM-021-21-03-2019-2019",
+  "bundle_path": "backups/all_bundles/code/AM-021-21-03-2019-2019.json",
+  "document_id": "b1682a55-00c3-4ab5-88db-8451c62ba867",
+  "document_title": "AM 021 21.03.2019",
+  "tree_json": {
+    "doc_name": "AM-021-21-03-2019-2019",
+    "structure": [
+      {
+        "title": "AM 021 21.03.2019",
+        "node_id": "0000",
+        "prefix_summary": "# AM 021 21.03.2019",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "This partial document contains the introductory section of an official ministerial decree (Arreté) from the Democratic Republic of Congo. The decree, numbered 021/CAB/MIN/CA/JPM/2019 and dated March 21, 2019, approves the tariff schedule of copyright and neighboring rights royalties payable to SOCODA Coop-CA. It is issued by the Minister of Culture and Arts, based on a proposal from the administration council. The decree references the constitutional basis (Articles 46, 91, and 93 of the Constitution) and the foundational law (Ordinance-law No. 86-033 of April 5, 1986) that protects copyright and neighboring rights.",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "summary": "This partial document is a legal preamble listing the references and legal instruments that form the basis for a subsequent decree or decision. The main points covered are the citations of specific articles from a law or constitution (Articles 6, 20, 36, etc.), followed by references to several ordinances and a ministerial order from the Democratic Republic of Congo. These references pertain to: the modification of ministerial responsibilities, the authorization to create a copyright society (SOCODA), and the appointment of government officials. The text is establishing the legal authority for the action to be detailed later in the full document.",
+            "line_num": 69
+          },
+          {
+            "title": "Titre",
+            "node_id": "0003",
+            "prefix_summary": "#### Titre\nII\n: Les",
+            "line_num": 132,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "This partial document is a Congolese ministerial decree approving the tariff scale for copyright and neighboring rights royalties to be collected by SOCODA (Société Congolaise des Droits d'Auteur et des Droits Voisins). It establishes the legal framework for collecting royalties from users of protected intellectual works.\n\nThe main points covered include:\n- The rationale for the decree, emphasizing that royalties are deferred salaries for authors and must be linked to the cost of living.\n- The different categories of usage that incur royalties (public communication, mechanical reproduction, publishing, private copying, reprography, broadcasting, and use in new information technologies).\n- The types of works covered (musical, plastic/graphic, cinematographic, literary, photographic, dramatic, choreographic, visual/applied arts, and folklore expressions).\n- The bases for tariff calculation: tariffs are set as a percentage or a fixed amount, depending on whether the use of protected works is indispensable or accessory to the user's activity.\n- The distinction between two types of users: subscribers and occasional users.",
+                "line_num": 137
+              }
+            ]
+          },
+          {
+            "title": "Titre",
+            "node_id": "0005",
+            "prefix_summary": "#### Titre\nIV\n: Les",
+            "line_num": 683,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0006",
+                "summary": "This partial document outlines a tariff structure and user categories defined by a copyright management organization (SOCODA). The main points covered are:\n\n1.  **User Definitions:** It distinguishes between permanent users (\"abonnés\") and incidental users (\"occasionnels\") of protected intellectual works.\n\n2.  **Subscription & Licensing:** It states that subscription or licensing contracts are for a fixed, renewable term and set the limits, conditions, and favorable pricing for use.\n\n3.  **Professional Group Discounts:** It offers a 10% discount to professional associations that sign a collective contract with SOCODA for their members.\n\n4.  **Tariff Application Scope:** It details the wide range of public performances and communications subject to tariffs, including live shows (concerts, theater, fashion shows), background music in venues (restaurants, gyms, stadiums), fairs, religious/funeral events, film projections, art exhibitions, and online/cable transmissions.\n\n5.  **Specific Tariff Rates:** It lists applicable rates for:\n    *   **Public Performance:** Either 15% of entry receipts (with variations) or a flat fee.\n    *   **Mechanical Reproduction:** 8% per unit reproduced, plus authentication fees.\n    *   **Graphic Reproduction:** 10% per unit (applying to photo labs, calendars, posters, etc.).\n    *   **Publishing Rights:** A minimum of 10% of the public retail price, as set in the publishing contract.\n    *   **Broadcasting (Radio/TV):** To be determined by mutual agreement between SOCODA and the broadcasting organization.\n\n6.  **Other Provisions:** It notes that tariffs for reprography and private copying are set by ministerial decree, and that tariffs for audiovisual/cinema establishments consider the diffusion of works.",
+                "line_num": 688
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0007",
+                "summary": "This partial document outlines a tariff structure and licensing requirements administered by SOCODA for various uses of copyrighted works and intellectual property. It details the applicable fees, calculation methods, and scope for different categories, including:\n\n1.  **Corporate Films:** Audiovisual works created for information, training, or promotion, including online publication.\n2.  **Extended Applicability:** The tariff also applies to photographic works, mobile phone ringtones, telephonic waiting music, textile designs, public internet access providers, cable distributors, internet broadcasting (webcasting/simulcasting), art galleries, cultural/sports centers, attractive spaces, and advertising agencies.\n3.  **Calculation Methods for Online Content:** Royalties for protected online content are calculated per page views per month (PAVMO). For literary works, they are based on the number of characters.\n4.  **Artistic and Graphic Works:** Reproduction fees consider format, color (black/white), and number of copies.\n5.  **Public Performance:** The public sonorization of musical works in establishments open to the public requires prior authorization from SOCODA and payment of royalties.\n6.  **Additional Sound Applications:** Includes background or ambiance music in trains, planes, buses, tourist coaches, advertising vehicles with loudspeakers, fairground attractions, and boats.\n7.  **Advertising Uses:** Literary and artistic works used in advertisements are covered, with royalties calculated differently for:\n    *   Radio/TV/commercial spots (per second and number of broadcasts).\n    *   Print media (revues, newspapers, magazines, posters, calendars, etc.) based on circulation and format.\n    *   Display networks (airplanes, buses, taxis, trains, stadiums, etc.) based on support size and duration of execution.\n8.  **Cable Retransmission:** The tariff relates to the retransmission of works and performances in cable networks, regardless of the transmission technique, when included in publicly broadcast radio/TV programs.",
+                "line_num": 1201
+              }
+            ]
+          },
+          {
+            "title": "Titre",
+            "node_id": "0008",
+            "prefix_summary": "#### Titre\nV :\nD�compte",
+            "line_num": 1727,
+            "nodes": [
+              {
+                "title": "Article S6",
+                "node_id": "0009",
+                "summary": "This partial document contains articles from a legal or regulatory text, likely a tariff scheme or implementing decree related to copyright and related rights in the Democratic Republic of Congo. The main points covered are:\n\n1.  **Scope and Calculation of Royalties:** It specifies various uses of protected works (e.g., cable retransmission, public performances, exhibitions, private copying on blank media) that are subject to royalties. Royalties are calculated based on revenue generated, operating budgets, or fixed factory prices.\n\n2.  **Specific Tariffs:** It outlines royalty rates or calculation methods for specific categories, including:\n    *   Dramatic, theatrical, and choreographic performances.\n    *   Public exhibition of visual arts.\n    *   Private copying on analog and digital media (blank tapes, CDs, DVDs).\n    *   Graphic reproduction of designs on textiles (like pagne).\n    *   Use of folklore (at half the rate of private domain works).\n    *   Use of performances and phonograms/videograms (neighboring rights).\n\n3.  **Obligations of Users:** Users (cable distributors, exhibitors, etc.) must declare their use of works and relevant financial information to the copyright society, SOCODA, within 15 days.\n\n4.  **Payment Procedures:** All collected royalties must be paid to SOCODA. Invoices from SOCODA must be settled within one week of receipt.\n\n5.  **Administrative Provisions:** The document references a detailed, exhaustive tariff schedule in an annex, states that tariffs can be revised annually, and notes that specific measures may apply to different use cases due to their unique nature.",
+                "line_num": 1732
+              }
+            ]
+          },
+          {
+            "title": "titre",
+            "node_id": "0010",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 2255,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "The partial document covers regulations from an official order (likely from the Democratic Republic of Congo) regarding copyright and related rights. It specifies:\n\n1. Cases where the copyright society SOCODA can resort to extra-tariff expertise when rights are not respected, including works of sovereignty, prolonged unauthorized use, use in advertisements, plagiarism, and exploitation without written permission.\n\n2. Sanctions for unauthorized exploitation of protected works, including systematic penalties for late payment of royalties.\n\n3. The classification of geographical zones (1-4) based on commercial activity levels for applying royalty tariffs.\n\n4. The approval of SOCODA's royalty rates and tariffs, the repeal of contrary previous provisions, and the order's execution and effective date.",
+                "line_num": 2259
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "25f3bb7c-0b1e-40da-b3d4-431e4198784c"
+    ],
+    "0002": [
+      "b7c5d701-6116-4d7f-8671-5b694919821c"
+    ],
+    "0004": [
+      "4bf79ecd-f461-4bce-b8f2-f7563e7f412b"
+    ],
+    "0006": [
+      "1c6199e9-d8ce-4202-9f64-166fc49507b3"
+    ],
+    "0007": [
+      "2b006d14-9321-4dfc-aea1-b5000e560f10"
+    ],
+    "0009": [
+      "8c65acbb-87bf-49f3-b991-97c085d30bf1"
+    ],
+    "0011": [
+      "856ec0fa-956f-4a5f-8cb8-b62f452f508c"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:22:35.440181",
+  "article_count": 7,
+  "generation_time_s": 29.438865900039673
+}

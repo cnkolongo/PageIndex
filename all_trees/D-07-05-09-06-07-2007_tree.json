@@ -1,0 +1,71 @@
+{
+  "slug": "D-07-05-09-06-07-2007",
+  "bundle_path": "backups/all_bundles/code/D-07-05-09-06-07-2007.json",
+  "document_id": "6feb7ed6-82e9-452e-bd3d-e96b05916ae2",
+  "document_title": "D.07.05.09.06.07",
+  "tree_json": {
+    "doc_name": "D-07-05-09-06-07-2007",
+    "structure": [
+      {
+        "title": "D.07.05.09.06.07",
+        "node_id": "0000",
+        "prefix_summary": "# D.07.05.09.06.07",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 2",
+            "node_id": "0001",
+            "summary": "The partial document describes the composition of a commission, specifying its members. The commission is led by ministers holding key portfolios (Finance, Plan, Foreign Affairs, Budget, Economy, Industry/SMEs, Mines, Public Works), includes representatives from the Head of State and the Prime Minister, incorporates the Governor of the Central Bank and heads of public debt and investment promotion agencies, and includes delegates from major business federations and associations representing large enterprises, SMEs, and national portfolio companies.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0002",
+            "summary": "###### Article 3\n\nL�article 7 est modifi� de la mani�re\nsuivante:\n�La Cellule Technique est compos�e, outre des personnes cit�es � l�article\n7 du D�cret n�04/016 du 26janvier 2004, de deux d�l�gu�s de la FEC.�.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0003",
+            "summary": "###### Article 4\n\nL�article\n10 du D�cret n�04/016 du 26janvier 2004 est abrog�.",
+            "line_num": 69
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0004",
+            "summary": "###### Article 5\n\nLe D�cret n� 04/0 16 du 26 janvier 2004 est prorog� pour une dur�e de\nvingt quatre mois (24) mois.",
+            "line_num": 75
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0005",
+            "summary": "###### Article 6\n\nLe Ministre des Finances est charg� de l�ex�cution du pr�sent D�cret qui\nentre en vigueur � la date de sa signature.\nFait � Kinshasa, le 09 juin 2007\nAntoine GIZENGA\nLe Ministre des Finances\nAthanase MATENDA KYELU\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 81
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "739a079c-aaae-4a60-af95-3d30c88e0c69"
+    ],
+    "0002": [
+      "8520a476-aa14-4031-a40f-2e00f6455201"
+    ],
+    "0003": [
+      "64fd01a2-9419-48b8-9622-9e4da90334d4"
+    ],
+    "0004": [
+      "17c7439f-ca44-4f3f-90af-8e2c7fc3f038"
+    ],
+    "0005": [
+      "76ef745e-3295-4d75-8243-9c68a8d32df3"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:30:24.264750",
+  "article_count": 5,
+  "generation_time_s": 4.151265859603882
+}

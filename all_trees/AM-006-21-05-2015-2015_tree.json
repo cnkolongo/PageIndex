@@ -1,0 +1,114 @@
+{
+  "slug": "AM-006-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-006-21-05-2015-2015.json",
+  "document_id": "9154bf0f-f58e-4dfe-af07-712ee806ef06",
+  "document_title": "AM.006.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-006-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.006.21.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.006.21.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is the beginning of a ministerial order (Arrêté) from the Democratic Republic of Congo's Minister of Tourism. The main points covered are:\n\n1.  **Identification:** It introduces the order's reference number and date (2015), stating its purpose is to regulate tourist sites, thereby modifying and complementing a previous 2005 order.\n2.  **Legal Basis:** It lists the constitutional and legal texts that serve as the foundation for the order, including the Constitution, various ordinances on government structure, public revenue, and the previous 2005 tourism regulation.\n3.  **Context:** It cites \"urgency\" as a factor and notes the order is made upon the proposal of the Secretary General for Tourism. The text ends as the operative part of the order is about to begin.",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "###### Article S2\n\n: DE LA DEFINITION\nArticle\n1\nEst\nd�nomm� site touristique, tout point g�ographique et/ ou tout paysage pr�sentant\nune valeur � caract�re naturel, historique, culturel, esth�tique, scientifique\net r�cr�atif, qui est exploit� et r�serv�, en tout ou en partie, � des fins\ntouristiques.\nTITRE",
+                "line_num": 45
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "This partial document outlines the classification of tourist sites in the Democratic Republic of the Congo. It defines two main categories: natural sites and artificial (man-made) sites.\n\nNatural sites are unaltered products of nature, subdivided into:\n*   **Geomorphological:** landforms like valleys, mountains, caves.\n*   **Hydrographic:** water bodies and features like rivers, lakes, waterfalls, oceans.\n*   **Biogeographical:** fauna and flora.\n\nArtificial sites are products of human work, subdivided into:\n*   **Historical:** monuments, slave routes, mausoleums, historical palaces.\n*   **Cultural:** national theatres, museums, libraries, archives, festivals, engineering works.\n*   **Industrial:** transformation plants, research centers, mining industries.\n*   **Scientific:** research centers.\n*   **Other sites:** cruise ships, bridges, dams, highways.",
+                "line_num": 58
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0005",
+                "summary": "This partial document outlines a three-tier classification system for tourist sites. It defines and provides examples of sites of worldwide interest (such as UNESCO World Heritage sites), national interest (managed exclusively by the central government, including national parks, airports, and national archives), and provincial interest (managed exclusively by provincial authorities, including local forests, rivers, and recreational parks).",
+                "line_num": 123
+              }
+            ]
+          },
+          {
+            "title": "Titre V",
+            "node_id": "0006",
+            "prefix_summary": "#### Titre V\n: Des documents d�exploitation",
+            "line_num": 230,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0007",
+                "summary": "This partial document outlines the legal framework for the management and operation of tourist sites. It specifies that management authority is divided between central and provincial administrations based on the site's significance. It details the process for individuals or entities to obtain authorization to create, develop, or manage a site, including the required application documents. The text also covers the issuance of operating permits, the possibility of public-private partnerships for state-owned sites, and the tax obligations for all tourism-related businesses within these sites.",
+                "line_num": 234
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0008",
+                "summary": "###### Article S6\n\nVI : DE LA MISE EN VALEUR DES SITES TOURISTIQUES\nArticle\n10\nLe\nMinist�re du tourisme peut, en partenariat avec des personnes physiques ou\nmorales, ainsi bien de nationalit� congolaise qu��trang�res, mettre en �uvre des\nprojets de d�veloppement du tourisme.\nArticle\n11\nL�am�nagement d�un site touristique doit se faire dans le strict respect des\nr�gles environnementales, fonci�res et urbanistiques.\nTITRE",
+                "line_num": 297
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0009",
+                "summary": "This partial document contains the final articles (Articles 12-15) of a legal decree or order (Arrêté) from the Democratic Republic of Congo, specifically related to tourism site management. The main points covered are:\n\n1.  The delimitation of tourist sites is the responsibility of the Ministry of Tourism in collaboration with the Ministry of Land Affairs.\n2.  The prospecting of tourist sites can be conducted by interested private parties with authorization, and the cost of experts provided to investors is borne by the investors.\n3.  Non-compliance with the order's conditions leads to the withdrawal of the operating license, following a 15-day formal notice.\n4.  The Secretary General of Tourism is responsible for implementing the order, which took effect on the date of its signature in Kinshasa on May 21, 2015.",
+                "line_num": 313
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0010",
+                "summary": "###### Article S8\n\n____________\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 346
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "bfdd9476-e632-4ba4-9b01-95b6a1dca1e7"
+    ],
+    "0003": [
+      "cda5075b-5bbf-4077-8a9f-507c36fe62b2"
+    ],
+    "0004": [
+      "afa5abc2-6448-4f9b-9649-b68a631c21c1"
+    ],
+    "0005": [
+      "8408c7c7-847b-4270-ba64-a115161817b0"
+    ],
+    "0007": [
+      "dd48bda4-ab41-42fa-bdb1-5bad3a2b6ab1"
+    ],
+    "0008": [
+      "8117494e-8ecf-4276-9462-d33c56287a24"
+    ],
+    "0009": [
+      "a2c02414-7688-45a2-a312-1bff7f1deb24"
+    ],
+    "0010": [
+      "d308b785-22d4-4175-a07a-ed7bd908b209"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:23:51.246335",
+  "article_count": 8,
+  "generation_time_s": 11.944171905517578
+}

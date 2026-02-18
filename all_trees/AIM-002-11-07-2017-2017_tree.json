@@ -1,0 +1,125 @@
+{
+  "slug": "AIM-002-11-07-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AIM-002-11-07-2017-2017.json",
+  "document_id": "7edf28ec-074c-4e15-984e-1168ffc0ca93",
+  "document_title": "AIM.002.11.07.2017",
+  "tree_json": {
+    "doc_name": "AIM-002-11-07-2017-2017",
+    "structure": [
+      {
+        "title": "AIM.002.11.07.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.002.11.07.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes recettes per�ues � l�initiative du Minist�re des Hydrocarbures proviennent\ndes taxes r�mun�ratoires et redevances pr�vues � l'annexe de l'Ordonnance-loi\nn�13/002 du 23 f�vrier 2013 fixant la nomenclature des droits, taxes et\nredevances du Pouvoir central.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nSont abrog�es, toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "This partial document contains the concluding and administrative sections of an interministerial decree (Arrêté) issued in Kinshasa on July 1, 2017. The main points covered are:\n1. The assignment of responsibility for executing the decree to the Secretary-General for Hydrocarbons and the Director-General of Administrative, Judicial, Domain, and Participation Revenue.\n2. The decree's effective date is the date of its signature.\n3. It includes the signatures of the Ministers of Finance and Hydrocarbons.\n4. An annex is attached to the decree, which establishes the rates, duties, taxes, and fees to be collected by the Ministry of Hydrocarbons.\n5. A disclaimer stating that the website hosting the document is under construction and that the texts are provided without liability by the hosting association.",
+            "line_num": 17
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0004",
+            "summary": "###### Article 2\n\nLes taux des droits, taxes et redevances sont fixes en pourcentage ou en Dollars\nam�ricains, payables en Francs congolais au taux officiel du jour, suivant le\ntableau repris en annexe du pr�sent Arr�t� et la p�riodicit� y indiqu�e.",
+            "line_num": 44
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0005",
+            "summary": "This partial document outlines the payment schedule for various remunerative taxes and bonuses in a contractual agreement (likely for resource extraction, such as oil and gas). It specifies the triggering event for each payment:\n\n1.  **Initial signature bonus:** Paid after the parties sign the main convention.\n2.  **Amendment signature bonus:** Paid after the parties sign an addendum to the convention.\n3.  **Exploitation permit fee:** Paid after the President of the Republic approves the convention.\n4.  **Exploitation permit or concession fee (for commercial discovery):** Paid when the operator declares a discovery judged to be commercially viable.\n5.  **Interest transfer bonus:** Paid in case of a legal operation or transaction involving a transfer of rights/obligations to another party or entity.\n6.  **Profit-oil share:** Defined as the cash value of the remaining production after deducting royalties and cost-oil.",
+            "line_num": 51
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0006",
+            "summary": "###### Article 4\n\nLe produit de la vente des rapports, cartes g�ologiques, p�troli�res, gazi�res\net des r�sultats de recherches g�ologiques et p�troli�res comprend :\n1. Rapports :\n1.1. Rapport annuel,\n1.2. Acc�s aux donn�es des bassins s�dimentaires,\n1.3. Acc�s aux donn�es des rendus\n2. Cartes g�ologiques ;\n3. R�sultats des recherches g�ologiques, p�troli�res et gazi�res:",
+            "line_num": 70
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0007",
+            "summary": "###### Article 5\n\nLes taxes sur autorisation d'importation et commercialisation des produits\np�troli�res, tel que repris au point 17 de l'annexe de l�Ordonnance-loi n�\n13/002 du 23 f�vrier 2013, portant sur les activit�s li�es au maillon de\ndistribution.\nL'activit� pr�cit�e donne lieu � 1'octroi des titres administratifs� distincts\nci-apr�s selon �la destination finale ou volume manipule respectivement :\n- Autorisation d�importation;\n- Autorisation d'importation et commercialisation ;\n- Permis de transport et commercialisation.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0008",
+            "summary": "###### Article 6\n\nLes taxes sur l'autorisation de stockage des produits p�troliers telles que\nreprises au point 18 de l�annexe � l�Ordonnance-loi no 13/002 du 23 f�vrier\n2013, fixant La nomenclature des droits, taxes et redevances du Pouvoir central\nportent sur les activit�s li�es au maillon de transport & stockage.\nLes activit�s pr�cit�es donnent lieu � l�octroi des titres administratifs\ndistincts ci-apr�s selon le volume manipul� respectivement :\n- Autorisation de transport et stockage ;\n- Permis de transport et stockage ;",
+            "line_num": 95
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0009",
+            "summary": "This partial document defines the term \"Royalty\" within the context of a regulation and outlines the declaration and payment procedures. The main points are:\n\n1.  **Definition of Royalty:** It is defined as state revenue derived from production or export.\n2.  **Declaration Deadlines:** It specifies two different deadlines for declaring royalties based on the triggering event:\n    *   Within 10 days following production.\n    *   Within 45 days following export.\n3.  **Payment Process Timeline:** It details a strict, multi-step administrative timeline for payment, including the issuance of a debit note (3 days after declaration), a collection note (3 days after the debit note), and the deposit of the collection note (2 days after its issuance).\n4.  **Governing Principle:** Final payment is to be made in accordance with conventional (likely contractual) provisions.",
+            "line_num": 107
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0010",
+            "summary": "###### Article 8\n\nLe d�faut de d�claration, les d�clarations inexactes, incompl�tes ou fausses\nfaites par l'exploitant d�une activit� donnent lieu � des p�nalit�s d'assiette\npr�vues � l�article 9 ci-dessous, et ce, sans pr�judice des sanctions\nadministratives ou p�nales que la fraude constat�e peut entrainer.",
+            "line_num": 126
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0011",
+            "summary": "###### Article 9\n\nLes p�nalit�s d'assiette se rapportant aux manquements �num�r�s � l�article\npr�c�dent du pr�sent Arr�t� sont calcul�es de la mani�re suivante :\n- 20% des droits dus en cas de d�faut de d�claration ;\n- 25% des droits dus en cas de d�claration incompl�te ou fausse;\n- 50% des droits dus en cas de r�cidive.",
+            "line_num": 134
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f5cad41a-e5b7-4478-b40a-71ed3ab9c4d0"
+    ],
+    "0002": [
+      "942f4b9d-1e54-470f-a059-0b5c2547e9eb"
+    ],
+    "0003": [
+      "49bbef7b-bcb0-48d8-8311-ed9fed6e0ce5"
+    ],
+    "0004": [
+      "a3191076-5d26-4ddc-836e-094fa4b7a87a"
+    ],
+    "0005": [
+      "c0ed1cc6-8488-4b6f-82bd-1f984963ebca"
+    ],
+    "0006": [
+      "2614ec94-94de-44be-9b78-579461d26bac"
+    ],
+    "0007": [
+      "537ab610-05fe-404a-873f-2de7324e4595"
+    ],
+    "0008": [
+      "d2ba05a0-37c8-4a50-9be5-ff58cad494d7"
+    ],
+    "0009": [
+      "9d690959-b2d5-44ee-aa2b-9ba8569a303c"
+    ],
+    "0010": [
+      "7d5a344a-fc44-44d2-ac69-c69d4610e6c3"
+    ],
+    "0011": [
+      "4f3b274e-dc9c-4b4d-81a8-c5ea96c5731f"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:49.207312",
+  "article_count": 11,
+  "generation_time_s": 14.387632131576538
+}

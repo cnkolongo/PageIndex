@@ -1,0 +1,31 @@
+{
+  "document_id": "ad008972-6a64-46e9-a28b-9924481aed6a",
+  "document_title": "A.0462b.30.10.1969",
+  "tree_json": {
+    "doc_name": "A-0462b-30-10-1969-1969",
+    "structure": [
+      {
+        "title": "A.0462b.30.10.1969",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "36c4fe75-46a4-4c54-9e40-0ba07fd73338"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:16:32.484009",
+  "article_count": 1,
+  "generation_time_s": 0.001920938491821289
+}

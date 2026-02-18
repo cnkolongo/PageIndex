@@ -1,0 +1,194 @@
+{
+  "slug": "A-07-08-2008-2008",
+  "bundle_path": "backups/all_bundles/code/A-07-08-2008-2008.json",
+  "document_id": "9bf9d7ef-0803-4b93-b12a-59a06ef1853d",
+  "document_title": "A.07.08.2008",
+  "tree_json": {
+    "doc_name": "A-07-08-2008-2008",
+    "structure": [
+      {
+        "title": "A.07.08.2008",
+        "node_id": "0000",
+        "prefix_summary": "# A.07.08.2008",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE VI :",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE VI :\nDES RESSOURCES FINANCIERES",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document outlines the governance and financial management rules for the \"Régie d'Assainissement et des Travaux Publics de Kinshasa\" (R.A.T.P.K.). The main points covered are:\n\n1.  **Management Committee's Role and Functioning:** It details the responsibilities of the Management Committee, including implementing decisions, daily management, handling personnel/finances/assets, and preparing annual plans, budgets, and reports. Its internal rules are set by the hierarchical authority.\n\n2.  **Financial Resources:** It lists the sources of funding for the R.A.T.P.K., such as government subsidies, service fees, waste valorization proceeds, donations, external funding, authorized loans, and various taxes and penalties.\n\n3.  **Budgetary Process:** It states that the Management Committee prepares an annual budget of revenues and expenditures, which must be submitted for approval by the City Governor by October 31st of the preceding year.\n\n4.  **Accounting and Financial Reporting:** It mandates that accounts be kept in accordance with national law to track operations and financial position. At the end of each fiscal year, the General Directorate must produce detailed financial statements (budget execution, income statement, balance sheet) and an activity report for review by the oversight authority.\n\n5.  **Treatment of Results:** It notes that the City Governor reviews the financial results and decides on the allocation of the net profit, following the provisions outlined in the document.",
+                "line_num": 8
+              },
+              {
+                "title": "Article 1",
+                "node_id": "0003",
+                "summary": "###### Article 1\n\ner :\nIl est\ncr��, dans la Ville de Kinshasa, un service public � caract�re technique ct\ncommercial, dot� d'une autonomie administrative et financi�re d�nomm�  � R�gie\nd'Assainissement et des Travaux Publics de Kinshasa�. en abr�g� R.A.T.P.K. �.\nLe si�ge\nde la R�gie d'Assainissement ct des Travaux Publics de Kinshasa est �tabli �\nKinshasa.",
+                "line_num": 137
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0004",
+                "summary": "The partial document outlines the role and key responsibilities of the Supervisory Council for the Kinshasa Sanitation and Public Works Authority (R.A.T.P.K.). Its main points are that the Council is the body responsible for overseeing and controlling the management of the R.A.T.P.K. Its specific duties include ensuring good management and control of the authority, and reviewing and submitting for approval the annual action plan, budget, activity reports, financial execution reports, financial statements, year-end accounts, and balance sheets.",
+                "line_num": 149
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0005",
+                "summary": "The partial document covers the governance rules for a \"Conseil de Surveillance\" (Supervisory Board). It details the board's leadership (chaired by the delegate of the City Governor), its secretariat (managed by the management committee), and its decision-making process (resolutions passed by majority vote, with the President's vote being decisive in a tie). It also specifies meeting frequency (ordinary sessions at least every three months) and the procedures for convening extraordinary sessions.",
+                "line_num": 169
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\n: Du R�glement Int�rieur du conseil de surveillance\nUn\nr�glement int�rieur propos� par le conseil de surveillance et approuv� par le\nGouverneur de la Ville apr�s avis du Ministre provincial ayant l'environnement\net les travaux publics dans ses attributions, d�termine les r�gles de\nfonctionnement, de cet organe.",
+                "line_num": 195
+              }
+            ]
+          },
+          {
+            "title": "TITRE V:",
+            "node_id": "0007",
+            "prefix_summary": "#### TITRE V:\nDU COMITE DE GESTION",
+            "line_num": 205,
+            "nodes": [
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "This partial document covers the internal governance and management structure of a public entity (likely the \"Régie d'Assainissement et des Travaux Publics de Kinshasa\"). The main points are:\n\n1.  **Compensation for the Supervisory Board:** It establishes that members of the Supervisory Board are entitled to an attendance fee, the amount of which is set by the City Governor.\n\n2.  **Composition of the Management Committee:** It lists the seven director-level positions that constitute the Management Committee, including the Director-General and Deputy Director-General.\n\n3.  **Roles of Key Managers:** It defines the core responsibilities of the Director-General (overall supervision and coordination) and the Deputy Director-General (acting in the Director-General's absence and supervising administrative and financial coordination).\n\n4.  **Appointment and Termination of Managers:** It states that the City Governor appoints and dismisses the senior managers. It also outlines other ways their functions may end: death, age limit, or voluntary resignation accepted by the Governor.",
+                "line_num": 209
+              }
+            ]
+          },
+          {
+            "title": "TITRE II:",
+            "node_id": "0009",
+            "prefix_summary": "#### TITRE II:\nDE L'OBJET",
+            "line_num": 254,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0010",
+                "summary": "This partial document outlines the legal establishment, authority, and core missions of the R.A.T.P.K. (Régie d'Assainissement et des Travaux Publics de Kinshasa). It defines the agency as the provincial government's technical body for public works and sanitation, placed under the authority of the City Governor. Its listed missions include managing sanitation and infrastructure activities, controlling public contract works, enforcing regulations and fines, proposing urban environmental policy, conducting studies, and executing other government-assigned tasks. The document also notes the agency can operate alone or in partnership and introduces a following section about its assets.",
+                "line_num": 258
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0011",
+                "summary": "###### Article 4\n\nLe\npatrimoine de la R.A.T.P.K est constitu� de la dotation initiale lui allou�e par\nla Ville de Kinshasa lors du d�but de ses activit�s en l'occurrence tous les\nbiens meubles ct immeubles mis � la disposition de la r�gie au moment de sa\ncr�ation ainsi que toutes les autres acquisitions ult�rieures en rapport avec\nson objet social.",
+                "line_num": 297
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0012",
+                "summary": "###### Article 5\n\n:\nEvaluation\ninitiale du patrimoine de la R�gie d'Assainissement et des travaux Publics de\nKinshasa.\nDans un\nd�lai d'un mois � dater de la mise en place du Comit� de gestion, la R�gie\nd'Assainissement et des travaux Publics de Kinshasa devra dresser l'�tat de la\nsituation patrimoniale mise � jour.\nL'�tat de\nla situation patrimoniale dont question � l'alin�a pr�c�dent et un rapport\nd�taill� sont transmis au gouverneur.\nUne copie\ndudit �tat est transmise aux Ministres provinciaux ayant dans leurs attributions\nl'environnement et les travaux publics ainsi que les finances.",
+                "line_num": 307
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV:",
+            "node_id": "0013",
+            "prefix_summary": "#### TITRE IV:\nDE L�ORGANISATION ET DU FONCTIONNEMENT",
+            "line_num": 325,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0014",
+                "summary": "This partial document covers the legal procedures for modifying and allocating the assets of the Kinshasa Sanitation and Public Works Authority (Régie d'Assainissement et des Travaux Publics de Kinshasa). The main points are:\n\n1.  **Formal Process for Asset Changes:** Any increase or reduction of the Authority's assets must be officially recorded by a Governor's Decree, based on proposals from provincial ministers responsible for environment, public works, and finance.\n2.  **Means of Increasing Assets:** The Authority's assets can be increased through subsequent contributions from the City of Kinshasa or by incorporating reserves, as stipulated by the relevant decree.\n3.  **Asset Allocation Upon Dissolution:** In the event the Authority is dissolved, its entire patrimony reverts to the City of Kinshasa, which will then decide on its allocation.",
+                "line_num": 329
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0015",
+                "summary": "###### Article 7\n\n: Des organes de la R.A.T.P.K.\nLes\norganes de la R.A.T.P.K. sont:\n� Le\nConseil de surveillance;\n� Le\nComit� de gestion.",
+                "line_num": 348
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0016",
+                "summary": "###### Article 8\n\n: De la composition du conseil de surveillance\nLe conseil\nde surveillance comprend:\na) Un\nd�l�gu� du Gouverneur de la Ville;\nb) Un\nd�l�gu� du Minist�re provincial ayant l'Environnement ct les travaux Publics\ndans ses attributions:\nc) Un\nd�l�gu� du Minist�re provincial ayant les finances dans ses attributions;\nd) Le\nDirecteur g�n�ral:\ne) Le\nDirecteur g�n�ral adjoint.",
+                "line_num": 359
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0017",
+                "summary": "###### Article 9\n\nDe la nomination des membres du conseil de surveillance\nLes\nmembres du conseil de surveillance sont nomm�s et. le cas �ch�ant. relev�s de\nleurs fonctions par le Gouverneur de la Ville apr�s d�signation par les\nresponsables des services concern�s.\nLe\nDirecteur g�n�ral et le Directeur g�n�ral adjoint sont de droit membres du\nconseil de surveillance.",
+                "line_num": 377
+              }
+            ]
+          },
+          {
+            "title": "TITRE VII:",
+            "node_id": "0018",
+            "prefix_summary": "#### TITRE VII:\nDE L'ORGANISAION DES MARCHES DE TRAVAUX. DE SERVICES. DE FOURNITURES",
+            "line_num": 389,
+            "nodes": [
+              {
+                "title": "Article l",
+                "node_id": "0019",
+                "summary": "This partial document contains articles from a regulatory text (likely a decree or order) concerning the \"Régie d'Assainissement et des Travaux Publics de Kinshasa\" (R.A.T.P.K.), a public utility in Kinshasa, Democratic Republic of Congo. The main points covered are:\n\n1.  **Financial Management (Articles l & 25):** Defines the net profit calculation, the allocation of funds to statutory and complementary reserves, and the procedure for covering deficits using carried-over results and reserves.\n\n2.  **Public Procurement (Articles 26-28):** Establishes the rules for public contracts (works, services, supplies). It specifies the use of either open or restricted tender processes, the criteria for selecting offers, and the conditions under which direct negotiation (*de gré à gré*) is permitted.\n\n3.  **Personnel (Articles 29-31):** Outlines the staffing of the R.A.T.P.K., stating that personnel are provided by the City Governor and are temporarily governed by an administrative regulation pending public service reform. The detailed organizational chart requires the Governor's approval.\n\n4.  **Administrative Control (Articles 32-35):** Details a comprehensive system of administrative oversight exercised by the City Governor and the relevant Provincial Minister. This control can be preventive, concurrent, or posterior. It specifies mechanisms including prior authorization, approval, and the power to oppose decisions. Key decisions (e.g., large contracts, budgets, organizational changes) must be submitted for authorization or approval, and meeting agendas and minutes must be shared.\n\n5.  **Final Provisions (Articles 36-38):** States that the R.A.T.P.K. can be dissolved by the City Governor, repeals any contrary previous provisions, and names the officials responsible for executing the order.",
+                "line_num": 393
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "36921d07-b4b2-4efd-9a31-0cb4385ec50e",
+      "a04434af-46a6-4ba7-92a0-ca0e7d045b6b"
+    ],
+    "0003": [
+      "36921d07-b4b2-4efd-9a31-0cb4385ec50e",
+      "a04434af-46a6-4ba7-92a0-ca0e7d045b6b"
+    ],
+    "0004": [
+      "b87fe8f9-25d5-41f8-9366-6b58f0912146"
+    ],
+    "0005": [
+      "81119099-1e79-4804-8d89-ed4a2ded14f2"
+    ],
+    "0006": [
+      "31b30d5c-c079-4e1f-9712-afae80d9b875"
+    ],
+    "0008": [
+      "8c0b2b39-b5fd-4bf7-bfcc-5708ff433cca"
+    ],
+    "0010": [
+      "bb388168-fc2e-434b-b184-7d980bf4008f"
+    ],
+    "0011": [
+      "86350bcb-7efd-4c91-bf67-81246120411c"
+    ],
+    "0012": [
+      "c46e3200-6db5-49d4-bce5-cd7b7dbe5add"
+    ],
+    "0014": [
+      "fdba6ce0-821d-49e1-8256-1911c9485743"
+    ],
+    "0015": [
+      "5cabdc2a-9663-4892-be5d-977cd4578463"
+    ],
+    "0016": [
+      "e5651e95-b049-49b1-a370-af7d0a2ef95c"
+    ],
+    "0017": [
+      "2a74586d-5b24-4349-8b5f-f890cbfa8954"
+    ],
+    "0019": [
+      "7226a36b-99d1-43a4-97a4-c3eed7407fbe"
+    ]
+  },
+  "node_count": 20,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:47:20.791643",
+  "article_count": 14,
+  "generation_time_s": 35.18653321266174
+}

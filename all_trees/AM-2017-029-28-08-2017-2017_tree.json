@@ -1,0 +1,71 @@
+{
+  "slug": "AM-2017-029-28-08-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM-2017-029-28-08-2017-2017.json",
+  "document_id": "2063be3d-9a11-426d-9aab-9c8c8eb7034c",
+  "document_title": "AM.2017.029.28.08.2017",
+  "tree_json": {
+    "doc_name": "AM-2017-029-28-08-2017-2017",
+    "structure": [
+      {
+        "title": "AM.2017.029.28.08.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2017.029.28.08.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nConform�ment � la Loi n� 15/005 du 17 mars\n2015 portant Code des assurrances seul le pr�judice~e �-moral du conjoint, des\nenfants mineurs ou majeurs, des ascendants, des fr�res et soeurs de la victime\nd�c�d�e est indemnis�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLes indemnit�s sont d�termin�es selon le\ntableau ci-dessous, par b�n�ficiaire:\nB�n�ficiaires En pourcentage du SMIG annuel\nConjoint 150\nEnfants mineurs 100\nEnfants majeurs 75\nAscendants (premier degr�) 75\nFr�res et s�urs 50\nToutefois, les indemnit�s de l'ensemble des\nb�n�ficiaires donnent lieu � r�duction proportionnelle lorsque leur cumul\nd�passe de vingt (20) fois le SMIG annuel.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nIl sied de pr�ciser que le pr�judice moral\nmentionn� � l'article 169 du Code des assurances rel�ve �galement de la\ncat�gorie de pr�judices susceptibles d'�tre indemnis�s en r�paration des\ndommages corporels subis lors d'un accident impliquant un v�hicule terrestre �\nmoteur.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nSont abrog�es, toutes les dispositions\nant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nL'Autorit� de r�gulation et de contr�le des\nassurances est charg�e de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 29 ao�t 2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 42
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3578e0f7-2acc-4e30-a0d0-ec48bd275fb6"
+    ],
+    "0002": [
+      "cda88b82-52a1-4d16-9cf9-5b56ac21a2bc"
+    ],
+    "0003": [
+      "d72b16fb-ace1-4419-b1e6-745b72630407"
+    ],
+    "0004": [
+      "16e63e5d-2c2e-46f9-8b18-11ccfa1a946d"
+    ],
+    "0005": [
+      "976bcba8-beb5-4846-85c5-716f625d862c"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:31:52.369069",
+  "article_count": 5,
+  "generation_time_s": 0.009268999099731445
+}

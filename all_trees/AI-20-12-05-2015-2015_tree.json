@@ -1,0 +1,80 @@
+{
+  "slug": "AI-20-12-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AI-20-12-05-2015-2015.json",
+  "document_id": "37811773-5658-417d-8d31-01adf852b7c5",
+  "document_title": "AI.20.12.05.2015",
+  "tree_json": {
+    "doc_name": "AI-20-12-05-2015-2015",
+    "structure": [
+      {
+        "title": "AI.20.12.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AI.20.12.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nuniques des imp�ts, cotisations sociales et contributions patronales sur les\nr�mun�rations.\nLa d�claration unique est auto-liquidative.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nformulaire dont le mod�le est �labor� conjointement par l�Administration des\nImp�ts, l�Institut National de S�curit� Sociale, l�Institut National de\nPr�paration Professionnelle et l�Office National de l�Emploi.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nle redevable des imp�ts sur les r�mun�rations et l�employeur assujetti au r�gime\ng�n�ral de la s�curit� sociale, aux contributions et cotisations patronales\nsouscrivent leur d�claration dans les quinze jours qui suivent le mois au cours\nduquel les r�mun�rations ont �t� vers�es ou mises � la disposition des\nb�n�ficiaires",
+            "line_num": 18
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nd�claration unique, sur support papier, d�ment remplie, dat�e et sign�e par le\nredevable ou employeur vis� � l�article 3 ci-dessus ou son repr�sentant, est\nd�pos�e aupr�s des services comp�tents de l�administration des Imp�ts. Les\nmodalit�s pratiques de partage des informations entre les services mentionn�s �\nl�article 5 ci-dessous sont fix�es dans un protocole de collaboration.",
+            "line_num": 27
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nNational de S�curit� Sociale, de l�Office National de l�Emploi et\nl�Administrateur directeur g�n�ral de l�Institut National de Pr�paration\nProfessionnelle sont charg�s respectivement de l�ex�cution du pr�sent Arr�t� qui\nentre en vigueur � la date de sa signature.\nFait � Kinshasa, le 12 mai 2015\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 93",
+            "node_id": "0006",
+            "summary": "This partial document is the preamble to a legal or regulatory article (Article 93). It lists the existing laws, decrees, ordinances, and ministerial orders that serve as the legal foundation for the new act being introduced. The \"Vu\" clauses reference specific legislation related to labor codes, tax procedures, social security, professional training, and government organization. Following these references, \"Considérant\" clauses outline the rationale for the new act, which is to simplify declaration and payment procedures for taxes and social contributions, improve the tax base, and enhance the business and investment climate. The text ends with \"ARRETENT,\" indicating the beginning of the decree's operative provisions.",
+            "line_num": 51
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "274cc734-bec3-4a43-9de2-5b933c6c4729"
+    ],
+    "0002": [
+      "798687e4-bfa5-4c00-b5d3-d2af289437cb"
+    ],
+    "0003": [
+      "f9abc6fe-cd77-4c2b-a60b-9eb494eeaa59"
+    ],
+    "0004": [
+      "62b389a0-a889-4bd3-af43-659f4fd9c890"
+    ],
+    "0005": [
+      "d639f3af-279e-4d8d-a0ee-e80702b2a96c"
+    ],
+    "0006": [
+      "ded160f1-2852-4426-a5ab-4fe7c493a6df"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:01:13.319202",
+  "article_count": 6,
+  "generation_time_s": 17.090962886810303
+}

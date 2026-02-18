@@ -1,0 +1,199 @@
+{
+  "slug": "AM-2100-0-12-1999-1999",
+  "bundle_path": "backups/all_bundles/code/AM-2100-0-12-1999-1999.json",
+  "document_id": "ed1824e1-0e9c-45d3-8cd1-e62b794ee7f1",
+  "document_title": "AM.2100.0.12.1999",
+  "tree_json": {
+    "doc_name": "AM-2100-0-12-1999-1999",
+    "structure": [
+      {
+        "title": "AM.2100.0.12.1999",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2100.0.12.1999",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�",
+            "line_num": 4
+          },
+          {
+            "title": "CHAPITRE V",
+            "node_id": "0002",
+            "prefix_summary": "#### CHAPITRE V",
+            "line_num": 9,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "###### Article S10",
+                "line_num": 12
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0004",
+                "summary": "###### Article S11\n\nDE LA DISSOLUTION ET DE LA LIQUIDATION\nArt. 20.\n� La dissolution et la\nliquidation des associations et mouvements des jeunes ob�issent au prescrit des\narticles 19 � 27 du d�cret-loi 195 du 29 janvier 1999 portant r�glementation des\nassociations sans but lucratif et �tablissement d�utilit� publique.",
+                "line_num": 15
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE VI",
+            "node_id": "0005",
+            "prefix_summary": "#### CHAPITRE VI",
+            "line_num": 25,
+            "nodes": [
+              {
+                "title": "Article S12",
+                "node_id": "0006",
+                "summary": "###### Article S12",
+                "line_num": 28
+              },
+              {
+                "title": "Article S13",
+                "node_id": "0007",
+                "summary": "###### Article S13\n\nDES DISPOSITIONS FINALES\nArt. 21.\n�Toutes les dispositions\nant�rieures contraires au pr�sent arr�t� sont abrog�es.\nArt. 22.\n� Le secr�taire g�n�ral � la\nJeunesse est charg� de l�ex�cution du pr�sent arr�t� qui sort ses effets � la\ndate de sa signature.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 31
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0008",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 48,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0009",
+                "summary": "###### Article S2\n\nARR�T� MINIST�RIEL MJ S\n/CAB/ 2100/020/99 du 2 d�cembre 1999 portant organisation et fonctionnement des\nassociations et mouvements des jeunes en R�publique d�mocratique du Congo. (Minist�re\nde la Jeunesse et des Sports)\ner",
+                "line_num": 51
+              },
+              {
+                "title": "Section I",
+                "node_id": "0010",
+                "prefix_summary": "##### Section I",
+                "line_num": 60,
+                "nodes": [
+                  {
+                    "title": "Article S3",
+                    "node_id": "0011",
+                    "summary": "This partial document presents articles from a legal framework (likely a decree or law) governing youth associations and movements in the Democratic Republic of the Congo. The main points covered are:\n\n1.  **Definition and Recognition:** It defines youth associations (non-governmental, apolitical groups with common educational, social, cultural, or development goals) and youth movements (groups adhering to a pre-existing ideal). It specifies which types of groups (student groups, young workers, NGO's focused on youth recovery/education, etc.) are recognized.\n\n2.  **Legal Form and Governance:** It states that these organizations must be constituted as non-profit associations with civil personality, governed by specific existing Congolese legislation.\n\n3.  **Support Services:** It lists types of support services (e.g., youth houses, training centers) that can be created by these organizations or public authorities, subject to approval by the relevant ministry.\n\n4.  **Goals and Duties of Youth Organizations:** The outlined goals include preparing youth for future civic responsibility, promoting solidarity, organizing community development activities, and encouraging youth participation in community life.\n\n5.  **Role of the State:** The document defines the state's role, which includes defining general youth policy, encouraging initiatives, assisting with legal recognition (civil personality), providing moral and material support to registered associations, granting fiscal and importation facilities, and establishing a policy for the recovery and reintegration of disadvantaged youth into employment.",
+                    "line_num": 63
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0012",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 138,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0013",
+                "summary": "###### Article S4",
+                "line_num": 141
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0014",
+                "summary": "###### Article S5\n\nDE L�ORGANISATION ET DU FONCTIONNEMENT DES",
+                "line_num": 144
+              },
+              {
+                "title": "Section I",
+                "node_id": "0015",
+                "prefix_summary": "##### Section I",
+                "line_num": 149,
+                "nodes": [
+                  {
+                    "title": "Article S6",
+                    "node_id": "0016",
+                    "summary": "This partial document covers Article S6 of a legal text, focusing on \"Associations and Youth Movements.\" It details their organization, functioning, and internal governance.\n\nThe main points include:\n1.  **Organization:** Youth associations are the basic structure and can be initiated by any interested party. Other movement-type associations can be organized from the national level downwards.\n2.  **Functioning:** It defines the two main organs: the General Assembly as the supreme deliberative body and the Executive Bureau as the executive body. It specifies the composition, mission, and operational modalities of the General Assembly (e.g., deliberating on all matters, adopting programs and budgets, electing members). It also details the composition of the Executive Bureau (President, Vice-Presidents, Secretary, Treasurer, and advisors) and its role in managing and executing decisions.\n3.  **Conflict Resolution:** Internal conflict resolution mechanisms are primary. If these fail, parties can seek consultative arbitration from the relevant ministry.\n4.  **Disciplinary Regime:** Sanctions and disciplinary measures are to be defined within each association's own statutes and internal regulations. The document also references the legal procedures for the suspension of an association.",
+                    "line_num": 152
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0017",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 248,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0018",
+                "summary": "###### Article S7",
+                "line_num": 251
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0019",
+                "summary": "###### Article S8\n\nDES CONDITIONS DE FONCTIONNEMENT DES",
+                "line_num": 254
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0020",
+                "summary": "This partial document outlines the legal and administrative framework for youth associations or movements. It covers two main areas: their operational requirements and the rules for receiving government subsidies.\n\nKey points include:\n1.  **Legal Operation:** Only associations with legal personality (\"personnalité civile\") may operate, granted by the President upon request. This requires prior registration with the relevant ministry, which issues a favorable opinion only if the association meets set operational conditions. Registration fees are specified.\n2.  **Subsidies:** Subsidies can be granted to legally recognized associations, with conditions set by the ministry.\n3.  **Ongoing Obligations:** Associations must submit their internal regulations, statutes, and any amendments to the ministry. They must also provide annual documents, including activity programs, budgets, updated member lists, and activity/financial reports for monitoring.",
+                "line_num": 259
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "c4295283-b443-4223-83c0-76c0f91667f2"
+    ],
+    "0003": [
+      "121d23fb-bbda-4d9f-822c-fe3ab8a8737c"
+    ],
+    "0004": [
+      "4b7f2e9d-8d4c-4f74-a0c8-71dde178530a"
+    ],
+    "0006": [
+      "d8df7f52-08e5-4c49-85ef-769f1cd867bb"
+    ],
+    "0007": [
+      "4bd047d9-55cc-4b34-bb0a-43dde77c7e6c"
+    ],
+    "0009": [
+      "394a8b14-88be-42fe-9838-5f1551a966da"
+    ],
+    "0011": [
+      "319be759-6340-4152-b5c7-85842f79ade2"
+    ],
+    "0013": [
+      "377850e5-5236-40ae-8366-05b53eb25370"
+    ],
+    "0014": [
+      "998812c4-6f0f-4f94-9c98-96a9284792fe"
+    ],
+    "0016": [
+      "d17c3173-5e42-40d0-85b5-fdd09e0cd228"
+    ],
+    "0018": [
+      "d593a825-48d5-4c66-85f1-37d67dde4580"
+    ],
+    "0019": [
+      "ce0a2154-e13d-4cc2-bf6d-753cdd5bf996"
+    ],
+    "0020": [
+      "21ba0d9e-3052-49da-84a3-97d46156ddf1"
+    ]
+  },
+  "node_count": 21,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:38:39.358933",
+  "article_count": 13,
+  "generation_time_s": 10.668668031692505
+}

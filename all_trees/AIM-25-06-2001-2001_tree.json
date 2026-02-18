@@ -1,0 +1,33 @@
+{
+  "slug": "AIM-25-06-2001-2001",
+  "bundle_path": "backups/all_bundles/code/AIM-25-06-2001-2001.json",
+  "document_id": "1b0648be-bf29-4aea-8ae1-0f3d9dbcb16a",
+  "document_title": "AIM.25.06.2001",
+  "tree_json": {
+    "doc_name": "AIM-25-06-2001-2001",
+    "structure": [
+      {
+        "title": "AIM.25.06.2001",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "252aa2e3-8c90-4c0c-a6e9-8450f350e640"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:00:44.850419",
+  "article_count": 1,
+  "generation_time_s": 0.006242990493774414
+}

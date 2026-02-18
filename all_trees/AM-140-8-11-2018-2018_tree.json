@@ -1,0 +1,116 @@
+{
+  "slug": "AM-140-8-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-140-8-11-2018-2018.json",
+  "document_id": "94191c96-f663-4465-b50a-d42d6d5ee510",
+  "document_title": "AM.140.8.11.2018",
+  "tree_json": {
+    "doc_name": "AM-140-8-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.140.8.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.140.8.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "The partial document covers legal articles detailing penalties for employers who fail to address notified workplace safety anomalies. It specifies a 50% surcharge on professional risk insurance contributions, procedures for notifications, grace periods, and the conditions for suspending or doubling the surcharge due to recurrence. It also outlines the appeal process against these penalties and mentions the funding source for prevention activities through a dedicated fund. The document is an official decree from Kinshasa dated November 8, 2018.",
+            "line_num": 9
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0003",
+            "summary": "###### Article S2\n\nMINISTERIEL\nN�",
+            "line_num": 440
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0004",
+            "summary": "###### Article S3\n\n140/CAB/MINETAT/MTEPS/01/2018\nDU 08\nNOVEMBRE\n2018\nFIXANT\nLES",
+            "line_num": 446
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0005",
+            "summary": "###### Article S4\n\nMODALITES",
+            "line_num": 456
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0006",
+            "summary": "###### Article S5\n\nDE PROMOTION\nDES\nRISQUES",
+            "line_num": 461
+          },
+          {
+            "title": "Article S6",
+            "node_id": "0007",
+            "summary": "This partial document lists the legal foundations and references for a regulation or decree, specifically citing the Constitution, various laws, treaties, ordinances, decrees, and ministerial orders related to labor, social security, government organization, and workplace safety in the Democratic Republic of the Congo.",
+            "line_num": 468
+          },
+          {
+            "title": "Article S7",
+            "node_id": "0008",
+            "summary": "This partial document is an official decree (Arrêté) from the CIPRES intergovernmental organization, establishing the framework for promoting the prevention of occupational risks within social security institutions. It defines key terms like \"prevention,\" \"occupational safety and health,\" and \"workplace.\" The core mandate is for the \"Caisse\" (Fund) to implement actions aimed at preserving worker safety and health and improving working conditions. The decree outlines a detailed list of general prevention principles to be applied, such as avoiding risks, combating risks at source, and prioritizing collective protection. It also specifies the duties of the Caisse, including developing prevention programs, educating workers, enforcing legal prescriptions, controlling prevention measures, exploiting research, conducting campaigns, collecting statistical data on accidents and illnesses, and investigating health conditions.",
+            "line_num": 783
+          },
+          {
+            "title": "Article S8",
+            "node_id": "0009",
+            "summary": "This partial document outlines a legal framework for occupational safety and health (OSH) management. It details the mandatory establishment of three key entities within companies: a Health Service, a Special Security/Hygiene/Workplace Improvement Service, and a corresponding Committee. It specifies the preventive missions and specific tasks of each entity. It assigns clear responsibilities to both employers (direct responsibility for OSH measures) and workers (obligation to comply). It also mandates the creation of an annual OSH action plan and requires the Committee's annual activity report to be submitted to the relevant authorities. Additionally, it grants the overseeing \"Caisse\" (Fund) the authority to seek expert advice and to incentivize employers through competitions to integrate occupational risk prevention into their management policies.",
+            "line_num": 1426
+          },
+          {
+            "title": "Article S9",
+            "node_id": "0010",
+            "summary": "This partial document covers articles from a legal or regulatory text (likely a labor code or social security decree) concerning occupational health, safety, and workplace risk prevention. The main points are:\n\n1.  **Declaration of High-Risk Work:** Employers using hazardous processes must declare them to the labor inspectorate and social security fund, detailing the risks and protective measures.\n2.  **Investigations and Inspections:** The social security fund is empowered to conduct investigations and workplace visits through sworn prevention officers/controllers, who have judicial police powers. Inspections are mandatory in cases of fatal or severe accidents, or to determine the occupational nature of an incident.\n3.  **Confidentiality:** The prevention officers are bound by professional secrecy and must not disclose trade secrets learned during inspections.\n4.  **Financial Incentives and Penalties:** A national competition is mentioned to reward exemplary workplace safety committees. Conversely, the professional risk contribution rate can be doubled for employers who fail to comply with health and safety regulations.\n5.  **Non-Compliance Procedure:** The process for penalizing non-compliant employers is outlined, involving a prior inspection, notification of hazards, debate on corrective measures, and recourse to an expert (at the employer's expense) in case of disagreement.\n6.  **Formal Notification and Deadlines:** Corrective measures agreed upon must be formally notified to the employer in writing, with specified execution deadlines.\n7.  **Consequences of Inaction:** The text cuts off while describing the consequences for an employer's failure to initiate corrective measures.",
+            "line_num": 2046
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "a3c1bf93-ba4c-415b-84d3-f974f3d4f31b"
+    ],
+    "0002": [
+      "a495a45d-6adc-4777-8e98-3308df37a55e"
+    ],
+    "0003": [
+      "a72bf1dc-725e-48fb-86b0-7b388d2284b2"
+    ],
+    "0004": [
+      "1f3bbdf0-ff8a-4659-aa59-8a35bb6b4f7c"
+    ],
+    "0005": [
+      "9efa7a70-6f0c-4e64-9630-7d7e6c12489a"
+    ],
+    "0006": [
+      "3c77465e-eb75-44f0-82ec-d625e18a3428"
+    ],
+    "0007": [
+      "4e4f0dab-049a-447a-9341-2065c2d68951"
+    ],
+    "0008": [
+      "67ceac87-c4fd-4924-b8bf-38e7b8e73f67"
+    ],
+    "0009": [
+      "00304805-3391-498b-892d-b9140ffa28a5"
+    ],
+    "0010": [
+      "56a08d15-c7ae-401c-a0e1-2375e502d5c7"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:33:14.284854",
+  "article_count": 10,
+  "generation_time_s": 17.292783737182617
+}

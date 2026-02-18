@@ -1,0 +1,148 @@
+{
+  "slug": "AM-002-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-002-21-05-2015-2015.json",
+  "document_id": "c4bfdaee-f954-4452-a9a3-e90877a366e4",
+  "document_title": "AM.002.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-002-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.002.21.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.002.21.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is the beginning of a ministerial order (Arrêté n°002) from the Minister of Tourism of the Democratic Republic of Congo, dated May 21, 2015. Its main purpose is to modify a previous 1993 order concerning the classification of hotels and similar establishments. The text establishes the legal foundation for this new order by listing all the constitutional articles, laws, ordinances, and previous decrees it is based upon (\"Vu...\"). It concludes with a statement of the necessity for modification and a proposal from the Secretary General for Tourism, leading to the official decree (\"ARRETE\").",
+                "line_num": 7
+              },
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "This partial document covers the final articles (Articles 24 and 25) of a legal text, likely a decree or ministerial order from the Democratic Republic of the Congo, dated May 21, 2015. The main points are:\n\n1.  **Grounds for Sanctions (Article 24):** It specifies the conditions under which authorizations (for tourism-related activities like hotels or restaurants) can be refused, suspended, or revoked. These include the operator no longer meeting technical or moral character requirements, being convicted for acts of dishonesty under the Congolese penal code, or being declared bankrupt.\n\n2.  **Enforcement and Effective Date (Article 25):** It designates the Secretary General for Tourism as responsible for executing the order and states that it comes into force on the date of its signature.\n\nThe document concludes with a disclaimer noting the site is under construction and that the texts are provided without liability.",
+                "line_num": 60
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "summary": "###### Article S2\n\n: DE LA CLASSIFICATION DES ETABLISSEMENTS HOTELIERS DES CATEGORIES",
+                "line_num": 94
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "This partial document outlines the classification system for hotels and restaurants in the Democratic Republic of the Congo. It defines two main categories: hotels (and similar establishments) and restaurants. It further details that hotels are either unclassified (\"without stars\") or classified on a 1 to 5 star scale. Restaurants are similarly either unclassified (\"without forks\") or classified on a 1 to 4 fork scale. Finally, it assigns jurisdiction, stating that provincial authorities oversee lower-classified establishments (0-1 star/1 fork), while national authorities oversee higher-classified ones (2-5 stars/2-4 forks).",
+                "line_num": 99
+              },
+              {
+                "title": "Section",
+                "node_id": "0006",
+                "prefix_summary": "##### Section\nI : De la licence d�exploitation",
+                "line_num": 174,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0007",
+                    "summary": "This partial document outlines the regulatory framework for licensing and certification in the hotel and restaurant sector. It specifies that an operating license is issued for new hotels upon payment of a triennially renewable tax, with authority split between the central and provincial governments. It also describes the issuance of a homologation certificate, which requires a final approval from a validation commission and an annual fee, proposed by a joint classification committee.",
+                    "line_num": 178
+                  },
+                  {
+                    "title": "Article S5",
+                    "node_id": "0008",
+                    "summary": "This partial document outlines the composition and procedures of the Mixed Classification Commission for hotels and similar establishments. It covers three main points:\n\n1.  **Commission Composition:** It details the hierarchical structure of the commissions at the City, Provincial, and National levels, listing the presiding members (e.g., Mayor, Governor, Secretary General) and other members from tourism, environment, economy, and industry representatives.\n\n2.  **Application Process and Deadlines:** It specifies that operating document requests must be submitted by September 30, accompanied by a required dossier (including certified copies of licenses, certificates, insurance, staff lists, and pricing). It also sets the timeline for ordinary commission sessions (by October 5) and the subsequent validation process through provincial and national levels, with final reports due by late December.\n\n3.  **Operational Rules:** It includes provisions for extraordinary sessions for new establishments, the requirement to update certificates if classification criteria change, and the obligation for hotels and restaurants to publicly display their officially recognized category.",
+                    "line_num": 202
+                  },
+                  {
+                    "title": "Article S6",
+                    "node_id": "0009",
+                    "summary": "###### Article S6\n\nTout\nop�rateur �conomique qui estime injuste la d�cision de la commission mixte de\nclassification introduit son recours end�ans 15 jours ouvrables � dater de la\nnotification de la d�cision aupr�s de la Commission mixte du Chef-lieu de\nProvince. En cas d�insatisfaction,\nil lui\nest loisible d�interjeter appel aupr�s de la Commission nationale de validation\nen dernier ressort et d�homologation.\nTITRE",
+                    "line_num": 363
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE V",
+            "node_id": "0010",
+            "prefix_summary": "#### TITRE V",
+            "line_num": 376,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "This partial document outlines the national framework for the surveillance and control of hotels, restaurants, and similar establishments. It specifies the responsible authorities at the national and provincial levels, the frequency and authorization of inspections, the powers of inspectors, and the mandatory monthly reporting of statistical data by hoteliers and restaurateurs to the tourism administration.",
+                "line_num": 379
+              },
+              {
+                "title": "Section",
+                "node_id": "0012",
+                "prefix_summary": "##### Section\n1 : DU SEJOUR DANS l�HOTEL",
+                "line_num": 421,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0013",
+                    "summary": "This partial document outlines regulations for hotel management, covering three main areas:  \n\n1. **Access and Guest Registration** – It prohibits hoteliers from allowing access to rooms for any person accompanied by a minor who may engage in or encourage debauchery. It also requires hotel operators to have guests complete a registration form with personal and travel details, which must be available to administrative, judicial, or security services upon request.  \n\n2. **Internal Regulations** – Hotels must establish internal rules covering room rates, use of facilities (pool, tennis courts, etc.), and conditions for depositing guests' valuables. These rules must be displayed at reception, placed in each room, and approved by the Minister of Tourism.  \n\n3. **Pricing** – Room and apartment prices are set by the hotelier based on operating costs and standards, under the oversight of the Ministry of National Economy. Nightly rates must be clearly displayed at reception and in each room/apartment.",
+                    "line_num": 425
+                  },
+                  {
+                    "title": "Article S9",
+                    "node_id": "0014",
+                    "summary": "###### Article S9\n\n4 : DE L�ASSURANCE\nArticle\n23\nL�exploitant a l�obligation d�une part, de souscrire une assurance contre le\nrisque r�sultant de sa responsabilit� et celle de son personnel et d�autre part,\nd�assurer son immeuble contre les risques d�incendie et d�g�ts des eaux,\nconform�ment � la l�gislation sur les assurances.\nTITRE",
+                    "line_num": 473
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "25fed668-5c6d-4eb8-972a-9a25c3c5d2a3"
+    ],
+    "0003": [
+      "965c8f42-6879-465c-ae80-a296c6984659"
+    ],
+    "0004": [
+      "3ea7e0ba-1b15-4cdb-9731-882217adf2ff"
+    ],
+    "0005": [
+      "78ba22e5-98c7-4096-80f0-d4d89a63e54a"
+    ],
+    "0007": [
+      "a1b26bcb-1e16-4ef8-81f6-cd72eefed5ac"
+    ],
+    "0008": [
+      "ab963a94-8d94-4db7-9c4d-2d0945154062"
+    ],
+    "0009": [
+      "5373493e-2fcc-48f4-9880-370f7830ee56"
+    ],
+    "0011": [
+      "e5cfc13a-0b93-45a2-b07f-76511800ee3e"
+    ],
+    "0013": [
+      "ad3c18f5-c12d-4181-83f1-24759ae83afb"
+    ],
+    "0014": [
+      "bb6a3ba0-261d-4ac1-b9f8-49dff1d16a63"
+    ]
+  },
+  "node_count": 15,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:03:44.765977",
+  "article_count": 10,
+  "generation_time_s": 19.508936882019043
+}

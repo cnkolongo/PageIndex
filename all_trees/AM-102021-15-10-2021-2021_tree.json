@@ -1,0 +1,188 @@
+{
+  "slug": "AM-102021-15-10-2021-2021",
+  "bundle_path": "backups/all_bundles/code/AM-102021-15-10-2021-2021.json",
+  "document_id": "105cd5c7-7d7b-40c9-8859-e16e56680a8f",
+  "document_title": "AM.102021.15.10.2021",
+  "tree_json": {
+    "doc_name": "AM-102021-15-10-2021-2021",
+    "structure": [
+      {
+        "title": "AM.102021.15.10.2021",
+        "node_id": "0000",
+        "prefix_summary": "# AM.102021.15.10.2021",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "The partial document defines key terms used within a regulatory context, specifically focusing on packaging, labeling, and product identification. It provides definitions for:\n1. **Estampillage**: The affixing of a secure label to certify conformity of industrial or commercial packaging.\n2. **Industrial Packaging**: Packaging designed to contain and protect products, conveying origin, brand, shelf life, and quantity, containing multiple units of a product for the same purpose.\n3. **Commercial Packaging**: Packaging for retail goods, with regulated dimensions and materials, conveying origin, brand, shelf life, and metrological information to the consumer.\n4. **Colis (Package/Shipping Unit)**: A product conditioned within packaging intended for shipment.\n5. **Barcode**: A symbolic translation of numeric or alphanumeric data into bars and spaces, indicating the product's country of origin, manufacturer, the product itself, and a control code.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nLe tra�age et le suivi des\nstatistiques des produits estampill�s sont assur�s par les services du Minist�re\nde l'Industrie tant au niveau provincial que national.\nChapitre 3 : De\nl'estampillage d'emballages et des colis � caract�re industriel ou commercial",
+            "line_num": 30
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "###### Article 12\n\nLa mise en vente de toutes\nmarchandises contenues dans un emballage industriel ou commercial est\nsubordonn�e � l'apposition d'estampille s�curis�e ;",
+            "line_num": 39
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0004",
+            "summary": "###### Article 13\n\nL'apposition d'estampilles\ns'effectue � l'entr�e de la Province o� la marchandise est vendue pour une\nmarchandise produite ailleurs ou avant la mise en vente de la marchandise ;",
+            "line_num": 46
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0005",
+            "summary": "###### Article 14\n\nLes estampilles s�curis�es\nsont produites et fournies par l'Estampilleur agr�e par le Minist�re national\nayant l'Industrie dans ses attributions ;",
+            "line_num": 53
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0006",
+            "summary": "###### Article 15\n\nL'apposition de l'estampille\nsur un produit est soumise au paiement de la taxe d'estampillage ;",
+            "line_num": 60
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0007",
+            "summary": "###### Article 16\n\nLes taux et la p�riodicit� de\npaiement de la taxe d'estampillage sont fix�s par le Minist�re provincial ayant\nl'industrie dans ses attributions ;",
+            "line_num": 66
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0008",
+            "summary": "###### Article 17\n\nLe co�t de la taxe englobe la\ntaxe proprement dite et l�impression des timbres. A cet effet, les contrats\nsp�cifiques seront �labor�s et sign�s entre les Ministres provinciaux et\nl'Estampilleur agr�e par le Ministre National ayant l'Industrie dans ses\nattributions ;",
+            "line_num": 73
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0009",
+            "summary": "###### Article 18\n\nSont abrog�es toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t� ;",
+            "line_num": 82
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0010",
+            "summary": "###### Article 19\n\nLe Secr�taire g�n�ral �\nl'Industrie est charg� de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 15\noctobre 2021.\nJulien Paluku Kahongya\n___________\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 88
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\nLe cadre de collaboration\nentre l'estampilleur, les Minist�res provinciaux en charge de l�industrie, les\nDivisions provinciales de l'Industrie et les entreprises s'�tendent aux\nop�ration ci-apr�s :\n- L'enregistrement des entreprises\n- La commande des estampilles ;\n- Le traitement des commandes ;\n- La fourniture des commandes ;\n- Le tra�age et le\nsuivi des produits.\nChapitre 2 : De la gestion du\nsyst�me int�gr� d'estampillage.",
+            "line_num": 105
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0012",
+            "summary": "###### Article 3\n\nLe syst�me de gestion\ninstall� au Guichet de mise � Niveau des Entreprises (GMN) centralise, au niveau\nnational, l'ensemble des proc�d�s, informatiques mis en oeuvre pour\nl'enregistrement, la production des estampilles, la fourniture des estampilles\net la prise en main de diff�rentes plates-formes et logiciels relatifs au\nsyst�me.\nL'installation du syst�me\ngestion incombe � l'Estampilleur.",
+            "line_num": 121
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0013",
+            "summary": "###### Article 4\n\nL'unit� de production est\nl'ensemble du mat�riel au format d'usine pour la production mat�rielle",
+            "line_num": 133
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0014",
+            "summary": "###### Article 5\n\nLe Minist�re de l'industrie a\nla charge d'attribuer un espace dans un lieu suivant les sp�cificit�s techniques\nde l'Estampilleur pour l'installation de l'unit� de production locale dans le\npays.",
+            "line_num": 139
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0015",
+            "summary": "###### Article 6\n\nLa chaine d'exploitation des\nestampilles comprend les �tapes telles qu'�num�r�es � l'article 2 du pr�sent\nArr�t�.",
+            "line_num": 147
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0016",
+            "summary": "This partial document outlines the required documents for the registration and identification of a business. The list includes legal, financial, and operational documents such as commercial registration, tax certificates, identification for individuals or statutes for legal entities, banking details, industry permits, import/export numbers, and commitments for currency repatriation. It also specifies requirements for identifying buyers and for product quality control in an approved laboratory.",
+            "line_num": 154
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0017",
+            "summary": "###### Article 8\n\nLes commandes des estampilles\nsont effectu�es en ligne dans chaque Province par les Entreprises en rapport\navec leurs propres besoins d�termin�s par le Minist�re provinciale en charge de\nl'Industrie et les Divisions provinciales de l�Industrie selon les modalit�s �\nconvenir avec l�Estampilleur agr�e ;",
+            "line_num": 183
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0018",
+            "summary": "###### Article 9\n\nLe traitement des commandes\nest une �tape de la proc�dure qui consiste � v�rifier et � valider les commandes\ndes industriels ayant rempli les conditions d'acquisition des estampilles\nci-apr�s :\n- Etre enregistr�e dans le\nsyst�me de gestion ;\n- Fournir la preuve de\npaiement des frais d'estampilles.\nLa fourniture des commandes\npar l'estampilleur ne peut exc�der un d�lai de 15 jours.\nL'obtention des estampilles\nest suivie de leur activation dans la plate-forme du syst�me d'estampillage.",
+            "line_num": 192
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "40806709-bbdc-403f-a87d-7d7d13847316"
+    ],
+    "0002": [
+      "a46f49c7-9792-43de-9056-730b2ecb2b02"
+    ],
+    "0003": [
+      "fc5ecfca-00d7-45bd-9f06-da33b57c65f3"
+    ],
+    "0004": [
+      "de8801fe-70c8-4f74-8332-de4fbd20aace"
+    ],
+    "0005": [
+      "d9c4f200-502a-4608-ad64-e39244fcbc8a"
+    ],
+    "0006": [
+      "ebffa851-ec84-49d9-ad32-59edd387dd74"
+    ],
+    "0007": [
+      "25dfd6c7-fb01-455f-9e74-afe99eb6121d"
+    ],
+    "0008": [
+      "a2c98f33-74bc-4940-831e-5f0ea39cc2a1"
+    ],
+    "0009": [
+      "e5a837c3-bb49-467f-86b0-90a26be6435b"
+    ],
+    "0010": [
+      "3253ec47-2e69-4255-a323-91e6bc39c191"
+    ],
+    "0011": [
+      "51ee1c3c-1b2c-47a9-b0a3-9c03a390b6ca"
+    ],
+    "0012": [
+      "de6e7d7c-dcd0-4410-adf7-6be680296292"
+    ],
+    "0013": [
+      "a1ea2c76-bbc3-4f4f-8fb3-113edfbd8652"
+    ],
+    "0014": [
+      "a374cb0d-8014-47e5-a3d2-fb339f12162a"
+    ],
+    "0015": [
+      "6845d1e9-f1e2-48be-9e34-1aeeb0d49780"
+    ],
+    "0016": [
+      "61725281-9a17-40b3-863b-6f841e49d6e8"
+    ],
+    "0017": [
+      "37decf58-f44c-4d0f-a7fe-f3d0119a9f8f"
+    ],
+    "0018": [
+      "f2d5b507-f24c-45c8-ac99-674b5bd76a33"
+    ]
+  },
+  "node_count": 19,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:32:19.063553",
+  "article_count": 18,
+  "generation_time_s": 7.797024965286255
+}

@@ -1,0 +1,3143 @@
+{
+  "tree": {
+    "doc_name": "CONSTITUTION-2006-2006",
+    "doc_description": "This document is a comprehensive excerpt from the 2006 Constitution of the Democratic Republic of the Congo, as revised in 2011, focusing primarily on Title II concerning human rights and fundamental freedoms, and Title III detailing the organization and exercise of power, including the structure and functions of the executive, legislative, and judicial branches, as well as the division of powers between the central government and the provinces.",
+    "structure": [
+      {
+        "title": "Constitution de la RDC (2006)",
+        "node_id": "0000",
+        "prefix_summary": "# Constitution de la RDC (2006)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE II : DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES  ET DES",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE II : DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES  ET DES",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 10",
+                "node_id": "0002",
+                "summary": "The partial document covers Article 10 of the Constitution of the Democratic Republic of the Congo, which defines Congolese nationality. The main points are that Congolese nationality is singular and exclusive (cannot be held with another nationality), and it is either by origin or by individual acquisition. It defines a Congolese by origin as a person belonging to the ethnic groups present in the territory at independence. It also states that an organic law will govern the recognition, acquisition, loss, and recovery of nationality. The document then indicates the start of a new chapter on the duties of the citizen and the state, beginning with civil and political rights.",
+                "line_num": 7
+              },
+              {
+                "title": "Article 100",
+                "node_id": "0003",
+                "summary": "###### Article 100\n\nLe pouvoir législatif est exercé par un Parlement composé de deux Chambres :\nl’Assemblée nationale et le Sénat.\nSans préjudice des autres dispositions de la présente Constitution, le Parlement\nvote les lois. Il contrôle le Gouvernement, les entreprises publiques ainsi que les\nétablissements et  les services publics.\nChacune des Chambres jouit de l’autonomie administrative et financière et\ndispose d’une dotation propre.\nParagraphe 1er : De l’Assemblée nationale",
+                "line_num": 27
+              },
+              {
+                "title": "Article 101",
+                "node_id": "0004",
+                "summary": "###### Article 101\n\nLes membres de l’Assemblée nationale portent le titre de député national. Ils sont\nélus au suffrage universel direct et secret.\nLes candidats aux élections législatives sont présentés par des partis politiques\nou par des regroupements politiques. Ils peuvent aussi se présenter en\nindépendants.\nChaque député national est élu avec deux suppléants.\nLe député national représente la nation.\nTout mandat impératif est nul.\nLe nombre de députés nationaux ainsi que les conditions de leur élection et\néligibilité sont fixés par la loi électorale.",
+                "line_num": 39
+              },
+              {
+                "title": "Article 102",
+                "node_id": "0005",
+                "summary": "###### Article 102\n\nNul ne peut être candidat aux élections législatives s’il ne remplit les conditions ci-\naprès :\n1. être Congolais ;\n2. être âgé de 25 ans au moins ;\n3. jouir de la plénitude de ses droits civils et politiques ;\n4. ne pas se trouver dans un des cas d’exclusion prévus par la loi électorale.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n32",
+                "line_num": 53
+              },
+              {
+                "title": "Article 103",
+                "node_id": "0006",
+                "summary": "###### Article 103\n\nLe député national est élu pour un mandat de cinq ans. Il est rééligible.\nLe mandat de député national commence à la validation des pouvoirs par\nl’Assemblée nationale et expire à l’installation de la nouvelle Assemblée.\nParagraphe 2 : Du Sénat",
+                "line_num": 67
+              },
+              {
+                "title": "Article 104",
+                "node_id": "0007",
+                "summary": "###### Article 104\n\nLes membres du Sénat portent le titre de sénateur.\nLe sénateur représente sa province, mais son mandat est national.\nTout mandat impératif est nul.\nLes candidats sénateurs sont présentés par des partis politiques ou par des\nregroupements politiques. Ils peuvent aussi se présenter en indépendant.\nIls sont élus au second degré par les Assemblées provinciales.\nChaque sénateur est élu avec deux suppléants.\nLes anciens Présidents de la République élus sont de droit sénateurs à vie.\nLe nombre de sénateurs ainsi que les conditions de leur élection et éligibilité sont\nfixés par la loi électorale.",
+                "line_num": 75
+              },
+              {
+                "title": "Article 105",
+                "node_id": "0008",
+                "summary": "###### Article 105\n\nLe sénateur est élu pour un mandat de cinq ans. Il est rééligible.\nLe mandat de sénateur commence à la validation des pouvoirs par le Sénat et\nexpire à l’installation du nouveau Sénat.",
+                "line_num": 89
+              },
+              {
+                "title": "Article 106",
+                "node_id": "0009",
+                "summary": "###### Article 106\n\nNul ne peut être candidat membre du Sénat s’il ne remplit les conditions ci-après :\n1. être Congolais ;\n2. être âgé de 30 ans au moins ;\n3. jouir de la plénitude de ses droits civils et politiques ;\n4. ne pas se trouver dans un des cas d’exclusion prévus par la loi\nélectorale.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n33\n\nParagraphe 3 : Des immunités et des incompatibilités",
+                "line_num": 96
+              },
+              {
+                "title": "Article 107",
+                "node_id": "0010",
+                "summary": "This partial document outlines the legal immunities and protections granted to parliamentarians. It specifies that they cannot be prosecuted or detained for opinions or votes expressed in their official capacity. It details the conditions under which they can be arrested or prosecuted during and outside of parliamentary sessions, requiring authorization from their respective chamber or its bureau, except in cases of flagrant offense, authorized prosecution, or final conviction. It also states that detention or prosecution can be suspended upon the request of the parliamentarian's chamber for the duration of the session.",
+                "line_num": 112
+              },
+              {
+                "title": "Article 108",
+                "node_id": "0011",
+                "summary": "This partial document outlines the incompatibilities of the mandates for national deputies and senators in the Democratic Republic of the Congo. It lists specific positions and functions that cannot be held simultaneously with a parliamentary mandate, including government membership, roles in security forces, the judiciary, public service, and political-administrative posts. It also prohibits holding another elective mandate or a paid function from a foreign state or international organization. The text is presented as Article 108 from the Constitution.",
+                "line_num": 127
+              },
+              {
+                "title": "Article 109",
+                "node_id": "0012",
+                "summary": "This partial document outlines the rights of national deputies and senators, including freedom of movement, a fair independence allowance, and a severance pay equivalent to six months' salary. It also notes that the application of these rights and other parliamentary privileges are governed by each Chamber's internal rules. The text concludes by introducing a section on the termination and suspension of a parliamentarian's mandate, referencing a specific constitutional revision law.",
+                "line_num": 159
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0013",
+                "summary": "###### Article 11\n\nTous les êtres humains naissent libres et égaux en dignité et en droits. Toutefois,\nla jouissance des droits politiques est reconnue aux seuls Congolais, sauf\nexceptions établies par la loi.",
+                "line_num": 175
+              },
+              {
+                "title": "Article 110",
+                "node_id": "0014",
+                "summary": "This partial document, Article 110 of the Constitution of the Democratic Republic of the Congo, details the conditions under which the mandate of a national deputy or senator ends. It lists nine specific causes for termination, including expiration of the legislature, death, resignation, permanent incapacity, unjustified absences, exclusion by electoral law, certain criminal convictions, and accepting an incompatible function. It further explains the procedures for suspension in cases of incompatible political appointments, the loss of mandate due to retrospectively discovered ineligibility, and the rules for replacement by substitutes or through a by-election. It also states that a parliamentarian or substitute who deliberately leaves their political party is considered to have renounced their mandate. The section concludes by introducing the next topic on the functioning of the National Assembly and the Senate.",
+                "line_num": 182
+              },
+              {
+                "title": "Article 111",
+                "node_id": "0015",
+                "summary": "###### Article 111\n\nL’Assemblée nationale et le Sénat sont dirigés, chacun, par un Bureau de sept\nmembres comprenant :\n1. un président ;\n2. un premier vice-président ;\n3. un deuxième vice-président ;\n4. un rapporteur ;\n5. un rapporteur adjoint ;\n6. un questeur ;\n7. un questeur adjoint.\nLes Présidents des deux Chambres doivent être des Congolais d’origine. Les\nmembres du Bureau sont élus dans les conditions fixées par le Règlement\nintérieur de leur  Chambre respective.",
+                "line_num": 222
+              },
+              {
+                "title": "Article 112",
+                "node_id": "0016",
+                "summary": "This partial document outlines the internal regulations of the parliamentary chambers in the Democratic Republic of the Congo. It specifies that each chamber adopts its own rules, which must cover: the functioning and powers of its governing Bureau; the establishment and roles of permanent, special, and temporary commissions; the organization of administrative services; the disciplinary regime for members; and the various voting procedures. Crucially, before taking effect, the internal regulations must be submitted to the Constitutional Court for a review of their conformity with the Constitution within a 15-day period.",
+                "line_num": 238
+              },
+              {
+                "title": "Article 113",
+                "node_id": "0017",
+                "summary": "###### Article 113\n\nOutre les Commissions permanentes et spéciales, les deux Chambres peuvent\nconstituer une ou plusieurs Commissions mixtes paritaires pour concilier les\npoints de vue lorsqu’elles sont en désaccord au sujet d’une question sur laquelle\nelles doivent adopter la même décision en termes identiques.\nSi le désaccord persiste, l’Assemblée nationale statue définitivement.",
+                "line_num": 265
+              },
+              {
+                "title": "Article 114",
+                "node_id": "0018",
+                "summary": "This partial document outlines the procedures for the first extraordinary parliamentary session in the Democratic Republic of the Congo following legislative elections. It specifies that each chamber of Parliament must convene fifteen days after the election results are proclaimed to accomplish four key tasks: installing a provisional bureau, validating members' credentials, electing and installing a permanent bureau, and drafting and adopting internal rules. The opening session is chaired by the Secretary-General of each chamber's administration, and both chambers work together to adopt the rules for the Congress. The extraordinary session concludes once this agenda is completed.",
+                "line_num": 274
+              },
+              {
+                "title": "Article 115",
+                "node_id": "0019",
+                "summary": "###### Article 115\n\nL’Assemblée nationale et le Sénat tiennent de plein droit, chaque année, deux\nsessions ordinaires :\n1. la première s’ouvre le 15 mars et se clôture le 15 juin;\n2. la deuxième s’ouvre le 15 septembre et se clôture le 15 décembre.\nSi le 15 du mois de mars ou du mois de septembre est férié ou tombe un\ndimanche, l’ouverture de la session a lieu le premier jour ouvrable qui suit.\nLa durée de chaque session ordinaire ne peut excéder trois mois.",
+                "line_num": 296
+              },
+              {
+                "title": "Article 116",
+                "node_id": "0020",
+                "summary": "###### Article 116\n\nChaque  Chambre du Parlement peut être convoquée en session extraordinaire\npar son Président sur un ordre du jour déterminé, à la demande soit de son\nBureau,  soit de la moitié de ses membres, soit du Président de la République,\nsoit du Gouvernement.\nLa clôture intervient dès que la Chambre a épuisé l’ordre du jour pour lequel elle a\nété convoquée et, au plus tard, trente jours à compter de la date du début de la\nsession.",
+                "line_num": 307
+              },
+              {
+                "title": "Article 117",
+                "node_id": "0021",
+                "summary": "###### Article 117\n\nL’inscription, par priorité, à l’ordre du jour de chacune des Chambres d’un projet\nde loi, d’une proposition de loi ou d’une déclaration de politique générale est de\ndroit si le Gouvernement, après délibération en Conseil des ministres, en fait la\ndemande.",
+                "line_num": 318
+              },
+              {
+                "title": "Article 118",
+                "node_id": "0022",
+                "summary": "###### Article 118\n\nL’Assemblée nationale et le Sénat ne siègent valablement qu’à la majorité\nabsolue des membres qui les composent.\nLes séances de l’Assemblée nationale et du Sénat sont publiques, sauf si le huis\nclos est prononcé.\nLe compte rendu analytique des débats ainsi que les documents de\nl’Assemblée nationale et du Sénat sont publiés dans les annales parlementaires.",
+                "line_num": 326
+              },
+              {
+                "title": "Article 119",
+                "node_id": "0023",
+                "summary": "This partial document is Article 119 from the Constitution of the Democratic Republic of the Congo. It lists the four specific cases in which the two parliamentary chambers (the National Assembly and the Senate) must meet together in a Congress. These cases are: 1) the constitutional revision procedure, 2) authorizing the proclamation of a state of emergency, state of siege, or declaration of war, 3) hearing the President's State of the Nation address, and 4) appointing three members of the Constitutional Court. The article references other specific articles of the constitution that govern each of these procedures.",
+                "line_num": 336
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0024",
+                "summary": "###### Article 12\n\nTous les Congolais sont égaux devant la loi et ont droit à une égale protection des\nlois.",
+                "line_num": 355
+              },
+              {
+                "title": "Article 120",
+                "node_id": "0025",
+                "summary": "###### Article 120\n\nLorsque les deux Chambres siègent en Congrès, le bureau est celui de\nl’Assemblée nationale et la présidence est, à tour de rôle, assurée par le\nPrésident de l’Assemblée nationale et le Président du Sénat.\nLe Congrès adopte son  Règlement intérieur.\nAvant d’être mis en application, le Règlement intérieur est communiqué par le\nPrésident du Congrès à la Cour constitutionnelle qui se prononce sur la\nconformité de ce règlement à la présente Constitution dans un délai de 15 jours.\nPassé ce délai, le Règlement intérieur est réputé conforme.\nLes dispositions déclarées non conformes ne peuvent être mises en application.",
+                "line_num": 361
+              },
+              {
+                "title": "Section 3 : Des rapports entre le pouvoir exécutif et le pouvoir  législatif.",
+                "node_id": "0026",
+                "prefix_summary": "##### Section 3 : Des rapports entre le pouvoir exécutif et le pouvoir  législatif.",
+                "line_num": 374,
+                "nodes": [
+                  {
+                    "title": "Article 121",
+                    "node_id": "0027",
+                    "summary": "This partial document covers the procedural rules for voting and quorum within the legislative bodies (the Chambers or the Congress) of the Democratic Republic of the Congo. The main points are: the requirement for an absolute majority of members to be present for valid sessions; the various methods of voting (roll call, show of hands, standing, secret ballot, electronic); the rule that votes on entire laws must be by roll call; and the specific provision that deliberations concerning individuals must be conducted by secret ballot.",
+                    "line_num": 377
+                  },
+                  {
+                    "title": "Article 122",
+                    "node_id": "0028",
+                    "summary": "This partial document is Article 122 of the Constitution of the Democratic Republic of the Congo (from the 2011 version). It enumerates the specific areas of law that must be defined and governed by legislation (parliamentary law), as opposed to executive decrees or other regulations. The article lists 15 key domains where the law must establish the fundamental rules, including public freedoms and electoral systems, criminal law and judicial organization, public finances and taxation, nationality and civil status, labor and social security, and the organization of the armed forces and police.",
+                    "line_num": 400
+                  },
+                  {
+                    "title": "Article 123",
+                    "node_id": "0029",
+                    "summary": "This partial document, Article 123 of a Constitution, enumerates the specific areas for which the law (as opposed to other legal instruments) is responsible for determining the fundamental principles. It lists sixteen domains of national life, covering governance (local administration, public enterprises), economic and social sectors (land, mining, savings, agriculture, cooperatives), fundamental rights (political pluralism, right to strike, protection of vulnerable groups), public services (education, health, prisons), and cultural and environmental matters (media, research, culture, sports, environment, tourism).",
+                    "line_num": 439
+                  },
+                  {
+                    "title": "Article 124",
+                    "node_id": "0030",
+                    "summary": "This partial document outlines the procedural requirements for passing and amending organic laws in the Democratic Republic of the Congo. It specifies that an absolute majority vote in each legislative chamber is required. The key conditions detailed are: a mandatory 15-day review period before the first chamber deliberates, a special reconciliation procedure between the two chambers requiring an absolute majority in the National Assembly if disagreement persists, and a mandatory constitutional review by the Constitutional Court, which must rule on the law's conformity with the Constitution within 15 days before promulgation.",
+                    "line_num": 462
+                  },
+                  {
+                    "title": "Article 125",
+                    "node_id": "0031",
+                    "summary": "###### Article 125\n\nSi un projet ou une proposition de loi est déclaré urgent par le Gouvernement, il\nest examiné par priorité dans chaque Chambre par la commission compétente\nsuivant la procédure prévue par le Règlement intérieur de chacune d’elles.\nLa procédure normale est appliquée aux propositions ou aux projets de loi portant\namendement de la Constitution ou modifiant les lois organiques ainsi qu’aux\nprojets de loi d’habilitation prévue à l’article 129.",
+                    "line_num": 484
+                  },
+                  {
+                    "title": "Article 126",
+                    "node_id": "0032",
+                    "summary": "This partial document covers Article 126 of the Constitution of the Democratic Republic of the Congo, which details the procedures for the state's budget and finance laws. The main points include: the definition of finance laws; the requirement for the government to submit the annual finance bill (including the budget) to the National Assembly by September 15; rules regarding the creation of public posts; and a series of contingency procedures if the budget is not passed before the new fiscal year begins. These procedures involve the President enacting the bill based on parliamentary amendments, the government requesting provisional credits, and the automatic resignation of the government if it fails to submit the budget proposal on time.",
+                    "line_num": 494
+                  },
+                  {
+                    "title": "Article 127",
+                    "node_id": "0033",
+                    "summary": "###### Article 127\n\nLes amendements au projet de loi de  finances ne sont pas recevables lorsque\nleur adoption a pour conséquence, soit  une diminution des recettes, soit un\naccroissement des dépenses, à moins qu’ils ne soient assortis de propositions\ncompensatoires.",
+                    "line_num": 536
+                  },
+                  {
+                    "title": "Article 128",
+                    "node_id": "0034",
+                    "summary": "###### Article 128\n\nLes matières autres que celles qui sont du domaine de la loi ont un caractère\nréglementaire.\nLes textes à caractère de loi intervenus en ces matières peuvent être modifiés par\ndécret si la Cour constitutionnelle, à la demande du Gouvernement, a déclaré\nqu’ils ont un caractère réglementaire en vertu de l’alinéa précédent.",
+                    "line_num": 544
+                  },
+                  {
+                    "title": "Article 129",
+                    "node_id": "0035",
+                    "summary": "This partial document outlines the constitutional procedure by which the Government can enact urgent measures. It states that the Government may request authorization from Parliament to issue ordinance-laws for a limited time on specific matters normally reserved for law. These ordinances are deliberated in the Council of Ministers, take effect upon publication, but lapse if a ratification bill is not submitted to Parliament by a set deadline. If Parliament does not ratify them, they cease to have effect automatically. Once ratified, they can only be amended by law, and they also become void if the ratification bill is rejected.",
+                    "line_num": 553
+                  },
+                  {
+                    "title": "Article 13",
+                    "node_id": "0036",
+                    "summary": "###### Article 13\n\nAucun Congolais ne peut, en matière d’éducation et d’accès aux fonctions\npubliques ni en aucune autre matière, faire l’objet d’une mesure discriminatoire,\nqu’elle résulte de la loi ou d’un acte de l’exécutif, en raison de sa religion, de son\norigine familiale, de sa condition sociale, de sa résidence, de ses opinions ou de\nses convictions politiques, de son appartenance à une race, à une ethnie, à une\ntribu, à une minorité culturelle ou linguistique.",
+                    "line_num": 576
+                  },
+                  {
+                    "title": "Article 130",
+                    "node_id": "0037",
+                    "summary": "This partial document outlines the legislative initiative process in a parliamentary system. It states that the power to propose laws belongs concurrently to the Government, individual deputies, and individual senators. It details the procedure for government bills, specifying they are submitted to one chamber's bureau, with a special rule for the finance bill which must go to the National Assembly. It also establishes a process for parliamentary proposals, requiring prior notification to the Government, which has 15 days to submit observations before the proposal is debated.",
+                    "line_num": 586
+                  },
+                  {
+                    "title": "Article 131",
+                    "node_id": "0038",
+                    "summary": "###### Article 131\n\nLes membres  du Gouvernement ont accès aux travaux de l’Assemblée nationale\net du Sénat ainsi qu’à ceux de leurs commissions.\nS’ils en sont  requis, les membres du Gouvernement ont l’obligation d’assister\naux séances de l’Assemblée nationale et à celles du Sénat, d’y prendre la parole\net de fournir aux parlementaires toutes les explications qui leur sont  demandées\nsur leurs activités.",
+                    "line_num": 600
+                  },
+                  {
+                    "title": "Article 132",
+                    "node_id": "0039",
+                    "summary": "###### Article 132\n\nLa discussion des projets de loi porte, devant la première Chambre saisie, sur le\ntexte déposé par le Gouvernement. Une Chambre saisie d’un texte déjà voté par\nl’autre Chambre ne délibère que sur le texte qui lui est transmis.",
+                    "line_num": 610
+                  },
+                  {
+                    "title": "Article 133",
+                    "node_id": "0040",
+                    "summary": "###### Article 133\n\nLes membres du Gouvernement ont le droit de proposer des amendements aux\ntextes en discussion mais ne participent pas au vote.",
+                    "line_num": 617
+                  },
+                  {
+                    "title": "Article 134",
+                    "node_id": "0041",
+                    "summary": "###### Article 134\n\nLes  propositions de loi et les amendements formulés par les membres de\nl’Assemblée nationale ou  du Sénat ne sont pas recevables lorsque leur adoption\naurait pour conséquence soit une diminution des ressources publiques, soit la\ncréation ou l’aggravation d’une charge publique, à moins qu’ils ne soient assortis\nde propositions dégageant les recettes ou les économies correspondantes.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n44",
+                    "line_num": 623
+                  },
+                  {
+                    "title": "Article 135",
+                    "node_id": "0042",
+                    "summary": "This partial document outlines the legislative process for resolving disagreements between the two chambers of parliament (likely the National Assembly and the Senate) in a bicameral system. It describes the procedure when a bill cannot be adopted after an initial reading in each chamber: a joint committee is formed to propose a compromise text. If the joint committee fails or its text is not approved, the final decision-making authority rests with the lower house (the National Assembly), which can choose between the committee's text or its own last version, potentially incorporating amendments from the upper house.",
+                    "line_num": 636
+                  },
+                  {
+                    "title": "Article 136",
+                    "node_id": "0043",
+                    "summary": "###### Article 136\n\nDans les six jours de son adoption, la loi est transmise au Président de la\nRépublique pour sa promulgation. Le Premier ministre en reçoit ampliation.",
+                    "line_num": 654
+                  },
+                  {
+                    "title": "Article 137",
+                    "node_id": "0044",
+                    "summary": "###### Article 137\n\nDans un délai de quinze jours de la transmission, le Président de la République\npeut demander à l’Assemblée nationale ou au Sénat une nouvelle délibération de\nla loi ou de certains de ses articles. Cette nouvelle délibération ne peut être\nrefusée.\nLe texte soumis à une seconde délibération est adopté par l’Assemblée nationale\net le Sénat soit sous la forme initiale, soit après modification à la majorité absolue\ndes membres qui les composent.",
+                    "line_num": 660
+                  },
+                  {
+                    "title": "Article 138",
+                    "node_id": "0045",
+                    "summary": "This partial document is Article 138 of the Constitution of the Democratic Republic of the Congo. It enumerates the primary means of information and control that the National Assembly or the Senate can exercise over the Government, public enterprises, and public services. The listed methods are: oral or written questions (with or without debate and without a vote), questions on current affairs, interpellations, committees of inquiry, and hearings by committees. The article stipulates that these controls are exercised according to the internal rules of each chamber and can lead to a motion of no confidence or censure, as detailed in Articles 146 and 147 of the Constitution.",
+                    "line_num": 671
+                  },
+                  {
+                    "title": "Article 139",
+                    "node_id": "0046",
+                    "summary": "This partial document outlines the procedure for referring a newly adopted law to the Constitutional Court for a review of its constitutionality before promulgation. It specifies who has the right to initiate such a referral (the President, Prime Minister, Presidents of the legislative chambers, or a tenth of the members of each chamber) and sets strict deadlines: a 15-day window for filing the appeal after the law's final adoption. It also establishes that the Court must rule within 30 days (or 8 days in cases of governmental urgency), and if it does not, the law is deemed constitutional and can be promulgated.",
+                    "line_num": 693
+                  },
+                  {
+                    "title": "Article 14",
+                    "node_id": "0047",
+                    "summary": "This partial document is Article 14 of the Constitution of the Democratic Republic of the Congo. It outlines the state's obligations to eliminate discrimination against women and promote their rights. The main points covered are: the duty of public authorities to take all appropriate measures across civil, political, economic, social, and cultural domains to ensure women's full development and participation in national development; the requirement to combat all forms of violence against women in public and private life; and the guarantee of equitable representation for women in national, provincial, and local institutions, with the state ensuring gender parity. The article states that a law will determine the modalities for applying these rights.",
+                    "line_num": 713
+                  },
+                  {
+                    "title": "Article 140",
+                    "node_id": "0048",
+                    "summary": "###### Article 140\n\nLe Président de la République promulgue la loi dans les quinze jours de sa\ntransmission après l’expiration des délais prévus par les articles 136 et 137 de la\nConstitution.\nA défaut de promulgation de la loi par le Président de la République dans les\ndélais constitutionnels, la promulgation est de droit.",
+                    "line_num": 735
+                  },
+                  {
+                    "title": "Article 141",
+                    "node_id": "0049",
+                    "summary": "###### Article 141\n\nLes lois sont revêtues du sceau de l’Etat et publiées au Journal officiel.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n46",
+                    "line_num": 744
+                  },
+                  {
+                    "title": "Article 142",
+                    "node_id": "0050",
+                    "summary": "###### Article 142\n\nLa loi entre en vigueur trente jours après sa publication au Journal officiel à moins\nqu’elle n’en dispose autrement.\nDans tous les cas, le Gouvernement assure la diffusion en français et dans\nchacune des quatre langues nationales dans le délai de soixante  jours à dater de\nla promulgation.",
+                    "line_num": 753
+                  },
+                  {
+                    "title": "Article 143",
+                    "node_id": "0051",
+                    "summary": "###### Article 143\n\nConformément aux dispositions de l’article 86 de la Constitution, le Président de\nla République déclare la guerre sur décision du Conseil des ministres après avis\ndu Conseil supérieur de la défense et autorisation de deux Chambres.\nIl en informe la Nation par un message.\nLes droits et devoirs des citoyens, pendant la guerre ou en cas d’invasion ou\nd’attaque du territoire national par des forces de l’extérieur, font l’objet d’une loi.",
+                    "line_num": 762
+                  },
+                  {
+                    "title": "Article 144",
+                    "node_id": "0052",
+                    "summary": "This partial document covers Article 144 of a Constitution. The main points are the procedures for declaring and managing a \"state of siege\" and a \"state of emergency.\" It specifies that the President declares them, which triggers the automatic convening of the National Assembly and Senate. The initial declaration lasts for 30 days. Its extension requires parliamentary approval for successive 15-day periods, and the parliament also holds the power to terminate the state of emergency or siege at any time by law.",
+                    "line_num": 772
+                  },
+                  {
+                    "title": "Article 145",
+                    "node_id": "0053",
+                    "summary": "###### Article 145\n\nEn cas d’état d’urgence ou d’état de siège, le Président de la République prend,\npar ordonnances délibérées en Conseil des ministres, les mesures nécessaires\npour faire face à la situation.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n47\n\nCes ordonnances sont, dès leur signature, soumises à la Cour constitutionnelle\nqui, toutes affaires cessantes, déclare si elles dérogent ou non à la présente\nConstitution.",
+                    "line_num": 792
+                  },
+                  {
+                    "title": "Article 146",
+                    "node_id": "0054",
+                    "summary": "This partial document outlines the constitutional procedures for political responsibility of the government in a parliamentary system. It covers how the Prime Minister can stake the government's authority on its program or policy, and how the National Assembly can challenge that authority through motions of censure or no-confidence. It specifies the signature thresholds required to submit such motions, the mandatory 48-hour delay before a vote, and the rule that only votes in favor are counted, requiring an absolute majority for adoption. It also notes the consequences of a rejected motion and the Prime Minister's option to seek policy approval from the Senate.",
+                    "line_num": 807
+                  },
+                  {
+                    "title": "Article 147",
+                    "node_id": "0055",
+                    "summary": "###### Article 147\n\nLorsque l’Assemblée nationale adopte une motion de censure, le Gouvernement\nest réputé démissionnaire. Dans ce cas, le Premier ministre remet la démission\ndu Gouvernement au Président de la République dans les vingt quatre heures.\nLorsqu’une motion de défiance contre un membre du Gouvernement est adoptée,\ncelui-ci est réputé démissionnaire.",
+                    "line_num": 831
+                  }
+                ]
+              },
+              {
+                "title": "Section 4 : Du Pouvoir judiciaire",
+                "node_id": "0056",
+                "prefix_summary": "##### Section 4 : Du Pouvoir judiciaire",
+                "line_num": 840,
+                "nodes": [
+                  {
+                    "title": "Article 148",
+                    "node_id": "0057",
+                    "summary": "This partial document outlines the constitutional procedure for the dissolution of the National Assembly in the Democratic Republic of the Congo. It specifies that the President may dissolve the Assembly during a persistent crisis, after consulting with the Prime Minister and the presidents of both legislative chambers. It then lists prohibitions on dissolution (e.g., within a year of elections, during states of emergency or war, or under an interim President). Finally, it mandates that following a dissolution, new elections must be organized by the independent electoral commission within 60 days.",
+                    "line_num": 843
+                  },
+                  {
+                    "title": "Article 149",
+                    "node_id": "0058",
+                    "summary": "This partial document outlines the structure and fundamental principles of the judicial power in the Democratic Republic of the Congo's Constitution. The main points covered are: the independence of the judiciary from the legislative and executive branches; the enumeration of the main courts and tribunals; the principle that justice is rendered in the name of the people; the execution of judicial decisions in the name of the President of the Republic; the prohibition of extraordinary or exceptional tribunals; the allowance for specialized jurisdictions created by law; and the management of the judiciary's budget by the High Council of the Judiciary.",
+                    "line_num": 865
+                  },
+                  {
+                    "title": "Article 15",
+                    "node_id": "0059",
+                    "summary": "###### Article 15\n\nLes pouvoirs publics veillent à l’élimination des violences sexuelles.\nSans préjudice des traités et accords internationaux, toute violence sexuelle faite\nsur toute personne, dans l’intention de déstabiliser, de disloquer une famille et de\nfaire disparaître tout un peuple est érigée en crime contre l’humanité puni par la\nloi.",
+                    "line_num": 886
+                  },
+                  {
+                    "title": "Article 150",
+                    "node_id": "0060",
+                    "summary": "###### Article 150\n\nLe pouvoir judiciaire est le garant des libertés individuelles et des droits\nfondamentaux des citoyens.\nLes juges ne sont soumis dans l’exercice de leur fonction qu’à l’autorité de la loi.\nUne loi organique fixe le statut des magistrats.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n49\n\nLe magistrat du siège est inamovible. Il ne peut être déplacé que par une\nnomination nouvelle ou à sa demande ou par rotation motivée décidée par le\nConseil supérieur de la magistrature.",
+                    "line_num": 895
+                  },
+                  {
+                    "title": "Article 151",
+                    "node_id": "0061",
+                    "summary": "###### Article 151\n\nLe pouvoir exécutif ne peut donner d’injonction au juge dans l’exercice de sa\njuridiction, ni statuer sur les différends, ni entraver le cours de la justice, ni\ns’opposer à l’exécution d’une décision de justice.\nLe pouvoir législatif ne peut ni statuer sur des différends juridictionnels, ni\nmodifier une décision de justice, ni s’opposer à son exécution.\nToute loi dont l’objectif est manifestement de fournir une solution à un procès en\ncours est nulle et de nul effet.",
+                    "line_num": 911
+                  },
+                  {
+                    "title": "Article 152",
+                    "node_id": "0062",
+                    "summary": "The partial document covers Article 152 of a constitution (specifically from the Democratic Republic of the Congo, 2011). It defines the High Council of the Judiciary as the judicial power's management body. The main points are:\n1.  Its composition, listing 18 specific members and categories of members, including heads of various high courts and elected magistrates.\n2.  Its key functions: proposing the appointment, promotion, and dismissal of judges; exercising disciplinary power over judges; and providing opinions on pardon requests.\n3.  A note that an organic law determines its organization and operation.\nThe text ends by introducing the next section on judicial order courts.",
+                    "line_num": 922
+                  },
+                  {
+                    "title": "Article 153",
+                    "node_id": "0063",
+                    "summary": "This partial document establishes the judicial system of the Democratic Republic of the Congo. The main points covered are:\n\n1.  **Creation of the Judicial Order:** It institutes a judicial order composed of civil and military courts and tribunals, all under the supervision of the Court of Cassation.\n2.  **Role of the Court of Cassation:** It defines the primary role of the Court of Cassation to hear appeals (pourvois en cassation) against final judgments from lower civil and military courts. It also grants it original and final jurisdiction over offenses committed by high-ranking state officials, listing ten specific categories (including members of Parliament, Government, Constitutional Court, senior judges, and provincial leaders).\n3.  **Sources of Law for Courts:** It mandates that civil and military courts apply duly ratified international treaties, laws, regulatory acts (if conforming to laws), and custom (provided it is not contrary to public order or morality).\n4.  **Legal Framework for Organization:** It states that the organization, functioning, and jurisdiction of the judicial order are to be determined by an organic law.\n5.  **Transition to Administrative Jurisdictions:** The excerpt concludes by signaling a transition to a new section (Paragraph 3) concerning administrative courts.",
+                    "line_num": 970
+                  },
+                  {
+                    "title": "Article 154",
+                    "node_id": "0064",
+                    "summary": "###### Article 154\n\nIl  est institué un ordre de juridictions administratives composé du Conseil d’Etat\net des Cours et Tribunaux administratifs.",
+                    "line_num": 1010
+                  },
+                  {
+                    "title": "Article 155",
+                    "node_id": "0065",
+                    "summary": "The partial document outlines the jurisdiction and functions of the Council of State (Conseil d’État) as the supreme administrative court. It specifies three main areas of competence: acting as the first and final court for appeals against central administrative authorities; hearing appeals against decisions of lower administrative courts; and adjudicating claims for damages where no other court has jurisdiction, ruling based on equity and public/private interests. It concludes by stating that the organization and functioning of the administrative judiciary are defined by an organic law, and introduces a new section on military courts.",
+                    "line_num": 1016
+                  },
+                  {
+                    "title": "Article 156",
+                    "node_id": "0066",
+                    "summary": "This partial document outlines the jurisdiction of military courts in the Democratic Republic of the Congo. It states that these courts handle offenses committed by members of the Armed Forces and National Police. It grants the President, during war or states of siege/emergency, the power to transfer cases from ordinary courts to military courts, though the right to appeal cannot be suspended. It also notes that an organic law governs the specific rules for these military courts.",
+                    "line_num": 1034
+                  },
+                  {
+                    "title": "Article 157",
+                    "node_id": "0067",
+                    "summary": "###### Article 157\n\nIl est institué une Cour constitutionnelle.",
+                    "line_num": 1054
+                  },
+                  {
+                    "title": "Article 158",
+                    "node_id": "0068",
+                    "summary": "This partial document outlines the composition, qualifications, term limits, and renewal procedures for the Constitutional Court of the Democratic Republic of the Congo. It specifies that the nine members are appointed by three different bodies (the President, Parliament, and the High Council of the Judiciary). It requires two-thirds of the members to be legal professionals and establishes a single nine-year term for judges, with the court being renewed by one-third every three years via a lottery system. It also describes the election and inauguration of the Court's President.",
+                    "line_num": 1059
+                  },
+                  {
+                    "title": "Article 159",
+                    "node_id": "0069",
+                    "summary": "###### Article 159\n\nNul ne peut être nommé membre de la Cour constitutionnelle :\n1. s’il n’est congolais ;\n2. s’il ne justifie d’une expérience éprouvée de quinze ans dans les\ndomaines juridique ou politique.",
+                    "line_num": 1080
+                  },
+                  {
+                    "title": "Article 16",
+                    "node_id": "0070",
+                    "summary": "###### Article 16\n\nLa personne humaine est sacrée. L’Etat a l’obligation de la respecter et de la\nprotéger.\nToute personne a droit à la vie, à l’intégrité physique ainsi qu’au libre\ndéveloppement de sa personnalité dans le respect de la loi, de l’ordre public, du\ndroit d’autrui et des bonnes mœurs.\nNul ne peut être tenu en esclavage ni dans une condition analogue.\nNul ne peut être soumis à un traitement cruel, inhumain ou dégradant.\nNul ne peut être astreint à un travail forcé ou obligatoire.",
+                    "line_num": 1088
+                  },
+                  {
+                    "title": "Article 160",
+                    "node_id": "0071",
+                    "summary": "This partial document outlines the primary functions and procedures of the Constitutional Court. It states that the Court is responsible for reviewing the constitutionality of laws and acts with the force of law. It specifies that organic laws and the internal regulations of parliamentary bodies and key independent institutions must be submitted for constitutional review before they take effect. It also details that laws can be referred to the Court for review before promulgation by specific high-ranking officials or a fraction of parliamentarians. Finally, it establishes the Court's decision deadlines: thirty days, reducible to eight days in cases of governmental urgency.",
+                    "line_num": 1100
+                  },
+                  {
+                    "title": "Article 161",
+                    "node_id": "0072",
+                    "summary": "This partial document outlines the jurisdiction and powers of the Constitutional Court in the Democratic Republic of the Congo, as defined in Article 161 of the Constitution. The main points covered are:\n\n1.  The entities authorized to request an interpretation of the Constitution (e.g., the President, Government, parliamentary leaders, and provincial officials).\n2.  The Court's role in adjudicating disputes related to presidential and legislative elections, as well as referendums.\n3.  Its jurisdiction over conflicts of competence between the Executive and Legislative branches, and between the State and the provinces.\n4.  The specific conditions under which it hears appeals against rulings from the Court of Cassation and the Council of State regarding jurisdictional disputes between judicial and administrative courts.\n5.  A note that the procedures and effects of these appeals are to be determined by law.",
+                    "line_num": 1117
+                  },
+                  {
+                    "title": "Article 162",
+                    "node_id": "0073",
+                    "summary": "###### Article 162\n\nLa Cour constitutionnelle est juge de l’exception d’inconstitutionnalité soulevée\ndevant ou par une juridiction.\nToute personne peut saisir la Cour constitutionnelle pour inconstitutionnalité de\ntout acte législatif ou réglementaire.\nElle peut, en outre, saisir la Cour constitutionnelle, par la procédure de\nl’exception de l’inconstitutionnalité invoquée dans une affaire qui la concerne\ndevant une juridiction.\nCelle-ci sursoit à statuer et saisit, toutes affaires cessantes, la Cour\nconstitutionnelle.",
+                    "line_num": 1142
+                  },
+                  {
+                    "title": "Article 163",
+                    "node_id": "0074",
+                    "summary": "###### Article 163\n\nLa Cour constitutionnelle est la juridiction pénale du Chef de l’Etat et du\nPremier ministre dans les cas et conditions prévus par la Constitution.",
+                    "line_num": 1155
+                  },
+                  {
+                    "title": "Article 164",
+                    "node_id": "0075",
+                    "summary": "###### Article 164\n\nLa Cour constitutionnelle est le juge pénal du Président de la République et du\nPremier ministre pour des infractions politiques de haute trahison, d’outrage au\nParlement, d’atteinte à l’honneur ou à la probité ainsi que  pour les délits\nd’initié et pour les autres infractions de droit commun commises dans l’exercice\nou à l’occasion de l’exercice de leurs fonctions. Elle est également compétente\npour juger leurs co-auteurs et complices.",
+                    "line_num": 1161
+                  },
+                  {
+                    "title": "Article 165",
+                    "node_id": "0076",
+                    "summary": "This partial document, Article 165 of a constitution, defines specific high crimes and offenses that can be committed by the President of the Republic or the Prime Minister. It outlines four main categories: high treason (for intentional constitutional violations, grave human rights abuses, or ceding national territory); dishonorable conduct (for behavior contrary to good morals, malversations, corruption, or illicit enrichment); insider trading (profiting from privileged information); and contempt of Parliament (failing to respond to parliamentary inquiries within thirty days).",
+                    "line_num": 1171
+                  },
+                  {
+                    "title": "Article 166",
+                    "node_id": "0077",
+                    "summary": "###### Article 166\n\nLa décision de poursuites ainsi que la mise en accusation du Président de la\nRépublique et du Premier ministre sont votées à la majorité des deux tiers des\nmembres du Parlement composant le Congrès suivant la procédure prévue par le\nRèglement intérieur.\nLa décision de poursuites ainsi que  la mise en accusation des membres du\nGouvernement sont votées à la majorité absolue des membres composant\nl’Assemblée nationale suivant la procédure prévue par le Règlement intérieur.\nLes membres  du Gouvernement mis en accusation, présentent leur démission.",
+                    "line_num": 1198
+                  },
+                  {
+                    "title": "Article 167",
+                    "node_id": "0078",
+                    "summary": "###### Article 167\n\nEn cas de condamnation, le Président de la République et le Premier ministre  sont\ndéchus de leurs charges. La déchéance est prononcée par la Cour constitutionnelle.\nPour les infractions commises en dehors de l’exercice de leurs fonctions, les\npoursuites contre le Président de la République et le Premier ministre sont\nsuspendues jusqu’à l’expiration de leurs mandats. Pendant ce temps, la\nprescription est suspendue.",
+                    "line_num": 1210
+                  },
+                  {
+                    "title": "Article 168",
+                    "node_id": "0079",
+                    "summary": "###### Article 168\n\nLes arrêts de la Cour constitutionnelle ne sont susceptibles d’aucun recours et sont\nimmédiatement exécutoires. Ils sont obligatoires et s’imposent aux pouvoirs\npublics, à toutes les autorités administratives et juridictionnelles, civiles et militaires\nainsi qu’aux particuliers.\nTout acte déclaré non conforme à la Constitution est nul de plein droit.",
+                    "line_num": 1220
+                  }
+                ]
+              },
+              {
+                "title": "Section 5 : Des Finances publiques",
+                "node_id": "0080",
+                "prefix_summary": "##### Section 5 : Des Finances publiques",
+                "line_num": 1229,
+                "nodes": [
+                  {
+                    "title": "Article 169",
+                    "node_id": "0081",
+                    "summary": "###### Article 169\n\nL’organisation et le fonctionnement de la Cour constitutionnelle sont fixés par une\nloi organique.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n56\n\n\nParagraphe 1er : Des dispositions générales",
+                    "line_num": 1232
+                  },
+                  {
+                    "title": "Article 17",
+                    "node_id": "0082",
+                    "summary": "This partial document covers Article 17 of the Constitution of the Democratic Republic of the Congo, which establishes fundamental principles of criminal law and individual liberties. The main points include: the guarantee of individual freedom as the rule, with detention as the exception; the principle of legality (no one can be prosecuted or punished except by law); the prohibition of retroactive criminal laws (non-retroactivity); the principle that penalties cannot exceed those applicable at the time of the offense; the application of more lenient subsequent laws; the individual nature of criminal responsibility (no guilt by association); and the presumption of innocence.",
+                    "line_num": 1245
+                  },
+                  {
+                    "title": "Article 170",
+                    "node_id": "0083",
+                    "summary": "###### Article 170\n\nLe Franc congolais est l’unité monétaire de la République Démocratique du\nCongo. Il a le pouvoir libératoire sur tout le territoire national.",
+                    "line_num": 1273
+                  },
+                  {
+                    "title": "Article 171",
+                    "node_id": "0084",
+                    "summary": "###### Article 171\n\nLes finances du pouvoir central et  celles des provinces sont distinctes.",
+                    "line_num": 1279
+                  },
+                  {
+                    "title": "Article 172",
+                    "node_id": "0085",
+                    "summary": "###### Article 172\n\nL’exercice budgétaire commence le premier janvier et se termine le 31 décembre.",
+                    "line_num": 1284
+                  },
+                  {
+                    "title": "Article 173",
+                    "node_id": "0086",
+                    "summary": "###### Article 173\n\nLe compte général de la République est soumis chaque année au Parlement par\nla Cour des comptes avec ses observations.\nLe compte général de la République est arrêté par la loi.",
+                    "line_num": 1289
+                  },
+                  {
+                    "title": "Article 174",
+                    "node_id": "0087",
+                    "summary": "###### Article 174\n\nIl ne peut être établi d’impôts que par la loi.\nLa contribution aux charges publiques constitue un devoir pour toute personne\nvivant en République Démocratique du Congo.\nIl ne peut être établi d’exemption ou d’allègement fiscal qu’en vertu de la loi.",
+                    "line_num": 1296
+                  },
+                  {
+                    "title": "Article 175",
+                    "node_id": "0088",
+                    "summary": "###### Article 175\n\nLe budget des recettes et des dépenses de l’Etat, à savoir celui du pouvoir central\net des provinces, est arrêté chaque année par une loi.\nLa part des recettes à caractère national allouées aux provinces est établie à\n40%. Elle est retenue à la source.\nLa loi fixe la nomenclature des autres recettes locales et la modalité de leur\nrépartition.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n57\n\nParagraphe 2 : De la Banque  Centrale",
+                    "line_num": 1304
+                  },
+                  {
+                    "title": "Article 176",
+                    "node_id": "0089",
+                    "summary": "###### Article 176\n\nLa Banque Centrale du Congo est l’institut d’émission de la République\nDémocratique du Congo.\nA ce titre, elle a pour mission :\n1. la garde des fonds publics ;\n2. la sauvegarde et la stabilité monétaire ;\n3. la définition et la mise en œuvre de la politique monétaire ;\n4. le contrôle de l’ensemble de l’activité bancaire ;\n5. de conseil économique et financier du Gouvernement.\nDans la réalisation de ces missions et attributions, la Banque Centrale du Congo\nest indépendante et jouit de l’autonomie de gestion.",
+                    "line_num": 1320
+                  },
+                  {
+                    "title": "Article 177",
+                    "node_id": "0090",
+                    "summary": "###### Article 177\n\nL’organisation et le fonctionnement de la Banque Centrale du Congo sont fixés par\nune loi organique.\nParagraphe 3 : De la Cour des comptes",
+                    "line_num": 1334
+                  },
+                  {
+                    "title": "Article 178",
+                    "node_id": "0091",
+                    "summary": "###### Article 178\n\nIl est institué en République Démocratique du Congo une Cour des comptes.\nLa Cour des comptes relève de l’Assemblée nationale.\nLes membres de la Cour des comptes sont nommés, relevés de leurs fonctions\net, le cas échéant, révoqués par le Président de la République, après avis de\nl’Assemblée nationale.\nLes membres de la Cour des comptes doivent justifier d’une haute qualification en\nmatière financière, juridique ou administrative et d’une expérience professionnelle\nd’au moins dix ans.",
+                    "line_num": 1341
+                  },
+                  {
+                    "title": "Article 179",
+                    "node_id": "0092",
+                    "summary": "###### Article 179\n\nLa composition, l’organisation et le fonctionnement de la Cour des comptes sont\nfixés par une loi organique.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n58",
+                    "line_num": 1353
+                  },
+                  {
+                    "title": "Article 18",
+                    "node_id": "0093",
+                    "summary": "###### Article 18\n\nToute personne arrêtée doit être immédiatement informée des motifs de son\narrestation et de toute accusation portée contre elle et ce, dans la langue qu’elle\ncomprend.\nElle doit être immédiatement informée de ses droits.\nLa personne gardée à vue a le droit d’entrer immédiatement en contact avec sa\nfamille ou avec son conseil.\nLa garde à vue ne peut excéder quarante huit heures. A l’expiration de ce délai, la\npersonne gardée à vue doit être relâchée ou mise à la disposition de l’autorité\njudiciaire compétente.\nTout détenu doit bénéficier d’un traitement qui préserve sa vie, sa santé  physique\net mentale ainsi que sa dignité.",
+                    "line_num": 1363
+                  },
+                  {
+                    "title": "Article 180",
+                    "node_id": "0094",
+                    "summary": "###### Article 180\n\nLa Cour des comptes  contrôle, dans les conditions fixées par la loi, la gestion des\nfinances de l’Etat, des biens publics ainsi que les comptes des provinces, des\nentités territoriales décentralisées ainsi que  des organismes publics.\nElle publie, chaque année, un rapport remis au Président de la République, au\nParlement et au Gouvernement.\nLe rapport est publié au Journal officiel.\nParagraphe 4 : De la Caisse nationale de péréquation",
+                    "line_num": 1378
+                  }
+                ]
+              },
+              {
+                "title": "Section 6 : De la Police nationale et des Forces armées",
+                "node_id": "0095",
+                "prefix_summary": "##### Section 6 : De la Police nationale et des Forces armées",
+                "line_num": 1389,
+                "nodes": [
+                  {
+                    "title": "Article 181",
+                    "node_id": "0096",
+                    "summary": "###### Article 181\n\nIl est institué une Caisse nationale de péréquation. Elle est dotée de la\npersonnalité juridique.\nLa Caisse nationale de péréquation a pour mission de financer des projets et\nprogrammes d’investissement public, en vue d’assurer la solidarité nationale et de\ncorriger le déséquilibre de développement entre les provinces et entre  les autres\nentités territoriales décentralisées.\nElle dispose d’un budget alimenté par le Trésor public à concurrence de dix pour\ncent de la totalité des recettes à caractère national revenant à l’Etat chaque année.\nElle est placée sous la tutelle du Gouvernement.\nUne loi organique fixe son organisation et son fonctionnement.\n\nParagraphe 1er : De la Police nationale",
+                    "line_num": 1392
+                  },
+                  {
+                    "title": "Article 182",
+                    "node_id": "0097",
+                    "summary": "###### Article 182\n\nLa Police nationale est chargée de la sécurité publique, de la sécurité des\npersonnes et de leurs biens, du maintien et du rétablissement de l’ordre public\nainsi que de la protection rapprochée des hautes autorités.",
+                    "line_num": 1408
+                  },
+                  {
+                    "title": "Article 183",
+                    "node_id": "0098",
+                    "summary": "###### Article 183\n\nLa Police nationale est apolitique. Elle est au service de la Nation congolaise. Nul\nne peut la détourner à  ses fins propres.\nLa Police nationale exerce son action sur l’ensemble du territoire national dans le\nrespect de la présente Constitution et des lois de la République.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n59",
+                    "line_num": 1415
+                  },
+                  {
+                    "title": "Article 184",
+                    "node_id": "0099",
+                    "summary": "###### Article 184\n\nLa Police nationale est soumise à l’autorité civile locale et est placée sous la\nresponsabilité du ministère qui a les affaires intérieures dans ses attributions.",
+                    "line_num": 1427
+                  },
+                  {
+                    "title": "Article 185",
+                    "node_id": "0100",
+                    "summary": "###### Article 185\n\nLes effectifs à tous les niveaux, les fonctions de commandement en tout temps et\nen toute circonstance, doivent tenir compte des critères objectifs liés à la fois à\nl’aptitude physique, à une instruction suffisante et à une moralité éprouvée ainsi\nqu’à une représentation équitable des provinces.",
+                    "line_num": 1433
+                  },
+                  {
+                    "title": "Article 186",
+                    "node_id": "0101",
+                    "summary": "###### Article 186\n\nUne  loi organique fixe l’organisation et le fonctionnement de la Police nationale.\nParagraphe 2 : Des Forces armées",
+                    "line_num": 1441
+                  },
+                  {
+                    "title": "Article 187",
+                    "node_id": "0102",
+                    "summary": "###### Article 187\n\nLes Forces armées comprennent la force terrestre, la force aérienne, la force\nnavale et leurs services d’appui.\nElles ont pour mission de défendre l’intégrité du territoire national et les frontières.\nDans les conditions fixées par la loi, elles participent, en temps de paix, au\ndéveloppement économique, social et culturel ainsi qu’à la protection des\npersonnes et de leurs biens.",
+                    "line_num": 1447
+                  },
+                  {
+                    "title": "Article 188",
+                    "node_id": "0103",
+                    "summary": "###### Article 188\n\nLes Forces armées sont  républicaines. Elles sont au service de la Nation toute\nentière.\nNul ne peut, sous peine de haute trahison, les détourner à ses fins propres.\nElles sont apolitiques et soumises à l’autorité civile.",
+                    "line_num": 1457
+                  },
+                  {
+                    "title": "Article 189",
+                    "node_id": "0104",
+                    "summary": "###### Article 189\n\nLes effectifs à tous les niveaux, les fonctions de commandement en tout temps et\nen toute circonstance, doivent tenir compte des critères objectifs liés à la fois à\nl’aptitude physique, à une instruction suffisante, à une moralité éprouvée ainsi qu’à\nune représentation équitable des provinces.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n60",
+                    "line_num": 1465
+                  },
+                  {
+                    "title": "Article 19",
+                    "node_id": "0105",
+                    "summary": "###### Article 19\n\nNul ne peut être ni soustrait ni distrait contre son gré du juge que la loi lui assigne.\nToute personne a droit à ce que sa cause soit entendue dans un délai\nraisonnable par le juge compétent.\n\nLe droit de la défense est organisé et garanti.\nToute personne a le droit de se défendre elle-même ou de se faire assister d’un\ndéfenseur de son choix et ce, à tous les niveaux de la procédure pénale, y\ncompris l’enquête policière et l’instruction préjuridictionnelle.\nElle peut se faire assister également devant les services de sécurité.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n12",
+                    "line_num": 1477
+                  },
+                  {
+                    "title": "Article 190",
+                    "node_id": "0106",
+                    "summary": "###### Article 190\n\nNul ne peut, sous peine de haute trahison, organiser des formations militaires,\npara-militaires ou des milices privées, ni entretenir une jeunesse armée.",
+                    "line_num": 1494
+                  },
+                  {
+                    "title": "Article 191",
+                    "node_id": "0107",
+                    "summary": "###### Article 191\n\nUne  loi organique fixe l’organisation et le fonctionnement des Forces armées.",
+                    "line_num": 1500
+                  }
+                ]
+              },
+              {
+                "title": "Section 7 : De l’Administration publique",
+                "node_id": "0108",
+                "prefix_summary": "##### Section 7 : De l’Administration publique",
+                "line_num": 1505,
+                "nodes": [
+                  {
+                    "title": "Article 192",
+                    "node_id": "0109",
+                    "summary": "###### Article 192\n\nIl est institué un Conseil supérieur de la défense.\nLe Conseil supérieur de la défense est présidé par le Président de la  République\net, en cas d’absence ou d’empêchement, par le Premier ministre.\nUne loi organique détermine l’organisation, la composition, les attributions, et le\nfonctionnement du Conseil supérieur de la défense.",
+                    "line_num": 1508
+                  },
+                  {
+                    "title": "Article 193",
+                    "node_id": "0110",
+                    "summary": "###### Article 193\n\nL’Administration publique est apolitique, neutre et impartiale. Nul ne peut la\ndétourner à des fins personnelles ou partisanes.\nElle comprend la fonction publique ainsi que tous les organismes et services\nassimilés.",
+                    "line_num": 1517
+                  }
+                ]
+              },
+              {
+                "title": "Section 1 : Des institutions politiques provinciales",
+                "node_id": "0111",
+                "prefix_summary": "##### Section 1 : Des institutions politiques provinciales",
+                "line_num": 1525,
+                "nodes": [
+                  {
+                    "title": "Article 194",
+                    "node_id": "0112",
+                    "summary": "###### Article 194\n\nUne loi organique fixe l’organisation et le fonctionnement des services publics du\npouvoir central, des provinces et des entités territoriales décentralisées.\nChapitre 2 : Des provinces",
+                    "line_num": 1528
+                  },
+                  {
+                    "title": "Article 195",
+                    "node_id": "0113",
+                    "summary": "###### Article 195\n\nLes institutions provinciales sont :\n1. l’Assemblée provinciale ;\n2. le Gouvernement provincial.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n61",
+                    "line_num": 1535
+                  },
+                  {
+                    "title": "Article 196",
+                    "node_id": "0114",
+                    "summary": "###### Article 196\n\nLes provinces sont organisées conformément aux principes énoncés à l’article 3\nde la présente Constitution.\nLes subdivisions territoriales à l’intérieur des provinces sont fixées par une loi\norganique.",
+                    "line_num": 1546
+                  },
+                  {
+                    "title": "Article 197",
+                    "node_id": "0115",
+                    "summary": "This partial document covers Articles 197 and 198 of the Constitution of the Democratic Republic of the Congo (as revised in 2011), detailing the structure and functioning of provincial institutions.\n\nThe main points are:\n\n1.  **The Provincial Assembly (Article 197):** It defines the Assembly as the deliberative body of the province, with powers to legislate via edicts and control the provincial government and public services. It outlines the election/co-optation of provincial deputies for five-year terms, sets a limit on co-opted members, and specifies applicable national parliamentary rules. It also describes the procedure for the President of the Republic to dissolve the Assembly in a severe political crisis, triggering new elections within 60 days (extendable to 120 days in case of force majeure).\n\n2.  **The Provincial Government (Article 198):** It describes the composition of the provincial government, including a Governor, Vice-Governor, and a maximum of ten provincial ministers. It explains that the Governor and Vice-Governor are elected by the provincial deputies for a five-year term, renewable once, and are inaugurated by the President. Ministers are appointed by the Governor. The article also covers the investiture process requiring approval of the government's program by the Assembly, and the means to remove government members through a motion of censure. Finally, it outlines the procedure for the President to remove a Governor in a severe political crisis, requiring a new election within 30 days.",
+                    "line_num": 1554
+                  },
+                  {
+                    "title": "Article 199",
+                    "node_id": "0116",
+                    "summary": "###### Article 199\n\nDeux ou plusieurs provinces peuvent, d’un commun accord, créer un cadre\nd’harmonisation et de coordination de leurs politiques respectives et gérer en\ncommun certains services dont les attributions portent sur les matières relevant\nde leurs compétences.",
+                    "line_num": 1617
+                  },
+                  {
+                    "title": "Article 1er",
+                    "node_id": "0117",
+                    "summary": "This partial document outlines the foundational constitutional identity of the Democratic Republic of the Congo. It specifies the nation's status as a sovereign, democratic, and secular state of law. The text formally defines its national symbols: the flag, the motto (\"Justice - Peace - Work\"), the coat of arms, the national anthem (\"Debout Congolais!\"), and the currency (the Congolese Franc). It also establishes French as the official language, names four national languages (Kikongo, Lingala, Swahili, Tshiluba) for state-promoted use, and protects all other local languages as cultural heritage.",
+                    "line_num": 1625
+                  },
+                  {
+                    "title": "Article 2",
+                    "node_id": "0118",
+                    "summary": "This partial document outlines the administrative and political structure of the Democratic Republic of the Congo as defined in its Constitution. The main points covered are:\n\n1.  **Territorial Composition:** The DRC is composed of the city of Kinshasa and 25 provinces, each with legal personality. A full list of the provinces is provided.\n2.  **Status of the Capital:** Kinshasa is the national capital, hosts national institutions, and itself holds provincial status. Relocating the capital would require a referendum.\n3.  **Distribution of Powers:** The division of powers between the central State and the provinces is governed by Title III of the Constitution.\n4.  **Boundaries:** The limits of the provinces and of Kinshasa are to be established by an organic law.",
+                    "line_num": 1645
+                  },
+                  {
+                    "title": "Article 20",
+                    "node_id": "0119",
+                    "summary": "###### Article 20\n\nLes audiences des cours et tribunaux sont publiques, à moins que cette publicité\nne soit jugée dangereuse pour l’ordre public ou les bonnes mœurs. Dans ce cas,\nle tribunal ordonne le huis clos.",
+                    "line_num": 1667
+                  }
+                ]
+              },
+              {
+                "title": "Section 2 : De la répartition des compétences entre le pouvoir central et les",
+                "node_id": "0120",
+                "prefix_summary": "##### Section 2 : De la répartition des compétences entre le pouvoir central et les",
+                "line_num": 1674,
+                "nodes": [
+                  {
+                    "title": "Article 200",
+                    "node_id": "0121",
+                    "summary": "The partial document outlines the establishment, composition, and functioning of the Conference of Provincial Governors in the Democratic Republic of the Congo. It states the Conference's mission is to give opinions and suggestions on national policy and legislation. It details that members include the President, Prime Minister, Minister of the Interior, and all Provincial Governors, with the President serving as chair. It specifies the Conference must meet at least twice a year at the President's call, rotating locations among provinces, and that an organic law will govern its detailed operations.",
+                    "line_num": 1677
+                  },
+                  {
+                    "title": "Article 201",
+                    "node_id": "0122",
+                    "summary": "###### Article 201\n\nLa répartition des compétences entre le pouvoir central et les provinces est fixée\npar la présente Constitution.\nLes matières sont, soit de la compétence exclusive du pouvoir central, soit de la\ncompétence concurrente du pouvoir central et des provinces, soit de la compétence\nexclusive des provinces.",
+                    "line_num": 1698
+                  },
+                  {
+                    "title": "Article 202",
+                    "node_id": "0123",
+                    "summary": "This partial document is Article 202 of the Constitution of the Democratic Republic of the Congo (dated February 5, 2011). It exhaustively lists the areas that fall under the exclusive jurisdiction of the central government. The main points covered are the delineation of federal powers in a wide range of sectors, including:\n\n*   **National Sovereignty and Security:** Foreign affairs, national defense, national police, external security, nationality, and immigration.\n*   **Economic and Financial Policy:** Public finances, national debt, internal/external borrowing, currency, banking, foreign exchange, customs, foreign trade, and the prevention of economic power abuses.\n*   **Key Infrastructure and Resources:** Maritime and air navigation, railways, national roads, posts and telecommunications, energy regimes, and national programs for agriculture and forestry.\n*   **National Standards and Planning:** Weights and measures, national education standards, national statistics and census, national planning, and scientific research.\n*   **Comprehensive Legislation:** The article specifies that the central government has legislative authority over numerous codes and laws, including the Commercial Code, Penal Code, judicial organization, labor law, economic law (mines, industry), medical legislation, electoral law, and laws concerning alcohol, weapons, genetic information, and refugees.\n\nIn essence, this constitutional article defines the core, non-delegable responsibilities of the central state in a federal system.",
+                    "line_num": 1707
+                  },
+                  {
+                    "title": "Article 203",
+                    "node_id": "0124",
+                    "summary": "This partial document lists the concurrent competences shared between the central government and the provinces, as defined in Article 203 of the Constitution of the Democratic Republic of the Congo. It enumerates 25 specific areas where both levels of government have jurisdiction, including human rights, internal security, administration of justice, taxation, culture, education, natural resource management, environmental protection, infrastructure, public health, and international cooperation.",
+                    "line_num": 1823
+                  },
+                  {
+                    "title": "Article 204",
+                    "node_id": "0125",
+                    "summary": "This partial document is Article 204 of the Constitution of the Democratic Republic of the Congo. It enumerates the exclusive competences (powers) of the provincial governments. The list covers a wide range of areas including provincial planning, finance, public services, education, healthcare, agriculture, natural resources, local infrastructure, and cultural matters, often with the stipulation that provincial actions must conform to national legislation and norms.",
+                    "line_num": 1873
+                  },
+                  {
+                    "title": "Article 205",
+                    "node_id": "0126",
+                    "summary": "This partial document, Article 205 of a constitution, outlines the division of legislative powers between the central government and provincial assemblies. Its main points are: the exclusive legislative domains of each level of government cannot be infringed upon by the other; however, a system of reciprocal delegation of powers is established, allowing one level to temporarily legislate in the exclusive domain of the other. When such delegation is revoked, the laws enacted under it remain in force until replaced by the competent authority. Finally, in areas of concurrent jurisdiction, national legislation takes precedence over provincial edicts, and incompatible provincial edicts are automatically nullified.",
+                    "line_num": 1959
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : De l’autorité coutumière",
+                "node_id": "0127",
+                "prefix_summary": "##### Section 3 : De l’autorité coutumière",
+                "line_num": 1991,
+                "nodes": [
+                  {
+                    "title": "Article 206",
+                    "node_id": "0128",
+                    "summary": "###### Article 206\n\nSauf dispositions contraires de la législation nationale, les Gouvernements\nprovinciaux exécutent, par l’intermédiaire de leurs services, les lois et les\nrèglements nationaux.",
+                    "line_num": 1994
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV : DU CONSEIL ECONOMIQUE ET SOCIAL",
+            "node_id": "0129",
+            "prefix_summary": "#### TITRE IV : DU CONSEIL ECONOMIQUE ET SOCIAL",
+            "line_num": 2001,
+            "nodes": [
+              {
+                "title": "Article 207",
+                "node_id": "0130",
+                "summary": "###### Article 207\n\nL’autorité coutumière est reconnue.\nElle est dévolue conformément à la coutume locale, pour autant que celle-ci ne\nsoit pas contraire à la Constitution, à la loi, à l’ordre public et aux bonnes mœurs.\nTout Chef coutumier désireux d’exercer un mandat public électif doit se soumettre\nà l’élection, sauf application des dispositions de l’article 197 alinéa 3 de la\nprésente Constitution.\nL’autorité coutumière a le devoir de promouvoir l’unité et la cohésion nationales.\nUne loi fixe le statut des chefs coutumiers.",
+                "line_num": 2004
+              },
+              {
+                "title": "Article 208",
+                "node_id": "0131",
+                "summary": "###### Article 208\n\nIl est institué  en République Démocratique du Congo un Conseil économique et\nsocial.",
+                "line_num": 2016
+              },
+              {
+                "title": "Article 209",
+                "node_id": "0132",
+                "summary": "###### Article 209\n\nLe Conseil économique et social a pour mission de donner des avis consultatifs sur\nles questions économiques et sociales lui soumises par le Président de la\nRépublique, l’Assemblée nationale, le Sénat et le Gouvernement.\nIl peut, de sa propre initiative, appeler l’attention du Gouvernement et des\nprovinces sur les réformes qui lui paraissent de nature à favoriser le\ndéveloppement économique et social du pays.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n71",
+                "line_num": 2022
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0133",
+                "summary": "###### Article 21\n\nTout jugement est écrit et motivé. Il est prononcé en audience publique.\nLe droit de former un recours contre un jugement est garanti à tous. Il est exercé\ndans les conditions fixées par la loi.",
+                "line_num": 2036
+              }
+            ]
+          },
+          {
+            "title": "TITRE V : DES INSTITUTIONS D’APPUI A LA DEMOCRATIE",
+            "node_id": "0134",
+            "prefix_summary": "#### TITRE V : DES INSTITUTIONS D’APPUI A LA DEMOCRATIE",
+            "line_num": 2043,
+            "nodes": [
+              {
+                "title": "Article 210",
+                "node_id": "0135",
+                "summary": "###### Article 210\n\nUne loi organique détermine l’organisation et le fonctionnement du Conseil\néconomique et social.\n\nChapitre 1er : De la Commission électorale  nationale indépendante",
+                "line_num": 2046
+              },
+              {
+                "title": "Article 211",
+                "node_id": "0136",
+                "summary": "###### Article 211\n\nIl est institué une Commission électorale nationale indépendante dotée de la\npersonnalité juridique.\nLa Commission électorale nationale indépendante est chargée de l’organisation du\nprocessus électoral, notamment de l’enrôlement des électeurs, de la tenue du\nfichier électoral, des opérations de vote, de dépouillement et de tout référendum.\nElle assure la régularité du processus électoral et référendaire.\nUne loi organique fixe l’organisation et le fonctionnement de la Commission\nélectorale nationale indépendante.\nChapitre 2 : Du conseil supérieur de l’audiovisuel et de  la communication",
+                "line_num": 2054
+              }
+            ]
+          },
+          {
+            "title": "TITRE VI : DES TRAITES ET ACCORDS INTERNATIONAUX",
+            "node_id": "0137",
+            "prefix_summary": "#### TITRE VI : DES TRAITES ET ACCORDS INTERNATIONAUX",
+            "line_num": 2067,
+            "nodes": [
+              {
+                "title": "Article 212",
+                "node_id": "0138",
+                "summary": "###### Article 212\n\nIl est institué un Conseil supérieur de l’audiovisuel et de la communication dotée\nde la personnalité juridique.\nIl a pour mission de garantir et d’assurer la liberté  et la protection de la presse,\nainsi que de tous les moyens de communication de masse dans le respect de la\nloi.\nIl veille au respect de la déontologie en matière d’information et à l’accès\néquitable des partis politiques, des associations et des citoyens aux moyens\nofficiels d’information et de communication.\nLa composition, les attributions, l’organisation et le fonctionnement du Conseil\nsupérieur de l’audiovisuel  et de la communication sont  fixés par une loi organique.",
+                "line_num": 2070
+              },
+              {
+                "title": "Article 213",
+                "node_id": "0139",
+                "summary": "###### Article 213\n\nLe Président de la République négocie et ratifie les traités et accords\ninternationaux.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n72\n\nLe Gouvernement conclut les accords internationaux non soumis à ratification\naprès délibération en Conseil des ministres. Il en informe l’Assemblée nationale et\nle Sénat.",
+                "line_num": 2084
+              },
+              {
+                "title": "Article 214",
+                "node_id": "0140",
+                "summary": "###### Article 214\n\nLes traités de paix, les traités de commerce, les traités et accords relatifs aux\norganisations internationales et au règlement des conflits internationaux, ceux qui\nengagent les finances publiques, ceux qui modifient les dispositions législatives,\nceux qui sont relatifs à l’état des personnes, ceux qui comportent échange et\nadjonction de territoire ne peuvent être ratifiés ou approuvés qu’en vertu d’une loi.\nNulle cession, nul échange, nulle adjonction de territoire n’est valable sans\nl’accord du peuple congolais consulté par voie de référendum.",
+                "line_num": 2098
+              },
+              {
+                "title": "Article 215",
+                "node_id": "0141",
+                "summary": "###### Article 215\n\nLes traités et accords internationaux régulièrement conclus ont, dès leur\npublication, une autorité supérieure à celle des lois, sous réserve pour chaque\ntraité ou accord, de son application par l’autre partie.",
+                "line_num": 2109
+              },
+              {
+                "title": "Article 216",
+                "node_id": "0142",
+                "summary": "###### Article 216\n\nSi la Cour constitutionnelle consultée par le Président de la République, par le\nPremier ministre, le Président de l’Assemblée  nationale ou  le Président du Sénat,\npar un dixième des députés ou un dixième des sénateurs, déclare qu’un traité ou\naccord international comporte une clause contraire à la Constitution, la ratification ou\nl’approbation ne peut intervenir qu’après la révision de la Constitution.",
+                "line_num": 2116
+              }
+            ]
+          },
+          {
+            "title": "TITRE VII : DE LA REVISION CONSTITUTIONNELLE",
+            "node_id": "0143",
+            "prefix_summary": "#### TITRE VII : DE LA REVISION CONSTITUTIONNELLE",
+            "line_num": 2125,
+            "nodes": [
+              {
+                "title": "Article 217",
+                "node_id": "0144",
+                "summary": "###### Article 217\n\nLa République Démocratique du Congo peut conclure des traités ou des accords\nd’association ou de communauté comportant un abandon partiel de souveraineté\nen vue de promouvoir l’unité africaine.",
+                "line_num": 2128
+              },
+              {
+                "title": "Article 218",
+                "node_id": "0145",
+                "summary": "This partial document covers Article 218 of the Constitution of the Democratic Republic of the Congo, which outlines the procedures for constitutional revision. The main points are:\n\n1.  It lists the four entities that have the concurrent right to initiate a constitutional revision: the President of the Republic, the Government, each parliamentary chamber (with half its members' support), and a petition of 100,000 citizens.\n2.  It states that any such initiative must first be approved for its merit by an absolute majority in both the National Assembly and the Senate.\n3.  It establishes that a revision is only finalized if approved by a referendum called by the President.\n4.  It provides an exception to the referendum requirement: if both houses of parliament, meeting together in Congress, approve the revision by a three-fifths majority.",
+                "line_num": 2135
+              },
+              {
+                "title": "Article 219",
+                "node_id": "0146",
+                "summary": "###### Article 219\n\nAucune révision ne peut intervenir pendant l’état de guerre, l’état d’urgence ou\nl’état de siège ni pendant l’intérim à la présidence de la République ni lorsque\nl’Assemblée nationale et le Sénat se trouvent empêchés de se réunir librement.",
+                "line_num": 2161
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0147",
+                "summary": "###### Article 22\n\nToute personne a droit à la liberté de pensée, de conscience et de religion.\nToute personne a le droit de manifester sa religion ou ses convictions, seule ou\nen groupe, tant en public qu’en privé, par le culte, l’enseignement, les pratiques,\nl’accomplissement des rites et l’état de vie religieuse, sous réserve du respect de\nla loi, de l’ordre public, des bonnes mœurs et des droits d’autrui.\nLa loi fixe les modalités d’exercice de ces libertés.",
+                "line_num": 2168
+              }
+            ]
+          },
+          {
+            "title": "TITRE VIII : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+            "node_id": "0148",
+            "prefix_summary": "#### TITRE VIII : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+            "line_num": 2178,
+            "nodes": [
+              {
+                "title": "Article 220",
+                "node_id": "0149",
+                "summary": "###### Article 220\n\nLa forme républicaine de l’Etat, le principe du suffrage universel, la forme\nreprésentative du Gouvernement, le nombre et la durée des mandats du\nPrésident de la République, l’indépendance du pouvoir judiciaire, le pluralisme\npolitique et syndical, ne peuvent faire l’objet d’aucune révision constitutionnelle.\nEst formellement interdite toute révision constitutionnelle ayant pour objet ou pour\neffet de réduire les droits et libertés de la personne, ou de réduire les prérogatives\ndes provinces et des entités territoriales décentralisées.",
+                "line_num": 2181
+              },
+              {
+                "title": "Article 221",
+                "node_id": "0150",
+                "summary": "###### Article 221\n\nPour autant qu’ils ne soient pas contraires à la présente Constitution, les textes\nlégislatifs et réglementaires en vigueur restent maintenus jusqu’à leur abrogation\nou leur modification.",
+                "line_num": 2192
+              },
+              {
+                "title": "Article 222",
+                "node_id": "0151",
+                "summary": "###### Article 222\n\nLes institutions politiques de la transition restent en fonction jusqu’à l’installation\neffective des institutions correspondantes prévues par la présente Constitution et\nexercent leurs attributions conformément à la Constitution de la Transition.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n74\n\nLes institutions d’appui à la démocratie sont dissoutes de plein droit dès\nl’installation du nouveau Parlement.\nToutefois, par une loi organique, le Parlement pourra, s’il échet, instituer d’autres\ninstitutions d’appui à la démocratie.",
+                "line_num": 2199
+              },
+              {
+                "title": "Article 223",
+                "node_id": "0152",
+                "summary": "###### Article 223\n\nEn attendant l’installation de la Cour constitutionnelle, du Conseil d’Etat et de la\nCour de cassation, la Cour suprême de justice exerce les attributions leur\ndévolues par la présente Constitution.",
+                "line_num": 2215
+              },
+              {
+                "title": "Article 224",
+                "node_id": "0153",
+                "summary": "###### Article 224\n\nEn attendant l’installation des juridictions de l’ordre administratif, les Cours\nd’appel exercent les compétences dévolues aux Cours administratives d’appel.",
+                "line_num": 2222
+              },
+              {
+                "title": "Article 225",
+                "node_id": "0154",
+                "summary": "###### Article 225\n\nLa Cour de sûreté de l’Etat est dissoute dès l’entrée en vigueur de la présente\nConstitution.",
+                "line_num": 2228
+              },
+              {
+                "title": "Article 226",
+                "node_id": "0155",
+                "summary": "###### Article 226\n\nrévision de certains articles de la Constitution de la République\nDémocratique du Congo)\nUne loi de programmation détermine les modalités d’installation de nouvelles\nprovinces citées à l’article 2 de la présente Constitution.\nEn attendant, la République Démocratique du Congo est composée de la Ville de\nKinshasa et de dix provinces suivantes dotées de la personnalité juridique :\nBandundu, Bas-Congo, Equateur, Kasaï Occidental, Kasaï Oriental, Katanga,\nManiema, Nord-Kivu, Province Orientale et Sud-Kivu.",
+                "line_num": 2234
+              },
+              {
+                "title": "Article 227",
+                "node_id": "0156",
+                "summary": "###### Article 227\n\nLes provinces telles qu’énumérées par l’article 2 de la présente Constitution\nconstituent les circonscriptions électorales des sénateurs de la première\nlégislature.\nLa loi électorale détermine les conditions d’attribution d’un quota additionnel à la\nville de Kinshasa pour les élections des sénateurs.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n75",
+                "line_num": 2246
+              },
+              {
+                "title": "Article 228",
+                "node_id": "0157",
+                "summary": "###### Article 228\n\nSans préjudice des dispositions de l’article 222 alinéa 1, la Constitution de la\nTransition du 04 avril 2003 est abrogée.",
+                "line_num": 2259
+              }
+            ]
+          },
+          {
+            "title": "TITRE I",
+            "node_id": "0158",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 2265,
+            "nodes": [
+              {
+                "title": "Article 229",
+                "node_id": "0159",
+                "summary": "This partial document is a section from the official journal of the Democratic Republic of the Congo (DRC), containing the 2011 special edition of the Constitution. The main points covered are:\n\n1.  **Promulgation:** It begins with Article 229, stating the Constitution's entry into force upon promulgation by the President, signed by Joseph Kabila.\n\n2.  **Explanatory Statement for the 2006 Constitution:** A detailed rationale explaining the historical context (post-war crises, the 2002 Pretoria Agreement) and the core principles of the 2006 Constitution. These principles are organized into four key themes:\n    *   **The State and Sovereignty:** Establishes a decentralized state with 25 provinces, reaffirms popular sovereignty, and guarantees political pluralism.\n    *   **Human Rights and Fundamental Freedoms:** Reaffirms commitment to international human rights standards and introduces the principle of gender parity.\n    *   **Organization and Exercise of Power:** Describes the main institutions (President, Parliament, Government, Courts) and the principles guiding them (avoiding conflict, ensuring democratic alternation, fighting impunity). It details the semi-presidential system, the independence of the judiciary, and the creation of supporting bodies like the Constitutional Court and the Economic and Social Council.\n    *   **Constitutional Revision:** Lists \"eternal clauses\" that cannot be amended, such as the republican form of state, presidential term limits, and judicial independence.\n\n3.  **Explanatory Statement for the 2011 Revision Law:** Presents the rationale for the constitutional amendments of January 2011. It states that practical experience revealed unworkable provisions and unforeseen dysfunctions. The revision aims to address these without altering the Constitution's fundamental options. It lists the eight specific articles amended, covering:\n    *   Election of the President by simple majority.\n    *   Parliamentary immunities and mandates.\n    *   Budgetary procedures.\n    *   The structure of the judiciary (removing the Public Prosecutor's office from the judicial power).\n    *   Powers of the President to intervene in provincial crises.\n    *   Procedures for calling a constitutional referendum.\n    *   Modalities for installing new provinces.\n\n4.  **Table of Contents:** A comprehensive outline of the full Constitution's structure, listing all titles, chapters, and sections, from the Preamble to the Final Provisions.",
+                "line_num": 2268
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0160",
+                "summary": "###### Article 23\n\nToute personne a droit à la liberté d’expression.\nCe droit implique la liberté d’exprimer ses opinions ou ses convictions, notamment\npar la  parole, l’écrit et l’image, sous réserve du respect de la loi, de l’ordre\npublic et des bonnes mœurs.",
+                "line_num": 2568
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0161",
+                "summary": "This partial document covers Article 24 of the Constitution of the Democratic Republic of the Congo. The main points are the right to information and guaranteed freedoms of the press and communication, subject to public order, morality, and the rights of others. It states that the law regulates the exercise of these freedoms. It also establishes that state-owned media are public services, with equitable access guaranteed to all political and social groups, and their legal status must ensure objectivity, impartiality, and pluralism of opinions.",
+                "line_num": 2576
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0162",
+                "summary": "###### Article 25\n\nLa liberté des réunions pacifiques et sans armes est garantie sous réserve du\nrespect   de la loi, de l’ordre public et des bonnes mœurs.",
+                "line_num": 2594
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0163",
+                "summary": "###### Article 26\n\nLa liberté de manifestation est garantie.\nToute manifestation sur les voies publiques ou en plein air, impose aux\norganisateurs d’informer par écrit l’autorité administrative compétente.\nNul ne peut être contraint à prendre part à une manifestation.\nLa loi en fixe les mesures d’application.",
+                "line_num": 2600
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0164",
+                "summary": "###### Article 27\n\nTout Congolais a le droit d’adresser individuellement ou collectivement une\npétition à l’autorité publique qui y répond dans les trois mois.\nNul ne peut faire l’objet d’incrimination, sous quelque forme que ce soit, pour avoir\npris pareille initiative.",
+                "line_num": 2609
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0165",
+                "summary": "###### Article 28\n\nNul n’est tenu d’exécuter un ordre manifestement illégal. Tout individu, tout agent\nde l’Etat est délié du devoir d’obéissance, lorsque l’ordre reçu constitue une\natteinte manifeste au respect des droits de l’homme et des libertés publiques et\ndes bonnes mœurs.\nLa preuve de l’illégalité manifeste de l’ordre incombe à la personne qui refuse de\nl’exécuter.",
+                "line_num": 2617
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0166",
+                "summary": "###### Article 29\n\nLe domicile est inviolable. Il ne peut y être effectué de visite ou de perquisition\nque dans les formes et les conditions prévues par la loi.",
+                "line_num": 2627
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0167",
+                "summary": "###### Article 3\n\nLes provinces et les entités territoriales décentralisées de la République\nDémocratique du Congo sont dotées de la personnalité juridique et sont gérées par\nles organes locaux.\nCes entités territoriales décentralisées sont la ville, la commune, le secteur et la\nchefferie.\nElles jouissent de la libre administration et de l’autonomie de gestion de leurs\nressources économiques, humaines, financières et techniques.\nLa composition, l’organisation, le fonctionnement de ces entités territoriales\ndécentralisées ainsi que leurs rapports avec l’Etat et les provinces sont fixés par\nune loi organique.",
+                "line_num": 2633
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0168",
+                "summary": "###### Article 30\n\nToute personne qui se trouve sur le territoire national a le droit d’y circuler\nlibrement, d’y fixer sa résidence, de le quitter et d’y revenir, dans les conditions\nfixées par la loi.\nAucun Congolais ne peut être ni expulsé du  territoire de la République, ni être\ncontraint à l’exil, ni être forcé à habiter hors de sa résidence habituelle.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n14",
+                "line_num": 2647
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0169",
+                "summary": "###### Article 31\n\nToute personne a droit au respect de sa vie privée et au secret de la\ncorrespondance, de la télécommunication ou de toute autre forme de\ncommunication. Il ne peut être porté atteinte à ce droit que dans les cas prévus\npar la loi.",
+                "line_num": 2660
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0170",
+                "summary": "###### Article 32\n\nTout étranger qui se trouve légalement sur le territoire national jouit de la\nprotection accordée aux personnes et à leurs biens dans les conditions\ndéterminées par les traités et les lois.\nIl est tenu de se conformer aux lois et aux règlements de la République.",
+                "line_num": 2668
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0171",
+                "summary": "This partial document covers Article 33 of a constitution (likely that of the Democratic Republic of the Congo), which establishes the right to asylum. The main points are: the state grants asylum to foreigners persecuted for their opinions, beliefs, race, ethnicity, or pro-democracy activism; it prohibits refugees from engaging in subversive activities against their home country from its territory; it forbids the extradition or refoulement of refugees to a persecuting state; and it absolutely prohibits sending anyone to a territory where they risk torture or cruel treatment. The article concludes by stating that the law shall determine the modalities for exercising this right, and the document then indicates the start of the next chapter on economic, social, and cultural rights.",
+                "line_num": 2676
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0172",
+                "summary": "###### Article 34\n\nLa  propriété privée est sacrée.\nL’Etat garantit le droit à la propriété individuelle ou collective acquis\nconformément à la loi ou à la coutume.\nIl encourage et veille à la sécurité des investissements privés, nationaux et\nétrangers.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n15\n\nNul ne peut être privé de sa propriété que pour cause d’utilité publique et\nmoyennant une juste et préalable indemnité octroyée dans les conditions fixées\npar la loi.\nNul ne peut être saisi en ses biens qu’en vertu d’une décision prise par une\nautorité judiciaire compétente.",
+                "line_num": 2698
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0173",
+                "summary": "###### Article 35\n\nL’Etat garantit le droit à l’initiative privée tant aux nationaux qu’aux étrangers.\nIl encourage l’exercice du petit commerce, de l’art et de l’artisanat par les\nCongolais et veille à la protection et à la promotion de l’expertise et des\ncompétences nationales.\nLa loi fixe les modalités d’exercice de ce droit.",
+                "line_num": 2717
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0174",
+                "summary": "This partial document, Article 36, outlines the constitutional rights and duties related to work in the Congo. It establishes work as both a sacred right and duty for every citizen. The state guarantees the right to work, protection from unemployment, and fair remuneration that ensures a dignified existence for the worker and their family, supplemented by social security like pensions. It prohibits workplace discrimination based on origin, sex, opinions, beliefs, or socio-economic conditions. It also states that every citizen has a duty to contribute to national prosperity through their work. Furthermore, it mandates that the law shall establish the status of workers and regulate professional orders, requiring their internal structures to be democratic and setting rules for qualified professions.",
+                "line_num": 2726
+              },
+              {
+                "title": "Article 37",
+                "node_id": "0175",
+                "summary": "###### Article 37\n\nL’Etat garantit la liberté d’association.\nLes pouvoirs publics collaborent avec les associations qui contribuent au\ndéveloppement social, économique, intellectuel, moral et spirituel des populations\net à l’éducation des citoyennes et des citoyens.\n\nCette collaboration peut revêtir la forme d’une subvention.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n16\n\nLa loi fixe les modalités d’exercice de cette liberté.",
+                "line_num": 2745
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0176",
+                "summary": "###### Article 38\n\nLa liberté syndicale est reconnue et garantie.\nTous les Congolais ont le droit de fonder des syndicats ou de s’y affilier librement,\ndans les conditions fixées par la loi.",
+                "line_num": 2761
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0177",
+                "summary": "###### Article 39\n\nLe droit de grève est reconnu et garanti.\nIl s’exerce dans les conditions fixées par la loi qui peut en interdire ou en limiter\nl’exercice dans les domaines de la défense nationale et de la sécurité ou pour\ntoute activité ou tout service public d’intérêt vital pour la nation.",
+                "line_num": 2768
+              },
+              {
+                "title": "Section 2 : De la Souveraineté",
+                "node_id": "0178",
+                "prefix_summary": "##### Section 2 : De la Souveraineté",
+                "line_num": 2776,
+                "nodes": [
+                  {
+                    "title": "Article 4",
+                    "node_id": "0179",
+                    "summary": "###### Article 4\n\nDe nouvelles provinces et entités territoriales peuvent être créées par\ndémembrement ou par regroupement dans les conditions fixées par la\nConstitution et par la loi.",
+                    "line_num": 2779
+                  },
+                  {
+                    "title": "Article 40",
+                    "node_id": "0180",
+                    "summary": "###### Article 40\n\nTout individu a le droit de se marier avec la personne de son choix, de sexe\nopposé, et de fonder une famille.\nLa famille, cellule de base de la communauté humaine, est organisée de manière à\nassurer son unité, sa stabilité et sa protection. Elle est placée sous la protection\ndes pouvoirs publics.\nLes soins et l’éducation à donner aux enfants constituent, pour les parents, un\ndroit naturel et un devoir qu’ils exercent sous la surveillance et avec l’aide des\npouvoirs publics.\nLes enfants ont le devoir d’assister leurs parents.\n\nLa loi fixe les règles sur le mariage et l’organisation de la famille.",
+                    "line_num": 2786
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0181",
+                    "summary": "This partial document is Article 41 from the Constitution of the Democratic Republic of the Congo. It defines a minor as any person under 18 and outlines their fundamental rights, including the right to know their parents and to protection from family, society, and the state. It explicitly prohibits and mandates punishment for child abandonment, maltreatment, pedophilia, sexual abuse, and accusations of sorcery. It places a duty on parents to care for and protect their children from violence. Furthermore, it obligates public authorities to protect children in difficult situations and to prosecute perpetrators of violence against children, stating that all other forms of child exploitation are punishable by law.",
+                    "line_num": 2801
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0182",
+                    "summary": "###### Article 42\n\nLes pouvoirs  publics ont l’obligation de protéger la jeunesse contre toute atteinte\nà sa santé, à son  éducation et à son développement intégral.",
+                    "line_num": 2823
+                  },
+                  {
+                    "title": "Article 43",
+                    "node_id": "0183",
+                    "summary": "###### Article 43\n\nToute personne a droit à l’éducation scolaire. Il y est pourvu par l’enseignement\nnational.\nL’enseignement national\ncomprend\nles établissements publics et\nles\nétablissements privés agréés.\n\nLa loi fixe les conditions de création et de fonctionnement de ces établissements.\nLes  parents ont le droit  de choisir le mode d’éducation à donner à leurs enfants.\nL’enseignement primaire est obligatoire et gratuit dans les établissements\npublics.",
+                    "line_num": 2829
+                  },
+                  {
+                    "title": "Article 44",
+                    "node_id": "0184",
+                    "summary": "###### Article 44\n\nL’éradication de l’analphabétisme est un devoir national pour la réalisation duquel\nle Gouvernement doit élaborer un programme spécifique.",
+                    "line_num": 2845
+                  },
+                  {
+                    "title": "Article 45",
+                    "node_id": "0185",
+                    "summary": "This partial document is Article 45 of the Constitution of the Democratic Republic of the Congo. It establishes the principles of education, stating that education is free but subject to state supervision. It guarantees non-discriminatory access to national education institutions based on capacity. It allows for religious education upon parental request. Furthermore, it mandates the state to promote human rights and civic duties through education, including the teaching of the Constitution and international human rights instruments, and requires integrating human rights into the training of security forces.",
+                    "line_num": 2851
+                  },
+                  {
+                    "title": "Article 46",
+                    "node_id": "0186",
+                    "summary": "###### Article 46\n\nLe droit à la culture, la liberté de création intellectuelle et artistique, et celle de la\nrecherche scientifique et technologique sont garantis sous réserve du respect de\nla loi, de l’ordre public et des bonnes mœurs.\nLes droits d’auteur et de propriété intellectuelle sont garantis et protégés par la\nloi.\nL’Etat tient compte, dans l’accomplissement de ses tâches, de la diversité\nculturelle du pays.\nIl protège le patrimoine culturel national et en assure la promotion.",
+                    "line_num": 2882
+                  },
+                  {
+                    "title": "Article 47",
+                    "node_id": "0187",
+                    "summary": "###### Article 47\n\nLe droit à la santé et à la sécurité alimentaire est garanti.\nLa loi fixe  les principes  fondamentaux et les règles d’organisation de la santé\npublique et de la sécurité alimentaire.",
+                    "line_num": 2894
+                  },
+                  {
+                    "title": "Article 48",
+                    "node_id": "0188",
+                    "summary": "###### Article 48\n\nLe droit à un logement décent, le droit d’accès à l’eau potable et à l’énergie\nélectrique sont garantis. La loi fixe les modalités d’exercice de ces droits.",
+                    "line_num": 2901
+                  },
+                  {
+                    "title": "Article 49",
+                    "node_id": "0189",
+                    "summary": "###### Article 49\n\nLa personne du troisième âge et la personne avec handicap ont droit à des\nmesures spécifiques de protection en rapport avec leurs besoins physiques,\nintellectuels et moraux.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n19\n\nL’Etat a le devoir de promouvoir la présence de la personne avec handicap au sein\ndes institutions nationales, provinciales et locales.\nUne loi organique fixe les modalités d’application de ce droit.\nChapitre 3 : Des droits  collectifs",
+                    "line_num": 2907
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0190",
+                    "summary": "###### Article 5\n\nLa souveraineté nationale appartient au peuple. Tout pouvoir émane du peuple  qui\nl’exerce directement par voie de référendum ou d’élections et indirectement par ses\nreprésentants.\nAucune fraction du peuple ni aucun individu ne peut s’en attribuer l’exercice.\nLa loi fixe les conditions d’organisation des élections et du référendum.\nLe suffrage est universel, égal et secret. Il est direct ou indirect.\nSans préjudice des dispositions des articles 72, 102 et 106 de la présente\nConstitution, sont électeurs et éligibles, dans les conditions déterminées par la loi,\ntous les Congolais de deux sexes, âgés de dix-huit ans révolus et jouissant de\nleurs droits civils et politiques.",
+                    "line_num": 2923
+                  },
+                  {
+                    "title": "Article 50",
+                    "node_id": "0191",
+                    "summary": "###### Article 50\n\nL’Etat protège les droits et les intérêts légitimes des Congolais qui se trouvent tant\nà l’intérieur qu’à l’extérieur du pays.\nSous réserve de la réciprocité, tout étranger qui se trouve légalement sur le\nterritoire national bénéficie des mêmes droits et libertés que le Congolais, excepté\nles droits politiques.\nIl bénéficie de la protection accordée aux personnes et à leurs biens dans les\nconditions  déterminées par les traités et les lois.\nIl est tenu de se conformer aux lois et règlements de la République.",
+                    "line_num": 2937
+                  },
+                  {
+                    "title": "Article 51",
+                    "node_id": "0192",
+                    "summary": "###### Article 51\n\nL’Etat a le devoir d’assurer et de promouvoir la coexistence pacifique et\nharmonieuse de tous les groupes ethniques du pays.\nIl assure également la protection et la promotion des groupes vulnérables et de\ntoutes les minorités.\nIl veille à leur épanouissement.",
+                    "line_num": 2949
+                  },
+                  {
+                    "title": "Article 52",
+                    "node_id": "0193",
+                    "summary": "###### Article 52\n\nTous les Congolais ont  droit à la paix et à la sécurité  tant sur le plan national\nqu’international.\nAucun individu ou groupe d’individus ne peut utiliser une portion du territoire\nnational comme base de départ d’activités subversives ou terroristes contre l’Etat\ncongolais ou tout autre Etat.",
+                    "line_num": 2958
+                  },
+                  {
+                    "title": "Article 53",
+                    "node_id": "0194",
+                    "summary": "###### Article 53\n\nToute personne a droit à un environnement sain et propice à son épanouissement\nintégral.\nElle a le devoir de le défendre.\nL’Etat veille à la protection de l’environnement et à la santé des   populations.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n20",
+                    "line_num": 2967
+                  },
+                  {
+                    "title": "Article 54",
+                    "node_id": "0195",
+                    "summary": "###### Article 54\n\nLes conditions de construction d’usines, de stockage, de manipulation,\nd’incinération et d’évacuation des déchets toxiques, polluants ou radioactifs\nprovenant des unités industrielles ou artisanales installées sur le territoire national\nsont fixées par la loi.\nToute pollution ou destruction résultant d’une activité économique donne lieu à\ncompensation et/ou à réparation.\nLa loi détermine la nature des mesures compensatoires, réparatoires ainsi que les\nmodalités de leur exécution.",
+                    "line_num": 2979
+                  },
+                  {
+                    "title": "Article 55",
+                    "node_id": "0196",
+                    "summary": "###### Article 55\n\nLe transit, l’importation, le stockage, l’enfouissement, le déversement dans les\neaux continentales et les espaces maritimes sous juridiction nationale, l’épandage\ndans l’espace aérien des déchets toxiques, polluants, radioactifs ou de tout autre\nproduit dangereux, en provenance ou non de l’étranger, constitue un crime puni\npar la loi.",
+                    "line_num": 2991
+                  },
+                  {
+                    "title": "Article 56",
+                    "node_id": "0197",
+                    "summary": "###### Article 56\n\nTout acte, tout accord, toute convention, tout arrangement ou tout autre fait, qui a\npour conséquence de priver la nation, les personnes physiques ou morales de\ntout ou partie de leurs propres moyens d’existence tirés de leurs ressources ou de\nleurs richesses naturelles, sans préjudice des dispositions internationales sur les\ncrimes économiques, est érigé en infraction de pillage punie par la loi.",
+                    "line_num": 3000
+                  },
+                  {
+                    "title": "Article 57",
+                    "node_id": "0198",
+                    "summary": "###### Article 57\n\nLes actes visés à l’article précédent ainsi que leur tentative, quelles qu’en soient\nles modalités, s’ils sont le fait d’une personne investie d’autorité publique, sont\npunis  comme infraction de haute trahison.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n21",
+                    "line_num": 3009
+                  },
+                  {
+                    "title": "Article 58",
+                    "node_id": "0199",
+                    "summary": "###### Article 58\n\nTous les Congolais ont le droit de jouir des richesses nationales.\nL’Etat a le devoir de les redistribuer équitablement et de garantir le droit au\ndéveloppement.",
+                    "line_num": 3020
+                  },
+                  {
+                    "title": "Article 59",
+                    "node_id": "0200",
+                    "summary": "###### Article 59\n\nTous les Congolais ont le droit de jouir du patrimoine commun de l’humanité.\nL’Etat a le devoir d’en faciliter la jouissance.",
+                    "line_num": 3027
+                  },
+                  {
+                    "title": "Article 6",
+                    "node_id": "0201",
+                    "summary": "This partial document covers Article 6 of the Constitution of the Democratic Republic of the Congo, which establishes and regulates political pluralism. The main points include: the right of citizens to create or join political parties; the role of parties in elections, national consciousness, and civic education; the requirement for parties to operate freely within the law, public order, and good morals; the obligation for parties to respect principles of pluralist democracy, national unity, and sovereignty; and the provision for public funding of electoral campaigns and party activities as defined by law.",
+                    "line_num": 3033
+                  },
+                  {
+                    "title": "Article 60",
+                    "node_id": "0202",
+                    "summary": "###### Article 60\n\nLe respect des droits de l’homme et des libertés fondamentales consacrés dans\nla Constitution s’impose  aux pouvoirs publics et à toute personne.",
+                    "line_num": 3053
+                  },
+                  {
+                    "title": "Article 61",
+                    "node_id": "0203",
+                    "summary": "This partial document outlines non-derogable fundamental rights and principles in a constitution, meaning these cannot be suspended even under a state of siege or state of emergency. The listed rights include: the right to life; prohibition of torture and cruel treatment; prohibition of slavery and servitude; the principle of legality of offenses and penalties; rights of defense and appeal; prohibition of imprisonment for debt; and freedom of thought, conscience, and religion. The text concludes by introducing the next chapter on the duties of citizens.",
+                    "line_num": 3059
+                  },
+                  {
+                    "title": "Article 62",
+                    "node_id": "0204",
+                    "summary": "###### Article 62\n\nNul n’est censé ignorer la loi.\nToute personne est tenue de respecter la Constitution et de se conformer aux lois\nde  la République.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n22",
+                    "line_num": 3075
+                  },
+                  {
+                    "title": "Article 63",
+                    "node_id": "0205",
+                    "summary": "###### Article 63\n\nTout Congolais a le droit et le devoir sacré de défendre le pays et son intégrité\nterritoriale face à une menace ou à une agression extérieure.\nUn service militaire obligatoire peut être instauré dans les conditions fixées par la\nloi.\nToute autorité nationale, provinciale, locale et coutumière a le devoir de\nsauvegarder l’unité de la République et l’intégrité de son territoire, sous peine de\nhaute trahison.",
+                    "line_num": 3086
+                  },
+                  {
+                    "title": "Article 64",
+                    "node_id": "0206",
+                    "summary": "###### Article 64\n\nTout Congolais a le devoir de faire échec à tout individu ou groupe d’individus qui\nprend le pouvoir par la force ou qui l’exerce en violation des dispositions de la\nprésente Constitution.\nToute tentative de renversement du régime constitutionnel constitue une infraction\nimprescriptible contre la nation et l’Etat. Elle est punie conformément à la loi.",
+                    "line_num": 3097
+                  },
+                  {
+                    "title": "Article 65",
+                    "node_id": "0207",
+                    "summary": "###### Article 65\n\nTout Congolais est tenu de remplir loyalement ses obligations vis-à-vis de l’Etat.\nIl a, en outre, le devoir de s’acquitter de ses impôts et taxes.",
+                    "line_num": 3106
+                  },
+                  {
+                    "title": "Article 66",
+                    "node_id": "0208",
+                    "summary": "###### Article 66\n\nTout Congolais a le devoir de respecter et de traiter ses concitoyens sans\ndiscrimination aucune et d’entretenir avec eux des relations qui permettent de\nsauvegarder, de promouvoir et de renforcer l’unité nationale, le respect et la\ntolérance réciproques.\nIl a, en outre, le devoir de préserver et de renforcer la solidarité nationale,\nsingulièrement lorsque celle-ci est menacée.",
+                    "line_num": 3112
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TITRE  III",
+            "node_id": "0209",
+            "prefix_summary": "#### TITRE  III",
+            "line_num": 3122,
+            "nodes": [
+              {
+                "title": "Article 67",
+                "node_id": "0210",
+                "summary": "###### Article 67\n\nTout Congolais a le devoir de protéger la propriété, les biens et intérêts publics et\nde respecter la propriété d’autrui.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n23\n\n. : DE L’ORGANISATION  ET DE L’EXERCICE DU POUVOIR.\nChapitre Ier : Des institutions  de la République.",
+                "line_num": 3125
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0211",
+                "prefix_summary": "##### Section 1",
+                "line_num": 3138,
+                "nodes": [
+                  {
+                    "title": "Article 68",
+                    "node_id": "0212",
+                    "summary": "###### Article 68\n\nLes institutions de la République sont :\n1. le Président de la République ;\n2. le Parlement ;\n3. le Gouvernement ;\n4. les Cours et Tribunaux.\nère : Du  pouvoir  exécutif\nParagraphe Ier : Du Président de la République.",
+                    "line_num": 3141
+                  },
+                  {
+                    "title": "Article 69",
+                    "node_id": "0213",
+                    "summary": "###### Article 69\n\nLe Président de la République est le Chef de l’Etat. Il représente la nation et il  est\nle symbole de l’unité nationale.\nIl veille au respect de la Constitution.\nIl assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics et des\ninstitutions ainsi que la continuité de l’Etat. Il est le garant de l’indépendance\nnationale, de l’intégrité du territoire, de la souveraineté nationale et du respect des\ntraités et accords internationaux.",
+                    "line_num": 3152
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "partie d",
+            "node_id": "0214",
+            "prefix_summary": "## partie d",
+            "line_num": 3163,
+            "nodes": [
+              {
+                "title": "Article 7",
+                "node_id": "0215",
+                "summary": "###### Article 7\n\nNul ne peut instituer, sous quelque forme que ce soit, de parti unique sur tout ou\nu territoire national.\nL’institution d’un parti unique constitue une infraction imprescriptible de haute\ntrahison punie par la loi.",
+                "line_num": 3166
+              },
+              {
+                "title": "Article 70",
+                "node_id": "0216",
+                "summary": "###### Article 70\n\nLe Président de la République est élu au suffrage universel direct pour un mandat\nde cinq ans renouvelable une seule fois.\nA la fin de son mandat, le Président de la République reste en fonction jusqu’à\nl’installation effective du nouveau Président élu.",
+                "line_num": 3174
+              },
+              {
+                "title": "Article 71",
+                "node_id": "0217",
+                "summary": "###### Article 71\n\nrévision de certains articles de la Constitution de la République\nDémocratique du Congo)\nLe Président de la République est élu à la majorité simple des suffrages exprimés.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n24",
+                "line_num": 3182
+              },
+              {
+                "title": "Article 72",
+                "node_id": "0218",
+                "summary": "###### Article 72\n\nNul ne peut être candidat à l’élection du Président de la République s’il ne remplit\nles conditions ci-après :\n1. posséder  la nationalité congolaise d’origine ;\n2. être âgé de 30 ans au moins ;\n3. jouir de la plénitude de ses droits civils et politiques ;\n4. ne pas se trouver dans un des cas d’exclusion prévus par la loi\nélectorale.",
+                "line_num": 3193
+              },
+              {
+                "title": "Article 73",
+                "node_id": "0219",
+                "summary": "###### Article 73\n\nLe scrutin pour l’élection du Président de la République est convoqué par la\nCommission électorale nationale indépendante, quatre-vingt dix jours avant\nl’expiration du mandat du Président en exercice.",
+                "line_num": 3204
+              },
+              {
+                "title": "Article 74",
+                "node_id": "0220",
+                "summary": "This partial document covers the formal procedures for the inauguration of the elected President of the Democratic Republic of the Congo. It specifies that the President-elect must assume office within ten days of the final election results being proclaimed. The core content is the detailed text of the constitutional oath of office, which the President must swear before the Constitutional Court prior to taking up duties. The oath includes commitments to defend the Constitution and laws, preserve national independence and territorial integrity, safeguard national unity, be guided by the public interest and human rights, promote the common good and peace, and faithfully serve the people.",
+                "line_num": 3211
+              },
+              {
+                "title": "Article 75",
+                "node_id": "0221",
+                "summary": "###### Article 75\n\nEn cas de vacance pour cause de décès, de démission ou pour toute autre cause\nd’empêchement définitif, les fonctions de Président de la République, à\nl’exception de celles mentionnées aux articles 78, 81 et 82 sont provisoirement\nexercées par le Président du Sénat.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n25",
+                "line_num": 3229
+              },
+              {
+                "title": "Article 76",
+                "node_id": "0222",
+                "summary": "This partial document outlines the constitutional procedures for the vacancy of the Presidency. It specifies that the Constitutional Court declares the vacancy upon the Government's request. An interim President is responsible for organizing the election of a new President. The election must be held between 60 and 90 days after the vacancy is declared, and this period can be extended to a maximum of 120 days in cases of force majeure. The newly elected President begins a fresh term.",
+                "line_num": 3241
+              },
+              {
+                "title": "Article 77",
+                "node_id": "0223",
+                "summary": "###### Article 77\n\nLe Président de la République adresse des messages à la nation.\nIl communique avec les Chambres du Parlement par des messages qu’il lit ou fait\nlire et qui ne donnent lieu à aucun débat.\nIl prononce, une fois l’an, devant l’Assemblée nationale et le Sénat  réunis en\nCongrès, un discours sur l’état de la nation.",
+                "line_num": 3259
+              },
+              {
+                "title": "Article 78",
+                "node_id": "0224",
+                "summary": "###### Article 78\n\nLe Président de la République nomme le Premier ministre au sein de la majorité\nparlementaire après consultation de celle-ci. Il met fin à ses fonctions sur\nprésentation par celui-ci de la démission du gouvernement.\nSi une telle majorité n’existe pas, le Président de la République confie une\nmission d’information à une personnalité en vue d’identifier une coalition.\nLa mission d’information est de trente jours renouvelable une seule fois.\nLe Président de la République nomme les autres membres du gouvernement et\nmet fin à leurs fonctions sur proposition du Premier ministre.",
+                "line_num": 3268
+              },
+              {
+                "title": "Article 79",
+                "node_id": "0225",
+                "summary": "###### Article 79\n\nLe Président de la République convoque et préside le Conseil des ministres. En\ncas d’empêchement, il délègue ce pouvoir au Premier ministre.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n26\n\nLe Président de la République promulgue les lois dans les conditions prévues par\nla présente Constitution.\nIl statue par voie d’ordonnance.\nLes ordonnances du Président de la République autres que celles prévues aux\narticles 78 alinéa premier, 80, 84 et 143 sont contresignées par le Premier\nministre.",
+                "line_num": 3280
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0226",
+                "summary": "###### Article 8\n\nL’opposition politique est reconnue en République Démocratique du Congo. Les\ndroits liés à son existence, à ses activités et à sa lutte pour la conquête\ndémocratique du pouvoir sont sacrés. Ils ne peuvent subir de limites que celles\nimposées à tous les partis et activités politiques par la présente Constitution et la\nloi.\nUne loi organique détermine le statut de l’opposition politique.",
+                "line_num": 3297
+              },
+              {
+                "title": "Article 80",
+                "node_id": "0227",
+                "summary": "###### Article 80\n\nLe Président de la République investit par ordonnance les Gouverneurs et les\nVice-gouverneurs de province élus, dans un délai de quinze jours conformément\nà l’article 198.",
+                "line_num": 3307
+              },
+              {
+                "title": "Article 81",
+                "node_id": "0228",
+                "summary": "This partial document outlines the powers of the President of the Republic regarding appointments and dismissals of key state officials. It specifies that the President, upon proposal from the government, appoints, relieves, and can dismiss ambassadors, high-ranking military and police officers, senior public administrators, heads of public institutions, and state representatives in public enterprises. It also notes that these presidential orders must be countersigned by the Prime Minister.",
+                "line_num": 3314
+              },
+              {
+                "title": "Article 82",
+                "node_id": "0229",
+                "summary": "###### Article 82\n\nLe Président de la République nomme, relève de leurs fonctions et, le cas\néchéant, révoque, par ordonnance, les magistrats du siège et du parquet sur\nproposition du Conseil supérieur de la magistrature.\nLes ordonnances dont question à l’alinéa précédent sont contresignées par le\nPremier ministre.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n27",
+                "line_num": 3333
+              },
+              {
+                "title": "Article 83",
+                "node_id": "0230",
+                "summary": "###### Article 83\n\nLe Président de la République est le commandant suprême des Forces armées.\nIl préside le Conseil supérieur de la défense.",
+                "line_num": 3346
+              },
+              {
+                "title": "Article 84",
+                "node_id": "0231",
+                "summary": "###### Article 84\n\nLe Président de la République confère les grades dans les ordres nationaux et les\ndécorations, conformément à la loi.",
+                "line_num": 3352
+              },
+              {
+                "title": "Article 85",
+                "node_id": "0232",
+                "summary": "###### Article 85\n\nLorsque des circonstances graves menacent, d’une manière immédiate,\nl’indépendance ou l’intégrité du territoire national ou qu’elles provoquent\nl’interruption du fonctionnement régulier des institutions, le Président de la\nRépublique proclame l’état d’urgence ou l’état de siège après concertation avec\nle Premier ministre et les Présidents des deux Chambres conformément aux\narticles 144 et 145 de la présente Constitution.\nIl en informe la nation par un message.\nLes modalités d’application de l’état d’urgence et de l’état de siège sont\ndéterminées par la loi.",
+                "line_num": 3358
+              },
+              {
+                "title": "Article 86",
+                "node_id": "0233",
+                "summary": "###### Article 86\n\nLe Président de la République déclare la guerre par ordonnance délibérée en\nConseil des ministres après avis du Conseil supérieur de la défense et\nautorisation de l’Assemblée nationale et du Sénat, conformément à l’article 143\nde la présente Constitution.",
+                "line_num": 3371
+              },
+              {
+                "title": "Article 87",
+                "node_id": "0234",
+                "summary": "###### Article 87\n\nLe Président de la République exerce le droit de grâce.\n\nIl peut remettre, commuer ou réduire les peines.",
+                "line_num": 3379
+              },
+              {
+                "title": "Article 88",
+                "node_id": "0235",
+                "summary": "###### Article 88\n\nLe Président de la République accrédite les ambassadeurs et les envoyés\nextraordinaires auprès des Etats étrangers et des organisations internationales.\nLes ambassadeurs et les envoyés extraordinaires étrangers sont accrédités\nauprès de lui.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n28",
+                "line_num": 3386
+              },
+              {
+                "title": "Article 89",
+                "node_id": "0236",
+                "summary": "###### Article 89\n\nLes émoluments et la liste civile du Président de la République sont fixés par la loi\nde finances.\nParagraphe  2 : Du Gouvernement",
+                "line_num": 3398
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0237",
+                "summary": "###### Article 9\n\nL’Etat exerce une souveraineté permanente notamment sur le sol, le sous-sol, les\neaux et les forêts, sur les espaces aérien, fluvial, lacustre et maritime congolais\nainsi que sur la mer territoriale congolaise et sur le plateau  continental.\nLes modalités de gestion et de concession du domaine de l’Etat visé à l’alinéa\nprécédent  sont déterminées par la loi.\nChapitre 2 : De la Nationalité",
+                "line_num": 3405
+              },
+              {
+                "title": "Article 90",
+                "node_id": "0238",
+                "summary": "This partial document outlines the composition, leadership, and investiture process of the Government. It specifies that the Government is led by the Prime Minister and includes various ministerial ranks. A key principle is that its composition must reflect national representativeness. The document details the crucial step where the Prime Minister must present the Government's program to the National Assembly for approval; the Government is only formally invested after receiving an absolute majority vote.",
+                "line_num": 3415
+              },
+              {
+                "title": "Article 91",
+                "node_id": "0239",
+                "summary": "This partial document, Article 91 of a constitution (specifically the 2011 Constitution of the Democratic Republic of Congo), outlines the powers, responsibilities, and organization of the Government. The main points covered are:\n\n1.  The Government, in consultation with the President of the Republic, defines and is responsible for national policy.\n2.  It is explicitly stated that the Government conducts this national policy.\n3.  Key areas of collaboration between the President and the Government are specified: defense, security, and foreign affairs.\n4.  The Government has authority over the public administration, armed forces, national police, and security services.\n5.  The Government is politically responsible to the National Assembly under conditions set by other specified articles.\n6.  The detailed organization, functioning of the Government, and the modalities of collaboration (both between the President and the Government, and among Government members themselves) are to be determined by a decree issued in the Council of Ministers.",
+                "line_num": 3430
+              },
+              {
+                "title": "Article 92",
+                "node_id": "0240",
+                "summary": "###### Article 92\n\nLe Premier ministre assure l’exécution des lois et dispose du pouvoir\nréglementaire sous réserve des prérogatives dévolues au Président de la\nRépublique par la présente Constitution.\n\nIl statue par voie de décret.\nIl nomme, par décret délibéré en Conseil des ministres, aux emplois civils et\nmilitaires autres que ceux pourvus par le Président de la République.\nLes actes du Premier ministre sont contresignés, le cas échéant, par les ministres\nchargés de leur exécution.\n\nLe Premier ministre peut déléguer certains de ses pouvoirs aux ministres.",
+                "line_num": 3451
+              },
+              {
+                "title": "Article 93",
+                "node_id": "0241",
+                "summary": "###### Article 93\n\nLe ministre est responsable de son département. Il applique le programme\ngouvernemental dans son  ministère, sous la direction et la coordination du\nPremier ministre.\nIl statue par voie d’arrêté.",
+                "line_num": 3466
+              },
+              {
+                "title": "Article 94",
+                "node_id": "0242",
+                "summary": "###### Article 94\n\nLes Vice-ministres exercent sous l’autorité des ministres auxquels ils sont\nadjoints, les attributions qui leur sont conférées par l’ordonnance portant\norganisation et fonctionnement du Gouvernement. Ils assument l’intérim des\nministres en cas d’absence ou d’empêchement.",
+                "line_num": 3474
+              },
+              {
+                "title": "Article 95",
+                "node_id": "0243",
+                "summary": "###### Article 95\n\nLes émoluments des membres du Gouvernement sont fixés par la loi de finances.\nLe Premier ministre bénéficie, en outre, d’une dotation.\nParagraphe 3 : Des dispositions communes au Président de la République et  au\nGouvernement.",
+                "line_num": 3482
+              },
+              {
+                "title": "Article 96",
+                "node_id": "0244",
+                "summary": "###### Article 96\n\nLes fonctions de Président de la République sont incompatibles avec l’exercice de\ntout autre mandat électif, de tout emploi public, civil ou militaire et de toute activité\nprofessionnelle.\nLe mandat du Président de la République est également incompatible avec toute\nresponsabilité au sein d’un parti politique.\n\nJournal Officiel Numéro spécial 5 février 2011 – Constitution de la République Démocratique du Congo\n\n30",
+                "line_num": 3490
+              },
+              {
+                "title": "Article 97",
+                "node_id": "0245",
+                "summary": "###### Article 97\n\nLes fonctions de membre du Gouvernement sont incompatibles avec l’exercice\nde tout mandat électif, de tout emploi public, civil ou militaire et de toute activité\nprofessionnelle à  l’exception  des  activités agricoles, artisanales, culturelles,\nd’enseignement et de recherche.\nElles sont également incompatibles avec toute responsabilité au sein d’un parti\npolitique.",
+                "line_num": 3503
+              },
+              {
+                "title": "Article 98",
+                "node_id": "0246",
+                "summary": "###### Article 98\n\nDurant leurs fonctions, le Président de la  République et les membres du\nGouvernement ne peuvent, par eux-mêmes ou par personne interposée, ni\nacheter, ni acquérir d’aucune autre façon, ni prendre en bail un bien qui\nappartienne au domaine de l’Etat, des provinces ou des entités décentralisées.\nIls ne peuvent prendre part directement ou indirectement aux marchés publics au\nbénéfice des administrations ou des institutions dans lesquelles le pouvoir central,\nles provinces et les entités administratives décentralisées ont des intérêts.",
+                "line_num": 3513
+              },
+              {
+                "title": "Section 2 : Du pouvoir législatif",
+                "node_id": "0247",
+                "prefix_summary": "##### Section 2 : Du pouvoir législatif",
+                "line_num": 3524,
+                "nodes": [
+                  {
+                    "title": "Article 99",
+                    "node_id": "0248",
+                    "summary": "This partial document outlines the constitutional requirement for the President and Government members of the Democratic Republic of Congo to declare their family assets. The main points covered are:\n\n1.  **Obligation to Declare:** They must submit a written declaration of their entire family patrimony to the Constitutional Court before taking office and after leaving office.\n2.  **Scope of Declaration:** The declaration must list all movable property (shares, bank accounts, securities) and immovable property (land, buildings, mines), including assets of the spouse, minor children, and dependent adult children.\n3.  **Communication to Tax Authority:** The Constitutional Court forwards the declaration to the tax administration.\n4.  **Penalties for Non-Compliance:** Failure to submit the declaration within 30 days of taking office results in the person being deemed to have resigned.\n5.  **Post-Termination Scrutiny:** After leaving office, failure to declare, a fraudulent declaration, or suspicion of illicit enrichment leads to the case being brought before the Constitutional Court or the Court of Cassation.",
+                    "line_num": 3527
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0002",
+      "node_title": "Article 10",
+      "article_ids": [
+        "c8e6c861-f097-4014-a5d8-be125d6139c9"
+      ]
+    },
+    {
+      "node_id": "0003",
+      "node_title": "Article 100",
+      "article_ids": [
+        "2782c8f3-e017-4f4b-9153-84bd07c681dc"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article 101",
+      "article_ids": [
+        "af310e61-7d77-4390-89c4-41624bcfdbda"
+      ]
+    },
+    {
+      "node_id": "0005",
+      "node_title": "Article 102",
+      "article_ids": [
+        "ee7e2bdd-8166-4880-9c8c-936fef90d6be"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article 103",
+      "article_ids": [
+        "168d78a2-c93e-4465-90de-8e0c8a6d0490"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article 104",
+      "article_ids": [
+        "d7c04055-f839-459b-8d1f-4fb8b690e533"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article 105",
+      "article_ids": [
+        "464146d1-ecb9-461f-a5f6-7e1b12b3f43d"
+      ]
+    },
+    {
+      "node_id": "0009",
+      "node_title": "Article 106",
+      "article_ids": [
+        "ccd406e3-a20b-44b1-895d-646b4ebbc86f"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article 107",
+      "article_ids": [
+        "4e27f2fc-f3dd-4444-9915-75534cc8e6f2"
+      ]
+    },
+    {
+      "node_id": "0011",
+      "node_title": "Article 108",
+      "article_ids": [
+        "dc3db253-00ae-4ac4-a364-8cc99dfcf6a6"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article 109",
+      "article_ids": [
+        "2fba2dd2-aee6-4c27-b134-f17cbafcfdff"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article 11",
+      "article_ids": [
+        "6c7bea90-dfd3-469a-8097-4867d53c16b7"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article 110",
+      "article_ids": [
+        "d98872a4-f7f4-4311-ad6d-a709f543f66e"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article 111",
+      "article_ids": [
+        "bdfa8542-17f3-41d0-83c1-60053ee68a2c"
+      ]
+    },
+    {
+      "node_id": "0016",
+      "node_title": "Article 112",
+      "article_ids": [
+        "43c80265-2293-442a-b1b1-03c60e37f54a"
+      ]
+    },
+    {
+      "node_id": "0017",
+      "node_title": "Article 113",
+      "article_ids": [
+        "4d7665cf-e6c7-462f-84c9-d5c26fa6a0cc"
+      ]
+    },
+    {
+      "node_id": "0018",
+      "node_title": "Article 114",
+      "article_ids": [
+        "545f5ae3-1517-4cf1-8388-2ea9b9f27e45"
+      ]
+    },
+    {
+      "node_id": "0019",
+      "node_title": "Article 115",
+      "article_ids": [
+        "7cdb4712-e10d-4982-87b7-053bbb55c72b"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article 116",
+      "article_ids": [
+        "65271a26-2d87-4d29-ad9a-e7196d639ee2"
+      ]
+    },
+    {
+      "node_id": "0021",
+      "node_title": "Article 117",
+      "article_ids": [
+        "b9b529a2-7728-4731-90d8-026feb6f744c"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article 118",
+      "article_ids": [
+        "bfa1734b-1117-4f01-8801-173fb9b7ecdb"
+      ]
+    },
+    {
+      "node_id": "0023",
+      "node_title": "Article 119",
+      "article_ids": [
+        "fe602dd0-2a07-4bf5-8a67-e0affdf99f8b"
+      ]
+    },
+    {
+      "node_id": "0024",
+      "node_title": "Article 12",
+      "article_ids": [
+        "ad95d38f-f2f3-4619-9559-08acdc0f40d2"
+      ]
+    },
+    {
+      "node_id": "0025",
+      "node_title": "Article 120",
+      "article_ids": [
+        "f7b08f0f-dfd0-42f2-ac71-ce8f87cfed8b"
+      ]
+    },
+    {
+      "node_id": "0027",
+      "node_title": "Article 121",
+      "article_ids": [
+        "57ba70c1-8d9d-422f-b30e-c9c52d2f6757"
+      ]
+    },
+    {
+      "node_id": "0028",
+      "node_title": "Article 122",
+      "article_ids": [
+        "19d1519e-bb5c-4e43-a251-b4052cd642e6"
+      ]
+    },
+    {
+      "node_id": "0029",
+      "node_title": "Article 123",
+      "article_ids": [
+        "d556c54f-989a-42de-9413-fa64fcfb8a51"
+      ]
+    },
+    {
+      "node_id": "0030",
+      "node_title": "Article 124",
+      "article_ids": [
+        "b4b64e77-9706-4fc7-b04c-4eacb2b5054f"
+      ]
+    },
+    {
+      "node_id": "0031",
+      "node_title": "Article 125",
+      "article_ids": [
+        "cd8e95ef-3171-4618-b3b3-9305faba6094"
+      ]
+    },
+    {
+      "node_id": "0032",
+      "node_title": "Article 126",
+      "article_ids": [
+        "a10367a7-8699-4d3b-88ce-d3836168a52a"
+      ]
+    },
+    {
+      "node_id": "0033",
+      "node_title": "Article 127",
+      "article_ids": [
+        "13fe4fd2-f8b9-40dd-84f2-48ee9fe1edfe"
+      ]
+    },
+    {
+      "node_id": "0034",
+      "node_title": "Article 128",
+      "article_ids": [
+        "8d93d78b-b89a-4830-b6b6-2afd7761ba84"
+      ]
+    },
+    {
+      "node_id": "0035",
+      "node_title": "Article 129",
+      "article_ids": [
+        "4472f1a7-37bd-4d93-9a31-6cf53dbc3dd2"
+      ]
+    },
+    {
+      "node_id": "0036",
+      "node_title": "Article 13",
+      "article_ids": [
+        "eaab845d-1df7-4729-aff8-3b330c73bf5e"
+      ]
+    },
+    {
+      "node_id": "0037",
+      "node_title": "Article 130",
+      "article_ids": [
+        "04fc93ba-d80b-4dfa-9fa6-37faa7a9005b"
+      ]
+    },
+    {
+      "node_id": "0038",
+      "node_title": "Article 131",
+      "article_ids": [
+        "4fcfeed0-8c28-4de1-8992-3a418778b817"
+      ]
+    },
+    {
+      "node_id": "0039",
+      "node_title": "Article 132",
+      "article_ids": [
+        "7b9b6043-5095-4a07-9e9e-f53c86a73550"
+      ]
+    },
+    {
+      "node_id": "0040",
+      "node_title": "Article 133",
+      "article_ids": [
+        "73a302ff-7f02-4c3e-a7ba-3601550b11ab"
+      ]
+    },
+    {
+      "node_id": "0041",
+      "node_title": "Article 134",
+      "article_ids": [
+        "bd6772e1-08dc-4bd3-ac4c-1dd38cbf91a6"
+      ]
+    },
+    {
+      "node_id": "0042",
+      "node_title": "Article 135",
+      "article_ids": [
+        "8d22e0b1-4ff0-4fdf-b740-3da9971bbf00"
+      ]
+    },
+    {
+      "node_id": "0043",
+      "node_title": "Article 136",
+      "article_ids": [
+        "f630bd2b-e805-45a5-8f7c-60937486d7e3"
+      ]
+    },
+    {
+      "node_id": "0044",
+      "node_title": "Article 137",
+      "article_ids": [
+        "9e2b0fb7-ef8b-4e3a-90d7-6a6e715ba0ab"
+      ]
+    },
+    {
+      "node_id": "0045",
+      "node_title": "Article 138",
+      "article_ids": [
+        "c990efad-29df-4052-9200-2c83b48e4b1b"
+      ]
+    },
+    {
+      "node_id": "0046",
+      "node_title": "Article 139",
+      "article_ids": [
+        "489cb2ee-9a31-4d84-94b1-113fea672b9d"
+      ]
+    },
+    {
+      "node_id": "0047",
+      "node_title": "Article 14",
+      "article_ids": [
+        "a164db02-d390-426b-9f39-a297f7a42224"
+      ]
+    },
+    {
+      "node_id": "0048",
+      "node_title": "Article 140",
+      "article_ids": [
+        "2e9e5154-e900-426f-b2e3-5d1f76924141"
+      ]
+    },
+    {
+      "node_id": "0049",
+      "node_title": "Article 141",
+      "article_ids": [
+        "fbdc9c42-6af3-4a48-8399-037147d97a04"
+      ]
+    },
+    {
+      "node_id": "0050",
+      "node_title": "Article 142",
+      "article_ids": [
+        "cd869bbc-72cd-40f6-a99e-ce7121901362"
+      ]
+    },
+    {
+      "node_id": "0051",
+      "node_title": "Article 143",
+      "article_ids": [
+        "fc43cff2-c2ab-494a-a1cf-027684496004"
+      ]
+    },
+    {
+      "node_id": "0052",
+      "node_title": "Article 144",
+      "article_ids": [
+        "96fcb9d2-992c-4e44-aeb1-cec2729b9fd3"
+      ]
+    },
+    {
+      "node_id": "0053",
+      "node_title": "Article 145",
+      "article_ids": [
+        "70dfc16a-59d3-4b7f-8444-5e162da0445c"
+      ]
+    },
+    {
+      "node_id": "0054",
+      "node_title": "Article 146",
+      "article_ids": [
+        "4e62133b-f629-46a5-9a3a-a64ee170332c"
+      ]
+    },
+    {
+      "node_id": "0055",
+      "node_title": "Article 147",
+      "article_ids": [
+        "27be6bb1-6c3d-4413-8a31-bb43901f8d70"
+      ]
+    },
+    {
+      "node_id": "0057",
+      "node_title": "Article 148",
+      "article_ids": [
+        "242462de-1f5b-4139-91d5-12446b983433"
+      ]
+    },
+    {
+      "node_id": "0058",
+      "node_title": "Article 149",
+      "article_ids": [
+        "08c04854-174a-44c8-a820-3ee994659059"
+      ]
+    },
+    {
+      "node_id": "0059",
+      "node_title": "Article 15",
+      "article_ids": [
+        "a1d29faa-2f0c-4c25-a1eb-931ad2130db9"
+      ]
+    },
+    {
+      "node_id": "0060",
+      "node_title": "Article 150",
+      "article_ids": [
+        "b0aac546-63d0-4d6c-9523-622c47509f83"
+      ]
+    },
+    {
+      "node_id": "0061",
+      "node_title": "Article 151",
+      "article_ids": [
+        "9fd3019e-c286-481e-b8f9-e4ecba937aaa"
+      ]
+    },
+    {
+      "node_id": "0062",
+      "node_title": "Article 152",
+      "article_ids": [
+        "69241dc7-ef9c-411e-856b-eaf4cdc12c98"
+      ]
+    },
+    {
+      "node_id": "0063",
+      "node_title": "Article 153",
+      "article_ids": [
+        "697c7d36-4ad7-487c-b134-0893d42007dd"
+      ]
+    },
+    {
+      "node_id": "0064",
+      "node_title": "Article 154",
+      "article_ids": [
+        "534d9206-27f0-4473-bc54-bc7372e3c412"
+      ]
+    },
+    {
+      "node_id": "0065",
+      "node_title": "Article 155",
+      "article_ids": [
+        "2a5d1262-c25f-4d9d-a731-0af67e7effa8"
+      ]
+    },
+    {
+      "node_id": "0066",
+      "node_title": "Article 156",
+      "article_ids": [
+        "9ff43be5-d632-474a-a690-d7e4cf80013b"
+      ]
+    },
+    {
+      "node_id": "0067",
+      "node_title": "Article 157",
+      "article_ids": [
+        "eab45452-966e-42a5-a2ce-d4c9d0435622"
+      ]
+    },
+    {
+      "node_id": "0068",
+      "node_title": "Article 158",
+      "article_ids": [
+        "98eb53ef-a446-4c3c-879e-b24345ee9a7a"
+      ]
+    },
+    {
+      "node_id": "0069",
+      "node_title": "Article 159",
+      "article_ids": [
+        "15947b1f-ec0f-4523-9096-d36386afc15a"
+      ]
+    },
+    {
+      "node_id": "0070",
+      "node_title": "Article 16",
+      "article_ids": [
+        "2e084f3f-561a-41a0-87f5-36736077ca21"
+      ]
+    },
+    {
+      "node_id": "0071",
+      "node_title": "Article 160",
+      "article_ids": [
+        "6ee130e4-58d3-4e17-9a80-4f52ffbfdf18"
+      ]
+    },
+    {
+      "node_id": "0072",
+      "node_title": "Article 161",
+      "article_ids": [
+        "6b01a4a3-2714-47ee-a417-48b330b9d7ab"
+      ]
+    },
+    {
+      "node_id": "0073",
+      "node_title": "Article 162",
+      "article_ids": [
+        "3dafbf9a-278c-4379-bcfe-011c7ee6e161"
+      ]
+    },
+    {
+      "node_id": "0074",
+      "node_title": "Article 163",
+      "article_ids": [
+        "82a1b145-063d-4618-98ef-03cc8ae907fc"
+      ]
+    },
+    {
+      "node_id": "0075",
+      "node_title": "Article 164",
+      "article_ids": [
+        "f4feead7-69d9-49ff-a652-c923df9b3391"
+      ]
+    },
+    {
+      "node_id": "0076",
+      "node_title": "Article 165",
+      "article_ids": [
+        "24161d72-4bfe-4a38-bed1-df31aa985517"
+      ]
+    },
+    {
+      "node_id": "0077",
+      "node_title": "Article 166",
+      "article_ids": [
+        "3aeb2852-2429-4682-87ba-2709d611fd99"
+      ]
+    },
+    {
+      "node_id": "0078",
+      "node_title": "Article 167",
+      "article_ids": [
+        "9e4e0c63-564a-45fd-b848-b82568d03041"
+      ]
+    },
+    {
+      "node_id": "0079",
+      "node_title": "Article 168",
+      "article_ids": [
+        "75d060b9-c61e-4234-bf3a-0b07857e4f9b"
+      ]
+    },
+    {
+      "node_id": "0081",
+      "node_title": "Article 169",
+      "article_ids": [
+        "2606546a-5ffe-4ab7-83b0-9bc7a1df3a62"
+      ]
+    },
+    {
+      "node_id": "0082",
+      "node_title": "Article 17",
+      "article_ids": [
+        "40ce1b11-479f-463b-9e2e-13ec914cb5b4"
+      ]
+    },
+    {
+      "node_id": "0083",
+      "node_title": "Article 170",
+      "article_ids": [
+        "b53d6c41-d118-407e-bcb4-eaa1173e8dbc"
+      ]
+    },
+    {
+      "node_id": "0084",
+      "node_title": "Article 171",
+      "article_ids": [
+        "bbab04b2-84ac-455e-8d7f-332f8472ca91"
+      ]
+    },
+    {
+      "node_id": "0085",
+      "node_title": "Article 172",
+      "article_ids": [
+        "cb85af91-11d1-46ef-b7f8-f68e61c4422d"
+      ]
+    },
+    {
+      "node_id": "0086",
+      "node_title": "Article 173",
+      "article_ids": [
+        "9735176d-2f25-4c29-880c-e9bc031ca396"
+      ]
+    },
+    {
+      "node_id": "0087",
+      "node_title": "Article 174",
+      "article_ids": [
+        "67c02d25-4e05-440f-b94d-8d738e88ff70"
+      ]
+    },
+    {
+      "node_id": "0088",
+      "node_title": "Article 175",
+      "article_ids": [
+        "45218582-3acc-42ed-b9a6-37c7cf9b8dbf"
+      ]
+    },
+    {
+      "node_id": "0089",
+      "node_title": "Article 176",
+      "article_ids": [
+        "8f0fac8a-9d19-4b72-9431-1016ded94849"
+      ]
+    },
+    {
+      "node_id": "0090",
+      "node_title": "Article 177",
+      "article_ids": [
+        "1e0a419a-ae4a-4d3b-8373-0d9060d09246"
+      ]
+    },
+    {
+      "node_id": "0091",
+      "node_title": "Article 178",
+      "article_ids": [
+        "cc33a3ac-376b-46f5-b28b-cee6be771acd"
+      ]
+    },
+    {
+      "node_id": "0092",
+      "node_title": "Article 179",
+      "article_ids": [
+        "691964f3-df45-4428-987b-72160ae8c480"
+      ]
+    },
+    {
+      "node_id": "0093",
+      "node_title": "Article 18",
+      "article_ids": [
+        "d146a4e5-569e-48af-8e2c-9999ddef209a"
+      ]
+    },
+    {
+      "node_id": "0094",
+      "node_title": "Article 180",
+      "article_ids": [
+        "d034279b-f5de-4206-b15f-11aba75d2787"
+      ]
+    },
+    {
+      "node_id": "0096",
+      "node_title": "Article 181",
+      "article_ids": [
+        "530bc65f-48d9-47ef-a3bf-d404530eed96"
+      ]
+    },
+    {
+      "node_id": "0097",
+      "node_title": "Article 182",
+      "article_ids": [
+        "c674ec3d-62fa-4b29-9033-7963cccfba60"
+      ]
+    },
+    {
+      "node_id": "0098",
+      "node_title": "Article 183",
+      "article_ids": [
+        "e6821505-e118-4e17-938b-c8f823715be9"
+      ]
+    },
+    {
+      "node_id": "0099",
+      "node_title": "Article 184",
+      "article_ids": [
+        "db0e2af6-576c-4ba4-9543-20190d9de140"
+      ]
+    },
+    {
+      "node_id": "0100",
+      "node_title": "Article 185",
+      "article_ids": [
+        "e27d86f3-a569-4e2e-926c-d05427bf69c5"
+      ]
+    },
+    {
+      "node_id": "0101",
+      "node_title": "Article 186",
+      "article_ids": [
+        "d02edfa9-ed0f-490f-a6b7-9644e8ecb6d7"
+      ]
+    },
+    {
+      "node_id": "0102",
+      "node_title": "Article 187",
+      "article_ids": [
+        "6339783f-68e6-4c81-bb0b-7c4fad32394b"
+      ]
+    },
+    {
+      "node_id": "0103",
+      "node_title": "Article 188",
+      "article_ids": [
+        "571e2a4a-2477-47fb-9d33-697d0b99321a"
+      ]
+    },
+    {
+      "node_id": "0104",
+      "node_title": "Article 189",
+      "article_ids": [
+        "3e050882-3db2-4701-9412-72628d1e27f5"
+      ]
+    },
+    {
+      "node_id": "0105",
+      "node_title": "Article 19",
+      "article_ids": [
+        "7cdd943b-522a-4bc0-b12e-c9561701f8a9"
+      ]
+    },
+    {
+      "node_id": "0106",
+      "node_title": "Article 190",
+      "article_ids": [
+        "223f8b8a-3560-45e0-ad11-e57b0be8df9b"
+      ]
+    },
+    {
+      "node_id": "0107",
+      "node_title": "Article 191",
+      "article_ids": [
+        "6e73d109-b971-43f8-8744-86b856cf9b65"
+      ]
+    },
+    {
+      "node_id": "0109",
+      "node_title": "Article 192",
+      "article_ids": [
+        "07d349b1-f3d9-4446-ad71-955fae1f9b86"
+      ]
+    },
+    {
+      "node_id": "0110",
+      "node_title": "Article 193",
+      "article_ids": [
+        "27aa716d-d657-4045-acce-e5cafa3004cd"
+      ]
+    },
+    {
+      "node_id": "0112",
+      "node_title": "Article 194",
+      "article_ids": [
+        "ae156f50-f276-4fc2-a2ba-6180c331fd05"
+      ]
+    },
+    {
+      "node_id": "0113",
+      "node_title": "Article 195",
+      "article_ids": [
+        "4ac4fb16-d1ca-4472-86bc-6ba7aed93c99"
+      ]
+    },
+    {
+      "node_id": "0114",
+      "node_title": "Article 196",
+      "article_ids": [
+        "5e9748f1-62e7-4996-80a4-0373492b49c8"
+      ]
+    },
+    {
+      "node_id": "0115",
+      "node_title": "Article 197",
+      "article_ids": [
+        "790e6a86-cf88-4d6b-8fab-6e77de95d94d"
+      ]
+    },
+    {
+      "node_id": "0116",
+      "node_title": "Article 199",
+      "article_ids": [
+        "c7b37100-3b29-4d10-b935-6b0eb24f0eec"
+      ]
+    },
+    {
+      "node_id": "0117",
+      "node_title": "Article 1er",
+      "article_ids": []
+    },
+    {
+      "node_id": "0118",
+      "node_title": "Article 2",
+      "article_ids": [
+        "16ee6a84-b20b-4b5c-9ae5-ef8e2f2c9970"
+      ]
+    },
+    {
+      "node_id": "0119",
+      "node_title": "Article 20",
+      "article_ids": [
+        "3468bacd-7200-436b-aa15-0b69bac7b310"
+      ]
+    },
+    {
+      "node_id": "0121",
+      "node_title": "Article 200",
+      "article_ids": [
+        "4809faec-c5ea-40e8-babe-4b2d0dfb2225"
+      ]
+    },
+    {
+      "node_id": "0122",
+      "node_title": "Article 201",
+      "article_ids": [
+        "262fcb07-350c-4839-a965-b86bfc549fc3"
+      ]
+    },
+    {
+      "node_id": "0123",
+      "node_title": "Article 202",
+      "article_ids": [
+        "1a48fb41-b0de-458b-9281-d43d89e8fc42"
+      ]
+    },
+    {
+      "node_id": "0124",
+      "node_title": "Article 203",
+      "article_ids": [
+        "8dd8a92e-624e-4c08-8ec2-3fa14ea932db"
+      ]
+    },
+    {
+      "node_id": "0125",
+      "node_title": "Article 204",
+      "article_ids": [
+        "cdb13d04-c19d-4f40-b4f5-997c480ce0ec"
+      ]
+    },
+    {
+      "node_id": "0126",
+      "node_title": "Article 205",
+      "article_ids": [
+        "08859581-27f8-4e96-a0bb-b61ae3d8f9c6"
+      ]
+    },
+    {
+      "node_id": "0128",
+      "node_title": "Article 206",
+      "article_ids": [
+        "2504dd7d-88fe-4fe0-8aea-92b90e6cf63b"
+      ]
+    },
+    {
+      "node_id": "0130",
+      "node_title": "Article 207",
+      "article_ids": [
+        "0442a0c7-6caf-4f02-95dd-de1454f6b6a1"
+      ]
+    },
+    {
+      "node_id": "0131",
+      "node_title": "Article 208",
+      "article_ids": [
+        "da1e951a-b94b-4d1a-8a08-17bf7b5cfa64"
+      ]
+    },
+    {
+      "node_id": "0132",
+      "node_title": "Article 209",
+      "article_ids": [
+        "b5f02a0a-180a-4da9-84fd-edbb6f02ac23"
+      ]
+    },
+    {
+      "node_id": "0133",
+      "node_title": "Article 21",
+      "article_ids": [
+        "04f16d39-b30d-411c-85db-873cc79160f0"
+      ]
+    },
+    {
+      "node_id": "0135",
+      "node_title": "Article 210",
+      "article_ids": [
+        "46313045-e0d2-4dd9-bd20-b6fdda62fbd5"
+      ]
+    },
+    {
+      "node_id": "0136",
+      "node_title": "Article 211",
+      "article_ids": [
+        "ab801ee6-7f6c-4e3a-8dbe-4957bddf1342"
+      ]
+    },
+    {
+      "node_id": "0138",
+      "node_title": "Article 212",
+      "article_ids": [
+        "ead5563f-cf1d-4c7a-b27f-09f750b37d7d"
+      ]
+    },
+    {
+      "node_id": "0139",
+      "node_title": "Article 213",
+      "article_ids": [
+        "f7b5ba15-bc1d-4ab2-b695-c4ed42f9b637"
+      ]
+    },
+    {
+      "node_id": "0140",
+      "node_title": "Article 214",
+      "article_ids": [
+        "5e4231b1-6f1c-427b-b25c-db728d57ebe7"
+      ]
+    },
+    {
+      "node_id": "0141",
+      "node_title": "Article 215",
+      "article_ids": [
+        "b955c090-1f71-40b8-85cd-9c079ad34a9e"
+      ]
+    },
+    {
+      "node_id": "0142",
+      "node_title": "Article 216",
+      "article_ids": [
+        "497243c5-5d2e-43cb-86ad-10de1b01a2a4"
+      ]
+    },
+    {
+      "node_id": "0144",
+      "node_title": "Article 217",
+      "article_ids": [
+        "8a877881-5d27-4e0a-b9a3-ba7fcd6c38e0"
+      ]
+    },
+    {
+      "node_id": "0145",
+      "node_title": "Article 218",
+      "article_ids": [
+        "0032d06d-f656-494a-b439-180095997e31"
+      ]
+    },
+    {
+      "node_id": "0146",
+      "node_title": "Article 219",
+      "article_ids": [
+        "2ed595eb-188e-4c52-90ca-91ba7e050579"
+      ]
+    },
+    {
+      "node_id": "0147",
+      "node_title": "Article 22",
+      "article_ids": [
+        "c246a4ae-d91b-458f-91fd-97aab78237d9"
+      ]
+    },
+    {
+      "node_id": "0149",
+      "node_title": "Article 220",
+      "article_ids": [
+        "746dd970-38b5-4828-9d07-57936f475f32"
+      ]
+    },
+    {
+      "node_id": "0150",
+      "node_title": "Article 221",
+      "article_ids": [
+        "e765e196-ffba-4265-82d6-809bdde784f3"
+      ]
+    },
+    {
+      "node_id": "0151",
+      "node_title": "Article 222",
+      "article_ids": [
+        "6fb05dd9-c92b-4e78-9fd5-f0b17e3f0893"
+      ]
+    },
+    {
+      "node_id": "0152",
+      "node_title": "Article 223",
+      "article_ids": [
+        "92666b41-f6d1-4847-9d08-fd1e977b3d7a"
+      ]
+    },
+    {
+      "node_id": "0153",
+      "node_title": "Article 224",
+      "article_ids": [
+        "061adf7a-9bae-4d03-b00e-39bd00eaa9df"
+      ]
+    },
+    {
+      "node_id": "0154",
+      "node_title": "Article 225",
+      "article_ids": [
+        "94caff6b-9204-4cf1-8084-43a50885c40e"
+      ]
+    },
+    {
+      "node_id": "0155",
+      "node_title": "Article 226",
+      "article_ids": [
+        "110365d1-b478-4e6a-938e-2913bed5fc24"
+      ]
+    },
+    {
+      "node_id": "0156",
+      "node_title": "Article 227",
+      "article_ids": [
+        "a551fb90-19f9-4bc9-a4d8-7cf146c61167"
+      ]
+    },
+    {
+      "node_id": "0157",
+      "node_title": "Article 228",
+      "article_ids": [
+        "84d2f79d-9391-4421-b8b0-0bce8d6dd6dc"
+      ]
+    },
+    {
+      "node_id": "0159",
+      "node_title": "Article 229",
+      "article_ids": [
+        "49e587ce-b3d9-4275-90e4-8d9c5dc46954"
+      ]
+    },
+    {
+      "node_id": "0160",
+      "node_title": "Article 23",
+      "article_ids": [
+        "97b64cc1-90ee-4254-8c44-09f0f402bb67"
+      ]
+    },
+    {
+      "node_id": "0161",
+      "node_title": "Article 24",
+      "article_ids": [
+        "4b35e800-f144-446c-8f34-9777a48c709b"
+      ]
+    },
+    {
+      "node_id": "0162",
+      "node_title": "Article 25",
+      "article_ids": [
+        "593a1d23-61eb-4514-ae65-db855e202923"
+      ]
+    },
+    {
+      "node_id": "0163",
+      "node_title": "Article 26",
+      "article_ids": [
+        "13ff7748-f8b8-4be2-96bd-d2acb5530714"
+      ]
+    },
+    {
+      "node_id": "0164",
+      "node_title": "Article 27",
+      "article_ids": [
+        "8c2b9f51-b3ca-4680-9028-e9a420b4ab7a"
+      ]
+    },
+    {
+      "node_id": "0165",
+      "node_title": "Article 28",
+      "article_ids": [
+        "0d18c540-6711-4cd8-a548-ae12b3493c6b"
+      ]
+    },
+    {
+      "node_id": "0166",
+      "node_title": "Article 29",
+      "article_ids": [
+        "6e7141d8-c58b-4d8f-9eee-68ba340c1203"
+      ]
+    },
+    {
+      "node_id": "0167",
+      "node_title": "Article 3",
+      "article_ids": [
+        "06eb76de-9960-4b34-abee-81f645879994"
+      ]
+    },
+    {
+      "node_id": "0168",
+      "node_title": "Article 30",
+      "article_ids": [
+        "66a82ea4-045c-410e-b1c4-671bc9e0ea57"
+      ]
+    },
+    {
+      "node_id": "0169",
+      "node_title": "Article 31",
+      "article_ids": [
+        "a372ee7c-1d97-4934-86c4-c59a770378d9"
+      ]
+    },
+    {
+      "node_id": "0170",
+      "node_title": "Article 32",
+      "article_ids": [
+        "a05b0887-7d45-48e9-baba-c921b61c4711"
+      ]
+    },
+    {
+      "node_id": "0171",
+      "node_title": "Article 33",
+      "article_ids": [
+        "614710e0-f14b-4c38-add5-e33776ceffa7"
+      ]
+    },
+    {
+      "node_id": "0172",
+      "node_title": "Article 34",
+      "article_ids": [
+        "acdf59dd-0111-4a96-9bf8-0d2696542f99"
+      ]
+    },
+    {
+      "node_id": "0173",
+      "node_title": "Article 35",
+      "article_ids": [
+        "9b32601b-8adc-44ac-a2bd-302eff755196"
+      ]
+    },
+    {
+      "node_id": "0174",
+      "node_title": "Article 36",
+      "article_ids": [
+        "d1a479a0-726a-41e9-baa5-dbdccc21fa5f"
+      ]
+    },
+    {
+      "node_id": "0175",
+      "node_title": "Article 37",
+      "article_ids": [
+        "09139189-b988-420f-86ca-4e2452832019"
+      ]
+    },
+    {
+      "node_id": "0176",
+      "node_title": "Article 38",
+      "article_ids": [
+        "98a8ba77-d511-4022-bad9-e3cb489a717e"
+      ]
+    },
+    {
+      "node_id": "0177",
+      "node_title": "Article 39",
+      "article_ids": [
+        "f0725d1b-36a9-402c-adbd-520dc027464e"
+      ]
+    },
+    {
+      "node_id": "0179",
+      "node_title": "Article 4",
+      "article_ids": [
+        "c6543b69-9afc-4bf8-98c4-c521a54e65ac"
+      ]
+    },
+    {
+      "node_id": "0180",
+      "node_title": "Article 40",
+      "article_ids": [
+        "1267d9ce-7eb2-46f9-9a22-f9a425ae78fc"
+      ]
+    },
+    {
+      "node_id": "0181",
+      "node_title": "Article 41",
+      "article_ids": [
+        "7f5e4f51-1a52-47f2-9157-a87360a1bc03"
+      ]
+    },
+    {
+      "node_id": "0182",
+      "node_title": "Article 42",
+      "article_ids": [
+        "348eecb7-a310-447a-ae5a-35cbf72d59b8"
+      ]
+    },
+    {
+      "node_id": "0183",
+      "node_title": "Article 43",
+      "article_ids": [
+        "d7e0bc7a-0cbe-4683-b5db-35f53f9fa668"
+      ]
+    },
+    {
+      "node_id": "0184",
+      "node_title": "Article 44",
+      "article_ids": [
+        "ab2b935d-c891-4de7-bbbf-25abecdfa089"
+      ]
+    },
+    {
+      "node_id": "0185",
+      "node_title": "Article 45",
+      "article_ids": [
+        "33ee6f7f-68b9-4d1b-b792-243d00b2a2d0"
+      ]
+    },
+    {
+      "node_id": "0186",
+      "node_title": "Article 46",
+      "article_ids": [
+        "8337e453-4efc-4b70-a23e-4928f8819c5e"
+      ]
+    },
+    {
+      "node_id": "0187",
+      "node_title": "Article 47",
+      "article_ids": [
+        "48df90be-9ee2-448b-a349-f7d9400c5c03"
+      ]
+    },
+    {
+      "node_id": "0188",
+      "node_title": "Article 48",
+      "article_ids": [
+        "94c7c1fc-cd01-4f0c-8d28-be7cfee17f59"
+      ]
+    },
+    {
+      "node_id": "0189",
+      "node_title": "Article 49",
+      "article_ids": [
+        "a25aa6e4-ccf7-4196-9a72-0b3c6139a5fd"
+      ]
+    },
+    {
+      "node_id": "0190",
+      "node_title": "Article 5",
+      "article_ids": [
+        "6ed6c9ef-38d4-48b5-8616-e19ba417a589"
+      ]
+    },
+    {
+      "node_id": "0191",
+      "node_title": "Article 50",
+      "article_ids": [
+        "cdc2ae30-3aee-4bac-ab90-2d0395a29044"
+      ]
+    },
+    {
+      "node_id": "0192",
+      "node_title": "Article 51",
+      "article_ids": [
+        "aa408fef-408c-4872-8678-90c50323c8e1"
+      ]
+    },
+    {
+      "node_id": "0193",
+      "node_title": "Article 52",
+      "article_ids": [
+        "752510a5-2f6f-458c-bb02-22b44ddd8728"
+      ]
+    },
+    {
+      "node_id": "0194",
+      "node_title": "Article 53",
+      "article_ids": [
+        "da17bc34-7435-46d5-8ea5-2f82df1be517"
+      ]
+    },
+    {
+      "node_id": "0195",
+      "node_title": "Article 54",
+      "article_ids": [
+        "e9f02339-e0ed-44ce-8381-c433246febfc"
+      ]
+    },
+    {
+      "node_id": "0196",
+      "node_title": "Article 55",
+      "article_ids": [
+        "c7673c4c-c54e-40c7-a277-7070b0004fe8"
+      ]
+    },
+    {
+      "node_id": "0197",
+      "node_title": "Article 56",
+      "article_ids": [
+        "bd3f344b-6d0f-4896-82da-36bed8f48fc5"
+      ]
+    },
+    {
+      "node_id": "0198",
+      "node_title": "Article 57",
+      "article_ids": [
+        "ff968959-0e61-4dd2-9b0b-31e6fdfb0717"
+      ]
+    },
+    {
+      "node_id": "0199",
+      "node_title": "Article 58",
+      "article_ids": [
+        "78f03559-94cb-4cc1-a439-0246d5d575a4"
+      ]
+    },
+    {
+      "node_id": "0200",
+      "node_title": "Article 59",
+      "article_ids": [
+        "f1d13ad7-4b1d-4d02-936b-844e1f65788f"
+      ]
+    },
+    {
+      "node_id": "0201",
+      "node_title": "Article 6",
+      "article_ids": [
+        "acec2e49-c12c-49c3-8bae-80cec904c4d4"
+      ]
+    },
+    {
+      "node_id": "0202",
+      "node_title": "Article 60",
+      "article_ids": [
+        "7c1ce841-6794-478e-b1cb-290a4e84d9f7"
+      ]
+    },
+    {
+      "node_id": "0203",
+      "node_title": "Article 61",
+      "article_ids": [
+        "5652becb-77a7-43f4-975e-80eb077d4f74"
+      ]
+    },
+    {
+      "node_id": "0204",
+      "node_title": "Article 62",
+      "article_ids": [
+        "17934a75-87cd-4b72-88fb-d3ce751233d1"
+      ]
+    },
+    {
+      "node_id": "0205",
+      "node_title": "Article 63",
+      "article_ids": [
+        "db314e7c-ab4e-4d09-8422-3e742889409e"
+      ]
+    },
+    {
+      "node_id": "0206",
+      "node_title": "Article 64",
+      "article_ids": [
+        "e510d326-86d0-4fa0-8dc9-90fecff6bb23"
+      ]
+    },
+    {
+      "node_id": "0207",
+      "node_title": "Article 65",
+      "article_ids": [
+        "97948e83-366c-48bd-9524-e37ddedeb100"
+      ]
+    },
+    {
+      "node_id": "0208",
+      "node_title": "Article 66",
+      "article_ids": [
+        "c26af02d-0f9f-4eb2-ae04-0bcbcd484271"
+      ]
+    },
+    {
+      "node_id": "0210",
+      "node_title": "Article 67",
+      "article_ids": [
+        "63d4c2de-a3bf-4b69-a219-9b7c38617fe4"
+      ]
+    },
+    {
+      "node_id": "0212",
+      "node_title": "Article 68",
+      "article_ids": [
+        "a5d4a11a-8f26-4ea5-a3aa-a070c2013dc1"
+      ]
+    },
+    {
+      "node_id": "0213",
+      "node_title": "Article 69",
+      "article_ids": [
+        "20d07b18-cecc-4e07-9003-6157bce60f7a"
+      ]
+    },
+    {
+      "node_id": "0215",
+      "node_title": "Article 7",
+      "article_ids": [
+        "ca22c687-5bed-4355-91bd-b9ba6e8d2eac"
+      ]
+    },
+    {
+      "node_id": "0216",
+      "node_title": "Article 70",
+      "article_ids": [
+        "a4721221-79f4-4d7f-87cd-f3fcc74a3be5"
+      ]
+    },
+    {
+      "node_id": "0217",
+      "node_title": "Article 71",
+      "article_ids": [
+        "02b5fbd8-cae9-4e65-bab3-49eb72981098"
+      ]
+    },
+    {
+      "node_id": "0218",
+      "node_title": "Article 72",
+      "article_ids": [
+        "0b034bd3-dcf8-4135-801e-e8619fd9addd"
+      ]
+    },
+    {
+      "node_id": "0219",
+      "node_title": "Article 73",
+      "article_ids": [
+        "316df7e4-0e2c-49c1-a21f-364df3e87c47"
+      ]
+    },
+    {
+      "node_id": "0220",
+      "node_title": "Article 74",
+      "article_ids": [
+        "cb1deca2-e05f-4d0b-9475-81635e0c2085"
+      ]
+    },
+    {
+      "node_id": "0221",
+      "node_title": "Article 75",
+      "article_ids": [
+        "fa1268e9-96ce-4082-9419-5deffdfb29db"
+      ]
+    },
+    {
+      "node_id": "0222",
+      "node_title": "Article 76",
+      "article_ids": [
+        "af4ef959-0313-4f3b-9438-164abe2761a7"
+      ]
+    },
+    {
+      "node_id": "0223",
+      "node_title": "Article 77",
+      "article_ids": [
+        "204ee276-35f3-486b-872e-085ae388d67c"
+      ]
+    },
+    {
+      "node_id": "0224",
+      "node_title": "Article 78",
+      "article_ids": [
+        "56ff2450-2ee1-49c0-942e-fd72f0ce35d8"
+      ]
+    },
+    {
+      "node_id": "0225",
+      "node_title": "Article 79",
+      "article_ids": [
+        "b017f2c3-1252-42fd-ad2c-cdb4c0e8a506"
+      ]
+    },
+    {
+      "node_id": "0226",
+      "node_title": "Article 8",
+      "article_ids": [
+        "fa9afa24-6a0a-45ac-b2ac-070847cc54ce"
+      ]
+    },
+    {
+      "node_id": "0227",
+      "node_title": "Article 80",
+      "article_ids": [
+        "8855f7f2-ad77-4b6f-8ef2-d54b66b31aab"
+      ]
+    },
+    {
+      "node_id": "0228",
+      "node_title": "Article 81",
+      "article_ids": [
+        "c58d8919-e42c-4f2f-b36f-74f6323120de"
+      ]
+    },
+    {
+      "node_id": "0229",
+      "node_title": "Article 82",
+      "article_ids": [
+        "be82bf91-11af-4886-95f4-f734b31a7ed2"
+      ]
+    },
+    {
+      "node_id": "0230",
+      "node_title": "Article 83",
+      "article_ids": [
+        "aeee89e7-97c9-4983-b956-e6a02b3be374"
+      ]
+    },
+    {
+      "node_id": "0231",
+      "node_title": "Article 84",
+      "article_ids": [
+        "ec0b5994-23fb-4c8e-bf88-b18224a7c811"
+      ]
+    },
+    {
+      "node_id": "0232",
+      "node_title": "Article 85",
+      "article_ids": [
+        "0e77aad7-56c9-40a5-84a5-7cc00710510c"
+      ]
+    },
+    {
+      "node_id": "0233",
+      "node_title": "Article 86",
+      "article_ids": [
+        "a93fd7c3-7dcd-48bb-929b-56c7b7f9c649"
+      ]
+    },
+    {
+      "node_id": "0234",
+      "node_title": "Article 87",
+      "article_ids": [
+        "c49aff7c-6373-4bef-a9ce-58064fbf7ce3"
+      ]
+    },
+    {
+      "node_id": "0235",
+      "node_title": "Article 88",
+      "article_ids": [
+        "33811631-2c40-446b-a964-51ac83f86abc"
+      ]
+    },
+    {
+      "node_id": "0236",
+      "node_title": "Article 89",
+      "article_ids": [
+        "393344fc-518f-485c-9c7e-4e29c472b61a"
+      ]
+    },
+    {
+      "node_id": "0237",
+      "node_title": "Article 9",
+      "article_ids": [
+        "b857d5ae-86cd-4258-bcdf-8b483d214f72"
+      ]
+    },
+    {
+      "node_id": "0238",
+      "node_title": "Article 90",
+      "article_ids": [
+        "3b836aba-ceeb-4a4f-b539-cb3556883105"
+      ]
+    },
+    {
+      "node_id": "0239",
+      "node_title": "Article 91",
+      "article_ids": [
+        "d692dcf2-eefd-4e43-93f4-d78c78af6207"
+      ]
+    },
+    {
+      "node_id": "0240",
+      "node_title": "Article 92",
+      "article_ids": [
+        "b145f535-eeb7-4b3b-a8a0-be4ba5452faa"
+      ]
+    },
+    {
+      "node_id": "0241",
+      "node_title": "Article 93",
+      "article_ids": [
+        "9667793a-f2d3-4f6c-a1e3-506caaecc0ea"
+      ]
+    },
+    {
+      "node_id": "0242",
+      "node_title": "Article 94",
+      "article_ids": [
+        "56a28b1b-869e-4c86-85ca-ffcd792d635b"
+      ]
+    },
+    {
+      "node_id": "0243",
+      "node_title": "Article 95",
+      "article_ids": [
+        "3710bc0a-c690-4779-957e-c16c09afb8cb"
+      ]
+    },
+    {
+      "node_id": "0244",
+      "node_title": "Article 96",
+      "article_ids": [
+        "97c63a70-a77b-4cec-b4b7-d2bdc9d30426"
+      ]
+    },
+    {
+      "node_id": "0245",
+      "node_title": "Article 97",
+      "article_ids": [
+        "42870793-cc47-431c-b50d-e2168f92914d"
+      ]
+    },
+    {
+      "node_id": "0246",
+      "node_title": "Article 98",
+      "article_ids": [
+        "9f5df4a2-014c-4736-a47e-a1885aed3a73"
+      ]
+    },
+    {
+      "node_id": "0248",
+      "node_title": "Article 99",
+      "article_ids": [
+        "cb6f1c57-661b-4c5b-87e5-aaec4491af0d"
+      ]
+    }
+  ],
+  "bundle_path": "backups/rdc_bundles/CONSTITUTION-2006-2006.json",
+  "document_id": "9d2a8272-6c7b-442d-a178-8f03c043d4ad",
+  "document_title": "Constitution de la RDC (2006)"
+}

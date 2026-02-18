@@ -1,0 +1,71 @@
+{
+  "slug": "AM2017-024-29-08-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM2017-024-29-08-2017-2017.json",
+  "document_id": "e61cffd2-0eb4-4a01-8572-4f3da027cddf",
+  "document_title": "AM2017.024.29.08.2017",
+  "tree_json": {
+    "doc_name": "AM2017-024-29-08-2017-2017",
+    "structure": [
+      {
+        "title": "AM2017.024.29.08.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM2017.024.29.08.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nD�finition\nL'incapacit� permanente est la r�duction\nd�finitive de la capacit� fonctionnelle de la victime apr�s gu�rison totale\nexprim�e par rapport � sa capacit� fonctionnelle juste avant la survenance de\nl'accident.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nPr�judice physiologique\nLe taux d'incapacit� est fix� par expertise\nm�dicale en tenant compte de la r�duction de capacit� physique.\nCe taux varie de 0 � 100%, par r�f�rence\nau-bar�me fonctionnel indicatif des incapacit�s en droit commun.\nL'indemnit� pr�vue dans le cas o� l'assureur\net la victime ne sont pas parvenus � un accord dans le d�lai fix� � l'article\n134 est calcul� suivant l'�chelle de valeur de points d'incapacit� ci-dessous:",
+            "line_num": 13
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLe pr�judice �conomique\nCe pr�judice n'est indemnis� que si la\nvictime conserve, apr�s consolidation, un taux d'incapacit� permanente d'au\nmoins 50%.\nL'indemnit� est calcul�e :\npour les salari�s, en fonction de la perte\nr�elle et justifi�e de revenus futurs pour les actifs non-salari�s, en fonction\nde la perte de revenus �tablie et justifi�e ;\npour les actifs non-salari�s ne pouvant\njustifier de revenus, sur la base du SMIG annuel,\nDans tous les cas l'indemnit� est plafonn�e �\ndix (10) fois le montant du SMIG annuel,",
+            "line_num": 25
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nSont abrog�es, toutes les dispositions\nant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 41
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nL'Autorit� de r�gulation et de contr�le des\nassurances est charg�e de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 29 ao�t 2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 47
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3e516efb-87e8-4ea0-9298-ab1c0d3af528"
+    ],
+    "0002": [
+      "8b4a6967-33f8-4b80-9802-823747ce157b"
+    ],
+    "0003": [
+      "33acaf14-6f87-400a-8be4-d6f33dd92b78"
+    ],
+    "0004": [
+      "58183075-17ce-445c-9e38-deba3105a03b"
+    ],
+    "0005": [
+      "9ef63151-2215-4e64-90c4-e782263063fa"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:21:16.536900",
+  "article_count": 5,
+  "generation_time_s": 0.010965108871459961
+}

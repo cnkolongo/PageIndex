@@ -1,0 +1,188 @@
+{
+  "slug": "AM-21-08-2020-2020",
+  "bundle_path": "backups/all_bundles/code/AM-21-08-2020-2020.json",
+  "document_id": "9ac0639a-5788-4e81-884f-ee13da557358",
+  "document_title": "AM.21.08.2020",
+  "tree_json": {
+    "doc_name": "AM-21-08-2020-2020",
+    "structure": [
+      {
+        "title": "AM.21.08.2020",
+        "node_id": "0000",
+        "prefix_summary": "# AM.21.08.2020",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes paiements des dettes envers l'Etat s'effectuent aupr�s des intervenants ou\nde la Banque Centrale du\nCongo, en num�raire, en\nscripturale ou en monnaie �lectronique.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLes missions diplomatiques et\nconsulaires de la R�publique D�mocratique du Congo � l'�tranger transf�rent au\nmoins une fois par mois les recettes encaiss�es au compte g�n�ral du Tr�sor.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nDans les entit�s o� la Banque\nCentrale du Congo n'est pas implant�e ou repr�sent�e, les recettes encaiss�es\npar les �tablissements de cr�dit non participant aux syst�mes de paiement agr��s\net le Receveur sont revers�es au guichet le plus proche de la Banque Centrale du\nCongo au moins chaque quinzaine au moyen de bordereaux de versement ou d'envoi\ndes fonds.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLes recettes de l'Etat\nrevers�es par l'intervenant sont comptabilis�es dans le compte g�n�ral du Tr�sor\n� la bonne date valeur.",
+            "line_num": 29
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nEn application des\ndispositions de l'article 7 du D�cret n�20/019 du 21 ao�t 2020 modifiant et\ncompl�tant le D�cret n� 007/2002 du 02 f�vrier 2002 relatif au mode de paiement\ndes dettes envers l'Etat, le non-respect, par les intervenants, du d�lai de\nversement des encaissements r�alis�s vis�s aux articles 10,11 et 12 ci-dessus\nest puni, � charge de l'intervenant d�faillant, outre le reversement effectif du\nmontant d�, de l'application d'un int�r�t moratoire �gal � 3% par jour de retard\nde reversement du montant d�.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "The partial document covers penalties for falsifying payment documents, including a fine equal to the owed amount plus a daily interest penalty, and the joint liability of principals for fines incurred by their agents.",
+            "line_num": 48
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nEn attendant la\nr�gularisation de sa situation pour sa participation aux syst�mes de paiement\nagr��s, la Caisse G�n�rale d'Epargne du Congo est autoris�e � encaisser les\nrecettes de l'Etat suivant les protocoles d'accord sign�s avec les\nadministrations financi�res.\nElle est tenue de se\nconformer aux dispositions des articles 4, 5, 6, 7, 8 alin�a 2, 11 et 13.",
+            "line_num": 63
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "###### Article 16\n\nLe d�lai de reversement fix�\n� l'article 8 et l'obligation de valider dans l'outil informatique les recettes\nencaiss�es telle que mentionn�e dans l'article 4 entrent � la date du\nbasculement en proc�dure �lectronique.\nCe basculement est pr�vu au 1er\njanvier 2021 pour les\nProvinces de Kinshasa, Kongo-Central, Haut-Katanga, Haut-Lomami, Lualaba,\nNord-Kivu et Tanganyika.\nLe basculement dans les\nentres Provinces s'effectue au plus tard le 1er\njuillet 2020.",
+            "line_num": 74
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0009",
+            "summary": "###### Article 17\n\nSont abrog�es, toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 89
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0010",
+            "summary": "This partial document is the concluding section of a legal decree (Arrêté). It lists the high-ranking officials and institutions (including the Central Bank Governor, provincial governors, directors of customs, taxes, and various revenue departments, as well as diplomats) who are responsible for implementing the decree. It states that the decree entered into force on the date of its signature, October 1, 2020, in Kinshasa, and includes the signature of the issuing authority. A disclaimer notes that the published text is unofficial and under construction.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0011",
+            "summary": "###### Article 2\n\nOnt qualit� d'intervenants\ndans l'encaissement des paiements en r�glement des dettes envers l'Etat :\n1. Les banques et les autres\n�tablissements de cr�dit agr��s ;\n2. Les Attach�s financiers\ndes Repr�sentations diplomatiques de la R�publique D�mocratique du Congo �\nl'�tranger ;\n3. Exceptionnellement et sur\nautorisation du Ministre ayant les Finances dans ses attributions, les Receveurs\ndes r�gies financi�res et des Entit�s Territoriales D�centralis�es affect�s dans\nles chefferies o� les banques et les autres �tablissements de cr�dit agr��s ne\nsont pas repr�sent�s.",
+            "line_num": 119
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0012",
+            "summary": "This partial document outlines the authorization for banks and credit institutions to receive payments for debts owed to the State. It specifies that institutions participating in approved payment systems are generally authorized to handle such payments for central and decentralized territorial entities. However, credit institutions not part of these systems require explicit authorization from the relevant financial minister or authority to settle these state debts, within their respective administrative jurisdictions.",
+            "line_num": 135
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0013",
+            "summary": "###### Article 4\n\nLes intervenants sont tenus\nd'enregistrer les recettes encaiss�es au profit du Pouvoir central dans l'outil\ninformatique mis en place par le Minist�re des Finances.",
+            "line_num": 150
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0014",
+            "summary": "This partial document, Article 5, defines the acceptable forms of proof of payment for debts owed to the State of the Democratic Republic of Congo. It specifies different types of valid documentation depending on the payment method (cash, scriptural/transfer, electronic money) and the perspective (the debtor or the State itself). The article also lists mandatory references that must appear on the proof of payment and stipulates that for the payment to be considered final (liberatory), the evidence must be recorded on a validated daily collection report.",
+            "line_num": 157
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0015",
+            "summary": "###### Article 6\n\nLes intervenants ou la Banque\nCentrale du Congo �tablissent et valident journellement le relev� journalier de\nperception des recettes publiques en support mat�riel ou �lectronique\nconform�ment � l'article 4 pr�cit�.",
+            "line_num": 196
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0016",
+            "summary": "###### Article 7\n\nPour le reversement des\nrecettes encaiss�es, les intervenants �mettent un ordre de virement au profit du\ncompte g�n�ral du Tr�sor, de la Province et de l'Entit� Territoriale\nD�centralis�e dans les livres de la Banque Centrale du Congo indiquant notamment\n:\n- le montant total des\nrecettes encaiss�es ;\n- les r�f�rences du\nrelev� de perception des recettes publiques concern�es.\nLe relev� journalier de\nperception des recettes publiques doit renseigner notamment les informations\nsuivantes : l'identifiant du contribuable, le titre de perception, le montant,\nla date d'encaissement et la r�f�rence de la transaction.",
+            "line_num": 204
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0017",
+            "summary": "###### Article 8\n\nLes banques et les autres\n�tablissements de cr�dit participant aux syst�mes de paiement agr��s reversent\nles recettes encaiss�es au compte g�n�ral du Tr�sor, de la Province et de\nl'Entit� Territoriale D�centralis�e ouvert dans les livres de la Banque Centrale\ndu Congo dans les vingt-quatre (24) heures de leur encaissement, dans les\nentit�s o� la Banque Centrale du Congo est implant�e ou repr�sent�e.\nCette disposition s'applique,\nmutatis mutandis, aux intervenants vis�s � l'article 3 point 2.",
+            "line_num": 221
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0018",
+            "summary": "###### Article 9\n\nSous r�serve du d�lai de\nreversement mentionn� � l'article pr�c�dent et de la mise en service du syst�me\nde transfert automatis� en monnaie �trang�re, les r�glements en monnaie\n�trang�re, qui transitent par des correspondants participant aux syst�mes de\npaiement agr��es, sont revers�s par ceux-ci aux comptes de la Banque Centrale du\nCongo dans les vingt-quatre (24) heures.\nLes paiements en monnaie\n�trang�re ainsi revers�s sont comptabilis�s au compte g�n�ral du Tr�sor par la\nBanque Centrale du Congo sous bonne date valeur.",
+            "line_num": 233
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "fdda472b-c3ba-4f37-bd16-2a1c41e00b0e"
+    ],
+    "0002": [
+      "96c2b947-201b-4d3f-83b8-998a70d51c8a"
+    ],
+    "0003": [
+      "7464596f-da12-45da-a3b5-69f1acc0654b"
+    ],
+    "0004": [
+      "9520f992-4b78-4886-a395-026b0257d243"
+    ],
+    "0005": [
+      "3bd0324e-e424-4ded-86ea-0e6b9a60c366"
+    ],
+    "0006": [
+      "70d35eff-44ea-42c5-bbd6-e6dab6fd4cf0"
+    ],
+    "0007": [
+      "94a44edf-5d11-458c-be8d-054cf37cd9e0"
+    ],
+    "0008": [
+      "610f7750-1eac-4317-b0bd-c4f032e6728c"
+    ],
+    "0009": [
+      "aae5d410-4877-4121-a251-e968c04b9628"
+    ],
+    "0010": [
+      "7305cc05-2d47-4539-bcf8-05ca5abc8064"
+    ],
+    "0011": [
+      "a3e72b34-e679-48c1-bae1-ff0e92f4d497"
+    ],
+    "0012": [
+      "5070a364-16a4-410c-8863-4c07a1db6f1c"
+    ],
+    "0013": [
+      "6a87e23c-7e95-462e-93db-94f7938410a7"
+    ],
+    "0014": [
+      "6bfd030d-8b8c-4736-b715-f74d36b2439e"
+    ],
+    "0015": [
+      "09ffb1c9-1ed8-4065-8e0e-a890f8b2b7e6"
+    ],
+    "0016": [
+      "d9fdc5ce-2944-4cf0-a15d-0e1d1fe09c91"
+    ],
+    "0017": [
+      "c1e908e7-f8a0-40ad-99cf-768ab09296ba"
+    ],
+    "0018": [
+      "504f4394-ac78-4596-ace8-e48ee9a65330"
+    ]
+  },
+  "node_count": 19,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:34:53.492098",
+  "article_count": 18,
+  "generation_time_s": 12.612152099609375
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "AM-21-12-2014-2012",
+  "bundle_path": "backups/all_bundles/code/AM-21-12-2014-2012.json",
+  "document_id": "897cbd31-dbf1-499e-a98f-800c79876c0d",
+  "document_title": "AM.21.12.2014",
+  "tree_json": {
+    "doc_name": "AM-21-12-2014-2012",
+    "structure": [
+      {
+        "title": "AM.21.12.2014",
+        "node_id": "0000",
+        "prefix_summary": "# AM.21.12.2014",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\n:\nLe\nSecr�taire g�n�ral aux Postes, T�l�communications et Nouvelles Technologies de\nl�Information et de la Communication ainsi que l�ARPTC sont charg�s, chacun en\nce qui le concerne de l�ex�cution du pr�sent Arr�t� qui entre en vigueur � la\ndate de sa signature.\nFait �\nKinshasa, le 21 d�cembre 2012\nProf. Tryphon Kin-Kiey Mulumba\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\n:\nLe pr�sent\nArr�t� fixe les conditions d��tablissement et d�exploitation des r�seaux de\nt�l�communications � tr�s haut d�bit.",
+            "line_num": 23
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "This partial document is Article 2 of an ordinance or decree, which provides formal definitions for key terms related to telecommunications networks and infrastructure. The main points covered are the specific definitions of twelve technical and administrative terms, including various types of networks (reference, international, national, transport, collection, distribution), key concepts like \"access\" and \"very high speed,\" and references to applicable laws and standards. The purpose is to establish a clear, legal vocabulary for the document that follows.",
+            "line_num": 31
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\n:\nLe r�seau\nde r�f�rence ou le Backbone National (BBN) fait partie du domaine public de\nl�Etat. Il comprend le r�seau de transport, le r�seau de collecte et le r�seau\nde desserte.",
+            "line_num": 86
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\n:\nL��tablissement et l�exploitation des r�seaux de transport, de collecte et de\ndesserte sont subordonn�s � l�obtention d�une licence assortie d�un cahier des\ncharges d�livr�s par le Ministre des PTNTIC, apr�s avis de l�ARPTC. Cette\nlicence est conditionn�e au paiement pr�alable des taxes y relatives.\nLa dur�e\nde la licence est de 20 ans.\nLe co�t de\nla licence est fix� en fonction des sp�cificit�s de chaque axe.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\n:\nLe cahier\ndes charges pr�cise les conditions d��tablissement et d�exploitation des r�seaux\n� tr�s haut d�bit dont notamment :\n-\nLes normes\net sp�cifications des �quipements ainsi que les installations ;\n-\nLes\ninfrastructures du r�seau ;\n-\nL�interconnexion de r�seau ;\n-\nL�utilisation de domaines publics/priv�s pour l�installation des �quipements ;\n-\nLes\nconditions d�exploitation commerciale ;\n-\nLes\nprincipes de tarification et de facturation ;\n-\nLa\ncouverture g�ographique selon les axes d�finis au plan directeur national.",
+            "line_num": 108
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\n:\nL�ARPTC\nd�finit les principes d�interconnexion et de tarification des services de\nt�l�communication � tr�s haut d�bit.\nLa\nd�finition des march�s de gros et/ou de d�tails sur un r�seau de\nt�l�communications fera l�objet d�une directive d�finie par elle.",
+            "line_num": 135
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\n:\nSur\nproposition de l�ARPTC, le Ministre des PTNTIC peut autoriser un ou plusieurs\nop�rateurs autres que l�Exploitant public, � �tablir une partie de r�seau de\nr�f�rence dans le cadre de l�architecture du BBN d�fini par le Ministre des\nPTNTIC et des Partenariats public priv� (PPP).",
+            "line_num": 146
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\n:\nL�ARPTC\n�labore en concertation avec les op�rateurs, une proc�dure relative au partage\ndes sites et infrastructures.\nElle\nencourage l�acc�s aux infrastructures alternatives sur base de n�gociations\ncommerciales afin de favoriser le d�veloppement de la concurrence.",
+            "line_num": 156
+          },
+          {
+            "title": "Chapitre",
+            "node_id": "0010",
+            "prefix_summary": "#### Chapitre\nII : Dispositions finales",
+            "line_num": 167,
+            "nodes": [
+              {
+                "title": "Article 9",
+                "node_id": "0011",
+                "summary": "###### Article 9\n\n:\nSont\nsubordonn�s aux paiements des frais, droits, taxes et redevances pr�vus par les\ntextes en vigueur, l��tablissement et l�exploitation des r�seaux et services des\nt�l�communications � tr�s haut d�bit sur les diff�rents r�seaux cit�s �\nl�article 3 du pr�sent Arr�t�.",
+                "line_num": 171
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "5a081fba-f023-4aa4-afe3-b4f46659315c"
+    ],
+    "0002": [
+      "23a9e19b-3d03-46f8-95ca-2eb33876f9e0"
+    ],
+    "0003": [
+      "0a393b23-2622-488e-ba81-f9535e591ff2"
+    ],
+    "0004": [
+      "597fd393-95a9-4473-99b3-ef47491ff8a7"
+    ],
+    "0005": [
+      "8ceb2aae-c7eb-4602-862f-6dd640f3fb16"
+    ],
+    "0006": [
+      "636b5c38-816b-48d5-93ea-36634ab75974"
+    ],
+    "0007": [
+      "52d3548b-ed50-4b6d-b436-33d71e1917c5"
+    ],
+    "0008": [
+      "24c6caf6-c948-4c40-bc10-53030a71b9cb"
+    ],
+    "0009": [
+      "c77865a7-1795-4894-96ab-502f29fb5545"
+    ],
+    "0011": [
+      "d6fb23d7-5071-4772-a68e-d859e1df4cf2"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:33:47.115966",
+  "article_count": 10,
+  "generation_time_s": 6.95346999168396
+}

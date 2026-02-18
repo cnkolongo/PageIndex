@@ -1,0 +1,33 @@
+{
+  "slug": "AI-2100-20-19-1977-1977",
+  "bundle_path": "backups/all_bundles/code/AI-2100-20-19-1977-1977.json",
+  "document_id": "61cc3722-614b-4daf-82f5-d663c4734ec4",
+  "document_title": "AI.2100.20.19.1977",
+  "tree_json": {
+    "doc_name": "AI-2100-20-19-1977-1977",
+    "structure": [
+      {
+        "title": "AI.2100.20.19.1977",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1c49a7c7-3a96-4776-9b7f-da43f4ee97cd"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:57.854173",
+  "article_count": 1,
+  "generation_time_s": 0.0017049312591552734
+}

@@ -1,0 +1,496 @@
+{
+  "slug": "AM-1250-008-28-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-1250-008-28-09-2015-2015.json",
+  "document_id": "e4f9028b-ca03-44d5-a424-c43dfba72820",
+  "document_title": "AM.1250.008.28.09.2015",
+  "tree_json": {
+    "doc_name": "AM-1250-008-28-09-2015-2015",
+    "doc_description": "This decree regulates the import, export, distribution, and commercialization of pharmaceutical products in the Democratic Republic of the Congo, including provisions for authorization, documentation, quality control, cold chain management, and pricing.",
+    "structure": [
+      {
+        "title": "AM.1250.008.28.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.1250.008.28.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document is the beginning of a legal or regulatory text, specifically Article 1, which provides formal definitions for key terms used within the broader document. The main points covered are:\n\n1.  **Definition of Key Pharmaceutical Regulatory Concepts:** It establishes official definitions for fundamental terms related to drug regulation, including:\n    *   **Market Authorization (AMM):** The official approval process for a pharmaceutical product.\n    *   **Regulatory Authority (ANRP/DPM):** The national body responsible for pharmaceutical regulation, identified here as the DPM in the Democratic Republic of Congo.\n    *   **Good Practices:** Definitions for Good Manufacturing Practices (GMP) and Good Control Practices (GCP).\n\n2.  **Definition of Entities in the Pharmaceutical Chain:** It defines the roles and responsibilities of various actors, such as manufacturers, importers, exporters, and wholesale distributors.\n\n3.  **Definition of Products and Materials:** It provides legal definitions for:\n    *   **Medicines and Pharmaceutical Products.**\n    *   **Specific controlled substances:** Narcotics, psychotropic substances, and chemical precursors.\n    *   **Related items:** Food supplements, counterfeit products, and clinical trials.\n\n4.  **Definition of Processes and Documents:** It explains critical procedures and required documentation, such as:\n    *   **The homologation (approval) process.**\n    *   **Batch release and lot identification.**\n    *   **Key documents:** Marketing authorization, certificates of analysis, and purchase orders.\n\n5.  **Definition of Infractions and Controls:** It outlines concepts like illicit importation, similar offenses (related to bypassing medical controls), and official inspections.\n\nIn summary, this section serves as a glossary of terms, laying the foundational legal definitions for all subsequent regulatory provisions and requirements discussed in the document.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "This partial document is the introductory section of a legal decree (Arrêté). It establishes the legal foundation and justification for the decree by citing the following main points:\n\n1.  **Legal References:** It lists several existing ordinances, international conventions (UN drug control treaties), and a ministerial order that serve as the legal basis for this new regulation.\n2.  **Context and Justification:** It outlines the international context of the medicine trade, specifically citing the problems of counterfeit, illicit, and sub-standard medicines as the primary reason requiring new national regulation.\n3.  **Objective:** The stated aim is to regulate the commerce of pharmaceutical products to guarantee medicine quality and protect public health.\n4.  **Declaration:** It formally declares the decree is issued due to necessity and urgency.\n5.  **Structure:** It indicates that the document will begin with a chapter dedicated to defining key terms.",
+            "line_num": 160
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0003",
+            "summary": "###### Article 10\n\nLes produits pharmaceutiques import�s doivent �tre canalis�s exclusivement vers\nles points d'entr�e d�sign�s et b�n�ficieront de l'enl�vement d'urgence\npour �tre achemin�s vers les entrep�ts sous douane. Ceux-ci doivent r�pondre aux\nbonnes pratiques de stockage.",
+            "line_num": 186
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0004",
+            "summary": "###### Article 11\n\nLes points d'entr�e et de sortie des produits pharmaceutiques sont ceux d�sign�s\npar les dispositions l�gales en vigueur en R�publique D�mocratique du Congo (cfr\nCode douanier).",
+            "line_num": 194
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0005",
+            "summary": "The partial document covers administrative control procedures for importing pharmaceutical products under international supervision. It specifies that control occurs in a customs warehouse with officials present, requires an export certificate from the exporting country, mandates sampling for analysis by a Pharmacien Inspecteur, and allows the importer to transfer products to their own warehouse pending favorable analysis results for commercialization.",
+            "line_num": 201
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0006",
+            "summary": "###### Article 13\n\nLa validit� de tout produit pharmaceutique qui entre dans le pays doit avoir au\nmoins le deux tiers de sa vie.",
+            "line_num": 215
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0007",
+            "summary": "###### Article 14\n\nLes produits pharmaceutiques ainsi import�s, ne seront commercialis�s qu'apr�s\nles r�sultats conformes des analyses..",
+            "line_num": 221
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0008",
+            "summary": "###### Article 15\n\nLes produits pharmaceutiques export�s doivent �tre canalis�s exclusivement vers\nles points de sortie d�sign�s.",
+            "line_num": 227
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0009",
+            "summary": "###### Article 16\n\nNe peuvent �tre export�s, que les produits pharmaceutiques fabriqu�s localement.\nEt exceptionnellement, ceux import�s fabriqu�s sous-traitance pour le compte du\nfabricant local.",
+            "line_num": 233
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0010",
+            "summary": "###### Article 17\n\nAucune importation ou exportation ne peut se faire par la poste.",
+            "line_num": 240
+          },
+          {
+            "title": "Article 18",
+            "node_id": "0011",
+            "summary": "###### Article 18\n\nLa p�riode de validit� d'une autorisation d'importation ou d'exportation est de\nsix mois,\nChapitre 3 : Collaboration entre services",
+            "line_num": 245
+          },
+          {
+            "title": "Article 19",
+            "node_id": "0012",
+            "summary": "This partial document lists the various services that collaborate with the Direction de la Pharmacie et du Médicament (DPM). It details the specific government agencies and international bodies involved, including their respective parent ministries. The list covers entities from finance, commerce, health, interior, justice, and international police cooperation.",
+            "line_num": 252
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0013",
+            "summary": "###### Article 2\n\nToute importation des produits pharmaceutiques en R�publique D�mocratique du\nCongo est soumise �\nl'obtention d'une autorisation d'importation d�livr�e par le Directeur-chef des\nservices de la Direction de la Pharmacie et du M�dicament (DPM) ou son d�l�gu�\ndument mandat�. Ceci concerne aussi le commerce transfrontalier.",
+            "line_num": 267
+          },
+          {
+            "title": "Article 20",
+            "node_id": "0014",
+            "summary": "###### Article 20\n\nTout cas des produits pharmaceutiques contrefaits sera port� � la connaissance\ndu Ministre de la Sant� Publique par le biais de la Direction de la Pharmacie et\ndu M�dicament (DPM); aux autorit�s de l'Organisation  Mondiale de la Sant� (OMS)\net aux Autorit�s Nationales de R�glementation Pharmaceutique (ANRP) des pays\nlimitrophes.",
+            "line_num": 276
+          },
+          {
+            "title": "Article 21",
+            "node_id": "0015",
+            "summary": "###### Article 21\n\nTout produit pharmaceutique contrefait sera confisqu� et d�truit conform�ment �\nla loi sans pr�judice des sanctions �ventuelles applicables � cette infraction.",
+            "line_num": 285
+          },
+          {
+            "title": "Article 22",
+            "node_id": "0016",
+            "summary": "###### Article 22\n\nL'Autorit� Nationale de R�glementation Pharmaceutique (ANRP) doit rendre\ndisponibles aux points d'entr�e, les listes compl�tes et r�guli�rement mises �\njour des produits ayant obtenus l'Autorisation de Mise sur le March� (AMM) et\ncelles des importateurs et structures autoris�s.",
+            "line_num": 291
+          },
+          {
+            "title": "Article 23",
+            "node_id": "0017",
+            "summary": "###### Article 23\n\nL'Autorit� Nationale de R�glementation Pharmaceutique (ANRP) et les services de\ndouane doivent partager r�guli�rement les informations relatives\naux produits retir�s du march� pour des raisons de s�curit� et de qualit� et\ncelles relatives aux produits pharmaceutiques contrefaits et aux infractions\nsimilaires.",
+            "line_num": 299
+          },
+          {
+            "title": "Article 24",
+            "node_id": "0018",
+            "summary": "###### Article 24\n\nApr�s chaque importation, les services de la douane sont pri�s de transmettre �\nla direction de la Pharmacie et du M�dicament ((DPM), une copie de la facture\nd�finitive et le volet de couleur rose du formulaire ad� hoc d'importation et\nl'Attestation de V�rification � l'Embarquement (AVE).\nChapitre 4 : Renseignements et documents exigibles � chaque importation ou �\nchaque exportation",
+            "line_num": 308
+          },
+          {
+            "title": "Article 25",
+            "node_id": "0019",
+            "summary": "This partial document outlines the required documentation for importing pharmaceutical products into the Democratic Republic of the Congo. It specifies two distinct sets of documents: those needed *before* the products arrive and those needed *upon arrival* at customs.\n\nThe main points covered are:\n\n1.  **Pre-arrival documents:** These include the supplier's final invoice, a pro-forma invoice (specifically for internationally controlled substances), the importer's purchase order, and a specific form from the National Pharmaceutical Regulatory Authority of the DRC.\n\n2.  **Documents required at customs upon arrival:** These include analysis certificates for the product batches, a copy of the DRC's special import license (for controlled substances), an export certificate from the exporting country (for controlled substances), a general import authorization for pharmaceuticals, and (again) the supplier's final invoice.",
+            "line_num": 318
+          },
+          {
+            "title": "Article 26",
+            "node_id": "0020",
+            "summary": "This partial document outlines the mandatory information required for a pharmaceutical product importation request. It lists 14 specific items that must be included, such as details about the importing establishment and pharmacist, comprehensive product identification (generic/commercial name, dosage, form, pharmacopoeia specifications), logistical and financial details (quantity, price, supplier/manufacturer information, invoice, country of origin, entry point), and the formal validation (date, signature, stamp) from the requesting pharmacist.",
+            "line_num": 340
+          },
+          {
+            "title": "Article 27",
+            "node_id": "0021",
+            "summary": "This partial document outlines the mandatory information required for an import application of internationally controlled pharmaceutical products. It lists 16 specific data points that must be included in the request, covering details about the applicant pharmacist, the product's identity and specifications, supply chain information, financial and customs details, and official authorization numbers.",
+            "line_num": 363
+          },
+          {
+            "title": "Article 28",
+            "node_id": "0022",
+            "summary": "###### Article 28\n\nToute autorisation d'importation ou licence sp�ciale d'importation �tablie sur\nbase des faux  renseignements sera annul�e.",
+            "line_num": 388
+          },
+          {
+            "title": "Article 29",
+            "node_id": "0023",
+            "summary": "This partial document outlines the mandatory information required for an export request of pharmaceutical products and internationally controlled substances. It lists fifteen specific elements that must be included, ranging from details about the exporting establishment and pharmacist, to product specifications, quantities, pricing, shipping information, and regulatory authorizations.",
+            "line_num": 394
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0024",
+            "summary": "###### Article 3\n\nToute exportation des produits pharmaceutiques de la R�publique D�mocratique\ndu Congo est soumise � l'obtention d'une autorisation d\"exportation d�livr�e par\nle Directeur-chef des services de la Direction de la Pharmacie et du M�dicament\n(DPM) ou son d�l�gu� dument mandat�. Ceci concerne aussi le commerce\ntransfrontalier.",
+            "line_num": 418
+          },
+          {
+            "title": "Article 30",
+            "node_id": "0025",
+            "summary": "###### Article 30\n\nToute autorisation d'exportation �tablie sur base des faux renseignements sera\nannul�e.",
+            "line_num": 427
+          },
+          {
+            "title": "Article 31",
+            "node_id": "0026",
+            "summary": "###### Article 31\n\nL'importation des mati�res premi�res pour la fabrication des produits\npharmaceutiques sous-contr�le international ne sera accord�e qu'aux laboratoires\nde fabrications qui en font des pr�parations.",
+            "line_num": 433
+          },
+          {
+            "title": "Article 32",
+            "node_id": "0027",
+            "summary": "###### Article 32\n\nL'importation des compl�ments alimentaires est soumise aux exigences\nd'importation d�crites dans le pr�sent Arr�t�.\nChapitre 5 : Cas de d�rogation aux exigences d'une autorisation d'importation",
+            "line_num": 440
+          },
+          {
+            "title": "Article 33",
+            "node_id": "0028",
+            "summary": "###### Article 33\n\nL'importation des dons des produits pharmaceutiques est g�r�e conform�ment aux\nlignes directrices sur les dons des produits pharmaceutiques.",
+            "line_num": 447
+          },
+          {
+            "title": "Article 34",
+            "node_id": "0029",
+            "summary": "###### Article 34\n\nL'Autorit� Nationale de R�glementation Pharmaceutique (ANRP) se r�serve le\npouvoir de d�roger aux exigences d'octroi des autorisations d'importation:\nEn ce qui concerne les produits pharmaceutiques import�s en r�ponse � des\nsituations d'urgence. Exceptionnellement aux demandes des cliniciens pour les\nquantit�s limit�es des produits pharmaceutiques non autoris�s pour les besoins\nsanitaires des patients sp�cifiques et identifi�s.",
+            "line_num": 453
+          },
+          {
+            "title": "Article 35",
+            "node_id": "0030",
+            "summary": "The partial document covers regulations for pharmaceutical products in the Democratic Republic of the Congo. The main points are:\n\n1.  **Authorization for Personal/Family Use:** Authorization for personal or family use is limited to a 28-day supply. Any supply beyond that requires prior approval from the Directorate of Pharmacy and Medicines (DPM) at the National Pharmaceutical Regulatory Authority (ANRP), based on a document jointly signed by a prescribing physician and a practicing pharmacist in the DRC.\n\n2.  **Clinical Trial Products:** Pharmaceutical products for clinical trials require a Temporary Use Authorization (ATU) before use. Their importation must be supported by a request from the organization conducting the clinical studies.\n\n3.  **Document Structure:** The text includes Article 35, Article 36, and introduces Chapter 6 on the \"Commercialization of pharmaceutical products.\"",
+            "line_num": 463
+          },
+          {
+            "title": "Article 37",
+            "node_id": "0031",
+            "summary": "###### Article 37\n\nLa vente des produits pharmaceutiques p�rim�s, alt�r�s, falsifi�s ou corrompus\nest interdite.",
+            "line_num": 480
+          },
+          {
+            "title": "Article 38",
+            "node_id": "0032",
+            "summary": "This partial document outlines the legally mandated distribution channels for pharmaceutical products. The main points covered are:\n\n1.  The authorized pharmaceutical distribution chain is defined in three hierarchical levels.\n2.  Manufacturing laboratories and wholesale distributors must supply only authorized wholesale establishments.\n3.  Wholesale establishments or distributors must supply authorized private pharmacies, internal pharmacies of authorized healthcare facilities, and hospital pharmacies of authorized public healthcare facilities.\n4.  Authorized private pharmacies are permitted to supply products to:\n    *   Patients (with or without a prescription as per law);\n    *   Dispensaries and private clinics based on specific lists from the Ministry of Health;\n    *   Owners of long-distance transport companies, school directors, and market managers for specific kits defined in an annex to a ministerial order.",
+            "line_num": 486
+          },
+          {
+            "title": "Article 39",
+            "node_id": "0033",
+            "summary": "###### Article 39\n\nToute vente et tout achat en gros des produits pharmaceutiques ne peut\ns'effectuer que sur pr�sentation d'un bon de commande d�ment sign� par le\nPharmacien titulaire/responsable d'un �tablissement pharmaceutique autoris�.\nL'original du bon de commande sera gard� par l'�tablissement de vente en gros,\ntandis que sa copie sera gard�e par l'�tablissement acheteur pour pr�sentation\nen cas de contr�le ou d'inspection.",
+            "line_num": 514
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0034",
+            "summary": "###### Article 4\n\nPeut obtenir une autorisation d'importation ou d'exportation, un\npharmacien d'un �tablissement pharmaceutique autoris� par le Minist�re de la\nSant� ou une organisation reconnue par le Minist�re de la Sant� et ayant un\npharmacien assumant la responsabilit� scientifique et.technique.",
+            "line_num": 524
+          },
+          {
+            "title": "Article 40",
+            "node_id": "0035",
+            "summary": "###### Article 40\n\nPour la distribution des produits sous-contr�le international, deux outils\nservent � la  gestion :\n1. Le bon  de commande affect� aux achats des stup�fiants, psychotropes et\npr�curseurs chimiques\n2. Le registre de comptabilit� pour le suivi et la tra�abilit� des stup�fiants,\ndes psychotropes et des pr�curseurs chimiques.",
+            "line_num": 532
+          },
+          {
+            "title": "Article 41",
+            "node_id": "0036",
+            "summary": "###### Article 41\n\nDans une formation hospitali�re, seule la  pharmacie sous la responsabilit� du\npharmacien, est le point unique de sa dispensation des soins pharmaceutiques.",
+            "line_num": 542
+          },
+          {
+            "title": "Article 42",
+            "node_id": "0037",
+            "summary": "###### Article 42\n\nToute importation, fabrication, exportation, commercialisation, d�tention,\nd�livrance et dispensation des stup�fiants, substances psychotropes et\npr�curseurs chimiques ne peut se faire que sous la responsabilit� stricte du\npharmacien.",
+            "line_num": 548
+          },
+          {
+            "title": "Article 43",
+            "node_id": "0038",
+            "summary": "###### Article 43\n\nTout importateur autoris� des produits\npharmaceutiques sous-contr�le international a l'obligation de pr�senter ses\nbesoins de l'ann�e en cours avant le15 f�vrier de l'ann�e.",
+            "line_num": 556
+          },
+          {
+            "title": "Article 44",
+            "node_id": "0039",
+            "summary": "###### Article 44\n\nTout importateur autoris�, des produits\npharmaceutiques sous-contr�le international, a l'obligation de faire rapport\nd'utilisation de ces produits tous les six mois � la Direction de la Pharmacie\net du M�dicament (DPM).",
+            "line_num": 563
+          },
+          {
+            "title": "Article 45",
+            "node_id": "0040",
+            "summary": "###### Article 45\n\nTout �chantillon m�dical destin� � la promotion des produits pharmaceutiques ne\npeut faire l'objet d'aucune vente et devra obligatoirement porter la mention\n��chantillon m�dical � ne pas ventre�.",
+            "line_num": 571
+          },
+          {
+            "title": "Article 46",
+            "node_id": "0041",
+            "summary": "###### Article 46\n\nLe Minist�re de la Sant� par le biais de ses services comp�tents, doit �valuer\ntous les 12 mois le niveau et la qualit� des produits de fabrication locale.",
+            "line_num": 578
+          },
+          {
+            "title": "Article 47",
+            "node_id": "0042",
+            "summary": "###### Article 47\n\nEn cas de besoin d'acquisition des produits pharmaceutiques exprim� par\nl'Etat congolais, tout bon de commande doit �tre adress� aux seuls\n�tablissements pharmaceutiques  autoris�s.",
+            "line_num": 584
+          },
+          {
+            "title": "Chapitre VIII : Dispositions finales",
+            "node_id": "0043",
+            "prefix_summary": "#### Chapitre VIII : Dispositions finales",
+            "line_num": 591,
+            "nodes": [
+              {
+                "title": "Article 48",
+                "node_id": "0044",
+                "summary": "###### Article 48\n\nLe commerce des produits pharmaceutiques doit respecter les marges b�n�ficiaires\nautoris�es telles que fix�es par le Minist�re de l'Economie.\nLa pratique des prix illicites est strictement interdite.\nDans la chaine logistique les prix sont d�termin�s comme suit:\n- Le fabricant, le grossiste r�partiteur fixent les prix grossiste ou prix\ncession  avec une marge de 20%\npour les grossistes\n- Le grossiste fixe le prix d�taillant ou prix public avec marge de 33% pour les\nofficines",
+                "line_num": 594
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0045",
+                "summary": "###### Article 49\n\nLes infractions aux  dispositions du pr�sent Arr�t� sont punies des sanctions\npr�vues par l'Ordonnance-loi n� 27 bis Hygi�ne du 15 mars 1933 sur l'exercice\nde la pharmacie sp�cialement en ses articles 62, 64 et aux dispositions des\ndiff�rentes conventions en vigueur.",
+                "line_num": 607
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0046",
+                "summary": "###### Article 5\n\nLa demande d'autorisation d'importation ou d'exportation des produits\npharmaceutiques est formul�e par le pharmacien responsable de l'�tablissement et\nadress�e � la Direction de la Pharmacie et du M�dicament (DPM).\nElle se fera sur un formulaire ad hoc �mis par la\nDirection de la Pharmacie et du M�dicament (DPM) d�ment rempli et sign� par le\npharmacien.",
+                "line_num": 615
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0047",
+                "summary": "###### Article 50\n\nToutes dispositions contraires au pr�sent Arr�t� sont abrog�es.",
+                "line_num": 625
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0048",
+                "summary": "###### Article 51\n\nLe Secr�taire g�n�ral � la Sant� Publique est charg� de l'ex�cution du pr�sent\nArr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 28 septembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 630
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0049",
+                "summary": "###### Article 6\n\nEst consid�r�e comme importation r�guli�re, celle dont l'obtention de\nl'autorisation d'importation a eu lieu avant l'embarquement des produits dans le\npays exportateur.",
+                "line_num": 643
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0050",
+                "summary": "###### Article 7\n\nL'importation des produits pharmaceutiques sous� contr�le internationale est\ncouverte par une licence sp�ciale sign�e exclusivement par le Directeur-chef des\nservices de la Direction de la Pharmacie et du M�dicament (DPM).",
+                "line_num": 650
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0051",
+                "summary": "###### Article 8\n\nToute structure importatrice des vaccins ou des produits biologiques doit\ngarantir le respect des conditions de la chaine de froid telles que fix�es par\nle fabricant des dits produits.",
+                "line_num": 657
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0052",
+                "summary": "###### Article 9\n\nSeuls les produits pharmaceutiques b�n�ficiant des Autorisations de\nMise sur le March� (AMM) seront autoris�s � �tre import�s ou export�s, except�\nles �chantillons soumis � l'homologation.",
+                "line_num": 664
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "cd39dd5c-1e01-49a7-a2aa-3c4f478904b0"
+    ],
+    "0002": [
+      "36eb4056-df54-46b1-8a8f-b78964e5f53d",
+      "5066743c-68c8-4f7c-9daa-5754ed4ffa8a"
+    ],
+    "0003": [
+      "36eb4056-df54-46b1-8a8f-b78964e5f53d",
+      "5066743c-68c8-4f7c-9daa-5754ed4ffa8a"
+    ],
+    "0004": [
+      "33b6c692-afc1-4df4-b3c5-e3c0e4abd3c3"
+    ],
+    "0005": [
+      "ff429b46-1f63-4748-87b0-9f6de33af961"
+    ],
+    "0006": [
+      "f4993a4c-974f-4ce2-8219-aad592d6f782"
+    ],
+    "0007": [
+      "f168cf04-c2da-49cc-88c6-36cb4eaf4a83"
+    ],
+    "0008": [
+      "5ed5452f-0d76-4c64-8f64-8c4369ba5e34"
+    ],
+    "0009": [
+      "d1904980-991a-4bf4-bd50-48944a2fcca5"
+    ],
+    "0010": [
+      "3f5798f4-24ab-470f-9160-48fb38d6bf06"
+    ],
+    "0011": [
+      "4d459487-c6c1-4bc7-bdaa-a53383f2cdfa"
+    ],
+    "0012": [
+      "e7d61c83-1aa7-4c3f-a392-6f02ef60daaa"
+    ],
+    "0013": [
+      "9da5db45-1d28-489e-9520-662d1f677f17"
+    ],
+    "0014": [
+      "9b2ae58b-c91a-4e4f-9255-94ce55b5bb85"
+    ],
+    "0015": [
+      "6ade98c6-cce0-4026-b6c6-9ad9dde99589"
+    ],
+    "0016": [
+      "a6d65902-ac7e-43c4-b046-961f3282be97"
+    ],
+    "0017": [
+      "a936d02b-3320-4358-b0d9-359c8aadc93a"
+    ],
+    "0018": [
+      "19f964f7-db0e-404e-8d97-5aeba559916b"
+    ],
+    "0019": [
+      "8bad9ea0-99eb-4598-ab2e-b0d554022a36"
+    ],
+    "0020": [
+      "f92d81c3-0a89-4b48-8f51-83459daeb7a2"
+    ],
+    "0021": [
+      "5c8af9e2-249f-4fd6-af28-894811ffd101"
+    ],
+    "0022": [
+      "ec706841-e97c-40a2-9338-b9201799f50e"
+    ],
+    "0023": [
+      "f32f9a0f-b243-4a4c-8cd6-8a454696b829"
+    ],
+    "0024": [
+      "be30e59e-94b9-4bf7-9568-ffc94e5e20e8"
+    ],
+    "0025": [
+      "4723e358-8a2c-4854-9871-ab03eec4b4f1"
+    ],
+    "0026": [
+      "69d4f37f-e615-4456-b31b-f8e9fceeb03b"
+    ],
+    "0027": [
+      "12617d05-27e8-4c8e-adce-42542a00cd3a"
+    ],
+    "0028": [
+      "d94d77ae-462b-45b2-9edf-77b533bb79af"
+    ],
+    "0029": [
+      "87beb6f5-e960-49c4-86a0-7698293eb5e4"
+    ],
+    "0030": [
+      "e8d231c7-a140-4bc0-b0bd-fb885b447a68"
+    ],
+    "0031": [
+      "c8893f34-d9c1-406f-b238-f6aa69e5bded"
+    ],
+    "0032": [
+      "5fb6a42a-44e0-4f7f-8b56-15fd5a26fdf8"
+    ],
+    "0033": [
+      "05a2d457-a85e-41f4-b5bf-d50d6b7964f9"
+    ],
+    "0034": [
+      "32768bbd-c801-4572-ba5d-a73d720f525d"
+    ],
+    "0035": [
+      "97d20b97-affd-4d02-8383-b313a12a9699"
+    ],
+    "0036": [
+      "7626bb19-5887-4fe6-b964-7fa659b59a8f"
+    ],
+    "0037": [
+      "b63cf59c-22be-4c8c-b3b4-4f87d0004850"
+    ],
+    "0038": [
+      "b01d16dc-bbe4-4d92-a05e-c4d47dacc6dc"
+    ],
+    "0039": [
+      "10e351e7-2498-4be4-9ae2-314c809a52f7"
+    ],
+    "0040": [
+      "6d9c047b-d291-4bdc-bb28-2339bee9a127"
+    ],
+    "0041": [
+      "8b588702-b4b9-47ba-a2d9-04980a19c29a"
+    ],
+    "0042": [
+      "d074f22f-897d-4210-8329-a3f1ec86a19f"
+    ],
+    "0044": [
+      "9aac1491-754f-45ee-8e29-d636b8ab177b"
+    ],
+    "0045": [
+      "ee517ba6-ad6e-4500-8ef8-291093021ffb"
+    ],
+    "0046": [
+      "dd39f4ca-7041-4f3e-8ff6-7b3c46fe952e"
+    ],
+    "0047": [
+      "62c0d929-a8fb-4df5-a851-0d5ad09b03cf"
+    ],
+    "0048": [
+      "ae86236e-1067-4867-900a-efe262c4cf46"
+    ],
+    "0049": [
+      "cf10785a-7274-4faf-b4e2-2fe8934b39f9"
+    ],
+    "0050": [
+      "9847759e-eacd-4daa-9f5a-969283fd1038"
+    ],
+    "0051": [
+      "6aae517b-4308-4268-b6b9-058161b37bfa"
+    ],
+    "0052": [
+      "3bfdd75c-d3c0-46bc-98c3-6f2b6c95524d"
+    ]
+  },
+  "node_count": 53,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:37:57.355651",
+  "article_count": 51,
+  "generation_time_s": 26.664856910705566
+}

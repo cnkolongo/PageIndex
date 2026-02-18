@@ -1,0 +1,759 @@
+{
+  "slug": "AM-01-04-2016-2016",
+  "bundle_path": "backups/all_bundles/code/AM-01-04-2016-2016.json",
+  "document_id": "00cfc301-0d56-4e65-b811-490c86e926bd",
+  "document_title": "AM.01.04.2016",
+  "tree_json": {
+    "doc_name": "AM-01-04-2016-2016",
+    "doc_description": "This document is a Congolese government decree (Arrêté AM.01.04.2016) that defines detailed quality standards, classification methods, packaging, and export procedures for coffee, cocoa, rubber, cinchona (quinquina), rauwolfia, vanilla, pyrethrum, and ginger.",
+    "structure": [
+      {
+        "title": "AM.01.04.2016",
+        "node_id": "0000",
+        "prefix_summary": "# AM.01.04.2016",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLes lots de pyr�thre destin�s � l�exportation doivent appartenir � l�esp�ce\nChrysanth�me.\nIls doivent en outre pr�senter les caract�ristiques ci-apr�s :\n-\nEtre secs ;\n-\nEtre propres ;\n-\nSans moisissures, ni odeurs d�sagr�ables ;\n-\nExempts des mati�res �trang�res ;\n-\nAvoir un taux d�humidit� tol�r� de 10 %.\nDu Gingembre",
+            "line_num": 4
+          },
+          {
+            "title": "Titre III",
+            "node_id": "0002",
+            "prefix_summary": "#### Titre III",
+            "line_num": 22,
+            "nodes": [
+              {
+                "title": "Article 11",
+                "node_id": "0003",
+                "summary": "This partial document defines the specific quality standards for Congolese ginger intended for export. The main points covered are the required botanical species (Zingiber officinale) and a list of mandatory characteristics: the ginger must be whole, sound, free from rot or foreign odors/flavors, clean, free of visible foreign matter and damage, firm, without serious abrasions, sufficiently dry for transport, and have a moisture content of 11-12%. It also indicates the text is part of a section or chapter on quality determination.",
+                "line_num": 25
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nLes produits agricoles destin�s � l�exportation repris dans le pr�sent Arr�t�\ndoivent �tre stock�s dans les usines et entrep�ts de l�ONC ou dans ceux agr��s\npar lui.",
+                "line_num": 47
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0005",
+                "summary": "###### Article 13\n\nLa d�termination de la qualit� des lots des produits agricoles mieux identifi�s\ndans le pr�sent Arr�t� doit �tre effectu�e par l�Office National du Caf�.",
+                "line_num": 54
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nLes d�cisions de l�Office National du Caf� concernant la qualit� et le\nconditionnement des produits agricoles � l�exportation sont susceptibles d�un\npremier recours aupr�s de la Direction g�n�rale qui en la mati�re peut\ns�entourer d�experts �trangers � l�Office.\nUn dernier recours est introduit aupr�s du Minist�re de l�Agriculture, P�che et\nElevage.",
+                "line_num": 60
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0007",
+                "summary": "###### Article 15\n\nLa validit� du Certificat de qualit� des produits agricoles destin�s �\nl�exportation est reprise dans le tableau ci-dessous.\nProduit\nValidit� (jours)\n1. Caf�\n45\n2. Cacao\n30\n3. Caoutchouc\n60\n4. Quinquina\n45\n5. Rauwolfia\n30\n6. Vanille\n30\n7. Pyr�thre\n10\n8.\nGingembre\n30\nAu-del� de cette dur�e, le produit est r�examin� au laboratoire de l�ONC et\nproc�d� � la prolongation du C.Q.",
+                "line_num": 70
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II : Classification des qualit�s, description technique et mode",
+            "node_id": "0008",
+            "prefix_summary": "#### Chapitre II : Classification des qualit�s, description technique et mode",
+            "line_num": 97,
+            "nodes": [
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "###### Article 16\n\nLa responsabilit� de l�Office National du Caf� ne peut jamais �tre mise en cause\npar l�exportateur ou par le tiers du fait de la d�livrance du Certificat de\nqualit�.\n\nop�ratoire\nSection 1 : Du caf�\na. Classification",
+                "line_num": 100
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "The partial document covers the classification system for Congolese coffee, specifically detailing the defect-based grading criteria. It lists the five main classification factors: number of defects, granulometry, roast state, liquor, and color. It then provides a detailed defect scoring table, assigning point values to various types of defective beans and foreign materials (e.g., broken beans, black beans, stones, wood). Finally, it includes definitions for key terms used in the defect table, such as \"black bean,\" \"dry cherry,\" and \"foreign matter.\" The focus is entirely on the technical standards for evaluating coffee bean quality.",
+                "line_num": 111
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "This partial document is a section of a regulatory or standards decree (Article 18 of an \"Arrêté\") that defines the official commercial types and quality specifications for coffee beans. It covers:\n\n1.  **Establishment of Types:** It creates 5 commercial types for Robusta coffee and 6 for Arabica coffee.\n2.  **General Robusta Specifications:** It lists baseline requirements for all Robusta coffee, including normal odor, a maximum moisture content of 12%, acceptable sieve sizes (17, 15, 13), and a requirement that 70% of beans be retained by the designated sieve.\n3.  **Detailed Robusta Standards:** It provides specific, graded criteria for two Robusta processing methods:\n    *   **Robusta Washed (RW):** Defines five subtypes (RW1 to RW5), each with requirements for homogeneous green color (for higher grades), maximum allowed defects per sample, liquor quality, roasting performance (\"burner\" quality), and tolerance for foreign matter.\n    *   **Robusta Natural (RN):** Defines five subtypes (RN1 to RN5), with similar graded criteria but for beans of a brownish color, with different defect thresholds.\n4.  **Arabica Standards:** It begins detailing specifications for washed Arabica (AW), defining the first six subtypes (AW1 to AW6). The criteria include color (bluish or greenish), maximum defects, liquor quality, roasting performance, and a specific sieve size requirement for each type (e.g., sieve 20 for AW1, sieve 18 for AW2).\n5.  **Reference Table:** It includes a table correlating sieve numbers (10-20) to their mesh dimensions in millimeters, which is essential for interpreting the sizing requirements mentioned in the standards.",
+                "line_num": 204
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0012",
+                "summary": "###### Article 19\n\nSont admis � l�exportation, les types Robusta et Arabica faisant l�objet de\nl�article 18 du pr�sent Arr�t�.\nLes caf�s hors normes pourront �tre export�s dans des conditions qui feront\nl�objet d�une r�glementation particuli�re.\nb. Mode op�ratoire",
+                "line_num": 461
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "###### Article 20\n\nL��chantillonnage global doit �tre effectu� sur les lots pr�sent�s au contr�le.\nLe pr�l�vement �l�mentaire est effectu� par sondage conform�ment � l�ISO 4072.\nToutefois, l��chantillonneur pourra, s�il le juge n�cessaire, faire proc�der au\npr�l�vement par vidange des sacs.",
+                "line_num": 470
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "###### Article 21\n\nL��chantillon pour analyse est pr�par� en pr�levant 300 grammes au moins de\nl��chantillon global m�lang�.\nCe dernier est divis� en 3 parties :\n-\nLa 1re\npartie est mise � la disposition de l�exportateur, en sachet cachet� au sceau de\nl�ONC ;\n-\nLa 2e\npartie plac�e en r�cipient m�tallique bien ferm� ; �tant conserv�e par l�ONC\npour r�f�rence\nult�rieure �ventuelle, pendant 6 mois � partir de la date de l�exportation ;\n-\nLa 3e partie soumise � l�examen.",
+                "line_num": 478
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur la granulom�trie, le\nnombre des d�fauts, les qualit�s du torr�fi� et la liqueur est certifi� par un\npanel de 3 taxateurs de l�ONC.",
+                "line_num": 496
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nLes quantit�s livrables au contr�le sont de 3 tonnes au minimum et 19,2 tonnes\nau plus. Les lots seront homog�nes. Ils ne devront pr�senter ni � l�int�rieur de\nchaque sac, ni d�un sac � l�autre, de diff�rences sensibles dans leurs\ncaract�ristiques.",
+                "line_num": 503
+              },
+              {
+                "title": "Section 2 : Du Cacao",
+                "node_id": "0017",
+                "prefix_summary": "##### Section 2 : Du Cacao",
+                "line_num": 511,
+                "nodes": [
+                  {
+                    "title": "Article 24",
+                    "node_id": "0018",
+                    "summary": "###### Article 24\n\nNe sont pas soumises au certificat de qualit� les exportations documentaires\nportant sur un poids maximum de 60 Kg net de caf� vert.\nToutefois, sont consid�r�s comme lot unique, les envois effectu�s par le m�me\nexportateur au m�me destinataire, pr�sent�s simultan�ment � l�exportation et\nn�exc�dant pas un poids de 60 kgs de caf� vert.\n\na. Classification",
+                    "line_num": 514
+                  },
+                  {
+                    "title": "Article 25",
+                    "node_id": "0019",
+                    "summary": "This partial document defines the classification criteria for cocoa beans based on defects identified through a cut test. It specifies that the count is performed on a 1500-gram sample and provides detailed definitions for three main defect categories: moldy beans, slaty beans, and other defective beans (which include insect-damaged, flat, and germinated beans). It also establishes a rule for beans with multiple defects and includes a note that insufficiently fermented \"compact purple\" beans are counted as slaty beans.",
+                    "line_num": 525
+                  },
+                  {
+                    "title": "Article 26",
+                    "node_id": "0020",
+                    "summary": "The partial document outlines the classification system for cocoa beans into six commercial grades. It defines general characteristics (normal odor and moisture content ≤ 8%) and then provides specific, quantitative criteria for each grade (I through VI). These criteria include the number of beans per 100 grams, the weight of 100 beans, and maximum allowable percentages for defective beans (moldy, slate-colored, and other defects). The document also defines two categories of residue based on the size of broken bean fragments.",
+                    "line_num": 565
+                  },
+                  {
+                    "title": "Article 27",
+                    "node_id": "0021",
+                    "summary": "###### Article 27\n\nSont admis � l�exportation, les lots de cacao class�s grade 1, grade 2 et grade\n3 tels que d�finis � l�article 26 ci-dessus. L�exportation des lots de cacao de\ngrade 4, 5, 6 ainsi que les r�sidus (grandes et petites brisures) ne peut �tre\neffectu�e que sur autorisation pr�alable du Directeur g�n�ral de l�ONC.\nc : Mode op�ratoire",
+                    "line_num": 656
+                  },
+                  {
+                    "title": "Article 28",
+                    "node_id": "0022",
+                    "summary": "###### Article 28\n\nL��chantillonnage global doit �tre effectu� sur les lots pr�sent�s au contr�le.\nLe pr�l�vement �l�mentaire est effectu� par sondage conform�ment � l�ISO\n2292-1973. Toutefois, l��chantillonneur pourra, s�il le juge n�cessaire, faire\nproc�der au pr�l�vement par vidange des sacs.",
+                    "line_num": 665
+                  },
+                  {
+                    "title": "Article 29",
+                    "node_id": "0023",
+                    "summary": "###### Article 29\n\nL��chantillon pour analyse est pr�par� sur base de l��chantillon global m�lang�\nde 1500 grammes. Ce dernier est divis� en 3 parties :\n-\nLa 1re\npartie est mise � la disposition de l�exportateur en sachet cachet� au sceau de\nl�ONC.\n-\nla 2e\npartie est plac�e en r�cipient m�tallique bien ferm� et conserv� par l�ONC\npendant 6 mois pour\nr�f�rence ult�rieure �ventuelle.\n-\nLa 3e\npartie est soumise � l�examen.",
+                    "line_num": 673
+                  }
+                ]
+              },
+              {
+                "title": "Section 3 : Du Caoutchouc",
+                "node_id": "0024",
+                "prefix_summary": "##### Section 3 : Du Caoutchouc",
+                "line_num": 691,
+                "nodes": [
+                  {
+                    "title": "Article 30",
+                    "node_id": "0025",
+                    "summary": "###### Article 30\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur le triage des d�fauts,\nle d�nombrement, l��clatement des f�ves, le pourcentage des f�ves d�fectueuses\net le taux d�humidit� est certifi� par un panel de 3 taxateurs de l�ONC et\nconsign� dans un bulletin d�analyse donnant � l��tablissement d�un certificat de\nqualit�.\n\na. Classification",
+                    "line_num": 694
+                  },
+                  {
+                    "title": "Article 31",
+                    "node_id": "0026",
+                    "summary": "###### Article 31\n\nLa classification du caoutchouc congolais est bas�e sur le mode d�usinage\nretenu.\nb. Description technique",
+                    "line_num": 705
+                  },
+                  {
+                    "title": "Article 32",
+                    "node_id": "0027",
+                    "summary": "This partial document establishes commercial types and quality standards for botanical rubber products. It defines three main types: smoked sheets (RSS) and crepes, granulated rubber, and concentrated liquid latex. The core of the text is a detailed list of defects and impurities that constitute a \"default\" for sheets and crepes, such as adulterated or impure rubber, bark particles, stains, bubbles, discoloration, foreign matter, and various states of degradation (e.g., overheated, spotted, oxidized rubber). It also outlines specific quality failures for granulated rubber, referencing ISO 2000 standards and the article's own specifications.",
+                    "line_num": 712
+                  },
+                  {
+                    "title": "Article 33",
+                    "node_id": "0028",
+                    "summary": "This partial document is a section of a legal or regulatory text (Article 33) from the Democratic Republic of Congo, specifying the quality standards for its natural rubber production. It details three main product categories:\n\n1.  **Smoked Sheets (Ribbed Smoked Sheets - RSS):** It defines five superior grades (RSS 1 to RSS 5), each with progressively less stringent specifications for color, uniformity, size, and allowable minor defects like bubbles or bark particles. It then lists six inferior quality sheet types (CUT, Lumps, SK, Wash, Comp, Scrap), which are made from cuttings, waste, or coagulated scrap, with requirements to be free of mold and sticky rubber.\n\n2.  **Granules or TSR Products:** It states the DRC produces TSR 20 grade granules and lists their technical characteristics, including maximum percentages for impurities, ash, nitrogen, volatile matter, and specified values for Plasticity (P.O) and Plasticity Retention Index (P.R.I), with a brown color.\n\n3.  **Concentrated Liquid Latex:** It sets a minimum standard of 60% rubber content for this product.",
+                    "line_num": 822
+                  },
+                  {
+                    "title": "Article 34",
+                    "node_id": "0029",
+                    "summary": "###### Article 34\n\nSont admis � l�exportation les feuilles fum�es de qualit� sup�rieure, les\ngranul�s TSR de caract�ristiques techniques reprises � l�art. 33 point b et le\nlatex concentr� liquide qui titre au minimum 60 % de caoutchouc �galement �\nl�art. 33 point c.\nLes caoutchoucs de qualit� inf�rieure pourront �tre export�s dans les conditions\nqui feront l�objet d�une r�glementation particuli�re.\nc) Mode op�ratoire",
+                    "line_num": 906
+                  },
+                  {
+                    "title": "Article 35",
+                    "node_id": "0030",
+                    "summary": "###### Article 35\n\nL��chantillonnage global est effectu� sur les lots pr�sent�s au contr�le. Le\npr�l�vement �l�mentaire est effectu� avec un appareillage sp�cifique selon les\ncrit�res en usage.",
+                    "line_num": 917
+                  },
+                  {
+                    "title": "Article 36",
+                    "node_id": "0031",
+                    "summary": "###### Article 36\n\nL��chantillon pour analyse est pr�par� en pr�levant de l��chantillon global\nm�lang� des morceaux des\nfeuilles des balles destin�es � l�exportation. Ce dernier est divis� en trois\nparties :\n-\nLa premi�re est mise � la disposition de l�exportateur, en sachet cachet� au\nsceau de l�ONC.\n-\nLa deuxi�me partie plac�e en r�cipient m�tallique bien ferm� ; �tant conserv�e\npar l�ONC pour\nr�f�rence ult�rieure �ventuelle, pendant 6 mois � partir de la date de\nl�exportation ;\n-\nLa troisi�me partie soumise � l�examen.",
+                    "line_num": 924
+                  }
+                ]
+              },
+              {
+                "title": "Section 4 : Du quinquina",
+                "node_id": "0032",
+                "prefix_summary": "##### Section 4 : Du quinquina",
+                "line_num": 942,
+                "nodes": [
+                  {
+                    "title": "Article 37",
+                    "node_id": "0033",
+                    "summary": "###### Article 37\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur le mode d�usinage retenu\n(physique ou visuel pour les feuilles et les cr�pes chimiques pour le granul� et\nle latex concentr� liquide) est certifi� par un panel de 3 taxateurs de l�ONC,\net consign� dans un CQ.\n\na. Classification",
+                    "line_num": 945
+                  },
+                  {
+                    "title": "Article 38",
+                    "node_id": "0034",
+                    "summary": "###### Article 38\n\nLa classification du quinquina est d�termin�e par la teneur en quinine alcalo�de\nAnhydre (QAA).\nb. Description technique",
+                    "line_num": 955
+                  },
+                  {
+                    "title": "Article 39",
+                    "node_id": "0035",
+                    "summary": "This partial document defines a classification system for cinchona bark (quinquina) intended for export. It establishes seven categories (I through VII), each with specific quality criteria. The main points covered are:\n\n1.  **General Requirements:** For all categories, lots must consist of bark from the same cinchona variety, be healthy, dry, clean, and free from visible defects and foreign matter. Most categories also require a generally homogeneous appearance and color.\n\n2.  **Category-Specific Standards:** The primary distinguishing factor between categories is the required minimum content of Quinine Alkaloids (QAA - *Quinine Alcaloïdes*):\n    *   **Category I:** QAA content equal to or greater than 75% (specified for \"Poudre de totaquina\").\n    *   **Category II:** QAA content between 7.5% and 9.5%.\n    *   **Category III:** QAA content of 7%.\n    *   **Category IV:** QAA content of 6.5%.\n    *   **Category V:** QAA content of 6%.\n    *   **Category VI:** QAA content of 5.5%.\n    *   **Category VII:** QAA content of 5%.\n\nThe document is a regulatory text setting the official quality grades for exported cinchona bark based on alkaloid content and physical characteristics.",
+                    "line_num": 962
+                  },
+                  {
+                    "title": "Article 40",
+                    "node_id": "0036",
+                    "summary": "###### Article 40\n\nSont admis � l�exportation, les lots de quinquina repris � l�article 39 du\npr�sent Arr�t�. Les lots de quinquina hors cat�gorie pourront �tre export�s dans\ndes conditions qui feront l�objet d�une r�glementation particuli�re.\nc. Mode op�ratoire",
+                    "line_num": 998
+                  },
+                  {
+                    "title": "Article 41",
+                    "node_id": "0037",
+                    "summary": "###### Article 41\n\nL��chantillonnage global doit �tre effectu� sur les lots pr�sent�s au contr�le.\nLe pr�l�vement �l�mentaire est effectu�, par ouverture des sacs pris au hasard\nconform�ment � l�ISO 4072 ;",
+                    "line_num": 1006
+                  },
+                  {
+                    "title": "Article 42",
+                    "node_id": "0038",
+                    "summary": "###### Article 42\n\nL��chantillon pour analyse est pr�par� en pr�levant 300 grammes au moins de\nl��chantillon global m�lang� et ce pendant le conditionnement. Ce dernier est\ndivis� en 3 parties :\n_\nLa 1re\npartie est mise � la disposition de l�exportateur, en sachet cachet� au sceau de\nl�ONC ;\n_\nLa 2e\npartie plac�e en r�cipient m�tallique bien ferm� ; �tant conserv�e par l�ONC\npour r�f�rence\nult�rieure �ventuelle, pendant 6mois � partir de la date de l�exportation ;\n_\nLa 3e\npartie soumise � l�examen.",
+                    "line_num": 1013
+                  }
+                ]
+              },
+              {
+                "title": "Section 5 : Du Rauwolfia",
+                "node_id": "0039",
+                "prefix_summary": "##### Section 5 : Du Rauwolfia",
+                "line_num": 1032,
+                "nodes": [
+                  {
+                    "title": "Article 43",
+                    "node_id": "0040",
+                    "summary": "###### Article 43\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur la teneur en quinine\nAlcalo�de anhydre (QAA) fix� par polarim�trie et spectrophotom�trie est certifi�\npar un panel de 3 taxateurs de l�ONC, et\nconsign� dans un certificat de qualit�.\n\na. Classification",
+                    "line_num": 1035
+                  },
+                  {
+                    "title": "Article 44",
+                    "node_id": "0041",
+                    "summary": "###### Article 44\n\nLes Rauwolfia congolais sont pr�sent�s sous forme d��corces.\nLe classement des Rauwolfia congolais est bas� sur :\n_\nDimensions des racines/fragments ;\n_\nLongueur 3-4 cm;\n_\nDiam�tre �-2cm;\n_\nEpaisseur 1 m/m;\n_\nColoration d��corces (rhytidome) brun�tre, terne, gris sale, mate ;\n_\nAspect g�n�ral des �corces : rid�, peu �paisse, duveteuse ;\n_\nTeneur en alcalo�des totaux 4-6 %;\n_\nTeneur en reserpine 0,4-0,5 %.\nb. Description technique",
+                    "line_num": 1045
+                  },
+                  {
+                    "title": "Article 45",
+                    "node_id": "0042",
+                    "summary": "###### Article 45\n\nIl est cr�� une qualit� unique de Rauwolfia de la R�publique D�mocratique du\nCongo ainsi d�nomm�e Rauwolfia RDC Exportable.\nLa teneur en r�serpine est le crit�re dominant de la classification des\nRauwolfia congolais.\nElle est de 0,4 � 0,5 %.",
+                    "line_num": 1068
+                  },
+                  {
+                    "title": "Article 46",
+                    "node_id": "0043",
+                    "summary": "###### Article 46\n\nSont admis � l�exportation les lots de rauwolfia faisant l�objet de l�article 45\ndu pr�sent Arr�t�. Les lots de rauwolfia de qualit�s diff�rentes � celles\nreprises � l�article 45 ci-dessus pourront �tre export�s dans des conditions qui\nferont l�objet d�une r�glementation particuli�re.\nc. Mode op�ratoire",
+                    "line_num": 1077
+                  },
+                  {
+                    "title": "Article 47",
+                    "node_id": "0044",
+                    "summary": "###### Article 47\n\nL��chantillonnage global doit �tre effectu� sur les lots pr�sent�s au contr�le.\nLe pr�l�vement �l�mentaire est effectu� dans les diff�rents sacs pris au hasard\nsuivant les usages\ncommerciaux.",
+                    "line_num": 1086
+                  }
+                ]
+              },
+              {
+                "title": "Section 6 : De la vanille",
+                "node_id": "0045",
+                "prefix_summary": "##### Section 6 : De la vanille",
+                "line_num": 1094,
+                "nodes": [
+                  {
+                    "title": "Article 48",
+                    "node_id": "0046",
+                    "summary": "The partial document outlines procedures for sampling, analysis, and quality classification of vanilla. It specifies that a 600g sample is taken from a larger 1800g batch and divided into three sealed portions: one for the exporter, one archived by the ONC for six months, and one for official examination. The analysis result for reserpine content is certified by a panel and recorded. Finally, it states that the quality of whole or powdered vanilla is classified based on defects, pod dimensions, moisture, and vanillin content.",
+                    "line_num": 1097
+                  },
+                  {
+                    "title": "Article 51",
+                    "node_id": "0047",
+                    "summary": "This partial document defines the official commercial quality grades for whole vanilla pods in the Democratic Republic of the Congo. It establishes six grades (CGO1 NF, CGO1 F, CGO2 NF, CGO2 F, CGO3 NF, CGO3 F) and specifies the detailed physical characteristics for each, including requirements for condition (whole, split/fendue), flexibility, health, flavor, color, minimum length, maximum moisture content, average diameter, and permissible surface blemishes.",
+                    "line_num": 1128
+                  },
+                  {
+                    "title": "Article 52",
+                    "node_id": "0048",
+                    "summary": "###### Article 52\n\nL��chantillonnage global doit �tre effectu� sur les lots pr�sent�s au contr�le.\nLe pr�l�vement �l�mentaire est effectu� conform�ment � l�ISO 948 �pices\n�chantillonnage.",
+                    "line_num": 1169
+                  },
+                  {
+                    "title": "Article 53",
+                    "node_id": "0049",
+                    "summary": "###### Article 53\n\nLa v�rification portera sur les caisses des lots � l�exportation.\nLe pr�l�vement �l�mentaire est effectu� avec un appareil d��chantillonnage\nappropri� dans les diff�rentes parties des caisses suivant l�ISO 28 25 �pices.",
+                    "line_num": 1176
+                  },
+                  {
+                    "title": "Article 54",
+                    "node_id": "0050",
+                    "summary": "###### Article 54\n\nL��chantillon global m�lang� est de 600 g. Il est divis� en 3 parties �gales :\n_\nLa 1re\npartie est mise � la disposition de l�exportateur, en sachet cachet� au sceau de\nl�ONC ;\n_\nLa 2e\npartie plac�e en r�cipient m�tallique bien ferm� ; �tant conserv�e par l�ONC\npour r�f�rence\nult�rieure �ventuelle, pendant 6 mois � partir de la date de l�exportation ;\n_\nLa 3e\npartie soumise � l�examen.",
+                    "line_num": 1183
+                  },
+                  {
+                    "title": "Article 55",
+                    "node_id": "0051",
+                    "summary": "###### Article 55\n\nLe r�sultat de l�examen de l��chantillon moyen, bas� sur les d�fauts, la teneur\nen eau, les dimensions et la teneur en vanilline de la gousse fix�e par\nspectrophotom�trie, est certifi� par un panel de 3 taxateurs de l�ONC.",
+                    "line_num": 1200
+                  }
+                ]
+              },
+              {
+                "title": "Section 7 : Du pyr�thre",
+                "node_id": "0052",
+                "prefix_summary": "##### Section 7 : Du pyr�thre",
+                "line_num": 1207,
+                "nodes": [
+                  {
+                    "title": "Article 56",
+                    "node_id": "0053",
+                    "summary": "###### Article 56\n\nSont admis � l�exportation les lots de vanille faisant l�objet de l�article 51\ndu pr�sent Arr�t�.\nLes lots de vanille de qualit�s diff�rentes � celles d�crites � l�article 51\nci-dessus pourront �tre export�s dans des conditions qui feront l�objet d�une\nr�glementation particuli�re.\n\na. Classification",
+                    "line_num": 1210
+                  },
+                  {
+                    "title": "Article 57",
+                    "node_id": "0054",
+                    "summary": "###### Article 57\n\nLe classement du pyr�thre congolais est bas� sur l�analyse chimique.\nb. : Description technique",
+                    "line_num": 1221
+                  },
+                  {
+                    "title": "Article 58",
+                    "node_id": "0055",
+                    "summary": "This partial document defines three commercial types of pyrethrum (a botanical product) and specifies their composition standards. The types are: Pyrethrum in Flower, Pyrethrum in Powder, and Pyrethrum in Extract. For each type, the document lists the required content percentages of oleoresin (pyrethrol), alkaloids (pyrethrine), and essence. The specifications vary depending on the form and the processing method (dried leaves, ground leaves, or distilled dried flowers).",
+                    "line_num": 1227
+                  },
+                  {
+                    "title": "Article 59",
+                    "node_id": "0056",
+                    "summary": "###### Article 59\n\nSont admis � l�exportation les lots de pyr�thre faisant l�objet de l�article\n51du pr�sent Arr�t�.\nLes lots de pyr�thre de qualit�s diff�rentes � celles d�finies � l�article 58\nci-dessus pourront �tre export�s dans des conditions qui feront l�objet d�une\nr�glementation particuli�re.\nc. Mode op�ratoire",
+                    "line_num": 1257
+                  },
+                  {
+                    "title": "Article 60",
+                    "node_id": "0057",
+                    "summary": "###### Article 60\n\nL��chantillon pour laboratoire est pr�par� en pr�levant de l��chantillon global\nm�lang� les fleurs ou\npoudres de pyr�thre destin� � l�exportation.\nL��chantillon global m�lang� de 1500 gr est divis� en trois parties.\n-\nLa premi�re partie est mise � la disposition de l�exportateur en sachet cachet�\nau sceau de l�Office National du Caf� ;\n-\nLa deuxi�me partie plac�e en r�cipient m�tallique �tant conserv�e par l�Office\nNational du Caf� pour\nr�f�rence ult�rieure �ventuelle, pendant 6 mois � partir de la date de\nl�exportation,\n-\nLa troisi�me partie est soumise � l�analyse.",
+                    "line_num": 1267
+                  },
+                  {
+                    "title": "Article 61",
+                    "node_id": "0058",
+                    "summary": "###### Article 61\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur la teneur en ol�or�sine\n(pyrethrol) en alcalo�des (pyr�thrine) et en essence fix� par analyse chimique\nest certifi� par un panel de trois taxateurs de l�Office National du Caf� et\nconsign� dans un certificat de qualit�.",
+                    "line_num": 1285
+                  }
+                ]
+              },
+              {
+                "title": "Section 8 : Du gingembre",
+                "node_id": "0059",
+                "prefix_summary": "##### Section 8 : Du gingembre",
+                "line_num": 1293,
+                "nodes": [
+                  {
+                    "title": "Article 62",
+                    "node_id": "0060",
+                    "summary": "###### Article 62\n\nNe sont pas soumis au certificat de qualit�, les exportations documentaires\nportant sur un poids maximum de 30 Kgs net de pyr�thre.\nToutefois est consid�r� comme lot unique soumis au certificat de qualit� le lot\nde pyr�thre de 60 Kgs net.\n\na. Classification",
+                    "line_num": 1296
+                  },
+                  {
+                    "title": "Article 63",
+                    "node_id": "0061",
+                    "summary": "###### Article 63\n\nLa classification du gingembre est d�termin�e par les d�fauts et le calibre.\nLe calibre du gingembre est d�termin� par le poids de mani�re suivante :\nCode calibre Poids (grammes)\nA\n300\nB\n200\nC\n150\nOn entend par d�fauts :\n�\nPourriture ;\n�\nAlt�rations profondes;\n�\nD�fauts de l��piderme non sec ;\n�\n�corchures graves ;\n�\nDommages caus�s par les ravageurs ;\n�\nHumidit� excessive ;\n�\nMeurtrissures ;\n�\nSigne de bourgeonnement ;\n�\nFl�trissement ;\n�\nPr�sence des odeurs et saveurs �trang�res.\nb. Description technique",
+                    "line_num": 1306
+                  },
+                  {
+                    "title": "Article 64",
+                    "node_id": "0062",
+                    "summary": "This partial document establishes three quality categories (I, II, and III) for a botanical species of ginger. It defines the specific characteristics, allowable defects, and tolerance limits for each category. Category I is the highest quality (Calibre A), Category II is of good quality (Calibre B), and Category III meets minimum standards. The text details requirements for root formation, condition, defects, and permissible tolerances for non-conforming produce within each class.",
+                    "line_num": 1341
+                  },
+                  {
+                    "title": "Article 65",
+                    "node_id": "0063",
+                    "summary": "###### Article 65\n\nSont admis � l�exportation, les lots de gingembre faisant l�objet de l�article\n64 du pr�sent Arr�t�.\nLes lots de gingembre de qualit�s diff�rentes � celles reprises � l�article 64\nci-dessus pourront �tre export�s dans des conditions qui feront l�objet d�une\nr�glementation particuli�re.\nc. Mode op�ratoire",
+                    "line_num": 1401
+                  },
+                  {
+                    "title": "Article 66",
+                    "node_id": "0064",
+                    "summary": "###### Article 66\n\nL��chantillonnage global doit �tre effectu� sur les sacs/filets des lots\npr�sent�s au contr�le par l�Office National du Caf�.\nLe pr�l�vement �l�mentaire est effectu� conform�ment � l�ISO\n948/�chantillonnage.",
+                    "line_num": 1411
+                  },
+                  {
+                    "title": "Article 67",
+                    "node_id": "0065",
+                    "summary": "###### Article 67\n\nL��chantillon pour analyse est pr�par� sur base de l��chantillon global m�lang�\nde 2 kg suivant ISO 948\n�pices. Ce dernier est divis� en 3 parties :\n�\nLa 1re\npartie est mise � la disposition de l�exportateur, en sachet cachet� au sceau de\nl�Office\nNational du Caf� ;\n�\nLa 2e\npartie plac�e en r�cipient m�tallique bien ferm� ; �tant conserv�e par l�Office\nNational du Caf� pour r�f�rence ult�rieure �ventuelle, pendant 6 mois � partir\nde la date de l�exportation ;\n�\nLa 3e\npartie soumise � l�examen.",
+                    "line_num": 1419
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Titre IV : De l�emballage et du marquage",
+            "node_id": "0066",
+            "prefix_summary": "#### Titre IV : De l�emballage et du marquage",
+            "line_num": 1439,
+            "nodes": [
+              {
+                "title": "Article 68",
+                "node_id": "0067",
+                "summary": "###### Article 68\n\nLe r�sultat de l�examen de l��chantillon moyen bas� sur les d�fauts et le\ncalibres est certifi� par un panel de 3 taxateurs de l�Office National du Caf�,\net consign� dans un certificat de qualit�.\n\nSection I : Emballage",
+                "line_num": 1442
+              },
+              {
+                "title": "Section II: Marquage",
+                "node_id": "0068",
+                "prefix_summary": "##### Section II: Marquage",
+                "line_num": 1451,
+                "nodes": [
+                  {
+                    "title": "Article 69",
+                    "node_id": "0069",
+                    "summary": "This partial document outlines specific packaging and export regulations for various agricultural products. It details requirements for net weights, packaging materials (e.g., new jute sacks, polyethylene, wooden crates), and internal lining materials. The rules emphasize uniformity, hygiene, and the preservation of product quality during handling and transport. Specific instructions are provided for coffee, cocoa, rauwolfia, rubber, quinquina, vanilla, pyrethrum, and ginger. The document also references adherence to international codes for fresh fruit and vegetable packaging.",
+                    "line_num": 1454
+                  },
+                  {
+                    "title": "Article 70",
+                    "node_id": "0070",
+                    "summary": "###### Article 70\n\nLes emballages requis � l�exportation des produits agricoles repris sur le\npr�sent Arr�t� � l�exception du gingembre portent les indications suivantes en\nmajuscules, lettres �crites avec l�encre ind�l�bile :\n_\nProduce of DRC\n_\nT�te de l�opard\n_\nCode du pays\n_\nCode de l�exportateur\n_\nNature du produit\n_\nN� d�identification du lot\n_\nQualit� du lot\n_\nN� du certificat de qualit� en cours de validit�",
+                    "line_num": 1494
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Titre V : Empotage et sortie des produits agricoles � l�exportation",
+            "node_id": "0071",
+            "prefix_summary": "#### Titre V : Empotage et sortie des produits agricoles � l�exportation",
+            "line_num": 1517,
+            "nodes": [
+              {
+                "title": "Article 71",
+                "node_id": "0072",
+                "summary": "###### Article 71\n\nSans pr�judice aux dispositions de la norme g�n�rale Codex pour l��tiquetage de\ndenr�es alimentaires pr�emball�es (Codex Stan1-1985 Rev 16-1991),\nl�emballage du gingembre doit porter des sp�cifications reprises � l�article 70\ndu pr�sent Arr�t�.",
+                "line_num": 1520
+              },
+              {
+                "title": "Article 72",
+                "node_id": "0073",
+                "summary": "###### Article 72\n\nLes op�rations d�empotage doivent se faire sous la supervision de l�Office\nNational du Caf� en pr�sence des agents d�autres services �tatiques qualifi�s. A\ncet effet, les exportateurs ou leurs mandataires sont tenus de pr�senter �\nl�Office National du Caf�, aupr�s de service export, tous les documents li�s �\nl�exportation ainsi que le programme des empotages et indication des sites des\nop�rations.",
+                "line_num": 1528
+              }
+            ]
+          },
+          {
+            "title": "Titre VI : Documents de l�Office National du Caf� requis � l�exportation",
+            "node_id": "0074",
+            "prefix_summary": "#### Titre VI : Documents de l�Office National du Caf� requis � l�exportation",
+            "line_num": 1538,
+            "nodes": [
+              {
+                "title": "Article 73",
+                "node_id": "0075",
+                "summary": "###### Article 73\n\nLes exportations des produits agricoles repris dans le pr�sent Arr�t� doivent\ns�effectuer aux points de sortie agr��s et codifi�s par les organismes\ninternationaux comp�tents en la mati�re.",
+                "line_num": 1541
+              }
+            ]
+          },
+          {
+            "title": "Titre VII : P�nalit�s",
+            "node_id": "0076",
+            "prefix_summary": "#### Titre VII : P�nalit�s",
+            "line_num": 1548,
+            "nodes": [
+              {
+                "title": "Article 74",
+                "node_id": "0077",
+                "summary": "###### Article 74\n\nL�exportation des produits agricoles destin�s � l�exportation est soumise �\nl�obtention des documents\nsuivants :\n-\nLe certificat de qualit� � CQ � �mis et d�ment sign� par l�ONC ;\n-\nLe certificat d�origine international (COI) selon le cas ;\n-\nLe contrat de vente pr�alablement valid� par l�ONC.",
+                "line_num": 1551
+              }
+            ]
+          },
+          {
+            "title": "Titre VIII : Dispositions finales",
+            "node_id": "0078",
+            "prefix_summary": "#### Titre VIII : Dispositions finales",
+            "line_num": 1564,
+            "nodes": [
+              {
+                "title": "Article 75",
+                "node_id": "0079",
+                "summary": "###### Article 75\n\nSans pr�judice des peines pr�vues par loi, sera passible d�une amende\n�quivalente � la valeur du lot du produit agricole destin� � l�exportation\nrepris dans le pr�sent Arr�t�, quiconque aura enfreint les dispositions sur la\nr�glementation en vigueur en mati�re de commerce des produits agricoles en RDC\nnotamment la fraude quantitative, tarifaire, documentaire et qualitative.",
+                "line_num": 1567
+              },
+              {
+                "title": "Article 76",
+                "node_id": "0080",
+                "summary": "###### Article 76\n\nSont abrog�es, toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+                "line_num": 1576
+              },
+              {
+                "title": "Article 77",
+                "node_id": "0081",
+                "summary": "###### Article 77\n\nLe Secr�taire g�n�ral � l�Agriculture est charg� de l�ex�cution du pr�sent\nArr�t� qui sort ses effets � la date de sa signature.\nFait � Kinshasa, le 1er\navril 2016\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 1581
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0082",
+                "summary": "###### Article 8\n\nLes Rauwolfia doivent appartenir � l�esp�ce Afzel, vari�t� Rauwolfia vomitoria.\nIls doivent en outre pr�senter les caract�ristiques suivantes :\n-\nEtre secs, sains, sans pourriture ;\n-\nEtre sans dommages caus�s par des ravageurs ;\n-\nEtre sans odeur d�sagr�able ;\n-\nEtre exempts de mati�res �trang�res (sable, motte de terre, morceau de bois) ;\n-\nEtre sans moisissures ;\n-\nEtre homog�nes d�origine, d�aspect, de couleur ;\n-\nEtre exempts de m�lange de racines d�origine botanique diverse ;\n-\nPr�senter un taux d�humidit� de 10 %.\nDe la vanille",
+                "line_num": 1595
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0083",
+                "summary": "###### Article 9\n\nLes lots de vanille destin�s � l�exportation doivent appartenir � l�esp�ce\nvanilla fragrans.\nIls doivent en outre pr�senter les caract�ristiques ci-apr�s :\n-\nAvoir subi un traitement appropri� afin de d�velopper leur ar�me ;\n-\nAvoir une teneur en eau maximale � sa cat�gorie qualitative ;\n-\nEtre saines sans odeurs d�sagr�ables, souples, sans moisissures ;\n-\nN�avoir subi des traitements susceptibles de modifier en plus ou en moins leurs\nteneurs naturelles en vanilline ou autres constituants de la flaveur ;\n-\nEtre sans mati�res �trang�res et d�fauts visibles.\nDu Pyr�thre",
+                "line_num": 1618
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "44ce7fdc-439c-4036-8e9f-c373ecd8a510"
+    ],
+    "0003": [
+      "7b0fefd2-33c3-40cd-a49a-f3daea7b0804"
+    ],
+    "0004": [
+      "e2388fee-e836-46c6-b33c-bbe28ad44a61"
+    ],
+    "0005": [
+      "499aad62-efef-4183-a93a-1b020836ab08"
+    ],
+    "0006": [
+      "a7ac8184-0460-49c3-a168-65af5c0ff77b"
+    ],
+    "0007": [
+      "fb1e1896-f104-46d2-b6f1-a7d551659b53"
+    ],
+    "0009": [
+      "a77a90ce-649d-4ab2-b3c8-1113a35fc052"
+    ],
+    "0010": [
+      "59bfba59-5296-4def-9c7f-7765cb7ad17d"
+    ],
+    "0011": [
+      "6f08fbb9-82fa-4dcc-b3d7-0bcd4b97680b"
+    ],
+    "0012": [
+      "158463b7-b8f3-4c8c-b948-72f237ed845e"
+    ],
+    "0013": [
+      "2dbe5491-1fa6-4f89-8fa4-73d0ce512d91"
+    ],
+    "0014": [
+      "47e673ed-e012-402c-abff-518e1c37b8ff"
+    ],
+    "0015": [
+      "e7ac837e-bea3-4635-af05-d8284565b19f"
+    ],
+    "0016": [
+      "50e4bfba-859b-4058-bdd1-4fb806cb3a46"
+    ],
+    "0018": [
+      "13e10551-da60-498b-b919-ee6238733c13"
+    ],
+    "0019": [
+      "b217b622-8053-44f0-8613-1e9efa3ba242"
+    ],
+    "0020": [
+      "daf7f43a-84a8-4e3f-a4db-954df0dafde2"
+    ],
+    "0021": [
+      "fa4e22b7-c7a8-4bde-86d2-2f7aa174a690"
+    ],
+    "0022": [
+      "03b70312-57e1-4a05-914a-3b9bd4fb41ed"
+    ],
+    "0023": [
+      "e05f58ed-6dcb-4206-bc68-06d946589870"
+    ],
+    "0025": [
+      "f2ae3362-9fa0-4941-b296-280f328d8000"
+    ],
+    "0026": [
+      "c2aa7284-5eca-4b00-9a1c-23a77e3fc097"
+    ],
+    "0027": [
+      "3a72d83d-8a67-48d3-aa5c-e29dbe012a16"
+    ],
+    "0028": [
+      "82eb09d6-bb0f-4e88-b460-42ce089e4fdb"
+    ],
+    "0029": [
+      "c640dd26-351e-49ea-8feb-3b1aea089d0b"
+    ],
+    "0030": [
+      "3ea8c2cd-1410-482d-aac2-765fcb3d7a51"
+    ],
+    "0031": [
+      "32079a65-0e85-45f3-87b8-7ff562e65da1"
+    ],
+    "0033": [
+      "c8e1c94a-92e0-4b08-aff8-ec97d745da6b"
+    ],
+    "0034": [
+      "5e3507ac-d86a-4a97-8804-66fd290dffa4"
+    ],
+    "0035": [
+      "259a9bf2-37ec-4337-8af4-901f9a1cbd4c"
+    ],
+    "0036": [
+      "9d036c62-c880-425b-86b7-f7632c462d55"
+    ],
+    "0037": [
+      "c9a67804-a949-432e-89bd-92c2d8a70235"
+    ],
+    "0038": [
+      "5a1f2453-6cd4-4728-9ae1-c15301eb9a98"
+    ],
+    "0040": [
+      "c3e548d6-7da8-4c82-98fa-9a1f1dca2d2e"
+    ],
+    "0041": [
+      "b7f6afc2-4743-406f-8d97-e6ae5970ba9f"
+    ],
+    "0042": [
+      "f7128209-d0a5-4b2c-90fd-1f501738ca84"
+    ],
+    "0043": [
+      "2414c346-aacb-4998-96ce-0e88c965592f"
+    ],
+    "0044": [
+      "a27ce749-a1ef-493c-8695-055c3ede4ec6"
+    ],
+    "0046": [
+      "e026cbff-0cdc-4c5e-9038-2752b1bd13bc"
+    ],
+    "0047": [
+      "93f753b6-44f3-4f73-98f1-0c4fd3b9ede6"
+    ],
+    "0048": [
+      "263a476c-fbc9-4af8-bcc6-dc90c9ab0a7a"
+    ],
+    "0049": [
+      "ad50df1f-9a4c-4c8b-ae1b-963b021fa290"
+    ],
+    "0050": [
+      "16528e61-a2ab-4440-b9cb-3827ef20896a"
+    ],
+    "0051": [
+      "a20d0261-77cb-41e0-a8f9-f1f1eec48c23"
+    ],
+    "0053": [
+      "4774f4e9-c6ad-4993-83ff-3b16bace73a3"
+    ],
+    "0054": [
+      "50ebcefa-c477-43ce-bd39-219c9c78a752"
+    ],
+    "0055": [
+      "9b9f3c4e-d623-4c00-a610-6329f318bc85"
+    ],
+    "0056": [
+      "ee8b3217-1b20-4a0f-ac05-3f47dc67ccab"
+    ],
+    "0057": [
+      "27602fe0-3c73-4922-8cb9-d702fa2648cb"
+    ],
+    "0058": [
+      "5bb2efe7-a779-45d4-a059-7fdd0323806b"
+    ],
+    "0060": [
+      "908296e4-975c-4080-bad3-07b824c6b7d0"
+    ],
+    "0061": [
+      "e122260e-6570-45f4-978b-505028fc3c88"
+    ],
+    "0062": [
+      "8fe0f58c-e1e5-47a5-8c9a-01e1d865d3b7"
+    ],
+    "0063": [
+      "669871dd-2c2d-4b22-9d73-e5cad3970922"
+    ],
+    "0064": [
+      "2404bf25-5dd7-4dd5-9906-6633eea8b807"
+    ],
+    "0065": [
+      "08bef8f0-ee28-42dd-8f12-1cd8ac6b61f2"
+    ],
+    "0067": [
+      "0db0ee77-90db-4cea-85fc-34a7f350be54"
+    ],
+    "0069": [
+      "b5a683d6-1512-40cb-91c4-c95dcb691179"
+    ],
+    "0070": [
+      "7b5a9715-5619-4665-a8bb-7d4c1ca00b33"
+    ],
+    "0072": [
+      "3145f9fb-4294-471f-a2a0-f594ebed0fe7"
+    ],
+    "0073": [
+      "450ca4ff-e5ee-43ce-b832-9808899fe72a"
+    ],
+    "0075": [
+      "bd4f82cb-a7e6-4411-a87b-8831ccf9f853"
+    ],
+    "0077": [
+      "f462ba39-f221-4cff-9e63-9d67e193a082"
+    ],
+    "0079": [
+      "60536cb9-65de-4ab4-b73c-4052fa3e30ea"
+    ],
+    "0080": [
+      "db81dc44-4609-4ecd-aac2-dda2dac196fc"
+    ],
+    "0081": [
+      "bb1fd62b-e216-48e6-b9da-dda885b22ac6"
+    ],
+    "0082": [
+      "4d208629-704b-4ed3-b099-e22cca32a10e"
+    ],
+    "0083": [
+      "d2b4c5be-f81e-4847-9089-b2e5d4716af5"
+    ]
+  },
+  "node_count": 84,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:25:59.722368",
+  "article_count": 68,
+  "generation_time_s": 53.66246485710144
+}

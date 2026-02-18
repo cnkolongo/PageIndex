@@ -1,0 +1,130 @@
+{
+  "slug": "AM-005-21-05-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-005-21-05-2015-2015.json",
+  "document_id": "010cdb5a-d73f-4087-b4d6-5dac2f762da8",
+  "document_title": "AM.005.21.05.2015",
+  "tree_json": {
+    "doc_name": "AM-005-21-05-2015-2015",
+    "structure": [
+      {
+        "title": "AM.005.21.05.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.005.21.05.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is the beginning of a ministerial order (Arrêté) from the Ministry of Tourism of the Democratic Republic of Congo. The main points covered are:\n\n1.  **Identification:** It introduces the order (number 005/CAB/MIN/TOURISME/00/MWB/2015) dated May 21, 2015.\n2.  **Purpose:** The order's objective is to regulate restaurants in the DRC, specifically by modifying and supplementing a previous 1977 order from the era of the Republic of Zaire.\n3.  **Legal Basis:** It lists the constitutional and legal texts that provide the authority for this order, including the Constitution, various ordinance-laws on taxation and administrative procedures, and ordinances defining government organization and ministerial roles.\n4.  **Context:** It cites the urgency and necessity for the order and notes it was proposed by the Secretary General for Tourism. The text ends with the word \"ARRETE,\" signaling the start of the actual regulatory articles.",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "###### Article S2\n\n: DE LA CLASSIFICATION DES RESTAURANTS\nArticle\n1\nEn\nR�publique D�mocratique du Congo, il existe deux types de restaurants :\n-\nrestaurants homologu�s non class�s, appel�s restaurants sans fourchette ;\n-\nrestaurants homologu�s class�s, appel�s restaurants avec fourchettes.\nArticle\n2\nAux\ntermes du pr�sent Arr�t�, les restaurants de la R�publique D�mocratique du Congo\nsont cat�goris�s de la mani�re suivante :\na)\nRestaurants � 0 fourchette ;\nb)\nRestaurants � 1 fourchette ;\nc)\nRestaurants � 2 fourchettes ;\nd)\nRestaurants � 3 fourchettes ;\ne)\nRestaurants � 4 fourchettes.\nTITRE",
+                "line_num": 49
+              }
+            ]
+          },
+          {
+            "title": "Chapitre I : RESTAURANTS HOMOLOGUES A ZERO FOURCHETTE",
+            "node_id": "0004",
+            "prefix_summary": "#### Chapitre I : RESTAURANTS HOMOLOGUES A ZERO FOURCHETTE",
+            "line_num": 78,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "This partial document outlines the classification criteria for two categories of restaurants, as defined in a regulatory framework. It specifies the minimum standards for \"zero-fork\" and \"one-fork\" establishments.\n\nThe main points covered are:\n\n1.  **Criteria for \"Zero-Fork\" Restaurants:** Detailed requirements for building quality, accessibility, dining room/bar (including capacity, furniture, materials, linen, and staff), kitchen conditions and equipment, separate toilets, and formal employment contracts for staff.\n\n2.  **Criteria for \"One-Fork\" Restaurants:** Builds upon the previous category with enhanced or additional standards. Key points include higher capacity and space per customer, required amenities like a TV and coat racks, a daily menu, fixed meal times, more specialized staff with formal qualifications, a functional link between kitchen and dining area, a storeroom (\"économat\"), and fire safety equipment.",
+                "line_num": 81
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : RESTAURANTS A DEUX FOURCHETTES",
+            "node_id": "0006",
+            "prefix_summary": "#### Chapitre III : RESTAURANTS A DEUX FOURCHETTES",
+            "line_num": 233,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0007",
+                "summary": "This partial document outlines the classification criteria for restaurants, specifically detailing the requirements for \"two-fork\" and \"three-fork\" establishments.\n\nThe main points covered are:\n\n1.  **Criteria for \"Two-Fork\" Restaurants (Article 5):** It lists mandatory features across several categories:\n    *   **Quality & Aesthetics:** Must be very good, comfortable, and well-maintained.\n    *   **Accessibility:** Easy and attractive access.\n    *   **Dining Room & Bar:** Specifications for capacity (min. 5 tables, 20 chairs), space (1.15 m² per customer), ventilation, lighting, decor, furniture, tableware, and staff requirements (healthy, courteous, speaking at least two languages).\n    *   **Kitchen:** Requirements for condition, equipment (cooking, storage), specialized staff (chef, commis), and a functional link to the dining room.\n    *   **Sanitary Facilities:** Separate, clean facilities with running water for men (1 WC, 1 urinal, 1 washbasin) and women (2 WCs, 2 washbasins), each equipped with standard amenities.\n\n2.  **Introduction of \"Three-Fork\" Restaurant Criteria (Chapter IV, Article 6):** It begins to outline the higher standards for this category, which must first meet all \"two-fork\" criteria. The initial points mentioned are:\n    *   **Quality & Aesthetics:** Must be excellent and very comfortable.\n    *   **Accessibility:** Easy and attractive access.\n    *   **Dining Room & Snack-Bar:** Stricter requirements for ambiance (calm, pleasant), climate control (air-conditioned), larger capacity (min. 10 tables, 40 chairs), more space (1.25 m² per customer), and a wider range of service styles.",
+                "line_num": 236
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V : RESTAURANT A QUATRE FOURCHETTES",
+            "node_id": "0008",
+            "prefix_summary": "#### Chapitre V : RESTAURANT A QUATRE FOURCHETTES",
+            "line_num": 389,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0009",
+                "summary": "This partial document outlines the classification criteria for restaurants, specifically focusing on the requirements for a \"four fork\" (high-quality) establishment. It details standards across several key areas:\n\n1.  **General Quality & Ambiance:** Luxurious, comfortable, well-maintained buildings, furniture, and layout.\n2.  **Accessibility:** Easy and attractive access to the restaurant.\n3.  **Dining Room & Services:** Specifications for a calm, pleasant, air-conditioned dining room doubled with a snack-bar. It covers minimum capacity (15 tables, 60 chairs), space per client, service styles (French, Russian, etc.), amenities (TV, music, telephone), decoration, luxurious and comfortable furniture for clients and staff, tableware, a daily menu with multiple wine choices, meal timing, consumption of fresh hot/cold food, linens, and multilingual, courteous staff including specific roles like maître d'hôtel and sommelier. Also includes requirements for a waiting lounge, cloakroom, and a flexible banquet hall.\n4.  **Kitchen:** Requirements for a clean, well-lit, and ventilated kitchen. It lists necessary cooking equipment (stove, grill, etc.), conservation equipment (refrigerator, freezer, cold room), and qualified personnel (chef, sous-chefs, bilingual maître d'hôtel, etc.). It also mentions functional relations between kitchen, dining room, and bar, a storeroom (\"économat\"), and fire safety equipment.\n5.  **Sanitary Facilities:** Separate, constantly clean facilities for men and women, specifying the number of WCs, urinals, washbasins, and required amenities (running water, mirror, toilet paper, soap, etc.).\n\nThe text appears to be part of a regulatory or grading system for restaurants, setting high standards for infrastructure, service, hygiene, and personnel to achieve a top-tier classification.",
+                "line_num": 392
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0010",
+                "summary": "This partial document outlines the specifications for a restaurant or catering service's operational setup. The main points covered are: the required service furniture; the culinary offerings including mixed, dietetic, and daily specials, plus a children's menu; the composition and hygiene standards of the kitchen staff; the functional relationship between the kitchen, dining room, and bar; provisions for storage (economat) and safety equipment (fire protection and backup generator); and detailed specifications for separate, well-equipped men's and women's sanitary facilities that must be kept in a constant state of cleanliness.",
+                "line_num": 533
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "This partial document contains regulations from a public health code (specifically Title III) pertaining to restaurants not located within hotels. The main points covered are:\n\n1.  **Wastewater Systems:** Mandating effective traps on sewage pipes to prevent fermentation gases from entering kitchens and dining areas.\n2.  **Waste Management:** Requiring sufficient covered bins for household waste, which must be cleaned with antiseptic products after each emptying.\n3.  **Insect Control:** Mandating regular insecticide treatment of kitchens, storage areas, toilets, and animal holding pens to exterminate flies and vermin at all life stages, under the supervision of the General Secretariat for the Environment.\n4.  **Animal Husbandry Prohibition:** Forbidding the raising of domestic animals (pigs, sheep, goats, cattle) in the immediate vicinity of restaurants and similar establishments.",
+                "line_num": 566
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0012",
+                "summary": "This partial document covers the final articles (Articles 12 and 13) of a legal decree, focusing on enforcement and conclusion. The main points are: 1) The sanctions for restaurant operators who fail to meet obligations outlined in a previous section, referencing a specific 2015 ministerial order. 2) The designation of the Secretary General for Tourism as responsible for executing the decree and its effective date. The document concludes with the decree's signing details and a site disclaimer.",
+                "line_num": 599
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "09f9edd0-9b57-41ea-888c-43375e17de6a"
+    ],
+    "0003": [
+      "1e96c681-193f-4ddb-aeea-7aa146568367"
+    ],
+    "0005": [
+      "2261c4f8-4230-45db-a9bb-6e6f739962ba"
+    ],
+    "0007": [
+      "f848fdd9-da1e-4a1a-9560-0dfe6245ef57"
+    ],
+    "0009": [
+      "0c36605d-7403-4965-bec6-50c982041131"
+    ],
+    "0010": [
+      "b4ecc7d1-79a3-4c70-a5f7-297975d6c5a5"
+    ],
+    "0011": [
+      "15b702a7-d8c5-4edb-8aa4-feb04c7b4ee5"
+    ],
+    "0012": [
+      "ade280c4-2f52-4e75-ab0e-e111c4a1cb75"
+    ]
+  },
+  "node_count": 13,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:20:32.374918",
+  "article_count": 8,
+  "generation_time_s": 21.587196111679077
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "AM-2772002-05-11-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-2772002-05-11-2002-2002.json",
+  "document_id": "558ca4b6-d1f1-4553-92d0-b8d8535d8f53",
+  "document_title": "AM.2772002.05.11.2002",
+  "tree_json": {
+    "doc_name": "AM-2772002-05-11-2002-2002",
+    "structure": [
+      {
+        "title": "AM.2772002.05.11.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2772002.05.11.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 2",
+            "node_id": "0001",
+            "summary": "###### Article 2\n\nL�uniforme des\ninspecteurs, fonctionnaires et agents forestiers asserment�s porte\nessentiellement des �cussons et des cordeli�res de couleur bleu-clair.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0002",
+            "summary": "This partial document details the official uniforms mandated for sworn forestry inspectors, officials, and agents. It specifies two distinct sets of attire: a \"service and town\" uniform and an \"inspection and surveillance\" uniform, listing the specific garments, materials, colors, and details for each.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0003",
+            "summary": "###### Article 4\n\nLes grades des\ninspecteurs, fonctionnaires et agents forestiers ainsi que leur ordre\nhi�rarchique sont fix�s comme suit :\n1�. Inspecteur\nforestier principal ;\n2�. Inspecteur\nforestier ;\n3�. Brigadier\nchef ;\n4�. Brigadier ;\n5�. Garde\nforestier principal ;\n6�. Garde\nforestier de 1�re\nclasse ;\n7�. Garde\nforestier de 2�me\nclasse.",
+            "line_num": 39
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0004",
+            "summary": "###### Article 5\n\nLa correspondance\nentre les grades pr�vus par l�article 4 ci-dessus et ceux des agents de carri�re\ndes services publics de l�Etat est �tablie par le tableau en annexe du pr�sent\narr�t�.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0005",
+            "summary": "This partial document details the rank insignia for various forestry officer positions. It specifies that insignia are worn as stripes on the outer sleeves of the jacket. The description lists the number and material (silver or scarlet cloth) of stripes for each rank, from Principal Forest Inspector down to 1st Class Forest Guard, and notes that there is no distinct insignia for the 2nd Class Forest Guard.",
+            "line_num": 69
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0006",
+            "summary": "###### Article 7\n\nPar exception aux\ndispositions de l�article 142 de la Loi n� 011/2002 du 29 ao�t 2002 portant Code\nforestier, les inspecteurs, fonctionnaires et agents forestiers peuvent exercer\nleurs fonctions en tenue civile, notamment lorsque:\n1�. Ils r�alisent\ndes enqu�tes n�cessitant la discr�tion ;\n2�. Leur propre\ns�curit� peut �tre mise en cause.\nDans tous les\ncas, ils sont munis de leur carte de service et d�un ordre de mission, si\nn�cessaire.",
+            "line_num": 96
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0007",
+            "summary": "###### Article 8\n\nSont abrog�es\ntoutes les dispositions ant�rieures contraires au pr�sent arr�t�.",
+            "line_num": 111
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0008",
+            "summary": "This partial document contains two primary sections: a legal decree and a correspondence table. The decree, dated November 5, 2002 in Kinshasa, is issued by Salomon Banamuhere Baliene and assigns responsibility for its execution to the Secretary General for Environment and Conservation of Nature. It includes a standard enactment clause.\n\nThe main substantive content is the \"Tableau de Correspondance des Grades\" (Grade Correspondence Table). This table aligns forestry service ranks (A) with equivalent ranks in the State Public Services career path (B). It lists seven specific equivalencies, mapping forestry inspector and guard positions (e.g., Inspecteur forestier principal, Garde forestier) to administrative roles like Director, Division Chief, and various classes of bureau attachés and agents.\n\nThe document concludes with a note that the table is annexed to a specific ministerial order, and includes a disclaimer stating the site is under construction and that the texts are provided by associations without assuming responsibility for them.",
+            "line_num": 117
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "141b5297-4686-4772-a746-38871505e315"
+    ],
+    "0002": [
+      "e5f30d00-2d32-468e-bd4f-26a94ba6dc92"
+    ],
+    "0003": [
+      "6de5b1b2-8b3d-47d1-843b-e0a4bf20594f"
+    ],
+    "0004": [
+      "b21cd319-65ee-45df-85cd-2816ca15ae3a"
+    ],
+    "0005": [
+      "3af3204a-0ecc-4114-94ca-7e4e9f628a98"
+    ],
+    "0006": [
+      "36348ea7-90e8-43d6-98bd-89d910fba399"
+    ],
+    "0007": [
+      "ffbc485f-4e57-4111-951e-569bc0ff0449"
+    ],
+    "0008": [
+      "b985364f-5a84-44dd-8388-f1635b5fa67c"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:33.911745",
+  "article_count": 8,
+  "generation_time_s": 10.18662977218628
+}

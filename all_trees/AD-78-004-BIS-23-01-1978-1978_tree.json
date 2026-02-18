@@ -1,0 +1,148 @@
+{
+  "slug": "AD-78-004-BIS-23-01-1978-1978",
+  "bundle_path": "backups/all_bundles/code/AD-78-004-BIS-23-01-1978-1978.json",
+  "document_id": "03a7e34b-11b9-495e-8d6a-38ee6da16afb",
+  "document_title": "AD 78.004.BIS.23.01.1978",
+  "tree_json": {
+    "doc_name": "AD-78-004-BIS-23-01-1978-1978",
+    "structure": [
+      {
+        "title": "AD 78.004.BIS.23.01.1978",
+        "node_id": "0000",
+        "prefix_summary": "# AD 78.004.BIS.23.01.1978",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "This partial document contains the final provisions and an annex from a regulatory text, likely a ministerial order or decree, related to occupational health and safety committees.\n\nThe main points covered are:\n\n1.  **Final Provisions:** It states the penalties for violating the order (referencing the Labor Code) and its effective date.\n2.  **Annual Report Framework:** The core of the document is a detailed template for the annual activity report of a workplace health and safety committee. The required sections include:\n    *   General information about the establishment and its hazards.\n    *   Details of the committee's activities (meetings, inspections).\n    *   Application of health and safety regulations.\n    *   Accident and occupational disease statistics, including formulas for calculating frequency and severity rates.\n    *   Preventive actions taken based on investigations.\n    *   Awareness and propaganda activities conducted among staff.",
+            "line_num": 9
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0003",
+            "summary": "###### Article S2\n\nARR�T� D�PARTEMENTAL\n78/004bis\ndu 23\njanvier 1978\nportant\ninstitution des comit�s d�hygi�ne et de s�curit� dans les entreprises.",
+            "line_num": 118
+          },
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0004",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 128,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "###### Article S3",
+                "line_num": 131
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0006",
+                "summary": "###### Article S4\n\nCHAMP D�APPLICATION\nArt. 1er.\n� Il sera\ninstitu� un comit� d�hygi�ne et de s�curit� dans tout �tablissement d�sign� par\nle ministre du Travail et de la Pr�voyance sociale sur rapport des services\ncomp�tents.\nSont exclues du champ\nd�application du pr�sent arr�t�, les entreprises mini�res et leurs d�pendances.",
+                "line_num": 134
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0007",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 146,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0008",
+                "summary": "###### Article S5",
+                "line_num": 149
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0009",
+                "summary": "This partial document defines the composition of a Health and Safety Committee. It specifies that the committee includes: the head of the establishment (as president), the head of security or a designated engineer (as secretary), the head of the medical service, and worker representatives. The number of worker representatives is determined by the size of the workforce, with specific quotas for different employee count ranges (e.g., 3 workers for 20-50 employees, up to 8 for over 500). It also states that these worker representatives are appointed by the elected worker delegation from among the most senior and qualified workers, and they serve a two-year, renewable term.",
+                "line_num": 152
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0010",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 184,
+            "nodes": [
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "###### Article S7",
+                "line_num": 187
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0012",
+                "summary": "This partial document outlines the rules for a workplace Health and Safety Committee (Comité d'Hygiène et de Sécurité). It covers the committee's six main missions, including ensuring legal compliance, proposing preventative measures, promoting safety awareness, educating new workers, conducting monthly inspections, and investigating accidents. It also specifies administrative duties like submitting an annual report to the Ministry of Labour, obtaining necessary resources from management, and holding regular quarterly meetings with provisions for extraordinary sessions. The document details meeting procedures, including location, compensation, and record-keeping.",
+                "line_num": 190
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0013",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 245,
+            "nodes": [
+              {
+                "title": "Article S9",
+                "node_id": "0014",
+                "summary": "###### Article S9",
+                "line_num": 248
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "dd5df183-8762-4680-880c-96effbbd5d94"
+    ],
+    "0002": [
+      "d7870b23-4acb-4354-a1b0-ac9bb2c264d2"
+    ],
+    "0003": [
+      "64c56695-5f18-44bf-b1da-a1e98bc8f73f"
+    ],
+    "0005": [
+      "408427d7-3989-4e1c-a4ac-fed50d6cd59d"
+    ],
+    "0006": [
+      "cebe1861-4a5b-4a23-bce0-5aa7401a5859"
+    ],
+    "0008": [
+      "dbef3e3e-2658-4a3d-ad51-f1c30e35d715"
+    ],
+    "0009": [
+      "c3be1b8a-64e4-4417-a601-5879b3965213"
+    ],
+    "0011": [
+      "dd7d116b-eb52-4bfa-ac06-6a380d5850b6"
+    ],
+    "0012": [
+      "937bd679-f8c0-4858-b4f9-72e99807fa6e"
+    ],
+    "0014": [
+      "2681c90f-249d-4c81-bb3d-50c4695984f4"
+    ]
+  },
+  "node_count": 15,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:34:13.241528",
+  "article_count": 10,
+  "generation_time_s": 12.856541872024536
+}

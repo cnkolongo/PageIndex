@@ -1,0 +1,116 @@
+{
+  "slug": "AIM-19-07-2022-2022",
+  "bundle_path": "backups/all_bundles/code/AIM-19-07-2022-2022.json",
+  "document_id": "2cf16d14-08c2-423d-8235-81e17b2a0686",
+  "document_title": "AIM.19.07.2022",
+  "tree_json": {
+    "doc_name": "AIM-19-07-2022-2022",
+    "structure": [
+      {
+        "title": "AIM.19.07.2022",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.19.07.2022",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes taux des droits, taxes et\nredevances � percevoir � l'initiative du Minist�re de l'Industrie sont fix�s en\nDollars am�ricain, payables en Franc congolais au taux officiel du jour, tels\nque repris aux annexes cot�es de 1 � 4 du pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLe Secr�taire g�n�ral �\nl'Industrie et le Directeur g�n�ral de la DGRAD sont charg�s, chacun en ce qui\nle concerne, de l'ex�cution du pr�sent Arr�t�.\nFait � Kinshasa, le 19\njuillet 2022\nAnnexes  PDF\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nLa taxe sur le transfert des\nroyalties a comme faits g�n�rateurs :\n- Tout contrat sign� en\nmati�re de propri�t� industrielle ;\n- L'utilisation d'une marque\n�trang�re par le concessionnaire ;\n- L'�mission des factures.",
+            "line_num": 28
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLa taxe sur le transfert des\nroyalties est celle due pour toute exploitation ou utilisation d'une marque\n�trang�re ou b�n�ficie d�assistance technique, savoir-faire d'entreprise ou\nknow-how, et est payable par trimestre.\nLe d�p�t de la d�claration\ndoit intervenir au plus tard le 10 du trimestre �chu, et le paiement intervient\nau plus tard le 15. A d�faut des factures �mises par le conc�dant (propri�taire\nen mati�re de propri�t� industrielle), le montant � payer est celui pay� au\ntrimestre pr�c�dent.",
+            "line_num": 39
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "This partial document details the calculation methods for a tax on the transfer of royalties, technical assistance, know-how, and brand usage. It specifies a general tax rate of 5% on the transferable value, which is based on revenue multiplied by the contractual license rate. For brand usage contracts, it distinguishes between free contracts (taxable base is 2% of relevant revenue) and paid contracts (rate is per the contract). A special rule sets the taxable base at 20% of transferred amounts for financial service brand royalties when no explicit contractual rate exists.",
+            "line_num": 52
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nLe taux de la taxe sur\nl'homologation de certificats de v�rification des instruments de mesure � usage\nindustriel et/ou commercial est de 10% d�duits sur les frais des prestations\nper�us lors des op�rations de v�rification m�trologique par le mandataire public\nou priv�, qui en est le redevable.",
+            "line_num": 71
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nEst consid�r� comme\nmandataire public en mati�re de v�rification des instruments de mesure, tout\norganisme public charg� de ladite mission.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLe paiement de la taxe sur la\nv�rification des instruments de mesure � usage industriel et/ou commercial est\nsemestriel, et intervient au plus tard le 15 du mois qui suit le semestre\nconcern�.",
+            "line_num": 87
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLa taxe sur l'apposition de\nla marque nationale de conformit� aux normes est payable par trimestre.\nLe d�p�t de la d�claration\ndoit intervenir au plus tard le 10 du trimestre �chu, et le paiement au plus\ntard le 15.\nLe paiement de la taxe sur\nl'apposition de la marque nationale de conformit� aux normes est subordonn� �\nl'obligation pr�alable d'un contr�le de conformit� aux normes par un laboratoire\nagr��. Le d�faut de la d�tention d'un certificat de contr�le de conformit�\nentraine des sanctions.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nSont abrog�es, toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 109
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3898ba09-c8e7-4d7c-b528-7d7177de7077"
+    ],
+    "0002": [
+      "298c4324-2cb2-4c3a-b970-01749ef907c5"
+    ],
+    "0003": [
+      "117e1c71-35e7-4d0b-a5f5-4be0af5e8c85"
+    ],
+    "0004": [
+      "bd94b090-cdbc-48e9-a537-7b554d7648f7"
+    ],
+    "0005": [
+      "34d28f21-8cc8-4e6f-bf73-d01674642fc9"
+    ],
+    "0006": [
+      "022bb140-4d96-4ee6-a12c-44a17ef55f56"
+    ],
+    "0007": [
+      "bd7f250c-bd00-470d-8e87-d94a788168c6"
+    ],
+    "0008": [
+      "e3c200c8-9fd1-4198-b79b-3a7b83a93e67"
+    ],
+    "0009": [
+      "0b6b0f1e-1e38-406c-9e26-7a422781fe32"
+    ],
+    "0010": [
+      "e27a73db-00bf-4bd0-875a-b9e2a3ae321b"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:00:56.202836",
+  "article_count": 10,
+  "generation_time_s": 11.187075138092041
+}

@@ -1,0 +1,119 @@
+{
+  "document_id": "1ce3a6f5-b288-46c3-99d7-363ac05b8358",
+  "document_title": "AD.2100.13.02.1973",
+  "tree_json": {
+    "doc_name": "AD-2100-13-02-1973-1973",
+    "structure": [
+      {
+        "title": "AD.2100.13.02.1973",
+        "node_id": "0000",
+        "prefix_summary": "# AD.2100.13.02.1973",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "TITRE II",
+            "node_id": "0001",
+            "prefix_summary": "#### TITRE II",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document is a section of a legal decree (Arrêté Départemental) from 1973 in the Republic of Zaire, refounding the regulations governing sports federations. The main points covered are:\n\n1.  The establishment and purpose of a national sports federation, outlining its goals to organize, develop, control, and regulate its specific sport in Zaire, to group and represent its member associations, and to maintain international relations.\n2.  The federation's legal characteristics: its unlimited duration and its headquarters location in Kinshasa (with provisions for relocation).\n3.  The extent of the federation's powers, stating it is the sole recognized authority for its sport in Zaire, affiliated with the relevant international federation, and operates under a delegation of power from the national Department of Youth and Sports.\n4.  A commitment clause requiring the federation to focus solely on its sports mission, abstaining from racial, political, religious, or other non-sport-related discussions and activities.",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "This partial document outlines the membership structure of a federation (specifically the \"Zairoise de []\" federation). It covers the composition of members, including affiliated associations and individual members, with special categories for benefactors and honorary members. It also details the procedures for admission, resignation, and expulsion of members, noting the executive bureau's role and the requirement for state approval in cases of expulsion. Finally, it states that affiliated associations must comply with the federation's statutes and regulations.",
+                "line_num": 51
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0004",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 95,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "###### Article S3\n\nADMINISTRATION",
+                "line_num": 98
+              }
+            ]
+          },
+          {
+            "title": "TITRE IV",
+            "node_id": "0006",
+            "prefix_summary": "#### TITRE IV",
+            "line_num": 103,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0007",
+                "summary": "This partial document outlines the internal governance structure of a federation (likely a sports federation). It details the three main governing bodies: the Congress (the supreme body), the Steering Committee, and the Executive Bureau. It specifies their composition, meeting frequency, and core functions, with a particular focus on the roles, responsibilities, and appointment procedures for the Executive Bureau members (Secretary-General, Deputy Secretary-General, and Treasurer). It also mentions the establishment and role of technical commissions to assist the federation.",
+                "line_num": 106
+              }
+            ]
+          },
+          {
+            "title": "TITRE V",
+            "node_id": "0008",
+            "prefix_summary": "#### TITRE V",
+            "line_num": 221,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0009",
+                "summary": "This partial document covers the financial resources and accounting obligations of a federation. It details the sources of the federation's funds, including membership fees, competition revenues, public and private subsidies, and exceptional fundraising activities. It also mandates the maintenance of proper accounting records and states that refusal to provide requested financial information to a relevant department can result in serious consequences for the federation.",
+                "line_num": 224
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0010",
+                "summary": "###### Article S6\n\nMODIFICATION DES STATUTS ET",
+                "line_num": 251
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0011",
+                "summary": "This partial document contains articles (S7, 16-21) from a statute or decree governing a federation. The main points covered are the procedures for amending the federation's statutes, its potential dissolution by the state commissioner for youth and sports, and the fate of its assets in the event of liquidation. It also mandates that internal regulations be communicated to the overseeing department, outlines transitional governance until new executive offices are installed, and states that this new decree supersedes a previous one from 1971.",
+                "line_num": 256
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "ffaf8a15-f3f0-4830-a20a-387e1c6eda0a"
+    ],
+    "0003": [
+      "dcf2ea3d-8441-4b41-a73b-a083ed7e63d8"
+    ],
+    "0005": [
+      "f5cf257e-0beb-4ad9-abaf-7df1726b2306"
+    ],
+    "0007": [
+      "d10c782c-a38b-4f2f-9458-5ce4e0681b79"
+    ],
+    "0009": [
+      "739e89b9-b900-43dc-a1ac-cbf8c0e8f400"
+    ],
+    "0010": [
+      "6963ad86-addf-4a95-ad9b-8ab3cbf12221"
+    ],
+    "0011": [
+      "6d1b70d2-7a80-4367-9e77-bdb674433d7a"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:18:56.924583",
+  "article_count": 7,
+  "generation_time_s": 144.77264380455017
+}

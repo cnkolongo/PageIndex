@@ -1,0 +1,116 @@
+{
+  "slug": "AM-006-2005-25-07-05-2005",
+  "bundle_path": "backups/all_bundles/code/AM-006-2005-25-07-05-2005.json",
+  "document_id": "bfed0a3e-80a9-45fa-bab3-a58d618c6d27",
+  "document_title": "AM.006.2005.25.07.05",
+  "tree_json": {
+    "doc_name": "AM-006-2005-25-07-05-2005",
+    "structure": [
+      {
+        "title": "AM.006.2005.25.07.05",
+        "node_id": "0000",
+        "prefix_summary": "# AM.006.2005.25.07.05",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "This partial document is the concluding section of an official decree (Arrêté) from Kinshasa, dated July 25, 2005. It specifies the officials responsible for implementing the decree (the Secretary-General for Environment and the Director-General of DGRAD) and states that the decree takes effect upon its signature. It is signed by the Ministers of Finance and Environment. The text also includes a disclaimer note stating that the site hosting the document is under construction and that the texts presented are based on versions held by associations, who are not liable for their content.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\nLes taux des\ndroits et taxes sur les �tablissements class�s dangereux, insalubres ou\nincommodes, � percevoir � l�initiative du Minist�re de l�Environnement, sont\nfix�s suivant le tableau en annexe au pr�sent Arr�t�.",
+            "line_num": 25
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nLa taxe\nr�mun�ratoire est per�ue sur le permis d�exploitation d�livr� par les services\ncomp�tents du Minist�re ayant l�Environnement dans ses attributions.",
+            "line_num": 33
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLa taxe\nd�implantation est calcul�e sur base de la capacit� install�e, tandis que la\ntaxe r�mun�ratoire annuelle est calcul�e sur base de la capacit� exploit�e.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nLa taxe r�mun�ratoire annuelle li�e � chaque permis\nd�exploitation est payable au plus tard le 30 juin de chaque ann�e.",
+            "line_num": 47
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nL�obtention du\npermis d�exploitation ou de l�avenant � ce dernier, est soumis au paiement de la\ntaxe d�implantation augment�e de la taxe r�mun�ratoire annuelle d�s la premi�re\nann�e d�exploitation.\nLa taxe sur le\nduplicata du permis d�exploitation (duplicata permis d�implantation) est fix�e �\n50% du co�t de la taxe d�implantation augment�e de la taxe r�mun�ratoire\nannuelle pour l�exercice auquel se rapporte le duplicata sollicit�.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nLa taxe\nr�mun�ratoire annuelle est payable sur le permis d�exploitation et sur son\navenant.\nLe changement\nd�adresse, de raison sociale ou de d�nomination est soumis � l�obtention d�un\nnouveau permis d�exploitation.\nToute\nmodification des conditions ou structures d�exploitation  entra�nant l�exercice\nd�une activit� non reprise dans le permis d�implantation est soumise � la\nsouscription d�un avenant.",
+            "line_num": 65
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLorsqu�un\n�tablissement change d�exploitant, le nouvel exploitant ou son repr�sentant doit\nen faire une d�claration au Secr�tariat G�n�ral de l�Environnement, Conservation\nde la Nature au plus tard le dernier jour du mois qui suit son entr�e en\nfonction.\nLa d�claration\nmentionne les nom, pr�nom et domicile, ainsi que la raison sociale et la qualit�\ndu signataire de la d�claration, s�il s�agit d�une soci�t�. Un r�c�piss� est\nd�livr� au moment du d�p�t de la d�claration.",
+            "line_num": 79
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLa violation d�une quelconque disposition du pr�sent Arr�t� ou\nle non respect des taux et caract�ristiques repris en son annexe, entra�ne des\namendes transactionnelles allant du double au quintuple des droits dus.\nL�exploitation\nillicite ou le non respect des conditions  d�exploitation stipul�es dans le\npermis d�exploitation entra�ne le paiement des amendes transactionnelles et la\nfermeture de l��tablissement, ou l�une de ces sanctions seulement.",
+            "line_num": 92
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nSont abrog�es toutes les dispositions ant�rieures contraires\nau pr�sent Arr�t�.",
+            "line_num": 103
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "db976590-ca9f-4074-804f-3cb255d334c3"
+    ],
+    "0002": [
+      "57238e94-e54e-45f5-a3fc-5e40666673f1"
+    ],
+    "0003": [
+      "4735fe5c-6552-4a05-8d61-2bfc6d477a44"
+    ],
+    "0004": [
+      "fc6c2f26-2c25-4d74-85e9-178406193d30"
+    ],
+    "0005": [
+      "7f0b2f0b-0a14-4edb-9647-909105fb44fd"
+    ],
+    "0006": [
+      "c76e7e17-3ede-46d5-89aa-538793852ef2"
+    ],
+    "0007": [
+      "cd399322-193f-49e7-9a67-3ceb4700032d"
+    ],
+    "0008": [
+      "8f8e8a9a-b7f3-4f12-adb4-271b77d8a13a"
+    ],
+    "0009": [
+      "9112b0e3-3836-4638-b23d-322dc515add9"
+    ],
+    "0010": [
+      "e84ce5fe-7171-4705-bada-a4b5a1659fdb"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:19:33.303249",
+  "article_count": 10,
+  "generation_time_s": 5.670083284378052
+}

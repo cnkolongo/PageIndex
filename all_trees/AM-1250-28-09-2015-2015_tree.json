@@ -1,0 +1,293 @@
+{
+  "slug": "AM-1250-28-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-1250-28-09-2015-2015.json",
+  "document_id": "747cec9a-7de3-4e83-9893-fa67665df522",
+  "document_title": "AM.1250.28.09.2015",
+  "tree_json": {
+    "doc_name": "AM-1250-28-09-2015-2015",
+    "structure": [
+      {
+        "title": "AM.1250.28.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.1250.28.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre II: Dispositions g�n�rales",
+            "node_id": "0001",
+            "prefix_summary": "#### Chapitre II: Dispositions g�n�rales",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document provides the definitions for key terms used in a regulation concerning dietary supplements (compléments alimentaires) in the Democratic Republic of Congo. It establishes precise meanings for terms related to additives, competent authorities, manufacturing practices (BPF certification), composition, labeling, packaging, ingredients, production batches, and the Codex Alimentarius standards.",
+                "line_num": 7
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "###### Article 10\n\nLa quantit� minimale de chaque vitamine et/ou min�rale contenue dans un\ncompl�ment alimentaire par portion journali�re de consommation telle que\npr�conis�e par le fabricant devrait �tre de 15% de l'apport quotidien tels que\nrecommand� par la FAO/OMS.",
+                "line_num": 73
+              },
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "###### Article 11\n\nLes quantit�s maximales des vitamines et des min�raux doivent �tre �tablies par\nune �valuation scientifique du b�n�fice risques tenant compte de l'apport\nquotidien de vitamines et de min�raux provenant d'autres sources alimentaires.",
+                "line_num": 81
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nLes compl�ments alimentaires doivent �tre emball�s dans des r�cipients qui\ngarantissent la qualit�, l'hygi�ne et la s�curit�. Les r�cipients et les\nmat�riaux d'emballage, doivent �tre constitu�s uniquement de substances\nnon-toxiques et adapt�s � leur usage pr�vu.",
+                "line_num": 88
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "This partial document outlines the stability study requirements for a product registration dossier. The main points covered are:\n\n1.  **Submission Requirements:** The applicant must submit a stability study report for at least three batches of the commercial product. This report must include the study protocol, stability conditions (humidity and temperature), packaging type, results, and a conclusion.\n\n2.  **Specified Climate Conditions:** It mandates specific stability study conditions for the Democratic Republic of the Congo:\n    *   **Real-time studies:** 30°C ± 2°C and 65% RH ± 5% RH.\n    *   **Accelerated studies:** 40°C ± 2°C and 75% RH ± 5% RH.\n\n3.  **Minimum Duration for Accelerated Studies:** The accelerated stability test data must cover a minimum period of six months.",
+                "line_num": 96
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV: De l'�tiquetage et du conditionnement",
+            "node_id": "0007",
+            "prefix_summary": "#### Chapitre IV: De l'�tiquetage et du conditionnement",
+            "line_num": 110,
+            "nodes": [
+              {
+                "title": "Article 14",
+                "node_id": "0008",
+                "summary": "###### Article 14\n\nLes param�tres � tester doivent �tre ceux susceptibles de changer et\nd'influencer la qualit�, la s�curit� du produit fini; et doivent tenir compte de\nla forme du produit, de la quantit� du nutriment, des propri�t�s\nphysico-chimiques telles que le pH, la dissolution, la d�sint�gration et les\nlimites microbiennes.",
+                "line_num": 113
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0009",
+                "summary": "###### Article 15\n\nLes compl�ments alimentaires ne doivent pas �tre d�crits ou pr�sent�s sous une\n�tiquette fausse, trompeuse ou mensong�re ou susceptible de cr�er une fausse\nimpression quant � sa nature � tous �gards.",
+                "line_num": 122
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0010",
+                "summary": "The partial document outlines the mandatory labeling requirements for dietary supplements in the Democratic Republic of the Congo. The main points covered are prohibitions against claims of disease prevention, diagnosis, or treatment, and against claims that the supplement can replace a meal or varied diet. It also mandates warnings about excessive consumption, contraindications, precautions, and keeping the product away from children. Finally, it requires that all this information be presented in clear, indelible French text on the packaging.",
+                "line_num": 129
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0011",
+                "summary": "###### Article 17\n\nLe compl�ment alimentaire doit �tre identifi� comme �aliments ou compl�ment\nalimentaire�. D�crire le type de compl�ment en mentionnant compl�ment qui\npr�c�de le nom de l'ingr�dient alimentaire.",
+                "line_num": 147
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0012",
+                "summary": "###### Article 18\n\nTout ingr�dient utilis� dans un compl�ment alimentaire doit �tre d�clar� sur\nl'�tiquette avec les quantit�s correspondantes par unit� de mesure pr�cise.",
+                "line_num": 154
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0013",
+                "summary": "###### Article 19\n\nSi l'ingr�dient est d'origine animale ou v�g�tale, le nom scientifique de la\nplante ou de l'animal ainsi que les parties utilis�es doivent �tre d�clar�es.",
+                "line_num": 160
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "###### Article 2\n\nAucun compl�ment alimentaire ne peut �tre import�, fabriqu�, commercialis� en\nR�publique D�mocratique du Congo s'il n'a pas �t� pr�alablement homologu� et n'a\npas b�n�fici� d'une autorisation de mise sur le March�(AMM) d�livr� par la\nDirection de la pharmacie et du m�dicament du Minist�re de la Sant� Publique.",
+                "line_num": 166
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0015",
+                "summary": "###### Article 20\n\nPour chaque ingr�dient l'�tiquetage doit inclure la quantit� par prise, la forme\net la source.",
+                "line_num": 174
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0016",
+                "summary": "###### Article 21\n\nLe contenu exact doit �tre d�clar� en unit�s de syst�me m�trique, en poids pour\nles produits solides et les poudres, en volume pour les liquides ou en nombre\npour les comprim�s et capsules.",
+                "line_num": 180
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0017",
+                "summary": "###### Article 22\n\nLe nom, l'adresse et le pays d'origine du fabricant du compl�ment alimentaire\ndoivent �tre d�clar�s et chaque produit doit �tre marqu� de fa�on permanente\nd'un code ou d'une expression claire permettant d'identifier l'usine de\nproduction, le num�ro de lot, la date de fabrication et de p�remption, qui doit\nindiquer au moins le mois, l'ann�e et les conditions de stockage appropri�es\nrecommand�es pour le produit.",
+                "line_num": 187
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0018",
+                "summary": "###### Article 23\n\nLe mode d'emploi clair et concis pour l'utilisation (la  quantit�, la fr�quence,\nla cat�gorie d'�ge, les conditions particuli�res, etc.) doit �tre inclus sur\nl'�tiquette pour assurer une utilisation correcte du produit.",
+                "line_num": 197
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0019",
+                "summary": "###### Article 24\n\nToutes les informations pr�sent�es doivent �tre en fran�ais et toute\ncommunication concernant l'application doit �tre utile dans cette langue.\nToutefois, lorsque les certificats originaux sont dans une autre langue,les\ncopies sont pr�sent�es conjointement avec des traductions certifi�es.",
+                "line_num": 204
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0020",
+                "summary": "###### Article 25\n\nLes infractions aux dispositions du pr�sent Arr�t� sont punies des peines\npr�vues par l'Ordonnance n�27 bis/Hygi�ne du 15 mars 1933 sur l'exercice de la\npharmacie, sp�cialement en l'article 64.",
+                "line_num": 212
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0021",
+                "summary": "###### Article 26\n\nToutes les dispositions ant�rieures et contraires au pr�sent Arr�t� sont\nabrog�es.",
+                "line_num": 219
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0022",
+                "summary": "###### Article 27\n\nLe Secr�taire g�n�ral � la Sant� est charg� de l'ex�cution du pr�sent Arr�t� qui\nentre en vigueur � la date de sa signature.\nFait � Kinshasa le 28 septembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 225
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0023",
+                "summary": "###### Article 3\n\nUne demande d'enregistrement du compl�ment alimentaire doit se faire par le\npropri�taire du produit, le fabricant ou l'importateur.",
+                "line_num": 238
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0024",
+                "summary": "###### Article 4\n\nToutefois, si le produit pr�sent� comme compl�ment alimentaire  r�pond aux\nindications contre des maladies bien d�termin�es et lorsqu'il est utilis� pour\ntraiter des maladies, il doit se conformer, aux lignes directrices relatives aux\nproduits pharmaceutiques � base des plantes et m�dicaments traditionnels\nam�lior�s conform�ment � l'annexe 2 et requiert les services d'un pharmacien\ncomme personne habilit� � faire la demande pour le compte de l'�tablissement qui\nl'emploie.",
+                "line_num": 244
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0025",
+                "summary": "###### Article 5\n\nLe dossier de demande d'autorisation de mise sur le march� des compl�ment\nalimentaires doit �tre pr�sent� en trois copies (deux en dure et une en\n�lectronique) suivant le mod�le en annexe I.",
+                "line_num": 255
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0026",
+                "summary": "###### Article 6\n\nL'enregistrement d'un compl�ment alimentaire est valable pour cinq ans\nrenouvelables.",
+                "line_num": 262
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : Du contenu du dossier",
+            "node_id": "0027",
+            "prefix_summary": "#### Chapitre III : Du contenu du dossier",
+            "line_num": 268,
+            "nodes": [
+              {
+                "title": "Article 7",
+                "node_id": "0028",
+                "summary": "###### Article 7\n\nSi, pour une raison quelconque le titulaire de l'enregistrement change une\ninformation li�e � un compl�ment, il a l'obligation de notifier la modification\nainsi que la justification et obtenir une approbation de la Direction de la\npharmacie et du m�dicament avant toute commercialisation du produit modifi�.",
+                "line_num": 271
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0029",
+                "summary": "The partial document outlines the required contents of an application dossier for marketing authorization of food supplements. It specifies six key pieces of information that must be included: a product description, complete composition, product specifications, detailed manufacturing process with a diagram, quality control testing protocols, and analysis certificates for three finished product batches.",
+                "line_num": 279
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0030",
+                "summary": "The partial document outlines the specific additional information required from applicants for dietary supplements containing plant-based ingredients. This includes: a) a detailed botanical profile of the plant used, b) scientific and bibliographic data to demonstrate the safety of each plant-based ingredient, and c) a description of the physiological functions of the plant-based ingredient(s).",
+                "line_num": 299
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "70a8c4a3-452d-4d89-8a0e-6808cd5deca8"
+    ],
+    "0003": [
+      "d32fdf28-fca6-44de-b4ff-5342921f7798"
+    ],
+    "0004": [
+      "992b59bd-a05a-40e9-be81-688ac5bae008"
+    ],
+    "0005": [
+      "b04171a9-6203-4530-99b4-b1b409e602a7"
+    ],
+    "0006": [
+      "81dc923b-e919-44f9-ac24-fedb480bfa67"
+    ],
+    "0008": [
+      "78e6c9c6-67ca-443f-87a9-75ec82447489"
+    ],
+    "0009": [
+      "3008c593-92a0-4536-b65d-0317e07343ff"
+    ],
+    "0010": [
+      "9d40ff24-2992-4d85-b703-c47a3220d9bf"
+    ],
+    "0011": [
+      "98fd0475-0527-4761-893b-4f11f4ee3758"
+    ],
+    "0012": [
+      "9e01f34c-c9a6-47c4-b62a-8db4c2687b0e"
+    ],
+    "0013": [
+      "b383487b-921e-4b4e-991b-6fd8a46d25a8"
+    ],
+    "0014": [
+      "bf225e88-abc2-4f05-9bd7-fbccdd55c1f0"
+    ],
+    "0015": [
+      "686b33a9-a33a-44c6-a31b-bd83e6d6aa80"
+    ],
+    "0016": [
+      "9819cfe2-960f-47c1-a21e-278e688e66ad"
+    ],
+    "0017": [
+      "e24236cb-4a43-4705-bae6-866ae9b09159"
+    ],
+    "0018": [
+      "31b19d8e-6f22-470f-b97f-c174558ca206"
+    ],
+    "0019": [
+      "a44b7ca0-c2c8-4846-80d4-7167cd3b41ef"
+    ],
+    "0020": [
+      "fc92d72c-0899-4495-9b4b-cd30589a29d9"
+    ],
+    "0021": [
+      "5c9b8adf-b881-44de-adce-ecdf1bc46ee4"
+    ],
+    "0022": [
+      "3c57c841-be2f-484e-ba2c-a1c597d172fe"
+    ],
+    "0023": [
+      "d5a81903-7915-4af6-b1d3-7846bbadd364"
+    ],
+    "0024": [
+      "f8cbce56-08ea-4b98-aaf5-b974ba551240"
+    ],
+    "0025": [
+      "fee4668a-4341-4508-9e15-d7888e2c463f"
+    ],
+    "0026": [
+      "a44ec926-0f1b-4bc0-8491-7df66735921a"
+    ],
+    "0028": [
+      "c8e036bf-0c4b-47d6-bd31-3dc414369a48"
+    ],
+    "0029": [
+      "75f22a78-8d97-4866-b718-6dd62731fe19"
+    ],
+    "0030": [
+      "ddbdffb1-3d59-4b8c-bd8d-90d2986b1a70"
+    ]
+  },
+  "node_count": 31,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:34:28.342416",
+  "article_count": 27,
+  "generation_time_s": 14.33492112159729
+}

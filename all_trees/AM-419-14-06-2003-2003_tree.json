@@ -1,0 +1,116 @@
+{
+  "slug": "AM-419-14-06-2003-2003",
+  "bundle_path": "backups/all_bundles/code/AM-419-14-06-2003-2003.json",
+  "document_id": "9de22b4f-af8b-42e6-ac39-939d45d18da7",
+  "document_title": "AM.419.14.06.2003",
+  "tree_json": {
+    "doc_name": "AM-419-14-06-2003-2003",
+    "structure": [
+      {
+        "title": "AM.419.14.06.2003",
+        "node_id": "0000",
+        "prefix_summary": "# AM.419.14.06.2003",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe Secr�taire G�n�ral � la Justice est charg� de l�ex�cution du\npr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 14 juin 2003.\nMa�tre Ngele\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\nLe format des registres des actes de l��tat civil est fix� comme\nsuit :\n- registre de naissance : 534 feuillets format 42 cm X 59,4 cm\n- registre de mariage : 534 feuillets format 64 cm X 83 cm\n- registre de d�c�s : 534 feuillets format 42 cm X 59,4 cm",
+            "line_num": 17
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nLes feuillets des registres sont en papier bond blanc 80\ngrammes.\nLes feuillets des actes de l��tat civil comprennent quatre\nparties �gales portant des mentions identiques.\nUne marge �gale au tiers de chaque partie est r�serv�e pour\nd��ventuelles observations.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLes registres doivent �tre en blanc, cot�s et paraph�s du\npremier au dernier feuillet par l�Officier du Minist�re public dans le ressort\nduquel est situ� le bureau de l��tat civil.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nPar application de l�article 92 du Code de la Famille livre II,\nl�acte de naissance, de mariage ou de d�c�s �nonce les mentions communes\nci-apr�s :\n- la date et l�heure auxquelles il est �tabli ;\n- le nom et la qualit� de l�Officier de l��tat civil ;\n- les noms, sexe, situation matrimoniale, profession, domicile\nou r�sidence et, si possible, les dates et lieux de naissance de ceux qui sont\nd�nomm�s.",
+            "line_num": 43
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nPar l�application de l�article 118 du Code de la famille livre\nII, les mentions particuli�res de l�acte de naissance �noncent :\n- l�heure si c�est possible, le jour, le mois, l�ann�e et le\nlieu de la naissance, le sexe de l�enfant et le nom qui lui est donn� ;\n- les noms, l��ge, les professions et domicile des p�res et\nm�res ;\n- le cas �ch�ant, le nom l��ge, la profession et domicile du\nd�clarant autre que le p�re ou la m�re.",
+            "line_num": 55
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "This partial document, Article 6, lists the specific information that must be recorded in a marriage certificate according to the referenced Family Code. The main points covered are the required personal details of the spouses, their parents, and witnesses; their prior marital status; necessary consents for minors; any granted dispensations; the dowry agreement; the chosen matrimonial property regime; and the procedural details of whether the marriage was registered or ceremonially celebrated by a civil officer.",
+            "line_num": 67
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "This partial document outlines the specific information required to be recorded in a death certificate according to Article 134 of the Family Code. It lists the mandatory particulars, including the time, date, and place of death; the deceased's personal details (name, birth date, profession, and address); and the details of their parents, spouse (if applicable), and the person reporting the death.",
+            "line_num": 99
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLes mod�les des registres et des actes sont annex�s au pr�sent\narr�t�.",
+            "line_num": 115
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nEst rapport� l�arr�t� n� 88/053 du 15 juillet 1988 fixant le\nmod�le et les mentions des registres et des actes de l��tat civil.",
+            "line_num": 121
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "47ca1906-993d-47c8-8a4f-da3d6d9174e1"
+    ],
+    "0002": [
+      "94cc3101-fe51-4ff7-9abd-b04b0a115987"
+    ],
+    "0003": [
+      "978b5a7b-4103-4836-9c8a-7663b4724690"
+    ],
+    "0004": [
+      "55bd704e-afd4-4b7f-acaf-88f6641ef74e"
+    ],
+    "0005": [
+      "57de93bd-dab5-450d-9aae-29cbc848b98b"
+    ],
+    "0006": [
+      "e3c89e3d-c2b8-46e0-a1e6-360d44286328"
+    ],
+    "0007": [
+      "f964a374-1020-407f-ba0e-2d09bf6c0353"
+    ],
+    "0008": [
+      "ed657f84-6e08-49c1-9daa-7d6a4bc1c439"
+    ],
+    "0009": [
+      "20e97eea-ae69-407a-83a0-b525e3ace4c5"
+    ],
+    "0010": [
+      "83b09f17-3714-48e3-bba6-0b65e7774058"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:21:06.671034",
+  "article_count": 10,
+  "generation_time_s": 6.009056091308594
+}

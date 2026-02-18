@@ -1,0 +1,112 @@
+{
+  "slug": "AM-31-12-1991-1991",
+  "bundle_path": "backups/all_bundles/code/AM-31-12-1991-1991.json",
+  "document_id": "7262b492-ff4d-4203-b18f-b00d1fcf5741",
+  "document_title": "AM.31.12.1991",
+  "tree_json": {
+    "doc_name": "AM-31-12-1991-1991",
+    "structure": [
+      {
+        "title": "AM.31.12.1991",
+        "node_id": "0000",
+        "prefix_summary": "# AM.31.12.1991",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nARR�T� MINIST�RIEL 037/MENIC/ CAB/91 du 31 d�cembre 1991 r�glementant\nle calcul du prix de vente et l�approvisionnement en pi�ces d�tach�es et\naccessoires pour v�hicules automobiles, le calcul du prix de vente des v�hicules\nimport�s et la d�termination du taux horaire des garages. (Minist�re de\nl��conomie et Industrie)\ner DU CALCUL DU PRIX DE VENTE ET DE L�APPROVISIONNEMENT EN PI�CES",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "This partial document outlines a regulatory framework for pricing, importation, and stock management of automobile spare parts and accessories in Zaire. The main points covered are:\n\n1.  **Pricing Regulations:** It establishes how consumer prices for parts are calculated, referencing an annex and capping prices based on origin country catalogs. For items without catalogs, it defines a cost-plus pricing method with specified profit margins.\n2.  **Documentation Requirements:** It mandates that sellers must hold specific documents proving prices, such as origin country catalogs, cost calculation documents, or local supplier invoices.\n3.  **Stock Obligations:** It imposes minimum stock requirements for commercial houses representing automobile brands, based on previous year's sales volume.\n4.  **Importation Rules:** It requires non-automobile importing parts traders to align their orders with inventory turnover rates. It also obliges automobile importers to annually report import values and to maintain a minimum value of spare parts imports relative to new vehicle imports, depending on their establishment duration in Zaire.",
+                "line_num": 17
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0004",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 69,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "The partial document covers the calculation method for the sale price of imported vehicles. It references a specific departmental decree from 1981, amended by an annex, and notes that this decree was later repealed and replaced by a 1996 ministerial order implementing a 1961 price decree.",
+                "line_num": 72
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0006",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 84,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0007",
+                "summary": "###### Article S4\n\nDE LA D�TERMINATION DU TARIF HORAIRE DE LA MAIN-D��UVRE DANS LES\nGARAGES\nArt. 9. � Le tarif horaire de la main-d��uvre dans les garages est d�- termin�\nsuivant les dispositions de l�annexe 3 jointe au pr�sent arr�t�.",
+                "line_num": 87
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0008",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 95,
+            "nodes": [
+              {
+                "title": "Article S5",
+                "node_id": "0009",
+                "summary": "This partial document contains the final sanctions and annexes of a regulatory order (likely from Zaire, now DRC). The main points covered are:\n\n1.  **Final Provisions (Articles 10 & 11):** Establishes penalties for violations of the order and repeals all previous contradictory provisions.\n\n2.  **Annex 1 - Pricing Standards for Auto Parts:** Details how to calculate the selling price of automotive spare parts, mandating the use of the daily exchange rate on the sale date and a regulated \"conversion coefficient\" to account for costs. It prohibits speculative pricing based on anticipated exchange rate movements.\n\n3.  **Annex 2 - Pricing Standards for Imported Vehicles:** Outlines the method for determining the selling price of imported vehicles by adding a profit margin to the cost price. It specifies how to calculate the cost price (based on C.I.F. value plus regulated costs like banking fees, transport, and allowances for miscellaneous expenses) and sets the maximum allowable profit margin at 15%.\n\n4.  **Annex 3 - Labor Rate Standards for Garages (Beginning):** Introduces the framework for calculating the hourly labor rate in repair garages, listing the core components: the cost of productive labor (technical staff) and workshop operating expenses. The detailed calculation is cut off.",
+                "line_num": 98
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0010",
+                "summary": "This partial document appears to be a section from a legal or regulatory text, likely outlining the methodology for calculating an hourly labor rate in automotive repair garages. The main points covered are:\n\n1.  The components that make up the rate, including garage equipment costs (depreciation, insurance, phone), shared management overheads (general administration, building rent/depreciation, telex/phone), and a 20% profit margin applied to all garage service-related costs (excluding depreciation).\n2.  A stated formula or \"scheme\" for determining this hourly garage rate.\n3.  The beginning of a list starting with \"I. Number of workers,\" which is the first factor in the calculation.\n4.  A disclaimer noting the site is under construction and that the texts are provided by associations without assuming liability.",
+                "line_num": 170
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "b514f79f-fd8a-4c43-94da-7a0e71e9a74e"
+    ],
+    "0003": [
+      "7affffd6-f176-458a-b139-b0af005dc160"
+    ],
+    "0005": [
+      "71fddfaa-802f-4fe2-822e-1f1617bcb549"
+    ],
+    "0007": [
+      "da95bae3-3bf6-4c21-bd03-92e15bc8f076"
+    ],
+    "0009": [
+      "230c4c2a-0311-4ffa-9d70-0eb852fec0d9"
+    ],
+    "0010": [
+      "4cf824cc-efd6-4b40-aac6-fb5962d7835f"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:45:24.761929",
+  "article_count": 6,
+  "generation_time_s": 15.726526975631714
+}

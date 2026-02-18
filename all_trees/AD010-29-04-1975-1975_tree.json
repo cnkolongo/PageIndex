@@ -1,0 +1,112 @@
+{
+  "slug": "AD010-29-04-1975-1975",
+  "bundle_path": "backups/all_bundles/code/AD010-29-04-1975-1975.json",
+  "document_id": "e17756e4-d981-47e0-976a-2a64c33a62aa",
+  "document_title": "AD010.29.04.1975",
+  "tree_json": {
+    "doc_name": "AD010-29-04-1975-1975",
+    "structure": [
+      {
+        "title": "AD010.29.04.1975",
+        "node_id": "0000",
+        "prefix_summary": "# AD010.29.04.1975",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "partie d",
+            "node_id": "0001",
+            "prefix_summary": "## partie d",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "This partial document outlines the initial articles of a 1975 departmental decree (Arrêté) from Zaire, regulating the functioning of orchestras. It covers two main sections:\n\n1.  **Requirements for Musicians:** It lists the minimum conditions an individual must meet to be a musician in an orchestra, including being at least 18 years old, having completed at least two years of post-primary education, having basic music theory knowledge, not being a full-time student (with exceptions for school bands), and, for married women, having their husband's authorization.\n\n2.  **Requirements for Orchestras:** It defines established orchestras as cultural associations. To be officially recognized, an orchestra must possess musical instruments (owned by a person or entity) and maintain a bank account with a minimum deposited capital, verified by a bank certificate, the amount of which is categorized (beginning with a specified minimum for \"Category A\").",
+                "line_num": 7
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "###### Article S2\n\nZ. 5.000,00.\n1) Kinshasa;\n2) Bas-Za�re;\n3 ) Shaba.\n� Cat�gorie B\nAvoir un fonds minimum de:",
+                "line_num": 48
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "###### Article S3\n\nZ. 3.000,00.\n� Haut-Za�re.\n� Cat�gorie C\nAvoir un fonds minimum de:",
+                "line_num": 58
+              },
+              {
+                "title": "Section III",
+                "node_id": "0005",
+                "prefix_summary": "##### Section III",
+                "line_num": 66,
+                "nodes": [
+                  {
+                    "title": "Article S4",
+                    "node_id": "0006",
+                    "summary": "This partial document covers regulations for the establishment and operation of musical groups (orchestras) in a specific region, likely Kinshasa and other areas. The main points are:\n\n1.  **Requirements for Orchestra Formation:** It lists prerequisites for a musical group, including having a commercial register and a formal statute detailing its nature, objectives, headquarters, organization, funding, operations, and dissolution procedures.\n\n2.  **Official Approval Process:** It mandates that new groups must obtain an official act of approval (\"agréation\") from the urban or regional commissioner, based on the advice of a five-member commission. The process has a 60-day deadline and requires sending copies of the approved dossier to the central department.\n\n3.  **Application Dossier Contents:** It specifies the detailed documents required for the approval application, including the group's statute, commercial register copy, and extensive personal documents for each musician (work contract, photo, proof of schooling, birth certificate, music theory attestation, civil status, and criminal record).\n\n4.  **Transitional Provision:** It gives a 60-day period from the decree's effective date for the authorities to identify and officially recognize existing orchestras that demonstrate viability.\n\n5.  **Regulations for Instrument Rental:** It outlines rules for rental contracts between instrument owners and orchestra leaders. Key requirements include a minimum three-year lease, clauses on repair responsibilities, an inventory of instruments, and a monthly rent price based on depreciation. The rules state the owner's relationship is solely with the orchestra leader and that instruments cannot be withdrawn during the contract.",
+                    "line_num": 69
+                  }
+                ]
+              },
+              {
+                "title": "Section IV",
+                "node_id": "0007",
+                "prefix_summary": "##### Section IV",
+                "line_num": 177,
+                "nodes": [
+                  {
+                    "title": "Article S5",
+                    "node_id": "0008",
+                    "summary": "This partial document outlines regulations governing the relationship between musicians and orchestras in Zaire (now the Democratic Republic of the Congo). The main points covered are:\n\n1.  **Employment Contracts:** Mandates a formal work contract for musicians, with a minimum duration of three years (Articles 12-13).\n2.  **Exclusivity & Contract Renewal:** Stipulates that a musician under contract cannot join another orchestra (Article 14). Contracts are automatically renewed unless terminated by either party (Article 15).\n3.  **Termination Procedures:** Establishes a three-month notice period for resignation or dismissal, which can be reduced to one month if a contract breach is proven by a Reconciliation Commission (Article 16).\n4.  **Composition of the Reconciliation Commission:** Details the five-member commission formed to adjudicate termination disputes, with representatives from musicians' unions, cultural divisions, and labor inspection (Article 17).\n5.  **Penalties for Violations:** Prescribes penalties, including a one-year ban on musical activity for violating termination rules (Article 18) and a minimum three-year suspension for an orchestra that hires a musician under contract elsewhere (Article 19).\n6.  **Remuneration:** Defines a musician's compensation, including a base monthly salary, family allowances, medical care for the musician and family, and pension rights (Articles 21-22).\n7.  **Copyright and Roles:** Defines key roles (melodist, arranger, editor) and requires contracts for recording. It states that copyright issues for collective works will be settled by the authorities in case of an orchestra's dissolution (Articles 20, 23).",
+                    "line_num": 180
+                  }
+                ]
+              },
+              {
+                "title": "Section VII",
+                "node_id": "0009",
+                "prefix_summary": "##### Section VII",
+                "line_num": 277,
+                "nodes": [
+                  {
+                    "title": "Article S6",
+                    "node_id": "0010",
+                    "summary": "This partial document outlines the financial distribution and contractual obligations within the music industry, specifically regarding record sales and orchestral performances. It details royalty splits for 45 rpm records between publishers, composers, and rights societies. It also specifies the payment percentages for melody writers, arrangers, and publishers from retail sales. Furthermore, it establishes the revenue sharing rules for orchestras performing at paid-entry events, including the distribution among the group and individual musicians. It lists fixed hourly rates for musicians during recording sessions, categorized by instrument and role. Finally, it includes final provisions about legal consequences for violations, the repeal of a previous ordinance, and the effective date.",
+                    "line_num": 280
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "4b86c13b-e7a7-4fa5-aa7b-25c7a75b63b5"
+    ],
+    "0003": [
+      "e0464823-ca6a-4ed9-bfc7-3a7e76489162"
+    ],
+    "0004": [
+      "7d55b317-88b3-4e3d-af49-a9b526f551b3"
+    ],
+    "0006": [
+      "2dc552c5-80ad-42aa-9a1a-a0500e6e041c"
+    ],
+    "0008": [
+      "925bdd4b-f646-4061-8fb8-0b083110c553"
+    ],
+    "0010": [
+      "05c59dfd-58f7-491c-ad6e-900ccea61a0b"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:32:44.348355",
+  "article_count": 6,
+  "generation_time_s": 20.139302968978882
+}

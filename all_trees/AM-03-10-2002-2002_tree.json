@@ -1,0 +1,116 @@
+{
+  "slug": "AM-03-10-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-03-10-2002-2002.json",
+  "document_id": "4f272d65-df4e-47c5-9ba9-974a7db79624",
+  "document_title": "AM.03.10.2002",
+  "tree_json": {
+    "doc_name": "AM-03-10-2002-2002",
+    "structure": [
+      {
+        "title": "AM.03.10.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM.03.10.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLes avis du\nconseil sont consign�s dans un proc�s-verbal sign� par le pr�sident et le\nsecr�taire rapporteur et transmis au Gouverneur de province. Une copie en est\nadress�e au Ministre.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nLe Secr�taire\nG�n�ral � l�Environnement et Conservation de la Nature et les Gouverneurs de\nprovince sont charg�s, chacun en ce qui le concerne, de l�ex�cution du pr�sent\narr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa,\nle 03 octobre 2002.\nSalomon BANAMUHERE BALIENE\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "This partial document defines the composition of a Provincial Forest Advisory Council. It lists the 13 permanent members, who are primarily provincial department heads (forests, land affairs, territory administration, planning, agriculture, rural development, finances, economy, commerce, tourism) along with a forestry expert and NGO representatives. It also specifies two additional members who join when the council is considering forest classification or declassification: the District Commissioner, the Territory Administrator, and a representative of the forest's neighboring population. The text ends by introducing Chapter 2 on organization.",
+            "line_num": 28
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nLe conseil est\n�tabli au chef-lieu de la province et plac�e sous l�autorit� du Gouverneur de\nprovince.\nIl peut se r�unir\n� tout autre endroit de la province.",
+            "line_num": 71
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\nEn cas de\nn�cessit�, le conseil peut cr�er des groupes de travail en son sein.\nIl peut �galement\nfaire appel, sur base contractuelle, � des services d�experts ext�rieurs.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nLes membres du\nconseil ont droit � un jeton de pr�sence. Les prestations des experts sont\nr�mun�r�es par le paiement des honoraires.\nLe taux du jeton\nde pr�sence et des honoraires ainsi que leurs modalit�s de paiement sont fix�s\npar le Ministre charg� des for�ts sur proposition du Gouverneur de province.",
+            "line_num": 88
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nLes ressources\nfinanci�res du conseil proviennent principalement :\n-  de subventions\nde l�Etat et de la province,\n-  des\ncontributions d�organismes nationaux et\ninternationaux\net\n-  de toutes\nautres ressources.\nChapitre 3 : Du fonctionnement",
+            "line_num": 98
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLe conseil\n�labore et adopte son r�glement int�rieur qui pr�cise notamment la proc�dure de\nla prise de ses avis.\nLe r�glement ne\nproduit ses effets qu�apr�s son approbation par le Gouverneur de province.",
+            "line_num": 113
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLe conseil tient\nau moins une session ordinaire une fois par an.\nIl ne peut\ncependant �tre convoqu� en session extraordinaire que si les besoins l�exigent.\nUne session ne\npeut durer plus de dix jours, sauf d�rogation expresse du Gouverneur.",
+            "line_num": 122
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nLes sessions du\nconseil sont convoqu�es par arr�t� du Gouverneur de province, au moins quinze\njours avant la session.\nL�arr�t� de\nconvocation indique l�ordre du jour et est envoy� � chaque membre du conseil.",
+            "line_num": 132
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "43336f51-2639-411d-8d2b-ed9da4b7d9b3"
+    ],
+    "0002": [
+      "718a6f81-a548-46b5-8f2f-b87f90ddc6a9"
+    ],
+    "0003": [
+      "a2f7418f-6a80-443d-819b-6d95706a836e"
+    ],
+    "0004": [
+      "2382edba-9f1d-4299-bfda-098173be5c4a"
+    ],
+    "0005": [
+      "db61a33f-9a42-403b-aa2c-e3ce6cafdf3f"
+    ],
+    "0006": [
+      "ff57a2ec-1e60-480a-bb55-bbaf033f59aa"
+    ],
+    "0007": [
+      "a1ef4beb-8778-4f6e-845c-c53845840320"
+    ],
+    "0008": [
+      "f745eaf7-90d0-4009-9fd0-0131a3807efa"
+    ],
+    "0009": [
+      "3c6b2e91-f7be-4a69-8876-08a92484bc62"
+    ],
+    "0010": [
+      "9b671bed-c2ab-4c01-afd2-00e3c35ba65b"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:26:22.063341",
+  "article_count": 10,
+  "generation_time_s": 6.828737735748291
+}

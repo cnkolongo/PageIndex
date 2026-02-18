@@ -1,0 +1,40 @@
+{
+  "slug": "AM-08-10-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-08-10-2015-2015.json",
+  "document_id": "cf21d071-c12f-4190-bdfc-aecf40ff345b",
+  "document_title": "AM.08.10.2015",
+  "tree_json": {
+    "doc_name": "AM-08-10-2015-2015",
+    "structure": [
+      {
+        "title": "AM.08.10.2015",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre V : Mandat des d�l�gu�s",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 14",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "333cb800-e540-4fb9-a7ce-de227e75e5c2"
+    ]
+  },
+  "node_count": 3,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:38:40.205278",
+  "article_count": 1,
+  "generation_time_s": 0.8305950164794922
+}

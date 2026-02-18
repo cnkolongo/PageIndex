@@ -1,0 +1,266 @@
+{
+  "slug": "AM-1250-010-28-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-1250-010-28-09-2015-2015.json",
+  "document_id": "80a2eaff-a840-44d3-8742-5512c07d4dbe",
+  "document_title": "AM.1250.010.28.09.2015",
+  "tree_json": {
+    "doc_name": "AM-1250-010-28-09-2015-2015",
+    "structure": [
+      {
+        "title": "AM.1250.010.28.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.1250.010.28.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Chapitre II : De la comp�tence en mati�re d'octroi de l'autorisation d'ouverture",
+            "node_id": "0001",
+            "prefix_summary": "#### Chapitre II : De la comp�tence en mati�re d'octroi de l'autorisation d'ouverture",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 1",
+                "node_id": "0002",
+                "summary": "This partial document is Article 1 of a decree or order, which provides the official definitions of key terms used within the pharmaceutical sector of the Democratic Republic of the Congo. It defines 25 specific roles, establishments, and product types, establishing a legal and regulatory framework. The main points covered are:\n\n1.  **Definitions of Pharmaceutical Personnel:** It defines various professional roles such as the pharmacy assistant, pharmacist assistant/adjunct, titular pharmacist, and pharmaceutical inspector (who is also a sworn judicial police officer).\n\n2.  **Definitions of Pharmaceutical Establishments:** It provides detailed definitions for different types of facilities, including:\n    *   Community and institutional pharmacies (officine, internal pharmacy, veterinary pharmacy).\n    *   Wholesale and distribution entities (wholesale establishment, depository, regional distribution center, purchasing center).\n    *   Manufacturing and control sites (manufacturer, manufacturing laboratory, quality control laboratory).\n    *   Other specialized entities (scientific representation agency, optical shop).\n\n3.  **Definitions of Products and Related Concepts:** It defines key product categories and related terms, such as:\n    *   Pharmaceutical products and health products.\n    *   Food supplements (with specific criteria).\n    *   Out-of-use products (non-compliant pharmaceuticals).\n    *   Key processes like manufacturing, wholesale distribution, and pharmaceutical inspection.\n    *   A first-aid kit.\n\nThe article serves as a foundational glossary for the subsequent regulations, ensuring clarity and consistency in the application of the law regarding the opening and operation of pharmaceutical establishments.",
+                "line_num": 7
+              },
+              {
+                "title": "Article 10",
+                "node_id": "0003",
+                "summary": "This partial document covers regulations for pharmaceutical establishments in the Democratic Republic of the Congo. The main points are:\n\n1.  **Authorization Requirements:** An authorization to operate must be issued in accordance with a specific model created and codified by the Directorate of Pharmacy and Medicine.\n2.  **Suspension or Revocation of Authorization:** This authorization can be suspended or withdrawn if the establishment violates legal provisions governing pharmacy practice, following a formal notice.\n3.  **Good Pharmaceutical Practices Certificate:** The Directorate grants a certificate of Good Pharmaceutical Practices (GPP) to any pharmaceutical establishment that meets the applicable GPP requirements for its type.\n4.  **Certificate Validity and Inspection:** This certificate is issued following a GPP inspection and is valid for three years.\n5.  **Revocation of Certificate:** The certificate can be withdrawn at any time if a significant failure to comply with GPP is observed.",
+                "line_num": 116
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "This partial document covers regulatory requirements for pharmaceutical establishments in a French-language context. It specifies that a pharmacy owner must employ assistant pharmacists or pharmacy assistants proportional to the establishment's size and activity scope. It also outlines that a manufacturing license, issued by the Directorate of Pharmacy and Medicines, is required for authorized laboratories, defining the specific products they can produce, and that any new product preparation requires additional authorization from the same Directorate.",
+                "line_num": 133
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0005",
+                "summary": "###### Article 14\n\nTout changement aux conditions initiales ayant\npr�valu � l'octroi de l'autorisation doit �tre notifi� � l'autorit� comp�tente\nqui prend acte, approuve et autorise suivant le cas conform�ment � l'annexe\nIII du pr�sent Arr�t�.",
+                "line_num": 149
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0006",
+                "summary": "This partial document outlines the procedures a pharmacist must follow if their professional activity ceases or is interrupted. The main points are: the pharmacist must formally notify relevant pharmaceutical technical services and authorities within 15 days; they must serve a notice period pending an investigation; an investigation is conducted within 20 days; if the cessation is due to employer fault, the authorization is withdrawn; otherwise, the pharmacy can operate under an assistant pharmacist for a limited, renewable period; and exceeding this period results in the pharmacy's closure until a new titular pharmacist is hired and administrative files are updated.",
+                "line_num": 157
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0007",
+                "summary": "###### Article 16\n\nToutefois en cas de d�c�s du pharmacien titulaire l'employeur ainsi que le\nconseil de l'Ordre sont tenu d'en informer les services pharmaceutiques\ncomp�tents pour la prise des mesures appropri�es et l'�tablissement\nfonctionnera sous la responsabilit� du pharmacien assistant pour un d�lai ne\nd�passant pas 3 mois renouvelable une fois. En l'absence de ce dernier\nl'administration  d�signera  un pharmacien fonctionnaire qui assurera l'int�rim\nqui ne d�passe pas 3 mois jusqu'� l'engagement du nouveau pharmacien titulaire.",
+                "line_num": 178
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0008",
+                "summary": "###### Article 17\n\nToute cessation momentan�e ou d�finitive d'activit�s de l'�tablissement\npharmaceutique doit �tre notifi�e � l'autorit� comp�tente trois mois avant.",
+                "line_num": 189
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0009",
+                "summary": "This partial document outlines the authorized distribution circuit for pharmaceutical products. It specifies that manufacturers supply authorized wholesalers, who then supply authorized private pharmacies and internal hospital pharmacies. Authorized private pharmacies, in turn, supply patients, specific private medical facilities, transport companies, and institutions for first-aid kits. The circuit also applies to approved traditional medicines.",
+                "line_num": 195
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0010",
+                "summary": "###### Article 19\n\nToute vente en gros des produits pharmaceutiques ne peut s'effectuer que contre\nremise d'un bon de commande d�ment sign� par le pharmacien titulaire de\nl'�tablissement pharmaceutique autoris�.\nCe bon de commande sera gard� par l'�tablissement de vente en gros et pr�sent�\nen cas de contr�le ou d'inspection et une copie sera directement envoy�e aux\nservices pharmaceutiques comp�tents.",
+                "line_num": 220
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0011",
+                "summary": "###### Article 2\n\nL'octroi des autorisations d'ouverture des Etablissements pharmaceutiques rel�ve\nde la comp�tences du Ministre ayant la Sant� Publique dans ses attributions au\nniveau central.",
+                "line_num": 230
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0012",
+                "summary": "###### Article 20\n\nLes agences de repr�sentation scientifique des firmes pharmaceutiques ne sont\npas autoris�es � importer les produits pour le compte de tiers. Elles ne peuvent\nimporter que les mat�riels promotionnels et les �chantillons m�dicaux �\ndistribuer gratuitement.",
+                "line_num": 237
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0013",
+                "summary": "###### Article 21\n\nLes  Organisations Non Gouvernementales (ONG), les diff�rents types\nd'associations, les confessions religieuses et les organismes tant nationaux\nqu'internationaux exploitant, d�sirant exploiter ou disposant d'une structure �\ncaract�re pharmaceutique ou d�tenant des m�dicaments  et autres  produits\nde sant�, doivent scrupuleusement se conformer aux dispositions du-pr�sent\nArr�t�.\nPour ce qui concerne les dons, ils doivent se conformer aux lignes directrices\nde la r�glementation sur les dons.",
+                "line_num": 245
+              }
+            ]
+          },
+          {
+            "title": "Chapitre  Ill: Des dispositions finales",
+            "node_id": "0014",
+            "prefix_summary": "#### Chapitre  Ill: Des dispositions finales",
+            "line_num": 257,
+            "nodes": [
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nLes boites/trousses de secours utilisables notamment par les propri�taires des\nbateaux et des trains, les transporteurs longs courriers, les Directeurs\nd'�coles et les gestionnaires des march�s ou toute autre personne physique ou\nmorale doit �tre conforme � la composition d�finie � l'annexe V du pr�sent\nArr�t�.",
+                "line_num": 260
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nTous les �tablissements pharmaceutiques  doivent se conformer aux dispositions\ndu pr�sent Arr�t�, dans un d�lai de18 mois pour l�officine, 24 mois pour les\n�tablissements de vente en gros et 36 mois pour les laboratoires de fabrication.",
+                "line_num": 269
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0017",
+                "summary": "###### Article 24\n\nToutes les autres dispositions ant�rieures et contraires au pr�sent Arr�t� sont\nabrog�es.",
+                "line_num": 276
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0018",
+                "summary": "###### Article 25\n\nLes infractions aux dispositions du pr�sent Arr�t�\nsont sanctionn�es conform�ment aux bar�mes des sanctions relatifs aux\ninfractions li�es � l'exercice de la pharmacie en vigueur.",
+                "line_num": 282
+              },
+              {
+                "title": "section C",
+                "node_id": "0019",
+                "prefix_summary": "##### section C",
+                "line_num": 289,
+                "nodes": [
+                  {
+                    "title": "Article 26",
+                    "node_id": "0020",
+                    "summary": "This partial document is an annex to a ministerial order (Arrêté) from the Democratic Republic of the Congo, dated September 28, 2015. It details the comprehensive regulatory framework for authorizing and operating pharmaceutical establishments.\n\nThe main points covered are:\n\n1.  **General and Specific Criteria for Authorization:** It lists the requirements for obtaining an opening permit for a pharmaceutical establishment. This includes the applicant's qualifications (must be a registered pharmacist), necessary documentation (academic records, site inspection report, notarized statutes), possession of reference materials, payment of administrative fees, and specific criteria for different types of establishments.\n\n2.  **Types of Establishments and Their Specific Rules:** The document defines and sets criteria for various establishments, including:\n    *   Community Pharmacies (Officines)\n    *   Wholesale Distributors\n    *   Manufacturing and Quality Control Laboratories\n    *   Pharmaceutical Firm Representation Agencies\n    *   Internal/Hospital Pharmacies\n    *   Veterinary Pharmacies\n    *   Optical Shops\n    *   Regional Distribution Centers and Central Purchasing Offices\n    *   Scientific Representation Agencies\n    *   Wholesale Houses for Food Supplements\n\n3.  **Minimum Operational Standards:** For each type of establishment, it provides detailed minimum standards covering:\n    *   **Physical Infrastructure:** Descriptions, required rooms, minimum dimensions, and construction materials.\n    *   **Conservation Means:** Required equipment like air conditioning, refrigerators, shelving, and specific storage for controlled substances.\n    *   **Management and Staffing:** Requirements for the responsible pharmacist (must be present full-time, live locally), and necessary supporting personnel (assistant pharmacists, pharmacy assistants).\n    *   **Location and Density Rules:** Regulations on the minimum distance between pharmacies and the maximum number per population in urban/rural areas.\n\n4.  **Particular Operating Conditions:** This section outlines ongoing operational rules, such as:\n    *   Procedures for modifying infrastructure.\n    *   Rules for pharmacy operation (ownership, identification, on-call services, preparation of medicines).\n    *   Prohibitions for wholesale establishments (e.g., no triangular trade, no direct sales to the public).\n    *   Requirements for manufacturing laboratories (need for a production license, adherence to Good Manufacturing Practices).\n    *   Distinctive signage and staff dress code for pharmaceutical establishments.\n\n5.  **Technical Annexes:** The document references or includes specimens and lists for:\n    *   Model opening authorization forms.\n    *   Contents of a first-aid kit.\n    *   **Extensive lists of required equipment** for manufacturing laboratories, categorized by production type (tablets, capsules, injectables, ointments, etc.).\n    *   **Detailed lists of equipment** for quality control laboratories, for both basic and medium-sized labs, including optional equipment and microbiology/pharmacognosy sections.\n\nIn summary, this partial document is a detailed regulatory annex specifying the \"how-to\" for opening and running any type of pharmaceutical business in the DRC, covering eligibility, facility standards, operational conduct, and necessary equipment.",
+                    "line_num": 292
+                  },
+                  {
+                    "title": "Article 3",
+                    "node_id": "0021",
+                    "summary": "###### Article 3\n\nL'implantation des �tablissements pharmaceutiques se fait suivant une\ncartographie �labor�e conjointement par les services\npharmaceutiques provinciaux comp�tents en collaboration avec le conseil\nprovincial de l'Ordre des pharmaciens.",
+                    "line_num": 1391
+                  },
+                  {
+                    "title": "Article 4",
+                    "node_id": "0022",
+                    "summary": "###### Article 4\n\nLes conditions d'ouverture de tout �tablissement\npharmaceutique sont d�termin�es par l'annexe du pr�sent Arr�t�.",
+                    "line_num": 1399
+                  },
+                  {
+                    "title": "Article 5",
+                    "node_id": "0023",
+                    "summary": "###### Article 5\n\nTout �tablissement pharmaceutique doit porter les dimensions d�finies � l'annexe\nII du pr�sent Arr�t�.",
+                    "line_num": 1405
+                  },
+                  {
+                    "title": "Article 6",
+                    "node_id": "0024",
+                    "summary": "###### Article 6\n\nLes conditions particuli�res de fonctionnement de tout\n�tablissement pharmaceutique sont d�termin�es par l'annexe III du pr�sent Arr�t�\n.",
+                    "line_num": 1411
+                  },
+                  {
+                    "title": "Article 7",
+                    "node_id": "0025",
+                    "summary": "###### Article 7\n\nTout �tablissement pharmaceutique est tenu au respect strict des Bonnes\nPratiques Pharmaceutiques correspondant � sa nature.",
+                    "line_num": 1418
+                  },
+                  {
+                    "title": "Article 8",
+                    "node_id": "0026",
+                    "summary": "###### Article 8\n\nLes dispositions particuli�res d'ouverture et de fonctionnement des officines\npharmaceutiques dans les milieux ruraux et urbano-ruraux sont d�finies dans les\nmesures d'application du pr�sent Arr�t�.",
+                    "line_num": 1424
+                  },
+                  {
+                    "title": "Article 9",
+                    "node_id": "0027",
+                    "summary": "###### Article 9\n\nL'autorisation d'ouverture n'est d�livr�e qu�a un pharmacien pour un seul\nEtablissement pharmaceutique et n'est pas cessible.",
+                    "line_num": 1431
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "9e0cbd29-ed41-43a2-995f-056b7a8c9051"
+    ],
+    "0003": [
+      "b28836e4-2dcb-4984-9994-6e9a3afd8cca"
+    ],
+    "0004": [
+      "5669c40f-7b21-427c-8160-a5ab3bbbf8ce"
+    ],
+    "0005": [
+      "7c8a98ff-986b-4173-b738-fdd32800db5e"
+    ],
+    "0006": [
+      "cb144708-d560-4c07-ad12-f08a56428608"
+    ],
+    "0007": [
+      "3fb076f8-4aa7-4f4d-be1e-ce7ea5ef1483"
+    ],
+    "0008": [
+      "61537ebf-e11d-4913-b18d-e12aaaf19f93"
+    ],
+    "0009": [
+      "db1b1635-fba6-400d-8c3c-02f0a930be95"
+    ],
+    "0010": [
+      "b289023c-2805-4afc-9b9c-c48e2e76a9df"
+    ],
+    "0011": [
+      "43f83c54-73bf-4341-b189-157928705c1e"
+    ],
+    "0012": [
+      "0bdda0af-6aaf-47d6-ab13-de833337bc35"
+    ],
+    "0013": [
+      "df6162ca-dd52-48bb-8f21-896559a0ba6c"
+    ],
+    "0015": [
+      "8a393e75-dd6c-4e80-ae43-6c323ebe9812"
+    ],
+    "0016": [
+      "20e464ed-ef80-4e17-b794-d9cf744d8037"
+    ],
+    "0017": [
+      "f72608ac-d061-4659-b87e-34ce5791b8c3"
+    ],
+    "0018": [
+      "ec4ad092-3368-4590-9ead-56e7a9cc478f"
+    ],
+    "0020": [
+      "05a361f3-3a41-45cd-8a24-41e65dac08a9"
+    ],
+    "0021": [
+      "98a87db6-1066-4f31-a197-071433bb338b"
+    ],
+    "0022": [
+      "a6bb40f4-97af-4feb-80d8-f73f3a49a2bf"
+    ],
+    "0023": [
+      "ad4c3cd4-74a2-464c-b7b8-b97d72c5d22a"
+    ],
+    "0024": [
+      "bb6fc242-c8c9-404c-acd3-4607272b1661"
+    ],
+    "0025": [
+      "994f727c-78f9-4ce7-8735-edab4876ae32"
+    ],
+    "0026": [
+      "46e00453-5875-4bbe-baba-7d59011f36f1"
+    ],
+    "0027": [
+      "df49e2e5-f5f3-4327-800e-762956cfc63c"
+    ]
+  },
+  "node_count": 28,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:38:28.663127",
+  "article_count": 24,
+  "generation_time_s": 30.937799215316772
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "AOJ-087-025-31-03-1987-1987",
+  "bundle_path": "backups/all_bundles/code/AOJ-087-025-31-03-1987-1987.json",
+  "document_id": "1549d2be-44b9-444c-a699-7e43a7eeb78e",
+  "document_title": "AOJ.087.025.31.03.1987",
+  "tree_json": {
+    "doc_name": "AOJ-087-025-31-03-1987-1987",
+    "structure": [
+      {
+        "title": "AOJ.087.025.31.03.1987",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1a8652c1-2fe3-48ad-8a82-6ab5cb48d1f1"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:22:58.620675",
+  "article_count": 1,
+  "generation_time_s": 0.0019521713256835938
+}

@@ -1,0 +1,25 @@
+{
+  "tree": {
+    "doc_name": "SYCEBNL-2022",
+    "structure": [
+      {
+        "title": "OHADA - Systeme comptable des entites a but non lucratif (SYCEBNL)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Systeme comptable des entites a but non lucratif (SYCEBNL)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Preambule",
+            "node_id": "0001",
+            "summary": "This partial document is the beginning of the official OHADA (Organization for the Harmonization of Business Law in Africa) journal, specifically the 2023 special issue containing the **Uniform Act on the Accounting System for Non-Profit Entities (SYCEBNL)**.\n\nThe main points covered in this partial document are:\n\n1.  **Publication Metadata:** It identifies the document as the official journal (Numéro spécial, 22 février 2023), published by OHADA, with its secretariat's contact details in Yaoundé, Cameroon.\n\n2.  **Core Legislation:** The central subject is the **\"ACTE UNIFORME RELATIF AU SYSTÈME COMPTABLE DES ENTITÉS À BUT NON LUCRATIF\"** (Uniform Act on the Accounting System for Non-Profit Entities). This is a major piece of legislation standardizing accounting practices for non-profits across OHADA member states.\n\n3.  **Table of Contents (Sommaire):** The provided pages include the detailed structure of the full Uniform Act, outlining its five main chapters and a comprehensive annex. The annex is divided into four parts:\n    *   **Part 1:** Definitions and Conceptual Framework.\n    *   **Part 2:** Structure, Content, and Functioning of Accounts (including the chart of accounts).\n    *   **Part 3:** Specific Operations and Issues (covering equity, funds, donations, membership fees, etc., for different types of non-profits like associations and development projects).\n    *   **Part 4:** Presentation of Financial Statements (with principles and specific formats for different entity types).\n\n4.  **List of Acronyms (Liste des sigles utilisés):** A dedicated section defines key acronyms used throughout the act, such as EBNL (Non-Profit Entity), SYSCOHADA (OHADA Accounting System), SYCEBNL, and various financial terms (BF, RAO, VNC, etc.).\n\n5.  **Document Structure:** The partial text shows the initial pages of the act's substantive content, beginning with **Part 1: Definitions and Conceptual Framework**. The repetitive page headers and alternating titles indicate the document is in the early stages of presenting the foundational definitions and principles that underpin the entire accounting system for non-profits.\n\nIn summary, this partial document presents the introductory and structural framework of a comprehensive new OHADA Uniform Act that establishes a standardized accounting system for all non-profit organizations within its jurisdiction.",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [],
+  "bundle_path": "backups/ohada_bundles/SYCEBNL-2022.json",
+  "document_id": "1f82950e-c6c7-46ab-af7c-12ecf8f2b00c",
+  "document_title": "OHADA - Systeme comptable des entites a but non lucratif (SYCEBNL)"
+}

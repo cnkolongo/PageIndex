@@ -1,0 +1,183 @@
+{
+  "slug": "AM-08-07-2021-2021",
+  "bundle_path": "backups/all_bundles/code/AM-08-07-2021-2021.json",
+  "document_id": "59f552a6-7b52-4d1e-a3c5-ec3db6bc4932",
+  "document_title": "AM.08.07.2021",
+  "tree_json": {
+    "doc_name": "AM-08-07-2021-2021",
+    "structure": [
+      {
+        "title": "AM.08.07.2021",
+        "node_id": "0000",
+        "prefix_summary": "# AM.08.07.2021",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes articles 1, 3, 4, 5, 6, 7, 8, 9, 11, 12, 16 et 17 de l'Arr�t� minist�riel n�\n3164 CAB/MIN.MINES/01/2007 du 11 ao�t 2007 portant r�glementation des activit�s\ndes laboratoires des produits miniers marchands sont modifi�s comme suit :",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1",
+            "node_id": "0002",
+            "summary": "This partial document defines key terms for a regulatory text concerning mineral substance analysis. It specifically provides definitions for: a mineral analysis laboratory (public or private entities authorized to conduct analyses); an extension of such a laboratory (a satellite lab under direct supervision); the analysis of mineral substances (qualitative and quantitative determination of elements); and the quality of an analysis (defined as a complete analysis of principal metals and valuable chemical elements, listing specific precious and rare metals).",
+            "line_num": 11
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0003",
+            "summary": "The partial document covers procedures and timelines for renewing or extending an accreditation/authorization for a mineral analysis laboratory. It details:\n\n1. The Geological Directorate's initial 45-day review of the renewal application, excluding environmental reports.\n2. The separate 25-day review process for revised environmental impact studies and plans by the Environmental Protection Directorate.\n3. The final step where the Geological Directorate submits a comprehensive technical opinion, environmental audit report, and a draft approval or rejection decision to the Minister.\n4. The stipulation that renewal or extension cannot be granted if any of the required opinions (technical, environmental, social) are unfavorable.",
+            "line_num": 31
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0004",
+            "summary": "The partial document, Article 16, details the mandatory obligations for an approved laboratory and its extension. The main points cover specific procedures for mineral sample collection, including the presence of mining officials and sample division; requirements for submitting periodic activity reports to various government bodies; adherence to regular controls and environmental regulations; financial reporting to the central bank and mining authority; fulfillment of fiscal and customs duties; commitments to confidentiality and integrity; compliance with national accounting standards; and proof of a domestic bank account.",
+            "line_num": 58
+          },
+          {
+            "title": "Article 17",
+            "node_id": "0005",
+            "summary": "The partial document outlines the mandatory contents of an analysis certificate issued by an accredited laboratory. It specifies that the certificate must be numbered, dated, signed, and stamped, and lists the required information points, including sampling details, product characteristics (nature, weight, quantity, quality), analytical results (constituent elements, moisture, radioactivity), and the lot number.",
+            "line_num": 111
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0006",
+            "summary": "###### Article 2\n\nLes d�tenteurs des agr�ments\nau titre de laboratoires d'analyses des produits miniers marchands (des\nsubstances min�rales) ayant �tendu leurs activit�s sont tenus de se conformer\naux dispositions du pr�sent Arr�t� dans un d�lai de 06 mois � dater de son\nentr�e en vigueur.",
+            "line_num": 134
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0007",
+            "summary": "The partial document outlines the cumulative conditions required to obtain accreditation as a mineral substance analysis laboratory in the Democratic Republic of Congo.\n\nThe main points covered are the prerequisites an applicant must meet, including: being a legally constituted economic entity or scientific organization; possessing laboratory equipment meeting international standards; employing qualified personnel with a priority for equally qualified Congolese staff; not being in bankruptcy, liquidation, or holding mining rights in the DRC; enjoying full civic rights and good moral standing (for individuals); and obtaining prior approval of the project's environmental impact assessment and environmental management plan.",
+            "line_num": 143
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0008",
+            "summary": "###### Article 3\n\nLe Secr�taire g�n�ral aux\nMines est charg� de l'ex�cution du pr�sent Arr�t� qui en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 08\njuillet 2021\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 167
+          },
+          {
+            "title": "titre d",
+            "node_id": "0009",
+            "prefix_summary": "#### titre d",
+            "line_num": 182,
+            "nodes": [
+              {
+                "title": "Article 4",
+                "node_id": "0010",
+                "summary": "This partial document, Article 4, outlines the application procedure and required documentation for obtaining or renewing accreditation for a mineral analysis laboratory in the Democratic Republic of the Congo. The main points covered are:\n\n1.  **Application Submission:** The process for submitting the application in four original copies to the Ministry of Mines, with specific copies to be deposited at the Geology Directorate and the Mines Secretariat, accompanied by proof of payment for a filing fee.\n\n2.  **Comprehensive Documentation List:** A detailed list of documents required for the initial application. This includes legal documents (statutes, commercial register), financial and personal integrity proofs (bank attestation, tax certificate, criminal record), technical specifications (lab layout, equipment details, staff qualifications), and compliance certificates (ISO 17025 accreditation, Environmental Impact Assessment).\n\n3.  **Special Declaration:** A requirement for a sworn declaration stating the laboratory is not owned by an operational mining company or its subsidiary in the DRC.\n\n4.  **Procedure for Lab Extensions:** The requirement for an existing accredited laboratory to seek ministerial authorization for any expansion of its activities, along with a specific list of documents needed for such an extension request.",
+                "line_num": 185
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0011",
+                "summary": "###### Article 5\n\nLors du d�p�t de la demande\nd'agr�ment au titre de laboratoire d'analyses des substances min�rales ou\nd'autorisation d'ouverture d'une extension, le requ�rant paie les frais de d�p�t\nconform�ment � la proc�dure en la mati�re.\nLe taux des frais de d�p�t\nest fix� par les Ministres ayant les Mines et les Finances dans leurs\nattributions. Ces frais sont per�us pour le compte du Tr�sor public et ne sont\npas remboursables.",
+                "line_num": 282
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0012",
+                "summary": "This partial document, Article 6, outlines the procedural steps and timelines for the evaluation of an application for accreditation (or extension of activities) for a mineral analysis laboratory. The main points covered are:\n\n1.  **Initial Review:** The Geology Directorate has 45 working days to review the application dossier, focusing on technical aspects.\n2.  **Environmental Assessment:** Specific documents (Environmental Impact Study and Project Environmental Management Plan) are forwarded within 5 days to the Directorate for Mining Environmental Protection for a separate evaluation by a permanent committee, which must be completed within 25 working days.\n3.  **Decision Process:** After receiving the environmental opinion, the Geology Directorate compiles both technical and environmental assessments and submits a complete file with a draft approval or rejection order to the Minister of Mines.\n4.  **Notification & Conditions:** The applicant is notified of the results. If both opinions are favorable, the laboratory is instructed to pay a security deposit and an annual fee. Final approval is contingent on receiving *both* favorable technical and environmental opinions.",
+                "line_num": 294
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0013",
+                "summary": "###### Article 7\n\nLe Ministre ayant les Mines\ndans ses attributions prend l'Arr�t� d'octroi de l'agr�ment au titre de\nlaboratoire d'analyses des substances min�rales ou d'autorisation d'ouverture\nd'une extension ou la d�cision de refus d'agr�ment d'autorisation ou\nd'autorisation d'ouverture d'une extension apr�s r�ception du dossier lui\ntransmis par la Direction de g�ologie,\nTout refus d'octroi de\nl'agr�ment ou d'autorisation d'ouverture d'une extension doit �tre motiv� et\nouvre la voie au recours conform�ment au droit commun.",
+                "line_num": 335
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0014",
+                "summary": "This partial document covers the legal foundations and rationale for issuing a new decree regulating mining product laboratories. It references previous ministerial orders on traceability procedures and laboratory regulations, and states the necessity to regulate both laboratories and their extensions to combat product undervaluation and resulting losses to the public treasury. It concludes by citing urgency and the declaration of the decree (\"ARRETE\").",
+                "line_num": 348
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0015",
+                "summary": "###### Article 8\n\nL'agr�ment au titre de\nlaboratoire d'analyses des substances min�rales a une validit� de deux ans,\nrenouvelable pour la m�me dur�e.\nL'autorisation d'ouverture\nd'une extension au titre de laboratoire d'analyses des substances min�rales\nprend fin � la date de l'expiration de l'agr�ment du laboratoire. Elle est\nrenouvel�e au m�me moment que l'agr�ment.\nAucun laboratoire agr�� ne\npeut implanter plus de deux extensions dans une m�me Province.",
+                "line_num": 363
+              }
+            ]
+          },
+          {
+            "title": "titre d",
+            "node_id": "0016",
+            "prefix_summary": "#### titre d",
+            "line_num": 376,
+            "nodes": [
+              {
+                "title": "Article 9",
+                "node_id": "0017",
+                "summary": "The partial document covers the conditions and required documentation for renewing an authorization or license for a mineral analysis laboratory or its extension. Specifically, it lists the eligibility criteria for renewal, such as compliance with administrative, fiscal, customs, environmental, and social obligations, as well as technical and financial capacity. It then details the supporting documents that must be submitted with the renewal request, including copies of the original authorization, updated environmental and social impact studies, technical and environmental audit reports, and proof of fee payment.",
+                "line_num": 379
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e995a601-7209-4758-bd2a-347a379822fa",
+      "0cfb0251-41ff-4769-bfe3-1cd959114a55"
+    ],
+    "0002": [
+      "e995a601-7209-4758-bd2a-347a379822fa",
+      "0cfb0251-41ff-4769-bfe3-1cd959114a55"
+    ],
+    "0003": [
+      "45f3f86d-0742-400b-a26d-3f0eb3891c6f"
+    ],
+    "0004": [
+      "1b785951-03d6-4a6e-95ff-ba3f42a006e9"
+    ],
+    "0005": [
+      "66d369db-813e-44aa-9615-52a5553e905b"
+    ],
+    "0006": [
+      "61130224-ba50-4ddb-8e1b-344e30ac236d"
+    ],
+    "0007": [
+      "ec54c9f8-94d2-45ef-9eca-a9a6d4e09bea",
+      "80c9b336-3a0f-4e91-8309-0d3dfb8bd8a5"
+    ],
+    "0008": [
+      "ec54c9f8-94d2-45ef-9eca-a9a6d4e09bea",
+      "80c9b336-3a0f-4e91-8309-0d3dfb8bd8a5"
+    ],
+    "0010": [
+      "cf7fb015-1ab0-42da-9397-965899c20242"
+    ],
+    "0011": [
+      "74c95a14-6dde-4f54-b410-2e18bcf53c2d"
+    ],
+    "0012": [
+      "a33b7adb-a157-4b73-8508-4c0c646866a9"
+    ],
+    "0013": [
+      "0f73cd13-6e2b-4288-8d10-5593e7541d80",
+      "7101040c-f7a2-4587-b9f3-cbb513e1c54e"
+    ],
+    "0014": [
+      "0f73cd13-6e2b-4288-8d10-5593e7541d80",
+      "7101040c-f7a2-4587-b9f3-cbb513e1c54e"
+    ],
+    "0015": [
+      "d798a12d-a1a5-406c-b1bd-4dec2ae346ce"
+    ],
+    "0017": [
+      "24fedd33-b124-43e7-8708-affeb0e55993"
+    ]
+  },
+  "node_count": 18,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:18:09.459188",
+  "article_count": 15,
+  "generation_time_s": 40.94525694847107
+}

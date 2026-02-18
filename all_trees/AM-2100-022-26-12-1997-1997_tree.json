@@ -1,0 +1,157 @@
+{
+  "slug": "AM-2100-022-26-12-1997-1997",
+  "bundle_path": "backups/all_bundles/code/AM-2100-022-26-12-1997-1997.json",
+  "document_id": "bfc6090c-e62d-42b2-bde4-53189b5349dc",
+  "document_title": "AM.2100.022.26.12.1997",
+  "tree_json": {
+    "doc_name": "AM-2100-022-26-12-1997-1997",
+    "structure": [
+      {
+        "title": "AM.2100.022.26.12.1997",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2100.022.26.12.1997",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�\n26 d�cembre 1997. �\nARR�T� MINIST�RIEL MJSL/CAB/2100/0022/97 portant agr�ment des associations\nsportives en R�publique d�mocratique du Congo. (Minist�re\nde la Jeunesse, des Sports et Loisirs)\ner",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0003",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 17,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0004",
+                "summary": "###### Article S10",
+                "line_num": 20
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0005",
+                "summary": "This partial document outlines regulations for sports associations, focusing on their obligations, recognition requirements, and administrative procedures. It specifies that a sports association must be subordinate to a higher sports body (circle, entente, or league), contribute to the moral and technical training of its members, and fulfill specific duties like participating in championships, holding annual meetings, paying fees, adhering to federation rules, and providing insurance. The document also states conditions for recognition or withdrawal of recognition, the process for granting official approval by political-administrative sports services, and assigns responsibility for execution to the Secretary General for Sports and Leisure.",
+                "line_num": 23
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0006",
+                "prefix_summary": "##### Section 1",
+                "line_num": 61,
+                "nodes": [
+                  {
+                    "title": "Article S2",
+                    "node_id": "0007",
+                    "summary": "This partial document defines the structure and naming rules for sports associations or clubs within a legal framework, specifically emphasizing Congolese context. The main points covered are:\n1. The definition of a sports association as a group practicing one or more sports, categorized as unidisciplinary, pluridisciplinary, or omnisport.\n2. A prohibition against forming associations based on tribe, race, religion, or political affiliation.\n3. Regulations requiring associations to have a Congolese-themed name, possibly including standard sports indices (e.g., \"football club\").\n4. Rules regarding naming, including allowances for clubs sponsored by enterprises, prohibitions against duplicate names within a federation, and bans on using personal names, fantastical, or obscene names.",
+                    "line_num": 64
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0008",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 104,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0009",
+                "summary": "###### Article S3",
+                "line_num": 107
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0010",
+                "summary": "This partial document outlines the conditions and procedures for a sports association to become affiliated with a federation. The main points covered are:\n\n1.  **Conditions for Admission (Article 4):** Lists seven requirements for an association to be admitted, including having compliant statutes, a competent management committee, a commitment to follow federation rules, a sufficient number of athletes, a headquarters, a specific training location, and at least one bank account.\n2.  **Change of Headquarters (Article 5):** States the obligation to declare any change of the association's headquarters to the competent territorial authority.\n3.  **Affiliation Process (Article 6):** Specifies that affiliation occurs through a circle, entente, or league, and that an investigation will be conducted by sports authorities to verify if the new association meets all admission conditions.\n4.  **Athlete Quotas (Article 7):** Begins to establish the maximum number of athletes per team sport and category, providing the example of a 24-athlete limit for Senior Basketball.",
+                "line_num": 110
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0011",
+                "summary": "###### Article S5\n\n33            28",
+                "line_num": 150
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0012",
+                "summary": "###### Article S6\n\n24                            33\nJuniors                    18",
+                "line_num": 155
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0013",
+                "summary": "###### Article S7\n\n22            21                           18\n22\nCadets                    12",
+                "line_num": 161
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0014",
+                "summary": "###### Article S8\n\n22            14                           12\n22\nMinimes                   12",
+                "line_num": 168
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0015",
+                "summary": "###### Article S9\n\n22            14                           12\n22\n1. en ce qui concerne les\ndisciplines individuelles, le nombre d�athl�tes par cat�gorie n�est pas limit�;\n2. le nombre d�adh�rents �\nl�association sportive doit �tre compos� aux trois quarts au moins, de\nnationalit� congolaise;\n3. l�organisation des\ndiff�rentes cat�gories est obligatoire dans toute association sportive.",
+                "line_num": 175
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "93efdd8b-9f32-43b2-bc78-86f5c3010ecd"
+    ],
+    "0004": [
+      "5ae734f2-48dc-42a2-9a9d-6d4480ea0e74"
+    ],
+    "0005": [
+      "bd615091-ff4b-46c7-a5db-746bc2dc9a68"
+    ],
+    "0007": [
+      "ccaca3fa-c42c-437c-8f37-877042c433ea"
+    ],
+    "0009": [
+      "d12c427d-ef50-4830-b221-71d18e0dfe57"
+    ],
+    "0010": [
+      "6975e052-5555-4b13-bdb5-fe6d7be2901b"
+    ],
+    "0011": [
+      "74b9433d-f1f3-4811-955e-d805f4209d2b"
+    ],
+    "0012": [
+      "97048ba6-a7e5-46f6-bb52-8d19dc7452af"
+    ],
+    "0013": [
+      "052fcbb9-67d1-4311-b548-ae26a6cac846"
+    ],
+    "0014": [
+      "d54f6f07-506f-4174-89f4-88b73b823364"
+    ],
+    "0015": [
+      "e573f20a-4428-4b6d-87b8-55af7e28b89f"
+    ]
+  },
+  "node_count": 16,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:10.691868",
+  "article_count": 11,
+  "generation_time_s": 12.05731987953186
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "AM-144-08-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-144-08-11-2018-2018.json",
+  "document_id": "b73f8fc7-6934-47e6-947e-519a74f55c83",
+  "document_title": "AM.144.08.11.2018",
+  "tree_json": {
+    "doc_name": "AM-144-08-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.144.08.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.144.08.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "This partial document is the preamble or \"Vu\" section of a legal or administrative act, specifically an article related to \"SUSPENSION.\" It enumerates the legal foundations and considerations that form the basis for the subsequent act. The main points covered are:\n\n1.  **Citation of Legal Authorities:** It lists the specific laws, ordinances, and decrees that provide the legal basis for the act. These include the Constitution, laws on public establishments, family code, labor code, social security, and various ordinances concerning government organization and appointments.\n\n2.  **Scope of Referenced Laws:** The referenced legislation covers constitutional law, administrative law (public establishments, government structure), family law, labor law, and social security law.\n\n3.  **Institutional Context:** It mentions the hearing of the National Council of Labour and Social Security (Conseil National du Travail et de la Sécurité Sociale) and references a specific recommendation, indicating a consultative process.\n\n4.  **Subject Matter:** The context of the cited laws points to an act that concerns labor, social security, and government administration, likely related to the suspension of a function, benefit, or procedure within that domain.\n\nIn essence, this section establishes the legal legitimacy and procedural correctness of the act that follows by detailing all the higher laws and consultative steps that authorize it.",
+            "line_num": 9
+          },
+          {
+            "title": "Article S11",
+            "node_id": "0003",
+            "summary": "This partial document contains Articles 1 through 9 of a ministerial decree (Arrêté) from the Democratic Republic of Congo, dated 2005 and amended in 2018, concerning prenatal allowances within the social security system. The main points covered are:\n\n*   **Purpose and Amount:** The prenatal allowance is for medical monitoring of pregnancy and the health of mother and child, with a total fixed amount of 48,600 Congolese francs.\n*   **Eligibility:** The right to the allowance is open to any insured woman or the spouse of an insured man from the day the pregnancy is declared to the Social Security Fund (Caisse).\n*   **Declaration and Procedure:** Early declaration triggers the allowance for the nine months preceding birth, and a pregnancy/maternity record book is issued.\n*   **Payment Structure and Conditions:** The allowance is paid in three installments of 16,200 francs (in the 3rd, 6th, and 8th months) by the National Social Security Fund (CNSS). Payment is conditional on proof of mandatory prenatal medical exams, and missing an exam results in loss of the corresponding installment.\n*   **Obligations:** The beneficiary must provide medical certificates proving the mandatory exams were performed by authorized health personnel, under penalty of suspension.\n*   **Effective Date and Legal Force:** The decree enters into force on January 1, 2019, repeals all contrary prior provisions, and charges the Director General of the CNSS with its execution.",
+            "line_num": 305
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0004",
+            "summary": "###### Article S2\n\nMINISTERIEL\nN�",
+            "line_num": 736
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0005",
+            "summary": "###### Article S3\n\n144/CAB/MINETAT/MTEPS/01/2018\nDU\n08\nNOVEMBRE\n2018\nFIXANT\nLE\nMONTANT,\nLES",
+            "line_num": 742
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0006",
+            "summary": "###### Article S4\n\nMODALITES",
+            "line_num": 755
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0007",
+            "summary": "###### Article S5\n\nDE PAIEMENT\nDES",
+            "line_num": 760
+          },
+          {
+            "title": "Article S6",
+            "node_id": "0008",
+            "summary": "###### Article S6\n\nALLOCATIONS",
+            "line_num": 766
+          },
+          {
+            "title": "Article S7",
+            "node_id": "0009",
+            "summary": "###### Article S7\n\nPRENATALES,\nLA",
+            "line_num": 771
+          },
+          {
+            "title": "Article S8",
+            "node_id": "0010",
+            "summary": "###### Article S8\n\nPERIODICITE\nET\nLES",
+            "line_num": 777
+          },
+          {
+            "title": "Article S9",
+            "node_id": "0011",
+            "summary": "###### Article S9\n\nCONDITIONS\nDE",
+            "line_num": 784
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "71670772-7d07-47e3-9bee-b25e63a0e191"
+    ],
+    "0002": [
+      "82b14ba8-de12-4ce3-a93a-278a7f2de8db"
+    ],
+    "0003": [
+      "7439c27a-0371-4cb7-8d0c-f15a20ef8bff"
+    ],
+    "0004": [
+      "d366354b-13c6-4334-9279-599f419390d4"
+    ],
+    "0005": [
+      "91676793-ad94-4b83-ae9e-d081af5008a1"
+    ],
+    "0006": [
+      "e06cb0c6-3103-4560-9757-0bdcdcfd7c70"
+    ],
+    "0007": [
+      "19fbd08c-ff99-4858-8039-d331e9e8786d"
+    ],
+    "0008": [
+      "ce545dfb-4eb7-49de-9900-e2af2e039361"
+    ],
+    "0009": [
+      "e94d7a6d-9273-4906-99b7-752b66d0dcec"
+    ],
+    "0010": [
+      "28d19d69-7105-44e1-8463-61fc050b5e25"
+    ],
+    "0011": [
+      "9f48c821-3748-4da2-87b1-2f1d105b9e74"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:32:35.947993",
+  "article_count": 11,
+  "generation_time_s": 16.83586883544922
+}

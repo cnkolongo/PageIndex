@@ -1,0 +1,80 @@
+{
+  "slug": "AM-009-01-04-2010-2010",
+  "bundle_path": "backups/all_bundles/code/AM-009-01-04-2010-2010.json",
+  "document_id": "3894db46-cab8-4d2e-bb07-6450acb87de0",
+  "document_title": "AM.009.01.04.2010",
+  "tree_json": {
+    "doc_name": "AM-009-01-04-2010-2010",
+    "structure": [
+      {
+        "title": "AM.009.01.04.2010",
+        "node_id": "0000",
+        "prefix_summary": "# AM.009.01.04.2010",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nToute personne physique\nou morale, publique ou priv�e, qui se propose soit d'exercer une activit�\nquelconque, permanente ou saisonni�re, n�cessitant l'emploi de travailleurs, au\nsens d�fini � l'article 7 du Code du travail soit de cesser cette activit�, est\ntenue d'en faire la d�claration � la Division Provinciale de l'Inspection du\nTravail et au Bureau provincial de l'Offre\nNational de l'Emploi dans la\nquinzaine qui pr�c�de l'ouverture ou la fermeture de l'�tablissement ou de\nl'entreprise.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nToute modification\nintervenue parmi' les �l�ments de la d�claration fait l'objet de communication\ndans le m�me d�lai qu'� l'article pr�c�dent, � l'Office National de l'Emploi et\nl'Inspection G�n�rale du Travail du ressort.",
+            "line_num": 17
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLa d�claration pr�vue aux\narticles 1 a et 2 ci-dessus est �tablie en quatre exemplaires sur un formulaire\nconforme au mod�le annex� au pr�sent Arr�t�.\nDeux de ces exemplaires\ndat�s et sign�s sont adress�s � l'Inspecteur du Travail du ressort sous pli recommand�\navec accus� de r�ception, et dans les M�mes conditions, un\nde ces exemplaires doit �tre adress�\nau bureau provincial de l'Office National de l'Emploi.\nLe quatri�me exemplaire\nest conserv� par le d�clarant pour �tre pr�sent�, aux Inspecteurs et Contr�leurs\nen cas de contr�le.",
+            "line_num": 25
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes employeurs peuvent se\nprocurer les mod�les des d�clarations aupr�s des bureaux de l'Inspection du\nTravail et de l'Office National de l'Emploi.\nArticle5\nA titre exceptionnel,\ntout Chef d'entreprise ou d'�tablissement qui au moment de l'entr�e en vigueur\ndu pr�sent Arr�t�, n'aura pas fait une d�claration d'ouverture ou de fermeture\nde son �tablissement dispose d'un d�lai de trente jours, pour se conformer � ce\nr�glement.\nCe\nd�lai court � dater de la signature du pr�sent Amk� Article\n6:\nLes infractions aux\ndispositions du pr�sent Arr�t� sont punies des peines pr�vues � l'article 321 du\nCode du travail.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0005",
+            "summary": "###### Article 7\n\nToutes les dispositions\nant�rieures contraires au pr�sent Arr�t� sont abrog�es.",
+            "line_num": 59
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0006",
+            "summary": "###### Article 8\n\nLe Secr�taire G�n�ral est\ncharg� de l'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa\nsignature.\nFait � Kinshasa, le 01\navril 2010. Mobutu Nzanga.\nAnnexe -\npdf\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 65
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f726f855-829c-46f5-9c4a-db5294450125"
+    ],
+    "0002": [
+      "5969cd7a-d7c5-41ed-b9c4-07dc97d6571e"
+    ],
+    "0003": [
+      "c211ca42-9178-446e-9ca8-a23d1483cf6f"
+    ],
+    "0004": [
+      "c7d3dea7-ce60-43ef-aedb-0fff03a4f3af"
+    ],
+    "0005": [
+      "dc43675d-16af-4f5e-bc2b-715593e15e60"
+    ],
+    "0006": [
+      "f7962e1c-8bcc-45d6-9801-687e90b87838"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:24:06.827551",
+  "article_count": 6,
+  "generation_time_s": 0.010159015655517578
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "AM-035-2011-14-06-2011-2011",
+  "bundle_path": "backups/all_bundles/code/AM-035-2011-14-06-2011-2011.json",
+  "document_id": "03e17d6a-949e-447f-99cb-5f03a69f65b8",
+  "document_title": "AM.035.2011.14.06.2011",
+  "tree_json": {
+    "doc_name": "AM-035-2011-14-06-2011-2011",
+    "structure": [
+      {
+        "title": "AM.035.2011.14.06.2011",
+        "node_id": "0000",
+        "prefix_summary": "# AM.035.2011.14.06.2011",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\nIl est ouvert au Minist�re de la Communication\net des M�dias un Registre de d�clarations pr�alables � l'exploitation des\nstations de radiodiffusion et des cha�nes de t�l�vision priv�es.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLa d�claration pr�alable dont l'imprim� est\nannex� au pr�sent arr�t� doit �tre conforme � l'article 57 de la loi 96-002 du\n22 juin 1996 fixant les modalit�s de l'exercice de la libert� de la presse ainsi\nqu'au cahier des charges, mis � jour, �galement joint au pr�sent Arr�t�.",
+            "line_num": 11
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nTout message publicitaire doit porter avant sa\ndiffusion le visa des institutions publiques charg�es du contr�le de la\npublicit�.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes frais administratifs aff�rents �\nl'�tablissement du r�c�piss� sont fix�s par Arr�t� du Ministre ayant la\nCommunication et les M�dias dans ses attributions.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nToute entreprise de presse audiovisuelle a\nl'obligation de se conformer � l'article 2 du pr�sent Arr�t�.",
+            "line_num": 33
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nToutes les dispositions ant�rieures contraires\nau pr�sent Arr�t� sont abrog�es.",
+            "line_num": 39
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "This partial document contains the main body of a legal charter (cahier des charges) outlining the regulatory framework for audiovisual media (radio and television) operating in the Democratic Republic of Congo. It details general obligations for all operators, specific rules for public broadcasters, and distinct regulations for private, commercial, associative, community, and confessional media.\n\nThe main points covered include:\n1.  **General obligations:** Requirements for a Director of Programs, programming aims (information, education, entertainment), content prohibitions (against laws, public order, morality, security), election propaganda restrictions, protection of youth, program archiving, and promotion of national production.\n2.  **Rules on co-production and copyright:** Promotion of national audiovisual production, restrictions on relaying foreign broadcasts, prior authorization for foreign news relays, copyright declaration and dispute procedures.\n3.  **Rules on commercial advertising:** Authorization limits, contractual rules for advertising, prohibition of clandestine advertising, approval requirements for ads, and consumer protection mechanisms.\n4.  **Specific obligations for public audiovisual media:** Editorial line aligned with national policy, impartiality, duty to broadcast civic education, respect for pluralism, use of national languages, and requirements for objectivity and balance.\n5.  **Specific obligations for private audiovisual companies:** Licensing requirements, rules for relaying public media broadcasts, obligation for at least 50% local interest programming, responsibility for content, record-keeping requirements, format change procedures, duties in citizenship education and crisis situations, and prohibitions on false or alarmist information.\n6.  **Additional rules for commercial, associative, community, and confessional media:** Specific charters for each type, including program grid requirements, advertising restrictions, and doctrinal tolerance for confessional media.\n7.  **Final provisions:** Exploitation subject to obtaining a receipt, payment of administrative fees, and sanctions for non-compliance.",
+            "line_num": 45
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "54b4c32b-8995-4f71-ad7e-05247dddc54e"
+    ],
+    "0002": [
+      "eb7d87f7-9cfb-46ab-8fef-0f2a1bca23c1"
+    ],
+    "0003": [
+      "fc4f9f3c-577e-4b41-b14f-0c34e1320119"
+    ],
+    "0004": [
+      "816d93c5-7e47-49d4-89a0-9eecc2b88cee"
+    ],
+    "0005": [
+      "415d7bfd-f28b-40d9-b646-71d3856ef331"
+    ],
+    "0006": [
+      "2e097c3a-6e4e-49f5-8c4c-e1d2c5df626c"
+    ],
+    "0007": [
+      "789a2207-ef5f-4b17-894d-a26a2c344eff"
+    ]
+  },
+  "node_count": 8,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:20:04.659353",
+  "article_count": 7,
+  "generation_time_s": 10.303883075714111
+}

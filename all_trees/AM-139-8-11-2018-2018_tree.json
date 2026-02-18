@@ -1,0 +1,143 @@
+{
+  "slug": "AM-139-8-11-2018-2018",
+  "bundle_path": "backups/all_bundles/code/AM-139-8-11-2018-2018.json",
+  "document_id": "b348d2b8-60aa-435f-a680-785458410009",
+  "document_title": "AM.139.8.11.2018",
+  "tree_json": {
+    "doc_name": "AM-139-8-11-2018-2018",
+    "structure": [
+      {
+        "title": "AM.139.8.11.2018",
+        "node_id": "0000",
+        "prefix_summary": "# AM.139.8.11.2018",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nARRETE",
+            "line_num": 4
+          },
+          {
+            "title": "Article S10",
+            "node_id": "0002",
+            "summary": "###### Article S10\n\nDES RISQUES",
+            "line_num": 9
+          },
+          {
+            "title": "Article S11",
+            "node_id": "0003",
+            "summary": "This partial document is the preamble or introductory section of a legal or regulatory text, likely a decree or order, from the Democratic Republic of the Congo. It enumerates the legal foundations (\"Vu\" meaning \"Considering\" or \"Having seen\") upon which the subsequent act is based. The main points covered are the citations of the higher laws, constitutional provisions, ordinances, and decrees that provide the authority for the document being introduced. These references pertain to constitutional revision, the general social security regime, the labor code, the structure and appointments of the government, and the creation of the National Social Security Fund (CNSS).",
+            "line_num": 14
+          },
+          {
+            "title": "Article S12",
+            "node_id": "0004",
+            "summary": "This partial document is a legal decree (arrêté) that defines and regulates the coverage of occupational risk insurance under the general social security regime for specific categories of individuals who are not traditional employees, referred to as \"assimilated workers.\"\n\nThe main points covered are:\n\n1.  **Definition of Assimilated Workers:** It lists six categories of persons subject to occupational risk coverage, including apprentices, technical/vocational students, trainees in rehabilitation centers, interns in companies or schools, individuals placed in state care/education institutions, and prisoners performing dangerous work. It explicitly prohibits discrimination based on race, nationality, sex, etc., for these workers.\n\n2.  **Definitions of Relevant Institutions:** It provides legal definitions for the types of educational and training establishments (Article 2) and for who qualifies as a \"trainee\" (Article 3).\n\n3.  **Transfer of Employer Obligations:** It specifies which entity assumes the legal obligations of an \"employer\" (such as contributions and declarations) towards the National Social Security Fund for each category of assimilated worker. This includes masters for apprentices, managing bodies of institutions, the State, and detention center heads.\n\n4.  **Registration Procedures:** It mandates that the responsible employer must register an assimilated worker with the competent territorial social security office within 15 working days, using a specific form (Model IMTA).\n\n5.  **Registration Form Content:** It details the specific information required on the Model IMTA form, split into data about the employer (name, registration number, address) and data about the assimilated worker (personal details, identification documents, origin).",
+            "line_num": 263
+          },
+          {
+            "title": "Article S13",
+            "node_id": "0005",
+            "summary": "This partial document contains Articles 7 to 16 of a ministerial decree (Arrêté) related to the social security system. The main points covered are the procedures and obligations for registering \"assimilated workers\" with the National Social Security Fund (Caisse Nationale de Sécurité Sociale). It specifies timelines for registration and card issuance, obligations for employers to declare hiring and termination movements, procedures for reporting a lost card or a worker's death, and penalties for non-compliance. The decree repeals conflicting prior provisions, sets an effective date of January 1, 2019, and charges the Fund's Director General with its execution.",
+            "line_num": 878
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0006",
+            "summary": "###### Article S2\n\nMINISTERIEL",
+            "line_num": 1470
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0007",
+            "summary": "###### Article S3\n\nN� 139/CAB/MINETAT/MTEPS/01/2018\nDU 08\nNOVEMBRE\n2018",
+            "line_num": 1475
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0008",
+            "summary": "###### Article S4\n\nDETERMINANT\nLES",
+            "line_num": 1483
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0009",
+            "summary": "###### Article S5\n\nMODALITES",
+            "line_num": 1489
+          },
+          {
+            "title": "Article S6",
+            "node_id": "0010",
+            "summary": "###### Article S6\n\nD�ASSUJETTISSEMENT\nDES",
+            "line_num": 1494
+          },
+          {
+            "title": "Article S7",
+            "node_id": "0011",
+            "summary": "###### Article S7\n\nTRAVAILLEURS",
+            "line_num": 1500
+          },
+          {
+            "title": "Article S8",
+            "node_id": "0012",
+            "summary": "###### Article S8\n\nASSIMILES",
+            "line_num": 1505
+          },
+          {
+            "title": "Article S9",
+            "node_id": "0013",
+            "summary": "###### Article S9\n\nA LA BRANCHE",
+            "line_num": 1510
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "68605d5f-2074-4990-a670-755b270f15f6"
+    ],
+    "0002": [
+      "55e71527-f8f3-4946-804b-ccb6049e7abe"
+    ],
+    "0003": [
+      "236ffbf1-2138-471d-a744-118b0008588a"
+    ],
+    "0004": [
+      "78dd8fe5-6f59-45c6-a3d3-a73d141b1505"
+    ],
+    "0005": [
+      "ad0aa795-1a8a-4ac2-9d45-0bea77c60a2b"
+    ],
+    "0006": [
+      "9ffe99fd-3b15-4600-8827-14ae6653405d"
+    ],
+    "0007": [
+      "ffb0c8fa-6c8e-47a1-8b23-6392c7d11afa"
+    ],
+    "0008": [
+      "11e58447-a46f-4125-955a-4a1f538a5c0b"
+    ],
+    "0009": [
+      "334dd616-9ab3-4f64-879c-86d4df9dffe4"
+    ],
+    "0010": [
+      "94710d82-be2b-402e-9c07-16e89bdbaf6c"
+    ],
+    "0011": [
+      "597a4c1b-0a80-4c5f-9162-fe5ceef3c4bd"
+    ],
+    "0012": [
+      "7b817177-7338-4beb-8781-0d3ce8b81767"
+    ],
+    "0013": [
+      "8d315fbb-8555-4a46-8a00-9eadf3c1fe25"
+    ]
+  },
+  "node_count": 14,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:38:58.397009",
+  "article_count": 13,
+  "generation_time_s": 18.164879083633423
+}

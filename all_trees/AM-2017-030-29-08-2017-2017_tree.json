@@ -1,0 +1,98 @@
+{
+  "slug": "AM-2017-030-29-08-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM-2017-030-29-08-2017-2017.json",
+  "document_id": "e5583786-4f85-42c5-90b3-48fbfdad6255",
+  "document_title": "AM.2017.030.29.08.2017",
+  "tree_json": {
+    "doc_name": "AM-2017-030-29-08-2017-2017",
+    "structure": [
+      {
+        "title": "AM.2017.030.29.08.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2017.030.29.08.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nEn application des dispositions des\nConventions internationales, bilat�rales ou multilat�rales, d�ment ratifi�es et\npubli�es en R�publique D�mocratique du Congo sur le r�gime d'assurance de\nresponsabilit� civile automobile, les v�hicules en circulation internationale\nsur le territoire congolais, lorsqu'ils n' y sont pas immatricul�s, sont tenus\nd'�tre couverts par une assurance responsabilit� civile automobile.\nLa preuve du respect de cette obligation est\nsuffisante par la production de la carte internationale d'assurance de la\nresponsabilit� civile en cours de validit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nA d�faut de pr�sentation d'une carte\ninternationale d'assurance en cours de validit�, les conducteurs de v�hicules\nvis�s � l'article 1er ci-dessus doivent souscrire, aux fronti�res de la\nR�publique D�mocratique du Congo, une assurance sp�ciale dite \"Assurance\nfronti�re\".",
+            "line_num": 17
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nL'assurance fronti�re ne peut pr�voir de\ngarantie que pour une p�riode de trente (30) jours ou de nonante (90) jours,\nrenouvelable une seule fois dans les m�mes conditions que celles initialement\nsouscrites.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLa garantie procur�e par l'assurance\nfronti�re couvre la responsabilit� civile encourue par son titulaire\nconform�ment aux dispositions du Code des assurances.\nElle n'est valable que pour un seul v�hicule\nautomobile et ne peut en aucun cas �tre transf�r�e � un autre v�hicule,",
+            "line_num": 34
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nL'assurance fronti�re est souscrite aupr�s\nd'une entreprise d'assurance agr��e par l'Autorit� de r�gulation et de contr�le\ndes assurances pour les op�rations d'assurance de responsabilit� civile des\nv�hicules terrestres automoteurs.\nLa souscription de l'assurance fronti�re est\nconstat�e, moyennant le paiement de la prime correspondante, par un certificat\ndont le mod�le est fix� par l'Autorit� de r�gulation et de contr�le des\nassurances.",
+            "line_num": 43
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe certificat d�livr� comprend au minimum les\nmentions pr�vues � l'article 12 l du Code des assurances.",
+            "line_num": 55
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nSont abrog�es, toutes les dispositions\nant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0008",
+            "summary": "###### Article 8\n\nL'Autorit� de r�gulation et de contr�le des\nassurances est charg�e de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 29 ao�t 2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 67
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "df3a36ea-7d66-4f28-b006-96c77557843d"
+    ],
+    "0002": [
+      "8fb90038-56ea-4a5e-87f2-db05137333f3"
+    ],
+    "0003": [
+      "19db2eed-febe-4586-a9f9-9fb369460c25"
+    ],
+    "0004": [
+      "acd044e6-9987-46b5-999c-9dd4e8752e81"
+    ],
+    "0005": [
+      "03c69893-db91-468e-b753-7956dc9bad9f"
+    ],
+    "0006": [
+      "91211cf6-4d84-4ac3-8b4f-f73fc436221a"
+    ],
+    "0007": [
+      "d5ee1a22-fd64-40c9-b0e8-fd42d7c39d26"
+    ],
+    "0008": [
+      "fb8a6ece-d262-4605-981a-2146c262bfa3"
+    ]
+  },
+  "node_count": 9,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:34:13.970104",
+  "article_count": 8,
+  "generation_time_s": 0.03644227981567383
+}

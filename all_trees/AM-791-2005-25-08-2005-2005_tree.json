@@ -1,0 +1,33 @@
+{
+  "slug": "AM-791-2005-25-08-2005-2005",
+  "bundle_path": "backups/all_bundles/code/AM-791-2005-25-08-2005-2005.json",
+  "document_id": "1691053a-a3a0-4ba6-80cb-4f2acb0be4b8",
+  "document_title": "AM.791.2005.25.08.2005",
+  "tree_json": {
+    "doc_name": "AM-791-2005-25-08-2005-2005",
+    "structure": [
+      {
+        "title": "AM.791.2005.25.08.2005",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e2f8b10c-d33b-4f30-92b4-07c83c9e9130"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:15.495330",
+  "article_count": 1,
+  "generation_time_s": 0.0011301040649414062
+}

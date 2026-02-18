@@ -1,0 +1,156 @@
+{
+  "slug": "AM-409-31-12-1997-1997",
+  "bundle_path": "backups/all_bundles/code/AM-409-31-12-1997-1997.json",
+  "document_id": "630922c5-de9d-42e6-96f1-edee7c5d2dca",
+  "document_title": "AM.409.31.12.1997",
+  "tree_json": {
+    "doc_name": "AM-409-31-12-1997-1997",
+    "structure": [
+      {
+        "title": "AM.409.31.12.1997",
+        "node_id": "0000",
+        "prefix_summary": "# AM.409.31.12.1997",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "CHAPITRE I",
+            "node_id": "0001",
+            "prefix_summary": "#### CHAPITRE I",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "summary": "###### Article S1\n\nARR�T� MINIST�RIEL\n409/CAB/MIN/TC/072/97 du 31 d�cembre 1997  portant cr�ation de la\ncommission nationale et des commissions provinciales de d�livrance des permis de\nconduire. (Minist�re des\nTransports et Communications)\ner",
+                "line_num": 7
+              },
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "This partial document contains the final articles (18, 19, 20) of a legal decree or order, likely related to driver's licensing. The main points covered are: the establishment of internal regulations for examination commissions and juries; the repeal of all previous conflicting provisions; and the designation of the Secretary General for execution, with the order entering into force upon signature. A disclaimer notes the text is unofficial and under construction.",
+                "line_num": 17
+              },
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "summary": "###### Article S2\n\nDES DISPOSITIONS",
+                "line_num": 40
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0005",
+                "summary": "This partial document outlines the establishment and key functions of a National Driving License Issuing Commission within the Ministry of Transport and Communications. It specifies the commission's headquarters in Kinshasa and its provincial/urban representations. The document details the commission's exclusive authority over exam boards for international licenses and lists its core missions, including supervising license issuance and renewal, creating exam boards for certified candidates, registering court-ordered license withdrawals, maintaining a national register of license holders, and implementing ministry recommendations to improve the licensing system.",
+                "line_num": 45
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0006",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 86,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0007",
+                "summary": "###### Article S4",
+                "line_num": 89
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0008",
+                "summary": "###### Article S5\n\nDE L�ORGANISATION ET DU",
+                "line_num": 92
+              },
+              {
+                "title": "Section 1",
+                "node_id": "0009",
+                "prefix_summary": "##### Section 1",
+                "line_num": 97,
+                "nodes": [
+                  {
+                    "title": "Article S6",
+                    "node_id": "0010",
+                    "summary": "This partial document outlines the composition of two administrative commissions responsible for issuing driving permits in a national context. It first details the members of the National Commission for the Issuance of Driving Permits, listing six specific positions including a chairperson and representatives from transport, ministerial, road safety, police, judicial, and medical sectors. It then begins to describe the structure of a Provincial or Urban Commission for the same purpose, listing the first three members, which mirror the national commission but at a regional government level.",
+                    "line_num": 100
+                  }
+                ]
+              },
+              {
+                "title": "Section 3",
+                "node_id": "0011",
+                "prefix_summary": "##### Section 3",
+                "line_num": 133,
+                "nodes": [
+                  {
+                    "title": "Article S7",
+                    "node_id": "0012",
+                    "summary": "This partial document covers regulations related to the issuance and renewal of driver's permits (licenses). The main points include:\n\n1.  **Composition and Operation of Licensing Commissions:** It lists the members of national/provincial driver's permit commissions and details the end of their mandates (Art. 7). It also specifies quorum and voting rules for these commissions (Art. 8), and their appointment and remuneration by the Minister of Transport (Art. 9).\n\n2.  **Eligibility and Application Process:** It states the minimum age (18) for obtaining a permit and outlines the required application procedure. This includes submitting a form with personal details and supporting documents like proof of identity, a driving school certificate or old permit, a medical certificate, and a treasury payment receipt (Art. 10 & 11).\n\n3.  **Permit Issuance and Validity:** It specifies that all permits must bear the signature of the national commission president (Art. 12), are valid for five years, and can be renewed with a medical certificate (Art. 13). Issuance is conditional upon payment of a fee set by the Minister (Art. 14).\n\n4.  **Record-Keeping Requirements:** It mandates the maintenance of specific registers at commission offices, including registers of applicants and of issued/renewed permits (Art. 15), with detailed entry requirements for these registers (Art. 16). A central national register must also be kept with comprehensive details of every permit issued nationwide (Art. 17).",
+                    "line_num": 136
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0013",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 250,
+            "nodes": [
+              {
+                "title": "Article S8",
+                "node_id": "0014",
+                "summary": "###### Article S8",
+                "line_num": 253
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0015",
+                "summary": "###### Article S9\n\nDES DISPOSITIONS TRANSITOIRE",
+                "line_num": 256
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "51b0fcd5-d8cd-447b-8b67-0f35d01eff90"
+    ],
+    "0003": [
+      "a4781d5e-11ba-49e5-a068-97b3db7d8d37"
+    ],
+    "0004": [
+      "34a3eb2d-eba7-49f0-8248-03674b8bfb88"
+    ],
+    "0005": [
+      "9a5ef008-5e31-4fc0-a0b3-ba0afda02e5c"
+    ],
+    "0007": [
+      "b89ccd57-159d-409e-ab3d-c05e37583d8d"
+    ],
+    "0008": [
+      "77df9fe5-e7fe-4a9f-b958-6032dee09e20"
+    ],
+    "0010": [
+      "bda60c62-5268-4245-8c19-06804813e559"
+    ],
+    "0012": [
+      "276e6a22-7a49-4341-b3c8-210f4a70b09c"
+    ],
+    "0014": [
+      "3404539a-f8e2-46a6-a468-683221cc38b3"
+    ],
+    "0015": [
+      "37496c3c-4436-4313-ab6f-b8a4c5282825"
+    ]
+  },
+  "node_count": 16,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:21:50.856811",
+  "article_count": 10,
+  "generation_time_s": 14.503262042999268
+}

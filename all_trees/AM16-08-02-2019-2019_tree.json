@@ -1,0 +1,265 @@
+{
+  "slug": "AM16-08-02-2019-2019",
+  "bundle_path": "backups/all_bundles/code/AM16-08-02-2019-2019.json",
+  "document_id": "47ef6bd5-7d5c-4bd8-9a9c-f562de5385ab",
+  "document_title": "AM16.08.02.2019",
+  "tree_json": {
+    "doc_name": "AM16-08-02-2019-2019",
+    "structure": [
+      {
+        "title": "AM16.08.02.2019",
+        "node_id": "0000",
+        "prefix_summary": "# AM16.08.02.2019",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nArr�t�\nminist�riel\nn�\n016\n/CAB/",
+            "line_num": 4
+          },
+          {
+            "title": "titre",
+            "node_id": "0002",
+            "prefix_summary": "#### titre\nIII",
+            "line_num": 13,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "This partial document is a section of a legal text (likely an \"Arrêté\" or decree) outlining regulations related to copyright protection and the collection of royalties in the Democratic Republic of the Congo. The main points covered are:\n\n1.  **Mandatory Authorization and Fees:** It stipulates that all mechanical reproduction, printing, or duplication of copyrighted literary, artistic, and musical works requires prior authorization from the organization SOCODA COOP-CA, subject to the payment of administrative fees. This applies to entities like printers, phonographic/videographic plants, and textile factories.\n\n2.  **Scope of Reproduction:** It defines operations like downloading or burning (gravure) copyrighted works as acts of reproduction. Entities facilitating such online downloads or burns for end consumers are liable to pay copyright and related rights royalties to SOCODA COOP-CA.\n\n3.  **Control and Accounting Requirements:** Reproduction units must submit monthly reports and delivery slips to SOCODA COOP-CA. They are required to maintain transparent analytical accounting for royalties to enable verification. Operating without authorization is prohibited and subject to sanctions.\n\n4.  **Private Copying Remuneration:** It establishes a remuneration scheme for private copying, referencing relevant national copyright law. The levy applies to blank analog and digital media (like tapes, CDs, DVDs) and to devices capable of recording sounds/images (such as mobile phones, computers). SOCODA COOP-CA collects this remuneration with the collaboration of the Directorate General of Customs and Excises (DGDA).",
+                "line_num": 17
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0004",
+                "summary": "This partial document defines key terms and scope for a \"private copy remuneration\" system. It specifies the legal definitions of \"blank media\" and \"recording equipment,\" and then lists the specific analog media, digital media, and recording devices that are subject to this private copy levy.",
+                "line_num": 531
+              }
+            ]
+          },
+          {
+            "title": "Titre",
+            "node_id": "0005",
+            "prefix_summary": "#### Titre\nV\n:\nLa",
+            "line_num": 740,
+            "nodes": [
+              {
+                "title": "Article S12",
+                "node_id": "0006",
+                "summary": "This partial document contains legal articles from what appears to be a regulation or decree from the Democratic Republic of the Congo, focusing on copyright and related rights (neighboring rights). The main points covered are:\n\n1.  **Private Copying Levy:** It defines the \"private copy remuneration\" (levy) as compensation for authors and rights holders for works copied onto blank media or recording devices for personal use.\n2.  **Scope and Calculation:** The levy is applied proportionally to the retail price of blank media (like CDs, DVDs) and devices with integrated storage capable of recording/reproducing sound and/or images (e.g., MP3/MP4 players, music boxes, mixing tables).\n3.  **Obligated Parties:** The debtors responsible for paying this levy are manufacturers and importers of such blank media and devices established in the DRC. The text defines \"manufacturer\" and \"importer\" and includes distributors under the importer category.\n4.  **Distribution of Funds:** It specifies the allocation keys for distributing the collected levy among different rights holders: authors/composers (30%), performing artists (10%), publishers (20%), producers of phonograms/videograms (15%), and the collecting society SOCODA COOP-CA (25%).\n5.  **Payment and Reporting Procedures:** It outlines the process for transferring the funds to the collecting society and requires debtors to provide necessary information (quantities, retail prices) to the tax authority (DGDA) and the collecting society before the media/devices are put into circulation.\n6.  **Equitable Remuneration:** The document introduces the concept of \"equitable remuneration\" for performing artists and producers for the public performance or broadcasting of their commercial phonograms/videograms (e.g., in discotheques, on radio/TV), referencing relevant articles of an existing 1986 ordinance-law.",
+                "line_num": 746
+              }
+            ]
+          },
+          {
+            "title": "Titre",
+            "node_id": "0007",
+            "prefix_summary": "#### Titre\nVI\n: Exploitation",
+            "line_num": 1274,
+            "nodes": [
+              {
+                "title": "Article S13",
+                "node_id": "0008",
+                "summary": "This partial document outlines key provisions regarding copyright and intellectual property rights management, specifically within a Congolese legal framework (SOCODA COOP-CA). It covers:\n\n1. The legal basis for equitable remuneration for commercial phonograms/videograms (legal licensing system).\n2. Rules for exploiting works inspired by folklore and works in the public domain, requiring prior declaration and royalty payments.\n3. Clarification that copyright royalties are distinct from state taxes and apply to the work itself, not the physical medium.\n4. SOCODA's mandate to collect royalties for public communication, reproduction, and private copying from all users.\n5. Operational details for royalty collection, including geographical scope, collection methods (\"day\" and \"night\" perception), applicable tariff schedules, payment terms (8 days), and penalties for late payment.",
+                "line_num": 1279
+              }
+            ]
+          },
+          {
+            "title": "Titre",
+            "node_id": "0009",
+            "prefix_summary": "#### Titre\nVIII\n:\nDes",
+            "line_num": 1825,
+            "nodes": [
+              {
+                "title": "Article S14",
+                "node_id": "0010",
+                "summary": "The partial document covers sections of a legal order or decree related to copyright and neighboring rights management. It outlines violations, penalties, and enforcement procedures. Main points include:\n\n1.  **Surcharges and Penalties for Non-Compliance:** Specific situations trigger increased royalty rates (e.g., night-time usage) or mandatory penalties. These include under-reporting royalties, hiding usage, unauthorized exploitation, failure to declare usage in good faith, refusal to provide accurate information, or obstruction of authorized personnel.\n\n2.  **Definition of Copyright Infringements:** Lists acts constituting infringement, such as unauthorized public communication or performance, non-payment or delayed payment of royalties, permitting unauthorized representation or reproduction, providing false declarations, illicit importation or manufacture of blank recording media/equipment, and non-compliance with procedures for exploiting public domain works.\n\n3.  **Specific Sanctions and Penalties:** Details financial penalties (50%, 100%, or 200% surcharges on owed royalties plus damages) for various offenses, including omission in declarations, unauthorized use/non-payment, and refusal to pay.\n\n4.  **Enforcement and Seizure Measures:** Describes the application of conservatory seizure, under the authority of a public prosecutor, on items used in violations (e.g., illicitly imported/fabricated blank media/recording equipment, instruments used for unauthorized exploitation in cases of persistent non-payment) until royalties are paid.",
+                "line_num": 1831
+              },
+              {
+                "title": "Section",
+                "node_id": "0011",
+                "prefix_summary": "##### Section\n3",
+                "line_num": 2395,
+                "nodes": [
+                  {
+                    "title": "Article S15",
+                    "node_id": "0012",
+                    "summary": "This partial document contains articles from a legal decree (Arrêté) issued by the Ministry of Culture and Arts in Kinshasa, focusing on sanctions for copyright and related rights violations. The main points covered are:\n\n1.  **Prohibitions for Unauthorized Public Use:** It outlines specific activities that can be legally prohibited upon request by the copyright society SOCODA COOP-CA. These include using protected works in advertising, cable retransmission, public sound systems, cultural events, and on websites, all without proper authorization.\n\n2.  **Financial Penalties:** It details fines for various infringements, such as allowing the performance or reproduction of works in public venues without authorization, or for false declaration of revenues by rights holders. Penalties are typically a percentage (50% or 100%) of the applicable tariffs and must be paid within 72 hours to avoid doubling.\n\n3.  **Penalties for Public Domain Exploitation:** A 100% penalty is applied for non-payment or failure to follow the declaration procedure when exploiting works from the public domain.\n\n4.  **Consequences for Repeat Offenses:** In case of recidivism, the procedures can escalate to include the sealing of premises, confiscation of equipment used in the infringement, and the payment of damages.\n\n5.  **Administrative Provisions:** The document concludes with standard legal clauses repealing previous contrary provisions, charging the Secretary General with execution, and stating the decree's effective date upon signature in February 2019.",
+                    "line_num": 2399
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "titre",
+            "node_id": "0013",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 2856,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0014",
+                "summary": "This partial document is Article S2 of a ministerial decree (MIN/CA/2019) from February 2019 issued by the Minister of Culture and Arts of the Democratic Republic of Congo. It establishes implementing measures for Ordinance-Law No. 86-033 (April 1986) on copyright and neighboring rights protection. The document begins by citing the constitutional and legal basis for the decree, including the Berne Convention and the statutes of the Congolese copyright society (SOCODA COOP-CA). It states the necessity for regulatory texts to enable this collective management organization to perform its fundamental mission of collecting and distributing royalties for creators. It then starts to outline the decree's specific provisions, beginning with Title I on the general conditions for exploiting intellectual works. Section 1 of Title I establishes the prerogatives of SOCODA COOP-CA and the general exploitation conditions, with Article 1 stating that the legal prerogatives granted by the 1986 Ordinance-Law to authors and rights holders are to be assured by SOCODA.",
+                "line_num": 2860
+              },
+              {
+                "title": "Section",
+                "node_id": "0015",
+                "prefix_summary": "##### Section\n2 :\nDroits",
+                "line_num": 3210,
+                "nodes": [
+                  {
+                    "title": "Article S3",
+                    "node_id": "0016",
+                    "summary": "This partial document outlines the legal framework for copyright and related rights management in the Democratic Republic of the Congo, administered by the collective management society SOCODA COOP-CA. The main points covered are:\n\n1.  **Mandate and Scope:** SOCODA COOP-CA is the authorized entity for managing copyright on a national basis, under the principle of national treatment. Any public exploitation of intellectual works in the DRC requires its prior written authorization.\n\n2.  **Authorization Process:** It defines an authorization as an administrative act granting permission to use works, specifies that it must be applied for in writing, and requires payment of royalties. Applications must be submitted at least 15 days before the intended use.\n\n3.  **Definitions of Use:** It defines \"exploitation\" as the reproduction or communication to the public of protected works by any means. Prior authorization is required for all such uses of both national and foreign works.\n\n4.  **Types of Exploitation Rights:** It specifies two main rights: the right of communication to the public (public performance) and the right of reproduction.\n\n5.  **Detailed Definitions:**\n    *   **Reproduction** is broadly defined to include any material fixation (e.g., printing, recording, digital download, storage) allowing indirect communication.\n    *   **Communication to the Public** is defined as a wide field of exploitation for direct public reception in various venues.\n\n6.  **Obligated Parties:** It lists examples of entities subject to paying royalties for public communication, including event producers, art exhibitors/sellers, and event organizers.",
+                    "line_num": 3215
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "titre",
+            "node_id": "0017",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 3737,
+            "nodes": [
+              {
+                "title": "Article S4",
+                "node_id": "0018",
+                "summary": "This partial document appears to be from a legal or regulatory text, likely a decree or agreement, governing the public use of copyrighted works (literary and artistic). The main points covered are:\n\n1.  **Scope of Application:** It lists a wide range of venues and events where public performance of copyrighted works requires authorization, including festivals, sports complexes, cinemas, hotels, restaurants, public transport, fairs, and commercial establishments.\n\n2.  **Obligations of Users/Operators:** It mandates that users (exploitants) must communicate exact program details of the works used to the copyright management society (SOCODA COOP-CA). Different deadlines are specified for direct public performances (before or shortly after the event) and indirect performances (e.g., broadcasts, every fortnight).\n\n3.  **Role of the Copyright Society:** The document establishes SOCODA COOP-CA as the collective management organization responsible for collecting royalties. It outlines its authority to grant necessary authorizations for events and to collaborate with organizers via protocols.\n\n4.  **Administrative Procedures:** It details the process for submitting program information using specific forms provided by the society, requiring certification and submission in duplicate. Failure to comply within set deadlines results in penalties on the total royalties owed.\n\n5.  **Transition to General Rules:** The text concludes by transitioning into a new section titled \"Public Performances of Literary and Artistic Works,\" beginning with \"General Rules.\"",
+                "line_num": 3741
+              },
+              {
+                "title": "Section",
+                "node_id": "0019",
+                "prefix_summary": "##### Section\n2\n:\nLes",
+                "line_num": 4253,
+                "nodes": [
+                  {
+                    "title": "Article S5",
+                    "node_id": "0020",
+                    "summary": "This partial document covers articles from a legal decree or regulation concerning copyright and related rights, specifically focusing on public performance and communication of literary and artistic works. The main points are:\n\n1.  **Requirement for Prior Authorization (Implied):** It establishes that public execution or representation of works requires prior authorization from the rights management organization SOCODA COOP-CA.\n\n2.  **Definition of Public Places:** It provides an extensive, non-exhaustive list of locations considered \"public places,\" including venues like stadiums, hotels, restaurants, bars, schools, shops, public transport, and many others.\n\n3.  **Liability of Venue Owners/Tenants:** It states that property owners, concessionaires, or tenants of public spaces can be considered accomplices to copyright infringement if they knowingly allow the use of works without verifying that the users have obtained the necessary authorization from SOCODA COOP-CA.\n\n4.  **Examples of Public Performance/Communication:** It lists specific acts considered public performance or communication, such as live shows, concerts, radio broadcasts, film projections, art exhibitions, online executions, and music playback (sonorisation) in public spaces.\n\n5.  **Definition and Scope of \"Sonorisation\":** It defines the \"sonorisation\" (playback) of musical works as a generator of royalties, covering background or foreground music used for entertainment or strategic purposes in public establishments. It lists specific activities subject to royalty collection, such as music in discos, hotels, restaurants, and during sports/cultural events in stadiums.",
+                    "line_num": 4259
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "titre",
+            "node_id": "0021",
+            "prefix_summary": "#### titre\nd",
+            "line_num": 4794,
+            "nodes": [
+              {
+                "title": "Article S6",
+                "node_id": "0022",
+                "summary": "This partial document outlines regulations and fee structures for the public use of copyrighted music and audiovisual works in the Democratic Republic of Congo, administered by the organization SOCODA COOP-CA.\n\nThe main points covered are:\n\n1.  **Scope of Public Performance Requiring Fees:** It specifies locations where the broadcast of music incurs royalties, including funeral and festive events, public transport (trains, taxis, buses), advertising vehicles, fitness centers, hotel corridors, elevators, and fairgrounds.\n\n2.  **Audiovisual Performances:** The rules also apply to the public display of television programs for commercial purposes in public spaces.\n\n3.  **Obligations of Organizers:** Producers or organizers of cultural/festive events must:\n    *   Obtain a license from SOCODA COOP-CA at least 15 days in advance.\n    *   Declare the exact program of works to be used.\n    *   Provide financial statements and proof of revenue after the event.\n    *   Pay the due copyright royalties at the end of the event.\n\n4.  **Fee Calculation for Free Events:** For public performances without an entrance fee, royalties are calculated as:\n    *   A minimum guarantee of 1/4 of the occasional rights fee for non-profit events.\n    *   10% of the operational budget (the document cuts off while detailing this second point).",
+                "line_num": 4798
+              },
+              {
+                "title": "Section",
+                "node_id": "0023",
+                "prefix_summary": "##### Section\n3",
+                "line_num": 5311,
+                "nodes": [
+                  {
+                    "title": "Article S7",
+                    "node_id": "0024",
+                    "summary": "This partial document covers articles from a legal decree or ordinance regarding copyright protection and royalties. The main points are:\n\n1.  **Responsibilities of venue owners/concessionaires:** Owners of various public spaces (like halls, stadiums, cultural centers) must ensure that event organizers have obtained prior authorization from SOCODA for the use of copyrighted works before their events begin.\n\n2.  **Exploitation of works in the digital environment:** It defines acts that generate royalties for the use of copyrighted works online. This includes using musical extracts as ringtones, downloading works from digital networks, publishing literary works on the internet, and streaming/retransmitting radio programs on websites (webradio/simulcasting).\n\n3.  **Definitions of webradio and webcasting:** It provides legal definitions for \"webradio/simulcasting\" (simultaneous retransmission of traditional radio programs online) and \"webcasting\" (original streaming programs on the internet).\n\n4.  **Entities liable for digital royalties:** It lists the parties responsible for paying royalties for the digital uses outlined, including content providers, website users, telephone network companies, and radio stations broadcasting online.\n\n5.  **Requirement for prior authorization:** Users or exploiters of copyrighted works in the digital domain must ensure all protected content (national and foreign) has obtained prior exploitation authorization from SOCODA.\n\n6.  **Exploitation by original broadcasting:** It states that broadcasting acts are included in public communication. Broadcasters and telecasters are liable for these acts towards the national collective management structure (SOCODA) under relevant copyright law provisions.",
+                    "line_num": 5315
+                  }
+                ]
+              },
+              {
+                "title": "Section",
+                "node_id": "0025",
+                "prefix_summary": "##### Section\n5",
+                "line_num": 5828,
+                "nodes": [
+                  {
+                    "title": "Article S8",
+                    "node_id": "0026",
+                    "summary": "This partial document covers regulations regarding the collection of copyright and related rights royalties by SOCODA COOP-CA from various media and public exploitation of intellectual works. It specifies obligations for radio and television stations, cable broadcasters, and distributors regarding declarations and payments. It also outlines rules for the exhibition of visual and applied arts, the lending of literary and audiovisual works by libraries and similar institutions, and the use of copyrighted works in advertising across multiple media formats.",
+                    "line_num": 5832
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "titre",
+            "node_id": "0027",
+            "prefix_summary": "#### titre\nII",
+            "line_num": 6347,
+            "nodes": [
+              {
+                "title": "Article S9",
+                "node_id": "0028",
+                "summary": "This partial document outlines regulations concerning the advertising and exploitation of copyrighted works (\"œuvres de l'esprit\") in the Democratic Republic of Congo. The main points covered are:\n\n1.  **Advertising Regulations:** It specifies that advertisers must group and declare their advertising plans for various media (road signs, transportation vehicles, public spaces, internet) to SOCODA for authorization. A specific procedure is required for using protected works (photographs, drawings) in fixed-image advertisements.\n2.  **State Sovereignty over Certain Works:** It defines works of \"public order\" (national hymns, coats of arms, official portraits, technical studies, etc.) as falling under state sovereignty, where the state holds exclusive exploitation rights. The state acquires these works through commissions or legal means.\n3.  **Compensation for State-Used Works:** Despite the state's monopoly, it must pay a unique royalty to the author or rights holders for public use of these sovereign works. For long-term use, the state negotiates a lifelong annuity based on a quarter of the global royalty.\n4.  **Royalty Calculation:** The royalty amount is determined using a technical assessment sheet prepared by a sworn expert.\n5.  **Registration Requirement for Reproduction:** It mandates that all production units (record/video factories, printers, textile manufacturers, etc.) reproducing musical, literary, or artistic works within the Congo must register with SOCODA COOP-CA to avoid legal prosecution.",
+                "line_num": 6351
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "0d545584-0d0d-46d1-9701-c36dff252980"
+    ],
+    "0003": [
+      "0d5ff0e0-da6f-4872-b04b-bffaac69510a"
+    ],
+    "0004": [
+      "7ccfc4cf-95a8-47e4-82b0-d9395e522c3f"
+    ],
+    "0006": [
+      "19143087-2819-4b95-af38-1c694a765c51"
+    ],
+    "0008": [
+      "48fb9c17-c716-461e-8730-c3c7631d37ec"
+    ],
+    "0010": [
+      "dbd8af8b-7f68-4dd6-815e-a979e9922018"
+    ],
+    "0012": [
+      "09596b82-5696-4b39-a638-2ab498f3ef7d"
+    ],
+    "0014": [
+      "0702c5f4-8c3d-4e89-9c63-4a8dd57bb2af"
+    ],
+    "0016": [
+      "bc32f8ee-0180-491e-97dd-c995d54382fa"
+    ],
+    "0018": [
+      "36d69d5d-8e76-4149-b7c7-fc0f97b7ddba"
+    ],
+    "0020": [
+      "4f85e37b-6ba0-4082-9724-f9e59929e9fb"
+    ],
+    "0022": [
+      "0e5245c8-dcfb-4786-8b0b-f574966ac4cb"
+    ],
+    "0024": [
+      "af83de2c-38f8-4c37-8933-173f14323c60"
+    ],
+    "0026": [
+      "947e1fd5-3d54-4451-a36b-3c058eb5852c"
+    ],
+    "0028": [
+      "48f537bf-ff2d-4163-88b6-d49d815a87be"
+    ]
+  },
+  "node_count": 29,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:38.751750",
+  "article_count": 15,
+  "generation_time_s": 22.301576137542725
+}

@@ -1,0 +1,402 @@
+{
+  "slug": "AM-1250-013-28-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-1250-013-28-09-2015-2015.json",
+  "document_id": "9ae5a881-1066-4105-aafd-fe004acadddf",
+  "document_title": "AM.1250.013.28.09.2015",
+  "tree_json": {
+    "doc_name": "AM-1250-013-28-09-2015-2015",
+    "structure": [
+      {
+        "title": "AM.1250.013.28.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AM.1250.013.28.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "The partial document outlines the establishment and objectives of the National Pharmacovigilance System in the Democratic Republic of the Congo. It states that the system was created by a ministerial decree in July 2006 and is organized by the Ministry of Public Health. The main objectives are: early detection of adverse effects of health products, especially serious and unexpected ones; detection of harmful effects from misuse, medication errors, exposure, dependence, or poor product quality; development of training and information on adverse effects for health professionals and the public; provision of technical advice to authorities regarding the authorization and regulation of health products; and conducting studies on the mechanisms and consequences of adverse effects.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0002",
+            "summary": "###### Article 11\n\nLa Commission Nationale de Pharmacovigilance se r�unit deux fois l'an\net se prononce sur toutes les questions propos�es par la Commission technique.\nElle a la facult�  de recourir � toute expertise  ext�rieure",
+            "line_num": 27
+          },
+          {
+            "title": "Chapitre V : De la Direction  de la Pharmacie et du M�dicament",
+            "node_id": "0003",
+            "prefix_summary": "#### Chapitre V : De la Direction  de la Pharmacie et du M�dicament",
+            "line_num": 34,
+            "nodes": [
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nLa commission se prononce �galement sur les mesures ou les d�cisions prises en\nurgence par la DPM (ANRP) en dehors des sessions.",
+                "line_num": 37
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI : Du Comit� technique",
+            "node_id": "0005",
+            "prefix_summary": "#### Chapitre VI : Du Comit� technique",
+            "line_num": 43,
+            "nodes": [
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "The partial document outlines the missions and responsibilities of the \"Direction de la Pharmacie et du Médicament (ANRP)\" regarding the National Pharmacovigilance System. The main points covered are: establishing and operating the national system, managing national and international drug safety alerts, coordinating stakeholders and ensuring compliance with good pharmacovigilance practices, receiving technical reports from the National Pharmacovigilance Center, receiving periodic reports from pharmaceutical companies, and preparing and submitting dossiers to the National Pharmacovigilance Commission.",
+                "line_num": 46
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "This partial document defines the role and responsibilities of the Technical Pharmacovigilance Committee. Its main points are that the committee is a scientific body attached to the National Pharmacovigilance Centre, and its duties include: forming a permanent panel of pharmacology and clinical experts to assess risks and propose measures; providing technical opinions on scientific matters; preparing the work of the National Pharmacovigilance Commission; responding to technical requests from the DPM; and planning the annual program of scientific and research activities.",
+                "line_num": 61
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nLe Comit� Technique est pr�sid� par le Directeur du Centre National de\nPharmacovigilance.\nIl est compos� de :\n- 6 m�decins sp�cialistes ;\n- 3 pharmaciens ;\n- 3 pharmacologues;\n- 3 toxicologues ;\n- 1 �pid�miologiste,\nCes derniers sont d�sign�s par la Commission Nationale de Pharmacovigilance sur\nproposition de Centre National de Pharmacovigilance.",
+                "line_num": 77
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII: Du Centre National de Pharmacovigilance",
+            "node_id": "0009",
+            "prefix_summary": "#### Chapitre VII: Du Centre National de Pharmacovigilance",
+            "line_num": 91,
+            "nodes": [
+              {
+                "title": "Article 16",
+                "node_id": "0010",
+                "summary": "###### Article 16\n\nLe Comit� technique peut s'adjoindre toute personne comp�tente si l'ordre\ndu jour l'exige. Il se r�unit une fois par trimestre sous la direction de son\npr�sident et toutes les fois que l'urgence de la situation l'exige.",
+                "line_num": 94
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0011",
+                "summary": "###### Article 17\n\nCr�� et implant� au sein de l'Unit� de pharmacologie clinique et\npharmacovigilance des facult�s de sciences pharmaceutiques et de m�decine de\nl'Universit�  de Kinshasa, le Centre National de Pharmacovigilance a pour\nmission de :\n- appliquer les proc�dures de bonnes pratiques de pharmacovigilance ;\n- g�rer les moyens n�cessaires pour le bon fonctionnement du centre.",
+                "line_num": 101
+              }
+            ]
+          },
+          {
+            "title": "Chapitre Vill : Des Centres R�gionaux  de Pharmacovigilance",
+            "node_id": "0012",
+            "prefix_summary": "#### Chapitre Vill : Des Centres R�gionaux  de Pharmacovigilance",
+            "line_num": 111,
+            "nodes": [
+              {
+                "title": "Article 18",
+                "node_id": "0013",
+                "summary": "This partial document outlines the mandated responsibilities of a National Pharmacovigilance Center. The main points cover its key functions: coordinating investigations into adverse drug effects, submitting technical reports, collaborating with international WHO centers, training regional personnel, educating healthcare professionals, collecting and assessing adverse event data from manufacturers and health workers, organizing public prevention campaigns, generating pharmacovigilance alerts and consulting a national commission when necessary, acting as a regional center in its location, and receiving activity reports from regional pharmacovigilance centers.",
+                "line_num": 114
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0014",
+                "summary": "###### Article 19\n\nLes Centres R�gionaux de Pharmacovigilance sont des unit�s ou des structures de\nsoins au sein des �tablissements publics, universitaires et hospitaliers,\ncr��s par voie d'arr�t� minist�riel, sur proposition de la Commission\nNationale de Pharmacovigilance, apr�s avis motiv� du Centre National de\nPharmacovigilance.",
+                "line_num": 139
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IX : Des firmes pharmaceutiques",
+            "node_id": "0015",
+            "prefix_summary": "#### Chapitre IX : Des firmes pharmaceutiques",
+            "line_num": 148,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0016",
+                "summary": "The partial document describes the roles and responsibilities of Regional Pharmacovigilance Centers within a National Pharmacovigilance System. It outlines their core functions: collecting reports from healthcare professionals and the public; monitoring, evaluating, and preventing drug-related risks; conducting pharmacovigilance studies and generating alerts; contributing to the training and information of healthcare professionals and the public; and transmitting collected information, especially regarding serious adverse effects and counterfeit medicines, to the National Pharmacovigilance Center.",
+                "line_num": 151
+              }
+            ]
+          },
+          {
+            "title": "Chapitre X: Des autres acteurs",
+            "node_id": "0017",
+            "prefix_summary": "#### Chapitre X: Des autres acteurs",
+            "line_num": 169,
+            "nodes": [
+              {
+                "title": "Article 21",
+                "node_id": "0018",
+                "summary": "###### Article 21\n\nToute firme pharmaceutique a l'obligation de veiller � la collecte des\ninformations li�es aux effets ind�sirables de ses m�dicaments, au respect de la\nd�claration apr�s enregistrement et � la transmission des rapports p�riodiques\nactualis�s de pharmacovigilance PSUR avec des informations � jour recueillies du\nmarch� int�rieur et ext�rieur sur la s�curit� de l'emploi des m�dicaments et\nautres produits de sant�.\nArticle22\nLes firmes pharmaceutiques doivent collaborer pour le bon d�roulement des\nactivit�s ayant pour finalit� la s�curit� de l'emploi des m�dicaments et autres\nproduits de sant� qu'elles commercialisent.",
+                "line_num": 172
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0019",
+                "summary": "###### Article 23\n\nLes Comit�s pharmaco-th�rapeutiques implant�s dans les h�pitaux g�n�raux de\nr�f�rence  jouent le r�le de relais entre les Centres R�gionaux de\nPharmacovigilance et les structures de Sant� de leurs zones respectives.\nArticle24\nLes points focaux: les programmes sp�cialis�s du minist�re impliqu�s dans la\ndistribution des m�dicaments ainsi que les formations sanitaires sont\ntenus d'organiser un service de pharmacovigilance plac� sous la responsabilit�\nd'un pharmacien ou d'un m�decin justifiant des connaissances en\npharmacovigilance.",
+                "line_num": 186
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0020",
+                "summary": "###### Article 25\n\nLe responsable de pharmacovigilance vis� � 1'article 22 constitue le point\nfocal du syst�me et est charg� de veiller � la collecte des informations li�es\naux effets ind�sirables et au respect des obligations de d�claration apr�s\nenregistrement et �valuation.",
+                "line_num": 199
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0021",
+                "summary": "###### Article 26\n\nLes professionnels de sant� (les m�decins, les chirurgiens-dentistes, les\npharmaciens, les assistants en pharmacie ainsi que les infirmiers et les\naccoucheuses) doivent collaborer � la s�curit� d'emploi des m�dicaments et\nautres produits de sant�, c'est pourquoi, ils ont l'obligation de notifier au\ncentre de pharmacovigilance de leur ressort:\n- toute pr�somption d'effet ind�sirable en rapport avec l'utilisation d'un ou\nplusieurs m�dicaments ;\n- toute observation d'abus ou de m�susage;\n- tout fait qu'il juge pertinent de d�clarer.",
+                "line_num": 207
+              }
+            ]
+          },
+          {
+            "title": "Chapitre XI : De la gestion des risques",
+            "node_id": "0022",
+            "prefix_summary": "#### Chapitre XI : De la gestion des risques",
+            "line_num": 220,
+            "nodes": [
+              {
+                "title": "Article 27",
+                "node_id": "0023",
+                "summary": "###### Article 27\n\nLes patients ou leur repr�sentant et les Associations des patients agr��es,\nsollicit�es ou non par  les patients peuvent faire des d�clarations sur les\neffets ind�sirables suspect�s par le patient ou son entourage d'�tre en relation\navec l'utilisation d'un m�dicament.",
+                "line_num": 223
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0024",
+                "summary": "###### Article 28\n\nLa DPM (ANRP) exige des firmes pharmaceutiques la mise en place d'un syst�me de\ngestion des risques en vue du renforcement de la surveillance du m�dicament et\nautres produits de sant�, de la surveillance du risque, du bon usage du\nm�dicament et des informations sur les m�dicaments et autres produits de sant�.",
+                "line_num": 231
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0025",
+                "summary": "###### Article 29\n\nLe Syst�me de gestion des risques repose sur l'obligation de\nd�p�t du plan de gestion des risques; lequel plan est  d�fini comme �tant un\nensemble d'activit�s et intervention de pharmacovigilance ayant\npour but d'identifier, de d�crire, de pr�venir, ou de r�duire au minimum les\nrisques li�s � un m�dicament ou autres produits de sant�, y compris l'�valuation\ndes activit�s et interventions y relatives.",
+                "line_num": 239
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II: Du champs d'action",
+            "node_id": "0026",
+            "prefix_summary": "#### Chapitre II: Du champs d'action",
+            "line_num": 249,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0027",
+                "summary": "###### Article 3\n\nLe Syst�me National de Pharmacovigilance repose sur:\n- Un r�seau charg� de recueillir les notifications des effets ind�sirables ;\n- L'enregistrement, l'analyse, l'�valuation de la qualit� de l'information\nrecueillie et son classement ;\n- La Centralisation et l'�valuation de l'ensemble des informations sur les\nrisques m�dicamenteux ;\n- La communication en mati�re de risque m�dicamenteux ;\n- La prise de d�cision ;\n- La r�alisation d'�tudes concernant la s�curit� d'emploi des m�dicaments et\nautres produits de Sant� Sant�.",
+                "line_num": 252
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0028",
+                "summary": "###### Article 30\n\nLe plan de gestion des risques est un document comprenant les descriptions\nd�taill�es des:\n- risques identifi�s et activit�s de pharmacovigilance classiques ou renforc�es\npour les surveiller ;\n- activit�s de pharmaco �pid�miologie pour les caract�riser et\nles quantifier par des �tudes post� AMM et des �tudes d'utilisation;\n- mesures de minimisation � travers des informations professionnelles de\nsant� visant � pr�venir les risques pouvant �galement �tre ajout�es.",
+                "line_num": 266
+              }
+            ]
+          },
+          {
+            "title": "Chapitre Xll : Des dispositions finales",
+            "node_id": "0029",
+            "prefix_summary": "#### Chapitre Xll : Des dispositions finales",
+            "line_num": 278,
+            "nodes": [
+              {
+                "title": "Article 31",
+                "node_id": "0030",
+                "summary": "###### Article 31\n\nLe plan de gestion vis� � l'article28 est requis dans les cas ci-dessous :\n- Tout m�dicament ou produit  de sant� contenant une nouvelle substance active.\n- Tout m�dicament ou produit de sant� avec changement significatif,\nintervenu en rapport avec le dosage, la voie d'administration et le proc�d� de\nfabrication ;\n- Tout m�dicament ou produit de sant� connu pour lequel un risque potentiel a\n�t� identifi� apr�s mise sur le march�.",
+                "line_num": 281
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0031",
+                "summary": "###### Article 32\n\nLes m�canismes de communication et diffusion de toute information relative � la\ns�curit� d'emploi du m�dicament ou autre produit de sant� et la mani�re dont les\ndiff�rentes parties prenantes doivent remplir\nles obligations ainsi que les m�canismes de collaboration entre elles sont\nd�finis dans les lignes directrices de bonnes pratiques de pharmacovigilance en\nannexe du pr�sent Arr�t�.",
+                "line_num": 292
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0032",
+                "summary": "###### Article 33\n\nLes infractions aux dispositions du pr�sent Arr�t�\nsont punies des peines par l'Ordonnance n�27 bis Hygi�ne du 15 mars 1933 sur\nl'exercice de la Pharmacie, sp�cialement en ses articles 7et 62.",
+                "line_num": 302
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0033",
+                "summary": "###### Article 34\n\nToutes dispositions ant�rieures contraires au pr�sent arr�t� sont abrog�es.",
+                "line_num": 309
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0034",
+                "summary": "###### Article 35\n\nLe Secr�taire g�n�ral � la Sant� Publique est charg� de l'ex�cution du pr�sent\nArr�t� qui entre en vigueur � la date de signature.\nFait � Kinshasa, le  28 septembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+                "line_num": 314
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0035",
+                "summary": "###### Article 4\n\nLa Pharmacovigilance s'exerce sur les m�dicaments et autres produits de Sant�,\nnotamment:\n- Les m�dicaments au sens de la r�glementation en vigueur;\n- Les m�dicaments hom�opathiques ;\n- Les vaccins et autres produits biologiques ;\n- Les  m�dicaments radio pharmaceutiques;\n- Les produits de th�rapie cellulaire ;\n- Les  produits de th�rapie g�nique ;\n- Les mat�riels et dispositifs m�dicaux ;\n- Le sang et ses d�riv�s ;\n- Les insecticides et acaricides destin�s � �tre appliqu�s sur l'homme ;\n- Les produits traditionnels am�lior�s ou non ;\n- Les produits cosm�tiques.",
+                "line_num": 327
+              }
+            ]
+          },
+          {
+            "title": "Chapitre Ill: De la composition",
+            "node_id": "0036",
+            "prefix_summary": "#### Chapitre Ill: De la composition",
+            "line_num": 344,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0037",
+                "summary": "###### Article 5\n\nLa Pharmacovigilance s'exerce �galement sur tous les autres probl�mes li�s\n� l'utilisation comme les erreurs m�dicamenteuses, les �checs th�rapeutiques, et\naux d�fauts de qualit� des m�dicaments  (SSFFC) et autres produits de sant�.",
+                "line_num": 347
+              }
+            ]
+          },
+          {
+            "title": "Chapitre  IV : De la commission nationale de pharmacovigilance",
+            "node_id": "0038",
+            "prefix_summary": "#### Chapitre  IV : De la commission nationale de pharmacovigilance",
+            "line_num": 354,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0039",
+                "summary": "###### Article 6\n\nLe Syst�me National de Pharmacovigilance est mis en �uvre par la Direction de la\nPharmacie et du M�dicament  (ANRP) et comprend en outre la Commission Nationale\nde Pharmacovigilance, le Comit� technique, le Centre National de\nPharmacovigilance,  les Centres R�gionaux de Pharmacovigilance, les points\nfocaux de pharmacovigilance, les entreprises pharmaceutiques, les programmes\nsp�cialis�s, les professionnels de sant�, le public.",
+                "line_num": 357
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0040",
+                "summary": "The partial document outlines the mission and responsibilities of the National Pharmacovigilance Commission. Its main points include defining pharmacovigilance strategies, evaluating information on adverse drug reactions, advising the Director of the DPM (ANRP) on patient safety measures, proposing necessary studies, providing opinions to the Minister of Public Health, and assessing risks for clinical trial participants to advise on their continuation or termination.",
+                "line_num": 367
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0041",
+                "summary": "The partial document outlines the composition of the National Pharmacovigilance Commission, listing the specific members or their representatives who constitute the body. The members include directors from key national health and pharmaceutical agencies, representatives from various health professional orders and associations (doctors, pharmacists, dentists, midwives, nurses, pharmacy assistants), representatives from regional pharmacovigilance centers, and a consumer association representative.",
+                "line_num": 385
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0042",
+                "summary": "###### Article 9\n\nLa Commission Nationale de Pharmacovigilance est\npr�sid�e par le Directeur de la DPM(ANRP) ou  son repr�sentant.",
+                "line_num": 407
+              },
+              {
+                "title": "Article l",
+                "node_id": "0043",
+                "summary": "###### Article l\n\nLes membres de la Commission Nationale de Pharmacovigilance sont astreints �\nl'obligation de confidentialit� et sont tenus � �viter les conflits d'int�r�ts.",
+                "line_num": 413
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "ddbdc860-5cb8-433d-a878-947709905670"
+    ],
+    "0002": [
+      "d17e7778-1f33-4e55-9910-ed53176e261c"
+    ],
+    "0004": [
+      "ef0f5c8a-571c-4b66-bb64-084cea67dc94"
+    ],
+    "0006": [
+      "45767b20-9d85-4b58-88bd-9818f363cfcf"
+    ],
+    "0007": [
+      "32106a01-d212-4c5c-9fcd-575810e68864"
+    ],
+    "0008": [
+      "4e0e00e6-c68c-42c8-aa62-c38d3c025e70"
+    ],
+    "0010": [
+      "68f8e6e9-e574-4739-a1b0-3ee8ec971716"
+    ],
+    "0011": [
+      "3e0eabbb-0662-42d6-89cd-8dc27ab1ebc2"
+    ],
+    "0013": [
+      "2395444b-ae0f-4578-8da4-b4feeddc99bb"
+    ],
+    "0014": [
+      "cc7f2cb8-801e-4df8-b3e8-04d94420cded"
+    ],
+    "0016": [
+      "f498215b-2bac-45fa-bc99-2e0b9bc17037"
+    ],
+    "0018": [
+      "9b6f9a3b-d16a-4d3f-aa76-985c91b542a4"
+    ],
+    "0019": [
+      "a18ccb46-9156-4cac-994b-b4a4b541ec4c"
+    ],
+    "0020": [
+      "a7d79bb9-55e9-4086-b072-ce0873ced006"
+    ],
+    "0021": [
+      "fb86dff4-6d42-4ec4-8e96-e3a2093978c5"
+    ],
+    "0023": [
+      "8e1a9e14-8098-45fc-9d07-77e0e232de99"
+    ],
+    "0024": [
+      "b27591ce-590a-46b2-90ca-ac0d7f60d814"
+    ],
+    "0025": [
+      "5970294b-2820-44f3-b7bc-97354fe902f5"
+    ],
+    "0027": [
+      "31defae5-91bf-4d99-b5a6-75d0d48b0f73"
+    ],
+    "0028": [
+      "2eae4438-393b-424a-9ff4-11573c7f7bc0"
+    ],
+    "0030": [
+      "207fc449-db33-4fcf-bd89-5a3c18721824"
+    ],
+    "0031": [
+      "e239101e-24cb-4518-a1ac-36d0ad9b0de5"
+    ],
+    "0032": [
+      "422f05f4-6b6b-4268-88c2-c77ca86e2648"
+    ],
+    "0033": [
+      "ac8b0725-97be-4f5e-a0d6-40b43c0167bd"
+    ],
+    "0034": [
+      "dd6b197f-a508-465b-9fb8-efeeaf85aa2d"
+    ],
+    "0035": [
+      "220ee0bc-042a-43e8-b603-b73f830ea17e"
+    ],
+    "0037": [
+      "3859ad8b-09d8-4b81-bf80-f4d3fc8578d7"
+    ],
+    "0039": [
+      "0fd32700-3615-4d46-9672-332b67822552"
+    ],
+    "0040": [
+      "0d05b9d7-2f6f-4363-990c-2fe67ebe2bb3"
+    ],
+    "0041": [
+      "c6292592-c811-46b0-9e51-94beb1dd61a9"
+    ],
+    "0042": [
+      "84bb9161-99d7-4430-bf14-bec34adcfcd7"
+    ],
+    "0043": [
+      "fa92f70e-52fb-4bc8-90a5-4759c85a28de"
+    ]
+  },
+  "node_count": 44,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:43.120692",
+  "article_count": 32,
+  "generation_time_s": 15.897594928741455
+}

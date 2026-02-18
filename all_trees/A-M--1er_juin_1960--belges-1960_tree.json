@@ -1,0 +1,55 @@
+{
+  "slug": "A-M--1er_juin_1960--belges-1960",
+  "bundle_path": "backups/all_bundles/code/A-M--1er_juin_1960--belges-1960.json",
+  "document_id": "598a4e57-34cd-4cbf-858a-1009e0456996",
+  "document_title": "A.M. 1er_juin_1960. belges",
+  "tree_json": {
+    "doc_name": "A-M--1er_juin_1960--belges-1960",
+    "structure": [
+      {
+        "title": "A.M. 1er_juin_1960. belges",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Section 1",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article S1",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          },
+          {
+            "title": "Section III",
+            "node_id": "0003",
+            "line_num": 78,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0004",
+                "line_num": 81
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "9efe0970-e1c1-46ea-85bb-f1b6dda01a8e"
+    ],
+    "0004": [
+      "883087a4-0085-4ff4-8051-09dd2cf65cc6"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:29:16.775142",
+  "article_count": 2,
+  "generation_time_s": 0.00783681869506836
+}

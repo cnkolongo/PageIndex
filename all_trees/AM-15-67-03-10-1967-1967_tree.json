@@ -1,0 +1,123 @@
+{
+  "slug": "AM-15-67-03-10-1967-1967",
+  "bundle_path": "backups/all_bundles/code/AM-15-67-03-10-1967-1967.json",
+  "document_id": "370fe65b-4010-4b92-8b1d-3b96479eb15a",
+  "document_title": "AM.15.67.03.10.1967",
+  "tree_json": {
+    "doc_name": "AM-15-67-03-10-1967-1967",
+    "structure": [
+      {
+        "title": "AM.15.67.03.10.1967",
+        "node_id": "0000",
+        "prefix_summary": "# AM.15.67.03.10.1967",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�",
+            "line_num": 4
+          },
+          {
+            "title": "Section I",
+            "node_id": "0002",
+            "prefix_summary": "##### Section I",
+            "line_num": 9,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0003",
+                "summary": "This partial document is a section of Ministerial Order 15/67 from October 3, 1967, concerning employment contracts. It covers two main areas:\n\n1.  **Form and Proof of the Contract (Articles 1-2):** It specifies that contracts must be signed (or a fingerprint used if a party cannot sign), written in French in at least four copies (for the employer, worker, and the authorizing authority, plus a draft for the worker), and may be translated into the worker's vernacular language, though the French version is legally authoritative in case of dispute.\n\n2.  **Visa (Approval) of the Contract (Articles 3-5):** It mandates that the employer must submit the contract for visa/approval to the National Employment Service within 15 days of signing. It details the procedure for submission, specifying which copies are presented and retained, and prescribes the formal wording for the visa stamp on each copy.",
+                "line_num": 12
+              },
+              {
+                "title": "Article S3",
+                "node_id": "0004",
+                "summary": "###### Article S3\n\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n� (localit�) . . . . . . . .",
+                "line_num": 72
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0005",
+                "summary": "###### Article S4\n\n. . . . . . . . . . . . . . . �����������������.. . . . . . . . . . . . . . . .",
+                "line_num": 78
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0006",
+                "summary": "###### Article S5\n\n. . . . . . . . . . . . . . . . . . . .\n(date) . . . . . . . . . . .",
+                "line_num": 83
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0007",
+                "summary": "###### Article S6\n\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+                "line_num": 89
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0008",
+                "summary": "###### Article S7\n\n. . . . . . . . . .\nSous le n�",
+                "line_num": 94
+              },
+              {
+                "title": "Article S8",
+                "node_id": "0009",
+                "summary": "###### Article S8\n\n. . . . . . . . . . .",
+                "line_num": 100
+              }
+            ]
+          },
+          {
+            "title": "Section III",
+            "node_id": "0010",
+            "prefix_summary": "##### Section III",
+            "line_num": 105,
+            "nodes": [
+              {
+                "title": "Article S9",
+                "node_id": "0011",
+                "summary": "This partial document contains the final articles (S9, Art. 6, 7, and 8) of a legal decree or \"arrêté.\" The main points covered are: the penalties for violating the decree, referencing specific articles of labor codes; the decree's abrogation and replacement of previous regulations; and the decree's effective date upon publication in an official gazette (\"Moniteur congolais\"). It also includes a disclaimer about the document's provisional nature and source.",
+                "line_num": 108
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "d03937a7-84ea-45be-997b-ecb67d7f4f4d"
+    ],
+    "0003": [
+      "9103f0ac-1221-44cc-b7ad-d8ac78215ab9"
+    ],
+    "0004": [
+      "a5235424-8db8-41d7-838c-8f5ed7851369"
+    ],
+    "0005": [
+      "eac8b512-6754-4c5a-a53b-68524df35301"
+    ],
+    "0006": [
+      "28d9bbf6-6efb-41e2-8b32-2e9a192fcd3d"
+    ],
+    "0007": [
+      "88e225a7-72f7-4fdb-9f2b-8f4a5f71442b"
+    ],
+    "0008": [
+      "422213af-1e1c-47c5-a8d9-3780f80baf53"
+    ],
+    "0009": [
+      "1c9bd725-4295-40d0-b3ac-4f16ed989648"
+    ],
+    "0011": [
+      "6cfc189f-43ab-4c51-835d-796d791d5955"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:27.089939",
+  "article_count": 9,
+  "generation_time_s": 11.103307008743286
+}

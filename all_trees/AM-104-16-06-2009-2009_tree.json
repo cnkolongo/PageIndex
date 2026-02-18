@@ -1,0 +1,289 @@
+{
+  "slug": "AM-104-16-06-2009-2009",
+  "bundle_path": "backups/all_bundles/code/AM-104-16-06-2009-2009.json",
+  "document_id": "2400cb49-308a-4835-9548-3acc11a9079d",
+  "document_title": "AM.104.16.06.2009",
+  "tree_json": {
+    "doc_name": "AM-104-16-06-2009-2009",
+    "structure": [
+      {
+        "title": "AM.104.16.06.2009",
+        "node_id": "0000",
+        "prefix_summary": "# AM.104.16.06.2009",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� a pour objet de fixer les\nr�gles relatives � la proc�dure de n�gociation des transactions en mati�re\nforesti�re, conform�ment aux articles 137 � 140 du Code forestier.\nIl d�finit notamment les autorit�s et agents\ncomp�tents pour transiger, la proc�dure des transactions, les bar�mes des\ntransactions, les modalit�s d'ex�cution des travaux d'int�r�t forestier en vue\nde se lib�rer d'une transaction et les effets de la transaction.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nLes montants des transactions foresti�res ne\npeuvent, en aucun cas, �tre inf�rieurs � la moiti� du maximum des amendes\npr�vues par le Code forestier, augment�e �ventuellement des sommes dues au titre\ndes dommages et int�r�ts.",
+            "line_num": 15
+          },
+          {
+            "title": "Section V : Des travaux d'int�r�t forestier",
+            "node_id": "0003",
+            "prefix_summary": "##### Section V : Des travaux d'int�r�t forestier",
+            "line_num": 23,
+            "nodes": [
+              {
+                "title": "Article 11",
+                "node_id": "0004",
+                "summary": "###### Article 11\n\nLe calcul et le versement des sommes dues pour\ndommages et int�r�ts s'op�rent sans pr�judice des dispositions de\nl'article 143 du Code forestier concernant notamment la saisie ou la restitution\ndes produits de l'infraction ou des instruments ayant servi � la\ncommettre et la remise en �tat des lieux atteints par ladite infraction.",
+                "line_num": 26
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0005",
+                "summary": "###### Article 12\n\nPar application de l'article 140 du Code\nforestier, tout d�linquant forestier peut se lib�rer d'une transaction par\nl'ex�cution des travaux d'int�r�t forestier, dans les conditions suivantes :\na.\nque les travaux pr�conis�s visent le reboisement ;\nb.\nque mention en soit faite dans le proc�s-verbal de\ntransaction, lequel pr�cise, en outre, le nombre de jours de travail, le d�lai\net le lieu de leur r�alisation ;\nc.\nqu'� d�faut de confier l'ex�cution desdits travaux\n� l'administration foresti�re comp�tente, le d�linquant les fasse ex�cuter par\nun personnel technique comp�tent.",
+                "line_num": 35
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nOutre le prescrit de l'article 12 ci-dessus, le proc�s-verbal de\ntransaction fixe la superficie � reboiser.\nCette superficie r�sulte de l'application de la formule suivante\n:\ndans\nlaquelle SR = superficie � reboiser, MT = montant de la transaction et CHR =\nco�t du reboisement � l'hectare.\nLa dur�e des travaux ne peut �tre fix�e au-del� de cent\ncinquante jours pour chaque ann�e concern�e par la transaction.",
+                "line_num": 52
+              }
+            ]
+          },
+          {
+            "title": "Section VI : Des effets de la transaction",
+            "node_id": "0007",
+            "prefix_summary": "##### Section VI : Des effets de la transaction",
+            "line_num": 65,
+            "nodes": [
+              {
+                "title": "Article 14",
+                "node_id": "0008",
+                "summary": "###### Article 14\n\nConform�ment � la r�glementation en vigueur, particuli�rement �\nl'Arr�t� n� 026/CAB/MIN/ECN-T/015/JEB/2008 du 07 octobre 2008 portant\ndispositions relatives � la supervision, au suivi et � l'�valuation des\nop�rations de reconstitution du capital forestier, les travaux de reboisement\nr�alis�s en vertu du pr�sent Arr�t� sont �valu�s par le service comp�tent de\nl'administration foresti�re.",
+                "line_num": 68
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0009",
+                "summary": "###### Article 15\n\nToute transaction conclue avant jugement et en\napplication des dispositions du pr�sent Arr�t� a notamment pour effet:\nla suspension provisoire des poursuites\njusqu'au payement effectif du montant Arr�t� ou pendant\nl'ex�cution des travaux y aff�rents ;\nla suspension d�finitive des poursuites\napr�s liquidation totale du montant susdit ou apr�s r�ception conforme du\nboisement r�alis�.",
+                "line_num": 78
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0010",
+                "summary": "###### Article 16\n\nUne copie du proc�s-verbal de la transaction\nest adress�e � l'officier du minist�re public du ressort qui est tenu inform� de\nla suite donn�e par le d�linquant quant � la transaction, aux fins de pouvoir\nreprendre ou suspendre d�finitivement l'instance judiciaire.",
+                "line_num": 90
+              }
+            ]
+          },
+          {
+            "title": "Section VII : Des dispositions p�nales",
+            "node_id": "0011",
+            "prefix_summary": "##### Section VII : Des dispositions p�nales",
+            "line_num": 98,
+            "nodes": [
+              {
+                "title": "Article 17",
+                "node_id": "0012",
+                "summary": "###### Article 17\n\nDans les d�lais pr�vus par le proc�s-verbal de\ntransaction, le d�linquant est tenu de s'acquitter de la somme consentie,\nconform�ment � la r�glementation en vigueur relativement aux modes de payement\ndes dettes dues � l'Etat, ou de proc�der � l'ex�cution des travaux requis, selon\nles modalit�s et dans les conditions accept�es lors de la transaction.\nDans le cas de non\npaiement de la somme due ou d'une ex�cution non conforme des travaux requis, � l'expiration\ndes d�lais pr�vus ci-dessus, l'action publique se poursuit d'office.",
+                "line_num": 101
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0013",
+                "summary": "###### Article 18\n\nEst passible des peines pr�vues par le Code de\nproc�dure p�nale, sans pr�judice des sanctions disciplinaires, tout inspecteur,\nfonctionnaire ou agent forestier qui, lors de la proc�dure des transactions, se\nrend coupable de concussion ou de tout acte ayant pour but de fixer un montant\nde transaction inf�rieur aux bar�mes pr�vus aux articles 10 et 1 l du pr�sent\nArr�t�.",
+                "line_num": 113
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0014",
+                "summary": "###### Article 19\n\nSont punis\nconform�ment aux dispositions des articles 147, 148, 149, 149 bis, 149 ter, 150\net 150e du Code p�nal, tous actes de corruption ou de trafic d'influence ainsi\nque toutes pressions et menaces exerc�es sur les autorit�s comp�tentes ou les\ninspecteurs, fonctionnaires et agents forestiers en vue de b�n�ficier d'une\ntransaction foresti�re en violation des dispositions du pr�sent Arr�t�.",
+                "line_num": 123
+              }
+            ]
+          },
+          {
+            "title": "Section II : Des autorit�s et agents habilit�s � transiger",
+            "node_id": "0015",
+            "prefix_summary": "##### Section II : Des autorit�s et agents habilit�s � transiger",
+            "line_num": 133,
+            "nodes": [
+              {
+                "title": "Article 2",
+                "node_id": "0016",
+                "summary": "###### Article 2\n\nLa transaction est l'acte par lequel l'auteur\nd'une infraction foresti�re obtient de l'inspecteur, fonctionnaire ou agent\nverbalisant ou d'une toute autre autorit� comp�tente l'extinction de l'action\npublique � sa charge moyennant payement en esp�ces ou ex�cution des travaux\nd'int�r�t forestier.",
+                "line_num": 136
+              }
+            ]
+          },
+          {
+            "title": "Section VIII : Des dispositions transitoires et finales",
+            "node_id": "0017",
+            "prefix_summary": "##### Section VIII : Des dispositions transitoires et finales",
+            "line_num": 145,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0018",
+                "summary": "###### Article 20\n\nSans pr�judice des dispositions p�nales du\nCode forestier et de l'article 17 ci-dessus, est nulle de plein droit toute\ntransaction, m�me d�j� ex�cut�e, conclue en violation des articles 3 � 5 du\npr�sent Arr�t�.\nLa nullit� susvis�e est prononc�e, � tout moment et selon le cas\n:\n- soit par le ministre ou le secr�taire g�n�ral en charge des\nfor�ts, si la transaction a �t� conclue par un inspecteur, fonctionnaire ou\nagent forestiers de l'administration centrale ;\n- soit par le gouverneur de Province, si ladite transaction est\nle fait d'un inspecteur, fonctionnaire ou agent forestiers de l'administration\nprovinciale.",
+                "line_num": 148
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0019",
+                "summary": "###### Article 21\n\nLes transactions en cours � l'entr�e en\nvigueur du pr�sent Arr�t� sont conduites � terme conform�ment aux dispositions\nen vigueur au moment de leur conclusion.",
+                "line_num": 164
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0020",
+                "summary": "###### Article 22\n\nSont abrog�es toutes les dispositions ant�rieures contraires au\npr�sent Arr�t�, notamment l'Arr�t� n� CAB/MIN/AF.F.E.T/260/2002 du 03 octobre\n2002 fixant la proc�dure des transactions en mati�re foresti�re.",
+                "line_num": 171
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0021",
+                "summary": "###### Article 23\n\nLe secr�taire g�n�ral ayant l'Environnement et la Conservation\ndans ses attributions et les gouverneurs de Province sont charg�s, chacun en ce\nqui le concerne, de l'ex�cution du pr�sent Arr�t� qui entre en vigueur � la date\nde sa signature.\nFait �\nKinshasa, le 16 juin 2009\nJos� E.B.ENDUNDO\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 178
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0022",
+                "summary": "###### Article 3\n\nSont habilit�s, au\nniveau de l'administration centrale des for�ts, � transiger sur les infractions\npr�vues par le Code forestier et ses mesures d'ex�cution, les autorit�s, les\ninspecteurs, fonctionnaires ou agents forestiers ci-apr�s :\na.\nle Secr�taire G�n�ral en charge des for�ts pour\ndes infractions punissables d'une amende\nsup�rieure � 500.000 francs congolais constants ;\nb.\nle Directeur-chef de service de contr�le et\ninspection pour des infractions dont la peine d'amende est de 300.000 � 500.000\nFrancs congolais constants ;\nc.\nles inspecteurs et agents forestiers asserment�s\npour toutes les autres infractions.",
+                "line_num": 194
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0023",
+                "summary": "###### Article 4\n\nAu niveau de\nl'administration provinciale des for�ts, seuls les autorit�s et agents ci-apr�s\nsont habilit�s � transiger sur les\ninfractions pr�vues par le Code forestier et ses mesures d'ex�cution :\nle Chef de division provinciale charg�e des for�ts pour toute\ninfraction punissable d'une amende sup�rieure � 300.000 Francs congolais\nconstants ;\nles inspecteurs et agents forestiers asserment�s pour toutes les\nautres infractions.",
+                "line_num": 213
+              }
+            ]
+          },
+          {
+            "title": "Section III : De la proc�dure des transactions",
+            "node_id": "0024",
+            "prefix_summary": "##### Section III : De la proc�dure des transactions",
+            "line_num": 226,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0025",
+                "summary": "###### Article 5\n\nConform�ment �\nl'alin�a quatre de l'article 137 du Code forestier, seul le Ministre charg� des\nfor�ts du Gouvernement central est comp�tent pour transiger de mani�re\nexceptionnelle dans tous les cas de r�cidive d'infractions foresti�res.",
+                "line_num": 229
+              },
+              {
+                "title": "Article 6",
+                "node_id": "0026",
+                "summary": "###### Article 6\n\nTout d�linquant\nd�sirant b�n�ficier d'une transaction en rapport avec une infraction mise � sa\ncharge en fait requ�te � l'agent forestier au moment o� celui-ci dresse le\nproc�s-verbal de constat de ladite infraction.\nL'agent verbalisant y fait droit et dresse un\nproc�s-verbal de transaction distinct et contresign� par le d�linquant, sous\npeine de nullit�.\nLe proc�s-verbal mentionne le montant de la\ntransaction et le d�lai end�ans duquel il est acquitt�. Ce d�lai ne peut\nd�passer trente jours ouvrables � compter de la date du proc�s verbal.",
+                "line_num": 237
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0027",
+                "summary": "###### Article 7\n\nSi, conform�ment aux articles 3 � 5 ci-dessus,\nla transaction de l'infraction constat�e ne rel�ve pas de sa comp�tence, l'agent\nforestier verbalisant �tablit une note technique mentionnant :\na.\nl'identit�\ncompl�te du d�linquant ;\nb.\nla qualification l�gale de l'infraction objet de\nla transaction ;\nc.\nle montant de la transaction propos�;\nd.\nle d�lai de payement.\nLa note technique,\nqui porte en annexe le dossier ainsi que le proc�s-verbal de la transaction non\nsign�, est transmise, pour disposition, � l'autorit� hi�rarchique\ncomp�tente dans les trois jours qui suivent la date de la requ�te du d�linquant.",
+                "line_num": 251
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0028",
+                "summary": "###### Article 8\n\nL'autorit�\nhi�rarchique vis�e aux articles 3 et 5 ci-dessus dispose de trois jours pour\nconfirmer ou modifier le montant de la transaction. Dans ce cas, elle signe le\nproc�s- verbal et renvoie le dossier � l'agent verbalisant pour\nex�cution.\nL'autorit� peut aussi, dans le m�me d�lai, refuser la\ntransaction et renvoyer le dossier pour poursuite de l'action publique.\nLe proc�s-verbal faisant l'objet de confirmation ou de\nmodification est contresign� par le d�linquant.",
+                "line_num": 272
+              }
+            ]
+          },
+          {
+            "title": "Section IV : Des bar�mes des transactions foresti�res",
+            "node_id": "0029",
+            "prefix_summary": "##### Section IV : Des bar�mes des transactions foresti�res",
+            "line_num": 285,
+            "nodes": [
+              {
+                "title": "Article 9",
+                "node_id": "0030",
+                "summary": "###### Article 9\n\nApr�s jugement le d�linquant forestier peut\n�galement solliciter et obtenir une transaction, laquelle ne peut porter que sur\nles modalit�s de r�paration p�cuniaire dont notamment un �ch�ancier de paiement\ndes sommes dues ou d'ex�cution des travaux d'int�r�t forestier.",
+                "line_num": 288
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "979c12e1-ce5f-4cfd-a1c6-12ae8a61348f"
+    ],
+    "0002": [
+      "e4ef1b53-df2a-4da0-9f8e-63d9cc39acab"
+    ],
+    "0004": [
+      "407f5947-f4ad-4ff7-9855-b707a5faf399"
+    ],
+    "0005": [
+      "2d38bb93-363b-4e1e-ae4c-c790ddf153e7"
+    ],
+    "0006": [
+      "86014348-0d08-4ce9-b183-04cdb5619400"
+    ],
+    "0008": [
+      "1c2e245d-b405-4830-9096-ae499e9c819d"
+    ],
+    "0009": [
+      "e1045b19-f0c6-462c-8509-8f9be474c257"
+    ],
+    "0010": [
+      "34e84c0d-7f24-47ce-833a-d7ec2e4c8215"
+    ],
+    "0012": [
+      "9bf39a18-8dfe-4755-8393-c9f381382b68"
+    ],
+    "0013": [
+      "d8156616-cb7c-4f30-bd7d-14241603abd2"
+    ],
+    "0014": [
+      "4ba46ce5-fd01-4b93-85d6-4af6479b7ad5"
+    ],
+    "0016": [
+      "d09cd8ad-7702-4d89-b961-998762813dd8"
+    ],
+    "0018": [
+      "acb6b4dc-d393-4c36-a397-ef9e76c4db67"
+    ],
+    "0019": [
+      "89b50fbc-03af-47ae-a1e8-c0af93d9278e"
+    ],
+    "0020": [
+      "4fe8d311-4ba9-4f36-b7e4-89414842bfc8"
+    ],
+    "0021": [
+      "06bfdb4d-ec89-4764-a611-bc77037e9118"
+    ],
+    "0022": [
+      "afceac30-9c60-4ee5-9c59-e409b5152e49"
+    ],
+    "0023": [
+      "37be536d-bd54-443a-86bd-d1e70252c66e"
+    ],
+    "0025": [
+      "f2530a8b-f255-4f5e-a970-d0ae105dec7d"
+    ],
+    "0026": [
+      "cb1a3321-893c-4b28-ba9c-9c3c69e42675"
+    ],
+    "0027": [
+      "63654f02-f2cf-4ed8-9a9c-b7dc74ab184d"
+    ],
+    "0028": [
+      "05e6cc86-4fc6-45d2-bf7d-b11aee4490ae"
+    ],
+    "0030": [
+      "2bc2b22e-bf98-4ccd-bb9f-410ba2e9e51e"
+    ]
+  },
+  "node_count": 31,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:03.240076",
+  "article_count": 23,
+  "generation_time_s": 0.1694941520690918
+}

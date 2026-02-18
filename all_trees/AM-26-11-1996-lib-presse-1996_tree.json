@@ -1,0 +1,71 @@
+{
+  "slug": "AM-26-11-1996-lib-presse-1996",
+  "bundle_path": "backups/all_bundles/code/AM-26-11-1996-lib-presse-1996.json",
+  "document_id": "2f9f26b8-f6a9-47a1-8b82-7ac288f790c2",
+  "document_title": "AM.26.11.1996.lib.presse",
+  "tree_json": {
+    "doc_name": "AM-26-11-1996-lib-presse-1996",
+    "structure": [
+      {
+        "title": "AM.26.11.1996.lib.presse",
+        "node_id": "0000",
+        "prefix_summary": "# AM.26.11.1996.lib.presse",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "This partial document contains a ministerial order (Arrêté Ministériel 04/MIP/020/96) from November 1996, implementing a press freedom law in Zaire. It establishes a registration system for private radio and television stations. The main points covered are:\n\n1.  The creation of a mandatory pre-operation declaration registry at the Ministry of Information and Press.\n2.  Requirements for advertising to be pre-approved by a national commission.\n3.  A three-month grace period for existing stations to comply.\n4.  An attached specifications document (\"cahier des charges\") outlining operator obligations, including:\n    *   Responsibility for broadcast content.\n    *   Aims to inform, educate, and entertain.\n    *   Prohibitions against content contrary to law, public order, morals, or national security.\n    *   Impartiality requirements for political news.\n    *   A quota mandating at least 50% of programming be of local interest.\n    *   Bans on political propaganda and protections for children, including watershed rules for adult content.",
+            "line_num": 4
+          },
+          {
+            "title": "Article S2",
+            "node_id": "0002",
+            "summary": "The partial document outlines regulatory obligations for audiovisual media, including requirements to display on-screen mentions, restrictions on rebroadcasting films before 22:00, and the mandatory 30-day retention of broadcast recordings. It also mentions a commitment to program a percentage of national films/productions, contingent on increased domestic output, to be agreed upon with the relevant authority. Additionally, it lists fees for publication declarations and for operating non-commercial radio/TV stations.",
+            "line_num": 101
+          },
+          {
+            "title": "Article S3",
+            "node_id": "0003",
+            "summary": "This partial document outlines regulatory and financial requirements for operating radio and television stations, news agencies, and advertising firms in a specific jurisdiction. The main points covered are:\n\n1.  **Fee Structures:** It lists equivalent fees in local currency (NZ) for various licenses and authorizations, including for commercial broadcasters, press agency creation, advertising agency accreditation, and photographic/filming reportage permits.\n\n2.  **Copyright and Co-production Obligations:** It mandates the promotion of national audiovisual production and places responsibility on broadcasters and satellite transmission companies for the content of foreign programs they relay. It requires declaration of protected copyrights to the relevant authority (S.O.N.E.C.A.) and stipulates that legal disputes, including piracy, fall under the jurisdiction of the courts.\n\n3.  **Advertising Regulations:** It states that the type of station determines the kind of advertising it can broadcast. Advertising rates are set by contract but cannot be lower than those in public stations, prohibiting free advertisements. All advertising must be approved by the National Commission for Advertising Control and Visa.\n\n4.  **Final Provisions and Compliance:** It makes station operation contingent upon obtaining a receipt from the Ministry of Information and Press, requires monthly payment of administrative fees to a compliance control commission, and warns that non-compliance leads to sanctions and license revocation.\n\n5.  **Commitment and Legal Basis:** It includes a signatory's commitment to respect the terms and references a specific Ministerial Order (04/MIP/006/97) dated February 28, 1997, which establishes a Compliance Control Commission for public and private broadcasting stations.",
+            "line_num": 125
+          },
+          {
+            "title": "Article S4",
+            "node_id": "0004",
+            "summary": "This partial document contains excerpts from official decrees (arrêtés ministériels) related to broadcasting regulation in the Democratic Republic of the Congo. The main points covered are:\n\n1.  The establishment, composition, and functions of a \"Commission de contrôle de conformité\" (Conformity Control Commission) for public and private radio and television stations.\n2.  Financial obligations for media companies, including a monthly contribution to the Commission based on advertising revenue.\n3.  Administrative fees for obtaining authorization for photographic or film reporting.\n4.  Regulatory rules for broadcast content, including prohibitions on programs not matching a station's declared purpose, mandatory pre-approval for advertisements, bans on content contrary to laws/public order/morals/national security, and specific restrictions on pornography, violent/horror films, and films classified as unsuitable for children.\n5.  Technical requirements for obtaining broadcasting licenses, including the presentation of adequate infrastructure and equipment.",
+            "line_num": 222
+          },
+          {
+            "title": "Article S5",
+            "node_id": "0005",
+            "summary": "This partial document is an article from a legal decree or order (arrêté) concerning media regulation. The main points covered are the sanctions for violations of the order, which include: seizure of offending materials, prohibition of broadcasts, suspension of a radio or television station's activities for up to three months, and the withdrawal or cancellation of the operating license. It also states that the Secretary-General of the Ministry of Communication and Press is responsible for executing the order, which is effective upon signature. A disclaimer notes the text is unofficial and under construction.",
+            "line_num": 330
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "7143f4fe-6ee8-4294-987a-b67c0cb61b31"
+    ],
+    "0002": [
+      "429bc617-16e0-40a2-8eab-aefed98c2673"
+    ],
+    "0003": [
+      "388883bd-1d54-442c-bd3c-804bcf95a9dd"
+    ],
+    "0004": [
+      "e71f3777-0cc7-449f-8f6f-0c499243f7b9"
+    ],
+    "0005": [
+      "92d627bd-f987-4103-bfc8-5ef6832dc4d7"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:52.921071",
+  "article_count": 5,
+  "generation_time_s": 14.145293951034546
+}

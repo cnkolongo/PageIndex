@@ -1,0 +1,55 @@
+{
+  "document_id": "47be1d51-8d01-495e-8604-2a737e103ced",
+  "document_title": "Ordonnance 17.034 13.07",
+  "tree_json": {
+    "doc_name": "Ordonnance-17-034-13-07-2017",
+    "structure": [
+      {
+        "title": "Ordonnance 17.034 13.07",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "line_num": 16
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "line_num": 32
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "line_num": 38
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "92bbd587-dd05-478f-b1e1-32808572a66c"
+    ],
+    "0002": [
+      "1284ecd2-178a-4b64-a902-4b36958b661a"
+    ],
+    "0003": [
+      "5fcb07b1-167a-4518-a135-573568223a52"
+    ],
+    "0004": [
+      "2cd15ab9-4499-4f45-9d2f-9c322e05cdc4"
+    ]
+  },
+  "node_count": 5,
+  "generation_model": "deepseek-chat",
+  "generated_at": "2026-02-09T05:07:49.806695",
+  "article_count": 4,
+  "generation_time_s": 0.0041310787200927734
+}

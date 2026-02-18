@@ -1,0 +1,31 @@
+{
+  "document_id": "4972dc42-70c2-4a75-8433-76310a96ff2a",
+  "document_title": "AA.08.11.1886",
+  "tree_json": {
+    "doc_name": "AA-08-11-1886",
+    "structure": [
+      {
+        "title": "AA.08.11.1886",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "line_num": 4
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f79d5179-500d-4a82-9c34-35647ac0672c"
+    ]
+  },
+  "node_count": 2,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:19:05.809368",
+  "article_count": 1,
+  "generation_time_s": 0.00520777702331543
+}

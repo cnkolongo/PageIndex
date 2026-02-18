@@ -1,0 +1,299 @@
+{
+  "tree": {
+    "doc_name": "AUM-2017",
+    "doc_description": "The OHADA Uniform Act on Mediation (2017) establishes the legal framework for mediation procedures, including definitions, mediator appointment, confidentiality, and the enforcement of settlement agreements across member states.",
+    "structure": [
+      {
+        "title": "OHADA - Acte uniforme sur la mediation (AUM)",
+        "node_id": "0000",
+        "prefix_summary": "# OHADA - Acte uniforme sur la mediation (AUM)",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Preambule",
+            "node_id": "0001",
+            "summary": "This partial document is the preamble and opening sections of the Uniform Act on Mediation adopted by OHADA (Organization for the Harmonization of Business Law in Africa). The main points covered are:\n\n1.  The formal adoption details of the Act: it was adopted on November 23, 2017, in Conakry, Guinea, and published in the Official Journal.\n2.  The legal authority and process for its creation, citing the foundational OHADA Treaty and specific decisions and opinions from OHADA institutions.\n3.  The start of the Act's substantive content, beginning with Chapter 1, which is titled \"Definitions and Scope of Application.\"",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1",
+            "node_id": "0002",
+            "summary": "This partial document defines key terms related to mediation within a uniform legal act. It specifically provides definitions for \"mediation\" as a process where a third party helps resolve a dispute, and for a \"mediator\" as that third party. It then outlines the different ways mediation can be initiated: by the parties themselves (conventional), by a state court (judicial), or by an arbitral tribunal or public entity. Finally, it notes that mediation can be either ad hoc or institutional.",
+            "line_num": 38
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\nChamp d'application\n\nLe présent Acte uniforme s'applique à la médiation. Toutefois, il ne s'applique pas aux cas dans lesquels un juge\nou un arbitre, pendant une instance judiciaire ou arbitrale, tente de faciliter un règlement amiable directement avec\nles parties.\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 2 / 9\n\f ACTE UNIFORME RELATIF À LA MÉDIATION\n Adopté le 23/11/2017 à Conakry (GUINEE)\n Publié au Journal Officiel n° Spécial du 15/12/2017\n\nChapitre 2 - Procédure de médiation",
+            "line_num": 58
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nMédiation institutionnelle\n\nLe fait de recourir à une institution de médiation emporte adhésion des parties au Règlement de médiation de\nladite institution.",
+            "line_num": 74
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "This partial document outlines the procedural rules for initiating a mediation process. It covers four main points: 1) The mediation begins when the most diligent party implements a written or unwritten mediation agreement. 2) If there is no prior agreement, an invitation to mediate is considered rejected if not accepted in writing within 15 days (or another specified period). 3) A state court or arbitral tribunal can, with the parties' agreement, suspend proceedings and refer them to mediation, setting the suspension period. 4) The start of mediation suspends the limitation period for legal action; if mediation ends without agreement, the limitation period resumes for a minimum of six months from the end date.",
+            "line_num": 82
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "This partial document covers Article 5 of the OHADA Uniform Act on Mediation, detailing the process for selecting and appointing mediators. The main points are: parties choose mediators by mutual agreement; they can seek assistance from a designated authority (like a mediation center) to recommend or directly appoint mediators; the authority must consider criteria to ensure the mediator's independence, impartiality, and availability, including possibly selecting a mediator of a different nationality than the parties; and mediators have a continuous duty to disclose any circumstances that could raise doubts about their impartiality or independence.",
+            "line_num": 102
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nStatut du médiateur\n\nAu moment de sa désignation, le médiateur confirme, dans une déclaration écrite, son indépendance et son\nimpartialité ainsi e sa disponibilité pour assurer la procédure de médiation.\n\nLorsque le médiateur révèle aux parties après sa nomination la survenance de circonstances nouvelles\nsusceptibles de soulever des doutes légitimes sur son impartialité ou son indépendance, il les informe de leur droit\nde s'opposer à la poursuite de sa mission.\n\nSi l'une des parties refuse en conséquence de poursuivre la médiation, il est mis fin à la mission du médiateur.",
+            "line_num": 135
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "This partial document covers the main principles governing the conduct of a mediation process. It outlines that the parties are free to agree on the procedure, but in the absence of an agreement, the mediator has the discretion to conduct it as they see fit, considering the case's circumstances and the need for a speedy resolution. The mediator must act diligently and treat both parties fairly. Crucially, the mediator cannot impose a settlement but may propose solutions. The document also states that, after consulting the parties, the mediator can suggest they appoint a technical expert.",
+            "line_num": 149
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "This partial document covers Article 8 of the OHADA Uniform Act on Mediation. The article outlines the core principles that mediators and mediation institutions must adhere to. These key principles are: respect for the parties' will, the moral integrity of the mediator, the mediator's independence and impartiality, the confidentiality of the process, and the effectiveness of mediation. It also states that the mediator must ensure any proposed solution genuinely reflects the parties' will while respecting public policy rules.",
+            "line_num": 170
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "The partial document covers the rules for communication between the mediator and the parties in a mediation process. The main points are:\n\n1.  The mediator is permitted to meet or communicate with the parties together or separately.\n2.  When meeting with one party separately, the mediator must inform the other party, either beforehand or as soon as possible afterward.\n3.  The mediator may generally share information received from one party with the other parties.\n4.  An exception is made for information explicitly given to the mediator in confidence, which must not be disclosed to any other party.",
+            "line_num": 185
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0011",
+            "summary": "###### Article 10\n\nConfidentialité\n\nToutes les informations relatives à la procédure de médiation doivent demeurer confidentielles, sauf convention\ncontraire des parties, à moins que leur divulgation soit exigée par la loi ou rendue nécessaire pour la mise en œuvre\nou l'exécution de l'accord issu de la médiation.",
+            "line_num": 199
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0012",
+            "summary": "###### Article 11\n\nRecevabilité des éléments de preuve dans une autre procédure\n\nUne partie à la procédure de médiation, le médiateur et toute tierce personne, y compris celles qui ont été\nassociées à l'administration de la procédure de médiation, ne peuvent, dans une procédure arbitrale ou judiciaire\nou dans une procédure analogue ni invoquer ni présenter l'un ou l'autre des éléments de preuve ci-après ni\ntémoigner à leur sujet :\n\n a) une invitation à la médiation adressée par une partie ou le fait qu'une partie était disposée à participer à\n une procédure de médiation, sauf lorsqu'une partie doit prouver l'existence d'un accord ou de l'envoi d'une\n invitation pour engager le processus de médiation en relation avec l'",
+            "line_num": 208
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0013",
+            "summary": "This partial document covers Article 4 of the OHADA Uniform Act on Mediation. The main points are the definition of confidential information in a mediation process and the legal consequences of its disclosure.\n\nSpecifically, it lists the types of information considered confidential (e.g., views expressed during mediation, proposals, admissions of fact, settlement proposals, and documents created solely for the mediation). It establishes that such information is generally inadmissible as evidence in arbitration, court, or other public proceedings. Exceptions are made only when required by law or to implement or enforce a resulting settlement agreement. The confidentiality obligations apply regardless of whether the subsequent legal proceedings relate to the original dispute, and they do not extend to evidence that existed independently of the mediation.",
+            "line_num": 222
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0014",
+            "summary": "This partial document, from Article 12 of the OHADA Uniform Act on Mediation, details the various ways in which a mediation procedure can be terminated. The main points covered are:\n\n1.  The five specific events that end the mediation:\n    *   The signing of a written settlement agreement.\n    *   A written declaration from the mediator stating that further efforts are not justified or that a party has ceased participation.\n    *   A joint written declaration from the parties to the mediator.\n    *   A written declaration from one party to the other(s) and the mediator.\n    *   The expiration of the mediation timeframe unless extended.\n\n2.  The burden of proof for establishing the end of mediation lies with the party invoking it.\n\n3.  The consequences for mediation ordered by a judge or arbitrator:\n    *   If no agreement is reached, the judicial or arbitral proceedings resume.\n    *   If an amicable agreement is reached, the judge or arbitrator records it for enforcement.\n\nThe document also includes citation details identifying it as part of the OHADA Uniform Act adopted in 2017.",
+            "line_num": 261
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0015",
+            "summary": "###### Article 16\n\ndu présent Acte uniforme.",
+            "line_num": 299
+          },
+          {
+            "title": "partie d",
+            "node_id": "0016",
+            "prefix_summary": "## partie d",
+            "line_num": 304,
+            "nodes": [
+              {
+                "title": "Article 13",
+                "node_id": "0017",
+                "summary": "This partial document outlines the rules for determining and covering the costs of mediation. It specifies that the parties generally agree on the costs, either directly or by referencing a mediation regulation. In judicial mediation, the court sets the costs in agreement with the parties and orders a deposit; failure to pay can lead to the mediation being canceled and court proceedings resuming. If the court designates a mediation institution, its fee schedule applies. Finally, it states the default rule that mediation costs are shared equally by the parties, unless they agree otherwise.",
+                "line_num": 307
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0018",
+                "summary": "###### Article 14\n\nIncompatibilités\n\nSauf convention contraire des parties, le médiateur ne peut assumer les fonctions d'arbitre ou d'expert dans un\ndifférend qui a fait ou qui fait l'objet de la procédure de médiation ou dans un autre différend né du même rapport\njuridique ou lié à celui-ci.\n\nLe médiateur ne peut assumer les fonctions de conseil dans un différend qui a fait ou qui fait l'objet de la procédure\nde médiation, ou dans un autre différend né du même rapport juridique ou lié à celui-ci.",
+                "line_num": 326
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0019",
+                "summary": "This partial document covers Article 15 of the OHADA Uniform Act on Mediation. The article's main points are:\n\n1.  It enforces an agreement by parties to use mediation and to not initiate arbitration or court proceedings for a specified period or until a certain event occurs. Arbitral tribunals or state courts must give effect to this commitment.\n\n2.  It establishes an exception to this rule: a party may seek provisional or conservatory measures from a court or arbitral tribunal to protect its rights without such action being considered a waiver of the mediation agreement or a termination of the mediation process.",
+                "line_num": 338
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0020",
+                "summary": "This partial document, Article 16, outlines the procedures for enforcing a mediation agreement. The main points covered are:\n\n1.  The written agreement resulting from mediation is binding and enforceable.\n2.  Parties can jointly request the notarization of the agreement, making it an enforceable title.\n3.  Parties can jointly (or one party diligently) request court homologation or *exequatur* for the agreement. The court verifies authenticity and must rule within 15 working days but cannot modify the agreement's terms.\n4.  Homologation can be refused if the agreement violates public policy.\n5.  If the court does not decide within the 15-day deadline, the agreement is automatically homologated. The opposing party can appeal this automatic decision to the Common Court of Justice and Arbitration (CCJA) within 15 days, which suspends execution.\n6.  A court decision granting homologation is final, while a refusal can only be appealed to the CCJA.\n7.  These court procedures apply to mediation agreements reached outside of ongoing arbitration. If mediation occurs during arbitration, the parties can request the arbitral tribunal to record the agreement in a consent award.",
+                "line_num": 359
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0021",
+                "summary": "###### Article 17\n\nApplication du présent Acte uniforme\n\nLe présent Acte uniforme tient lieu de loi relative à la médiation dans les Etats Parties.\n\nhttps://www.ohada.com/textes-ohada/actes-uniformes.html page 8 / 9\n\f ACTE UNIFORME RELATIF À LA MÉDIATION\n Adopté le 23/11/2017 à Conakry (GUINEE)\n Publié au Journal Officiel n° Spécial du 15/12/2017\n\n Il n'est applicable qu'aux procédures de médiation commencées après son entrée en vigueur.",
+                "line_num": 402
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0022",
+                "summary": "###### Article 18\n\nPublication et entrée en vigueur\n\n Le présent Acte uniforme sera publié au Journal Officiel de l'OHADA dans un délai de soixante (60) jours à\n compter de son adoption. Il sera également publié au Journal Officiel des Etats Parties.\n\n Il entre en vigueur quatre-vingt-dix (90) jours à compter de sa publication au Journal Officiel de l'OHADA.\n\n Fait à Conakry, le 23 novembre 2017.\n\n https://www.ohada.com/textes-ohada/actes-uniformes.html page 9 / 9\n\nPowered by TCPDF (www.tcpdf.org)",
+                "line_num": 416
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mapping": [
+    {
+      "node_id": "0002",
+      "node_title": "Article 1",
+      "article_ids": [
+        "01d80a8f-cf84-4745-a968-92df89301a20"
+      ]
+    },
+    {
+      "node_id": "0003",
+      "node_title": "Article 2",
+      "article_ids": [
+        "773e21d2-f453-49af-84da-ce0e8bf1cc0d"
+      ]
+    },
+    {
+      "node_id": "0004",
+      "node_title": "Article 3",
+      "article_ids": [
+        "a1909c99-20ff-4d93-b232-ce2570291008"
+      ]
+    },
+    {
+      "node_id": "0005",
+      "node_title": "Article 4",
+      "article_ids": [
+        "e87305e9-d5b5-473d-8c11-bd9c6a61cdd1",
+        "057fee79-20b2-411b-bd77-58e467dd3169"
+      ]
+    },
+    {
+      "node_id": "0006",
+      "node_title": "Article 5",
+      "article_ids": [
+        "626e314b-24b3-43ff-9bec-13ada8f54b6d"
+      ]
+    },
+    {
+      "node_id": "0007",
+      "node_title": "Article 6",
+      "article_ids": [
+        "23c62c17-e8d8-4d95-9d76-de8cb165a269"
+      ]
+    },
+    {
+      "node_id": "0008",
+      "node_title": "Article 7",
+      "article_ids": [
+        "6431367a-aa67-4bc9-88e6-793bb2bc9570"
+      ]
+    },
+    {
+      "node_id": "0009",
+      "node_title": "Article 8",
+      "article_ids": [
+        "0acf0fa8-3213-48dd-9f8a-a483d887e79b"
+      ]
+    },
+    {
+      "node_id": "0010",
+      "node_title": "Article 9",
+      "article_ids": [
+        "14ad4171-ba2d-4938-85bd-bc0a45e25f0a"
+      ]
+    },
+    {
+      "node_id": "0011",
+      "node_title": "Article 10",
+      "article_ids": [
+        "95347a59-c72c-482f-a141-812def05a7bd"
+      ]
+    },
+    {
+      "node_id": "0012",
+      "node_title": "Article 11",
+      "article_ids": [
+        "748d8bac-2801-4d5a-924a-fd5c51b86728"
+      ]
+    },
+    {
+      "node_id": "0013",
+      "node_title": "Article 4",
+      "article_ids": [
+        "e87305e9-d5b5-473d-8c11-bd9c6a61cdd1",
+        "057fee79-20b2-411b-bd77-58e467dd3169"
+      ]
+    },
+    {
+      "node_id": "0014",
+      "node_title": "Article 12",
+      "article_ids": [
+        "ed229cf8-b8cc-4e19-a0e4-217d7d580645"
+      ]
+    },
+    {
+      "node_id": "0015",
+      "node_title": "Article 16",
+      "article_ids": [
+        "ad2e4a68-db1a-4dbc-bdfd-dbfdf91afb77",
+        "ea213d48-47a3-4c67-8677-62264a5b082a"
+      ]
+    },
+    {
+      "node_id": "0017",
+      "node_title": "Article 13",
+      "article_ids": [
+        "dc9f02e3-d5e2-4547-894b-c975b6b532de"
+      ]
+    },
+    {
+      "node_id": "0018",
+      "node_title": "Article 14",
+      "article_ids": [
+        "01b96f15-fc1f-44aa-a2a3-2b8ef8742b1e"
+      ]
+    },
+    {
+      "node_id": "0019",
+      "node_title": "Article 15",
+      "article_ids": [
+        "e444fd4c-beab-4c3c-bddf-507745bc33fb"
+      ]
+    },
+    {
+      "node_id": "0020",
+      "node_title": "Article 16",
+      "article_ids": [
+        "ad2e4a68-db1a-4dbc-bdfd-dbfdf91afb77",
+        "ea213d48-47a3-4c67-8677-62264a5b082a"
+      ]
+    },
+    {
+      "node_id": "0021",
+      "node_title": "Article 17",
+      "article_ids": [
+        "844aa495-b407-4af4-ad65-beee59bec276"
+      ]
+    },
+    {
+      "node_id": "0022",
+      "node_title": "Article 18",
+      "article_ids": [
+        "f3201bd6-af6b-4241-8da0-062e337fd51d"
+      ]
+    }
+  ],
+  "bundle_path": "backups/ohada_bundles/AUM-2017.json",
+  "document_id": "ecafe70f-b525-4c69-b8a0-b36c53f3dd07",
+  "document_title": "OHADA - Acte uniforme sur la mediation (AUM)"
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "AI-005-ptt-2009-02-02-2009-2009",
+  "bundle_path": "backups/all_bundles/code/AI-005-ptt-2009-02-02-2009-2009.json",
+  "document_id": "dc2913f6-b901-4958-be7e-2eedbd9caf52",
+  "document_title": "AI.005.ptt.2009.02.02.2009",
+  "tree_json": {
+    "doc_name": "AI-005-ptt-2009-02-02-2009-2009",
+    "structure": [
+      {
+        "title": "AI.005.ptt.2009.02.02.2009",
+        "node_id": "0000",
+        "prefix_summary": "# AI.005.ptt.2009.02.02.2009",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� d�termine les\ndiff�rents taux de la taxe de num�rotation due pour la r�servation ou l'attribution\ndes ressources en num�rotation ;",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLes taux de la taxe des ressources en\nnum�rotation sont fix�s de la mani�re suivante :\nNum�ro\nde service � valeur\n250 USD/num�ro\n250 USD/num�ro\najout�e\nSurtaxe pour les num�ros\nmn�motechniques\n200%\n200%",
+            "line_num": 11
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nSans pr�judice des autres sanctions\npr�vues par la l�gislation en vigueur, l'utilisation d'une\nressource non attribu�e entra�ne outre le\npaiement de la taxe annuelle, due, une amende allant de 100 � 200 % du\ntaux de ladite taxe.",
+            "line_num": 26
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLa taxe de num�rotation est pay�e au\nmoment de la r�servation ou de l'attribution des ressources en\nnum�rotation.\nLa taxe annuelle est pay�e au plus tard\nle 31 mars de chaque ann�e. Pour la premi�re ann�e, cette taxe est calcul�e au\nprorata temporis.",
+            "line_num": 35
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nToutes les dispositions ant�rieures\ncontraires au pr�sent Arr�t� sont abrog�es.",
+            "line_num": 45
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "This partial document is the concluding section of a legal or administrative decree (Arrêté). It specifies the officials responsible for executing the order (the President of the Regulatory Authority College and the Director General of a specific Directorate), states that the decree takes effect upon its signature, and provides the place and date of signing (Kinshasa, 26 February 2009). It includes the signatures of the Ministers of Finance and of Posts, Telephones, and Telecommunications. The document also contains a disclaimer note indicating that the site hosting the text is under construction and that the texts are provided by associations without assuming responsibility for them.",
+            "line_num": 51
+          },
+          {
+            "title": "Article 93",
+            "node_id": "0007",
+            "summary": "This partial document consists of the introductory legal citations and preambulatory clauses for an official decree (Article 93). It lists the specific laws, ordinances, and ministerial orders that serve as the legal basis and authority for the upcoming decree. The main points covered are the references to foundational legislation on telecommunications, the regulatory authority, government structure, and previous decisions regarding a national numbering plan, culminating in a proposal from the regulatory body.",
+            "line_num": 71
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "f6aa9d0b-4a70-4bef-bc78-0a7079170ee0"
+    ],
+    "0002": [
+      "f247666f-0965-4951-830f-3df2a9fc7bb2"
+    ],
+    "0003": [
+      "de7a9c3d-4bc2-4b0c-9094-4f3cfca5a419"
+    ],
+    "0004": [
+      "9b80fc5f-e8c3-4979-878f-3dd4946fe23b"
+    ],
+    "0005": [
+      "7ce7e8b5-3875-49d8-a231-7566f44041ff"
+    ],
+    "0006": [
+      "19f6e9a0-e812-40ef-8f48-c6f245a8012c"
+    ],
+    "0007": [
+      "0da11e8f-56fb-4138-a3f0-f3c44317c141"
+    ]
+  },
+  "node_count": 8,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:33:39.241564",
+  "article_count": 7,
+  "generation_time_s": 6.784842014312744
+}

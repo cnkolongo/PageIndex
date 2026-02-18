@@ -1,0 +1,71 @@
+{
+  "slug": "AIM12-2001-04-05-2001-2001",
+  "bundle_path": "backups/all_bundles/code/AIM12-2001-04-05-2001-2001.json",
+  "document_id": "604849ce-ea64-4290-83ec-b93532fe744d",
+  "document_title": "AIM12.2001.04.05.2001",
+  "tree_json": {
+    "doc_name": "AIM12-2001-04-05-2001-2001",
+    "structure": [
+      {
+        "title": "AIM12.2001.04.05.2001",
+        "node_id": "0000",
+        "prefix_summary": "# AIM12.2001.04.05.2001",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1er",
+            "node_id": "0001",
+            "summary": "###### Article 1er\n\nSous r�serve des\ndispositions de l'article 2 ci-dessous, il est fix� un r�gime de taxation unique\napplicable aux activit�s d'exploitation artisanale des pierres pr�cieuses et\nsemi-pr�cieuses suivant le tarif annexe au pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "The partial document outlines that a \"Unique Taxation\" regime does not exempt gold and precious stone trading counters from their fiscal obligations. It specifies that these entities must still file declarations and pay various taxes and contributions, including property taxes, professional taxes on profits and salaries, import duties, and taxes specific to expatriate remuneration. It also states that individual miners and traders remain subject to taxes on professional income and turnover under a specific decree for small and medium enterprises.",
+            "line_num": 12
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nToute infraction\naux dispositions du pr�sent Arr�t� donne lieu � l'application des amendes\ntransactionnelles et/ou des sanctions et p�nalit�s pr�vues par les lois et\nr�glements en vigueur.",
+            "line_num": 45
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nSont abrog�es\ntoutes les dispositions ant�rieures contraires au pr�sent Arr�t�, notamment\nl'Arr�t� Interminist�riel n� 00l/CAB.FIN/MINES/99 du 03 janvier 2000 fixant les\ndroits, taxes et redevances relatifs � l'activit� d'exploitation artisanale de\nl�or et du diamant.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "This partial document is an annex to an interministerial decree from the Democratic Republic of Congo, dated May 4, 2001. It establishes a unified tax regime for the artisanal exploitation of precious and semi-precious stones. The main content is a detailed tariff table listing annual taxes, duties, and fees for the artisanal mining sector in US dollars. The table categorizes charges for different minerals (heterogenite, copper, cassiterite, coltan, diamond, gold) and breaks them down into: A) Mining title fees for diggers, traders, counters, and smelters; B) Remunerative taxes (percentage of export value) allocated to various state agencies; C) Administrative taxes for decentralized entities; and D) Export duties. The document concludes with signatures from the Ministers of Mines and Hydrocarbures and of Economy, Finances and Budget.",
+            "line_num": 62
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "4cb9eeeb-c97f-4aec-ad07-a51e85b61e2a"
+    ],
+    "0002": [
+      "8d962b89-a237-46d2-8cf8-02586ab49b22"
+    ],
+    "0003": [
+      "22727699-2863-4d3a-8a8f-edcc4cd98111"
+    ],
+    "0004": [
+      "df0f9640-9fb4-46e2-ac97-55d3a5a38eb9"
+    ],
+    "0005": [
+      "5e39df0b-23f8-4b6b-abb8-44ceca49ef6a"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:56:52.115875",
+  "article_count": 5,
+  "generation_time_s": 8.366652965545654
+}

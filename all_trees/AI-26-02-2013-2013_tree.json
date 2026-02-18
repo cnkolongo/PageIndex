@@ -1,0 +1,71 @@
+{
+  "slug": "AI-26-02-2013-2013",
+  "bundle_path": "backups/all_bundles/code/AI-26-02-2013-2013.json",
+  "document_id": "d788e98d-e2fc-418a-b850-d9d34e4b6757",
+  "document_title": "AI.26.02.2013",
+  "tree_json": {
+    "doc_name": "AI-26-02-2013-2013",
+    "structure": [
+      {
+        "title": "AI.26.02.2013",
+        "node_id": "0000",
+        "prefix_summary": "# AI.26.02.2013",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nSans\npr�judice des dispositions constitutionnelles et l�gales relatives � la libert�\nd�association et la libert� syndicale, les Entreprises du Secteur de Transport\nRoutier sont appel�es � s�affilier aux Organisations Professionnelles existantes\nou � se constituer en nouvelles Organisations Professionnelles conform�ment aux\ndispositions l�gales et r�glementaires en vigueur, en vue de leur permettre de\njouer efficacement leur r�le de partenaire du Gouvernement.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLes\nEntreprises qui se seront conform�es au pr�sent Arr�t� auront droit d�acc�s aux\nports et aux postes frontaliers sur pr�sentation d�une �tiquette ou tout autre\ndocument attestant leur affiliation � une Organisation Professionnelle, et de\nl�Arr�t� d�agr�ment en cas de contr�le.",
+            "line_num": 15
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nL�octroi\nd�agr�ment de transporteur public routier en faveur de m�mes Entreprises est\nsubordonn� � la production d�un document attestant leur affiliation � une\nOrganisation Professionnelle, sans pr�judice d�autres facilit�s susceptibles\nd��tre accord�es par chaque\nMinistre\nconcern�, dans le respect de ses comp�tences l�gales.",
+            "line_num": 24
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLes\nOrganisations Professionnelles vis�es par l�article 1er\nci-dessus sont tenues d�organiser un cadre de concertation avec leurs affili�s\nafin de r�gler les conditions de travail conform�ment � la l�gislation sociale.",
+            "line_num": 35
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLes\nSecr�taires g�n�raux � l�Economie Nationale, aux Transports et Voies de\nCommunication, � l�Emploi et au Travail sont charg�s, chacun en ce qui le\nconcerne, de l�ex�cution du pr�sent Arr�t� qui entre en vigueur � la date de sa\nsignature.\nFait �\nKinshasa, le 26 f�vrier 2013\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 43
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "1dd8cb34-f198-4d46-9807-9fdb0c723708"
+    ],
+    "0002": [
+      "2ac81fd9-06e6-4c68-a6e4-9e7a23c91b28"
+    ],
+    "0003": [
+      "64970d1b-e911-4bed-b262-7f3ed1a3f6f1"
+    ],
+    "0004": [
+      "dbae59b3-94a2-414e-94e2-a8ad41e16541"
+    ],
+    "0005": [
+      "05a92cd2-e3da-4792-8633-53a118bd6610"
+    ]
+  },
+  "node_count": 6,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T03:59:25.288116",
+  "article_count": 5,
+  "generation_time_s": 0.01024317741394043
+}

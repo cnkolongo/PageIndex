@@ -1,0 +1,170 @@
+{
+  "slug": "AM-06-11-2015-poste-2015",
+  "bundle_path": "backups/all_bundles/code/AM-06-11-2015-poste-2015.json",
+  "document_id": "63f7d0e9-f18f-41fa-8ec2-684ee8704ba4",
+  "document_title": "AM.06.11.2015.poste",
+  "tree_json": {
+    "doc_name": "AM-06-11-2015-poste-2015",
+    "structure": [
+      {
+        "title": "AM.06.11.2015.poste",
+        "node_id": "0000",
+        "prefix_summary": "# AM.06.11.2015.poste",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nObjet\nLe pr�sent Arr�t� d�finit les modalit�s particuli�res de fournitures du service\npostal universel et pr�cise :\na) Les services postaux concern�s;\nb) La densit� minimale de desserte ;\nc) La qualit� minimale de service ;\nd) Les conditions de collecte, d'acheminement et de distribution applicables ;\ne) Les r�gles de d�finition et d' adaptation du prix.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nD�termination des indicateurs de qualit� de service Le Ministre autorise dans le\ncahier des charges, sur proposition de l' Autorit� de R�gulation, les\nindicateurs\nde qualit� des services mentionnes.\nChapitre 5 : Conditions de prestations applicables",
+            "line_num": 16
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLes conditions de collecte, d'acheminement et de\ndistribution\nSauf dispositions contraires de son cahier des charges ou convenues avec\nl'Autorit� de r�gulation, le prestataire du service universe! doit assurer, sur\nl'ensemble du territoire national, tous les jours ouvrables et au moins cinq\njours par semaine, sauf le dimanche, les jours f�ri�s l�gaux, ou cas de force\nmajeure, au minimum une collecte, une exp�dition et une distribution des envois\npostaux.\nChapitre 6: R�gles de d�finition et d'adaptation du prix",
+            "line_num": 25
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "This partial document outlines the principles for setting tariffs for universal service provisions. The main points are that prices must be affordable, cost-oriented, transparent, non-discriminatory, and geographically uniform. They must also account for any state compensation. Additionally, it allows for individual tariff agreements based on the volume and nature of services provided.",
+            "line_num": 38
+          },
+          {
+            "title": "Article 13",
+            "node_id": "0005",
+            "summary": "###### Article 13\n\nDispositions finales\nContr�le\nL' Autorit� de r�gulation est charg�e d'assurer le respect de ses obligations\npar l'operateur public.\nElle veille en outre au respect par les exploitants autorises de services\nr�serv�s � l'exploitant public.\nChapitre 7",
+            "line_num": 57
+          },
+          {
+            "title": "Article 14",
+            "node_id": "0006",
+            "summary": "###### Article 14\n\nCahier des charges\nLes modalit�s d'ex�cution du service postal universel d�finies au pr�sent Arr�t�\nsont pr�cis�es par le cahier des charges.",
+            "line_num": 68
+          },
+          {
+            "title": "Article 15",
+            "node_id": "0007",
+            "summary": "###### Article 15\n\nSont abrog�es toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 75
+          },
+          {
+            "title": "Article 16",
+            "node_id": "0008",
+            "summary": "###### Article 16\n\nLe Secr�taire g�n�ral aux Postes, T�l�communications et Nouvelles Technologies\nde l'Information et de la Communication est charge de veiller � 1' ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait a Kinshasa, le 06 novembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0009",
+            "summary": "###### Article 2\n\nChamp d'application\nAux termes des dispositions de !'article 8 de la Loi sur la poste, le service\npostal universel consiste en la fourniture des services postaux de base.\nIl s'agit de:\nL'admission, le traitement, le transport et la distribution des envois\nordinaires de la poste aux lettres\nsuivants:\n- Lettres, limite de poids : 2 kilogrammes ;\n- Cartes postales ;\n- Imprimes et petits paquets, limite de poids : 2 kilogrammes ;\n- C�cogrammes.",
+            "line_num": 94
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0010",
+            "summary": "###### Article 3\n\nL'exploitant public des postes est la personne morale b�n�ficiant des droits\nexclusifs pour la fourniture du service postal universel. Toutefois,\nl'exploitant autorise peut, suivant les conditions et les modalit�s fix�es par\nl'exploitant public fournir ledit service.",
+            "line_num": 109
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0011",
+            "summary": "This partial document defines key terms and concepts related to postal services in a regulatory context. The main points covered are the official definitions of entities such as the Minister, the Regulatory Authority, and different types of postal operators (public and authorized). It also defines core postal services, including the \"universal postal service\" and \"basic postal service,\" specifying weight limits and item types. Finally, it defines related operational concepts like \"transport,\" \"postal network,\" and \"postal item.\" The section serves as a glossary for the subsequent regulatory text.",
+            "line_num": 117
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0012",
+            "summary": "###### Article 5\n\nObjet du service postal universel\nLe service postal universe! consiste en une offre au public sur I' ensemble du\nterritoire national, d'un service postal minimum d'une qualit� sp�cifi�e, �. un\nprix abordable et ce, dans le respect des principes d' �galit�, de continuit� et\nd'universalit�.",
+            "line_num": 158
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0013",
+            "summary": "###### Article 6\n\nServices concernes\nLe service postal universe! comprend les services\npostaux de base suivants :\na) Lettres, limite de poids: 2 kilogramme;\nb) Cartes postales ;\nc) Imprimes et petits paquets, limite de poids: 2\nkilogrammes ;\nd) Cecogrammes.\nChapitre 3 : Densit� minimale de desserte",
+            "line_num": 167
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0014",
+            "summary": "###### Article 7\n\nL' operateur public charge du service universel doit maintenir sur l'ensemble du\nterritoire national une pr�sence postale ad�quate et permanente, qui tienne\ncompte des besoins des populations. Il doit disposer d'un r�seau postal fiable\npermettant de desservir l'ensemble du Territoire national.",
+            "line_num": 180
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0015",
+            "summary": "###### Article 8\n\nProgramme de desserte\nLe Ministre arr�te tous les trois ans le cahier des charges propose par l'\nAutorit� de r�gulation, un programme de desserte de service universel jusqu'�\nl'atteinte de la moyenne africaine d'un bureau de poste pour 55.455 habitants.\nChapitre 4 : Qualit� minimale de service",
+            "line_num": 188
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0016",
+            "summary": "###### Article 9\n\nQualit� et disponibilit� du service\nL'exploitant public a l'obligation de fournir le service postal universel de\nqualit� dans les conditions d�finies dans le cahier des charges. Les exigences\nde la qualit� de service portent notamment sur les domaines\nsuivants:\n- L 'acc�s aux services ;\n- La satisfaction des clients ;\n- La rapidit� et la fiabilit� des prestations ;\n- La s�curit� des op�rations ;\n- La responsabilit�, la fourniture d'informations et de traitement des\nr�clamations ...",
+            "line_num": 197
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "d2f276b8-95bb-41a3-aef9-9d287bf1fc5b"
+    ],
+    "0002": [
+      "0f930a01-c9c7-42a3-a8e8-ec441dd44928"
+    ],
+    "0003": [
+      "4191ef80-d34d-4086-8336-56c3811a14be"
+    ],
+    "0004": [
+      "c082548e-b016-4f0c-b587-71bdf9819662"
+    ],
+    "0005": [
+      "f71481f8-369d-465c-a44f-b0209306f1f7"
+    ],
+    "0006": [
+      "f90e5ec1-b169-44bd-b227-b41047edc97b"
+    ],
+    "0007": [
+      "0fd1266c-91c7-48e4-a990-cc716bb6dd0d"
+    ],
+    "0008": [
+      "d66cea69-19df-4fd3-91ae-9352f8b593f2"
+    ],
+    "0009": [
+      "83fc8857-9055-4efc-be9f-f64f2b70d785"
+    ],
+    "0010": [
+      "2410a89e-db83-4042-8d2a-69dee5af323e"
+    ],
+    "0011": [
+      "93578f58-ed19-475c-9e29-8b1a13b99a58"
+    ],
+    "0012": [
+      "3c8cac67-4803-487a-b853-f6d298328808"
+    ],
+    "0013": [
+      "cd62bbb1-16a1-45dc-950e-f1e18b870343"
+    ],
+    "0014": [
+      "050eee75-00a1-4894-8ce3-58b37205e02c"
+    ],
+    "0015": [
+      "22840d67-0fc4-47c3-9d05-4c4233b052cb"
+    ],
+    "0016": [
+      "ec8ac677-2668-4287-949c-23737d938332"
+    ]
+  },
+  "node_count": 17,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:23:22.231141",
+  "article_count": 16,
+  "generation_time_s": 8.412471055984497
+}

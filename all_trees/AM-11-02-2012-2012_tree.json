@@ -1,0 +1,116 @@
+{
+  "slug": "AM-11-02-2012-2012",
+  "bundle_path": "backups/all_bundles/code/AM-11-02-2012-2012.json",
+  "document_id": "bb468f47-b45c-47a1-8949-ded68693fbd7",
+  "document_title": "AM.11.02.2012",
+  "tree_json": {
+    "doc_name": "AM-11-02-2012-2012",
+    "structure": [
+      {
+        "title": "AM.11.02.2012",
+        "node_id": "0000",
+        "prefix_summary": "# AM.11.02.2012",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\n:\nLe pr�sent\nArr�t� entre en vigueur � la date de sa signature.\nFait �\nKinshasa, le 11 f�vrier 2012\nJeannette\nKavira Mapera\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\n:\nConform�ment � la l�gislation en vigueur, la comp�tence dans la perception des\nrecettes d'affichage publicitaire entre les Provinces et le Fonds de Promotion\nCulturelle est r�partie comme suit:\n- La taxe\nsur l'autorisation d'affichage publicitaire est de la comp�tence des Provinces;\n- La\nredevance ad valorem sur les factures des prestations publicitaires est de la\ncomp�tence du\nFonds de\nPromotion Culturelle.",
+            "line_num": 21
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "###### Article 2\n\n:\nL'assiette, le taux et les modalit�s de perception de la taxe et la redevance\ndont question � l'article 1er\npr�c�dent sont fix�s respectivement par le Ministre national ayant la Culture et\nles Arts dans ses attributions pour le Fonds de Promotion Culturelle, et par le\ngouverneur de province comp�tent.\nToutefois,\nle taux de la redevance ad valorem reconnue au Fonds de Promotion Culturelle est\ncelui fix� par l'Ordonnance-loi n� 87-013 du 03 avril 1987 portant cr�ation\ndudit Fonds, qui est de 5 % sur les factures des prestations publicitaires.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\n:\nPendant\ntoute la dur�e d'affichage et sauf les exceptions �tablies par les lois et\nr�glements toute publicit� est soumise au payement de la taxe et de la redevance\nvis�es � l'article 1er\ndu\npr�sent Arr�t�.",
+            "line_num": 50
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "###### Article 4\n\n:\nLa\ntaxation et le payement de la taxe et de la redevance sont mensuels.\nToutefois,\nselon qu'il le juge opportun, un Arr�t� du Gouverneur de Province peut fixer un\n�ch�ancier de payement de la taxe autre que mensuel.",
+            "line_num": 61
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\n:\nLa\nredevance ad valorem sur les factures des prestations publicitaires due au Fonds\nde Promotion Culturelle est pay�e par le prestataire de publicit�. Ce payement\ncouvre le premier mois de l'�mission de la facture des prestations\npublicitaires.\nA partir\ndu deuxi�me mois, l'annonceur est assimil� au prestataire de publicit� et lui\nest substitu�. A ce titre, il paye la redevance ad valorem.",
+            "line_num": 71
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\n:\nDans le\ncas pr�vu � l�alin�a 2 de l'article 5 pr�c�dent, le montant � payer sera celui\ninitialement pay� par le prestataire de publicit�, d�duit progressivement de dix\npourcent chaque mois qui suit, jusqu'� concurrence d'un montant incompressible\nqui soit le quart du montant initial.",
+            "line_num": 84
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\n:\nS�il est\naccord� un renouvellement d'une autorisation d'affichage, la redevance due au\nFonds de Promotion Culturelle sera calcul�e sur le montant de la facture �mise\npar le prestataire de publicit�.",
+            "line_num": 94
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\n:\nEn cas de\nrenouvellement de l'autorisation d'affichage, la redevance due au Fonds de\nPromotion Culturelle est pay�e par l'annonceur, dans les proportions pr�vues �\nl'article 6 pr�c�dent.",
+            "line_num": 103
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\n:\nSont\nabrog�e toutes les dispositions ant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 112
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "5ba756e8-6a24-4023-bb60-c55c819e24e5"
+    ],
+    "0002": [
+      "0cd81a03-282e-4caf-9dba-936e8b4568b0"
+    ],
+    "0003": [
+      "2dfc18a9-2332-4539-9328-8b231307f5ff"
+    ],
+    "0004": [
+      "f1a55dfc-bfda-490e-98be-1412d0f4200e"
+    ],
+    "0005": [
+      "0845f504-1416-487b-b83b-675586b9e153"
+    ],
+    "0006": [
+      "540edb2b-d582-46d9-883d-cb314b925961"
+    ],
+    "0007": [
+      "7e99a2e0-2a6f-4bcf-a2e6-18ddc5909c90"
+    ],
+    "0008": [
+      "027b6c8c-e55e-4488-88b9-5b34e1bc0329"
+    ],
+    "0009": [
+      "2ac9ad84-945d-4c80-a7dc-1d6154eeb8dd"
+    ],
+    "0010": [
+      "b7aa9959-9e32-4e23-9e62-4ab0380e0aed"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:32:56.960961",
+  "article_count": 10,
+  "generation_time_s": 0.01543879508972168
+}

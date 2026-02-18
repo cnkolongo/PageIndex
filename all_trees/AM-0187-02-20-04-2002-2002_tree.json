@@ -1,0 +1,335 @@
+{
+  "slug": "AM-0187-02-20-04-2002-2002",
+  "bundle_path": "backups/all_bundles/code/AM-0187-02-20-04-2002-2002.json",
+  "document_id": "d9ebe94b-a84f-466d-81b3-da7f32d35e99",
+  "document_title": "AM.0187.02.20.04.2002",
+  "tree_json": {
+    "doc_name": "AM-0187-02-20-04-2002-2002",
+    "structure": [
+      {
+        "title": "AM.0187.02.20.04.2002",
+        "node_id": "0000",
+        "prefix_summary": "# AM.0187.02.20.04.2002",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLes taux de la taxe de capture et\nd�abattage des animaux partiellement prot�g�s sont ceux repris � l�Annexe 2 du\npr�sent arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Section 3 : Des taxes",
+            "node_id": "0002",
+            "prefix_summary": "##### Section 3 : Des taxes",
+            "line_num": 11,
+            "nodes": [
+              {
+                "title": "Article 11",
+                "node_id": "0003",
+                "summary": "###### Article 11\n\nLes taux de la taxe de capture et\nd�abattage des animaux non prot�g�s sont ceux repris � l�Annexe 3 du pr�sent\narr�t�.\n\nsur la d�tention des produits de la chasse",
+                "line_num": 14
+              },
+              {
+                "title": "Article 12",
+                "node_id": "0004",
+                "summary": "###### Article 12\n\nA la fin de chaque op�ration de capture\nou d�abattage, le titulaire de permis de capture commerciale, scientifique ou de\nchasse est tenu de faire enregistrer aupr�s du service comp�tent les animaux\ncaptur�s ou abattus.",
+                "line_num": 23
+              },
+              {
+                "title": "Article 13",
+                "node_id": "0005",
+                "summary": "###### Article 13\n\nPour pouvoir exporter un animal\npartiellement ou totalement prot�g�, le titulaire de permis de capture ou du\npermis scientifique doit obtenir au pr�alable un certificat d�origine d�livr�\npar les services provinciaux comp�tents.",
+                "line_num": 31
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0006",
+                "summary": "###### Article 14\n\nLe taux de la taxe d�enregistrement d�un\nanimal sauvage est fix� au vingti�me de la taxe de sa capture ou de son\nabattage, sauf en ce qui concerne l�ivoire.",
+                "line_num": 39
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0007",
+                "summary": "###### Article 15\n\nLe taux de la taxe d�enregistrement de\nl�ivoire est fix� comme suit :\n6,50 Ff par kilo pour les d�fenses,\ndents ou cornes de moins de 10 kilos ;\n11,50 Ff par kilo pour les d�fenses,\ndents ou cornes de moins de 10 � 20 kilos ;\n12,00 Ff par kilo pour les d�fenses,\ndents ou cornes de plus de 20 kilos et moins de 35 kilos ;\n20,00 Ff par kilo pour les d�fenses,\ndents ou cornes de plus de 35 kilos et plus.",
+                "line_num": 46
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0008",
+                "summary": "###### Article 16\n\nLes taux de la taxe sur le certificat de\nl�gitime d�tention d�animaux sauvages ou de leurs sous-produits sont repris aux\nannexes 1, 2 et 3 du pr�sent arr�t�.",
+                "line_num": 60
+              }
+            ]
+          },
+          {
+            "title": "Section 4 : Des taxes",
+            "node_id": "0009",
+            "prefix_summary": "##### Section 4 : Des taxes",
+            "line_num": 67,
+            "nodes": [
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "###### Article 17\n\nLe taux de la taxe de l�autorisation\nd��levage d�animaux sauvages est fix� � 150,00 Ff.\n\nrelatives � un domaine de chasse",
+                "line_num": 70
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "###### Article 18\n\nLe taux de la taxe de la licence de\ns�jour dans un domaine de chasse est de 35,00 Ff par jour et par personne.",
+                "line_num": 78
+              },
+              {
+                "title": "Article 19",
+                "node_id": "0012",
+                "summary": "###### Article 19\n\nLe taux de la taxe sur la convention de\nr�alisation d�un film, d�une �tude ou d�une prospection dans un domaine de\nchasse ou site d�termin� est fix� � 100,00Ff.",
+                "line_num": 84
+              },
+              {
+                "title": "Article 1er",
+                "node_id": "0013",
+                "summary": "###### Article 1er\n\nLe taux de la taxe de superficie est\nfix� � 0,50 Ff par hectare.\nLa taxe de superficie sur la lettre\nd�intention et  la garantie d�approvisionnement  est  per�ue lors de leur\nd�livrance  et  chaque  ann�e  au plus tard � la fin du  mois d�avril.",
+                "line_num": 91
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0014",
+                "summary": "This partial document outlines royalty rates for timber and wood products, categorizes them by size, and specifies the payment deadline to the provincial environmental coordinator.",
+                "line_num": 100
+              }
+            ]
+          },
+          {
+            "title": "Section 5 : Des",
+            "node_id": "0015",
+            "prefix_summary": "##### Section 5 : Des",
+            "line_num": 118,
+            "nodes": [
+              {
+                "title": "Article 20",
+                "node_id": "0016",
+                "summary": "###### Article 20\n\nLe taux de taxe d�attribution de\nl�affermage d�un domaine de chasse est fix� � 15,00 Ff par hectare.\n\ntaxes    sur   le    permis d�importation, d�exportation et de r�exportation des\nesp�ces menac�es",
+                "line_num": 121
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0017",
+                "summary": "###### Article 21\n\nLe taux de la taxe additionnel sur tout\npermis d�importation est fix� comme suit :\nle titre valant est de 50,00 Ff ;\nun deuxi�me de la taxe de d�tention de\nson correspondant dans la faune nationale pour le sp�cimen ou son sous-produit.",
+                "line_num": 130
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0018",
+                "summary": "###### Article 22\n\nLe taux de la taxe sur les permis\nd�exploitation de la faune et de la flore est fix� comme suit :\n- Permis d�exportation\n: 60,00 Ff\n- Permis de r�exportation\n: 60,00 Ff\n- Permis d�importation\n: 50,00 Ff\n- Certificat d�origine\n: 60,00 Ff\n- Certificat d�agr�ment :\n� Professionnel\n: 1.500,00 Ff\n� Semi professionnel\n: 1.000,00 Ff\n� Amateur\n: 750,00 Ff",
+                "line_num": 139
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0019",
+                "summary": "###### Article 23\n\nLe taux de la taxe additionnelle sur\ntout permis d�exportation est fix� comme suit :\nle titre valant est de 40,00 Ff ;\nun tiers du taux de la taxe de la\nd�tention pour le sp�cimen ou son sous-produit ;\npour le bois Afromosia, le taux de la\ntaxe � l�exportation est fix� � 15,00 Ff le permis ;\npour le Pigeum africana, le taux de la\ntaxe � l�exportation est fix� � 8,00 Ff la tonne.",
+                "line_num": 160
+              }
+            ]
+          },
+          {
+            "title": "Section 6 : Des",
+            "node_id": "0020",
+            "prefix_summary": "##### Section 6 : Des",
+            "line_num": 173,
+            "nodes": [
+              {
+                "title": "Article 24",
+                "node_id": "0021",
+                "summary": "###### Article 24\n\nLe taux de la taxe de r�exportation est\nfix� comme suit :\nle titre valant est de 40,00 Ff ;\nun deuxi�me de la taxe de la d�tention\nde son correspondant dans la faune nationale pour le sp�cimen ou son\nsous-produit.\n\ndispositions sp�ciales",
+                "line_num": 176
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0022",
+                "summary": "###### Article 25\n\nLe permis d�exportation ou de\nr�exportation a une validit� de six mois.\nIl n�est renouvelable qu�une seule fois.\nLa taxe de son renouvellement est cumul�e sur base du titre valant sans tenir\ncompte des taxes additives.",
+                "line_num": 188
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0023",
+                "summary": "###### Article 26\n\nL�obtention de divers permis pour les\norganismes priv�s ou �tatiques, et ce � titre d�usage administratif, se fait sur\nl�autorisation de l�autorit� comp�tente.\nTitre 3 : Des dispositions p�nales et finales",
+                "line_num": 197
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0024",
+                "summary": "###### Article 27\n\nToute personne, sans pr�judice des\npeines pr�vues par le code p�nal et les lois particuli�res, qui contreviendrait\naux dispositions du pr�sent arr�t� sera punie d�une amende transactionnelle\n�quivalant au quintuple de la taxe ou d�une peine pr�vue par la loi en cas de\nr�cidive ou de refus de paiement.",
+                "line_num": 205
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0025",
+                "summary": "###### Article 28\n\nSont abrog�es toutes les dispositions\nant�rieures contraires au pr�sent arr�t�.",
+                "line_num": 214
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0026",
+                "summary": "This partial document is an annex to an interministerial order from the Democratic Republic of the Congo, dated April 20, 2002. It details the modification of tax rates for forestry and wildlife matters. The main points covered are:\n\n1.  A list of **totally protected species**, categorized as mammals and reptiles. For each species, it provides the common name, scientific name, and specific tax amounts (in Ff) for capture, felling (abattage), and detention. Notable protected species include gorillas, chimpanzees, elephants, rhinoceroses, okapi, and various turtles.\n\n2.  A list of **by-products derived from totally protected species** (such as stuffed animals, horns, ivory, skins, skulls, teeth, etc.) along with the fixed tax rate for their detention.\n\nThe document concludes with the signatures of the Ministers of Economy, Finances and Budget, and of Land Affairs, Environment and Tourism, validating the order.",
+                "line_num": 220
+              },
+              {
+                "title": "Article 3",
+                "node_id": "0027",
+                "summary": "This partial document defines the tax rates for the harvesting and exportation of various minor forest products. It lists specific rates for Rauwolfia, Voacanga and Digitalia, decorative roots, and a category including gums, lacquers, resins, copal, and other minor forest products. The rates differ slightly between the harvest tax and the export tax for the last category.",
+                "line_num": 479
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0028",
+                "summary": "###### Article 4\n\nA la demande de l�exportateur des\nproduits forestiers, le service forestier comp�tent peut d�livrer un certificat\nphytosanitaire moyennant paiement d�une taxe de 50,00 Ff par pi�ce.",
+                "line_num": 498
+              },
+              {
+                "title": "Article 5",
+                "node_id": "0029",
+                "summary": "###### Article 5\n\nLe non paiement de la taxe de superficie\net des redevances proportionnelles dans le d�lai imparti constitue un retard qui\nentra�ne le paiement du double de la taxe ou de la redevance pour l�exercice\nconcern� et le quintuple lorsque l�exercice est �coul�.",
+                "line_num": 505
+              }
+            ]
+          },
+          {
+            "title": "Section 1 : Des taxes",
+            "node_id": "0030",
+            "prefix_summary": "##### Section 1 : Des taxes",
+            "line_num": 513,
+            "nodes": [
+              {
+                "title": "Article 6",
+                "node_id": "0031",
+                "summary": "###### Article 6\n\nL�autorisation de prospection, la lettre\nd�intention et la garantie d�approvisionnement en mati�re ligneuse sont\nd�livr�es gratuitement.\nTitre 2 : Taxes du secteur de la faune\n\nsur les permis de chasse",
+                "line_num": 516
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0032",
+                "summary": "###### Article 7\n\nLe taux de la taxe sur les permis   de\nla chasse ordinaire est fix� comme suit :\n- Permis sportif de petite chasse :\n100,00 Ff\n- Permis sportif de grande chasse :\n225,00 Ff\n- Petit permis de tourisme : 90,00 Ff\n- Grand permis de tourisme : 350,00 Ff\n- Permis rural de chasse : 40,00 Ff\n- Permis collectif de chasse : 25,00 Ff",
+                "line_num": 526
+              }
+            ]
+          },
+          {
+            "title": "Section 2 : Des taxes",
+            "node_id": "0033",
+            "prefix_summary": "##### Section 2 : Des taxes",
+            "line_num": 540,
+            "nodes": [
+              {
+                "title": "Article 8",
+                "node_id": "0034",
+                "summary": "###### Article 8\n\nLe taux de la taxe sur les permis de la\nchasse sp�ciaux est fix� comme suit :\n- Permis scientifique : 100,00 Ff\n- Permis administratif : Gratuit\n- Permis de capture commerciale : 80,00\nFf\n\nde capture et d�abattage",
+                "line_num": 543
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0035",
+                "summary": "###### Article 9\n\nLes taux de la taxe de capture\net  d�abattage des  animaux totalement prot�g�s sont   ceux repris � l�Annexe 1\ndu  pr�sent  arr�t�.",
+                "line_num": 555
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "c158d076-d882-4eff-9e86-a59af6e05489"
+    ],
+    "0003": [
+      "b5d4e5b5-35d1-4053-bd12-42df480be8f1"
+    ],
+    "0004": [
+      "ff03140d-988b-460f-b65d-17ebb4e4b1ca"
+    ],
+    "0005": [
+      "609045a0-43a8-4937-9242-98e02a176df7"
+    ],
+    "0006": [
+      "36a453b8-ebd9-4911-9b85-871ab26eb3e2"
+    ],
+    "0007": [
+      "fb092efa-1293-4668-992d-641d678950e7"
+    ],
+    "0008": [
+      "38e88535-3a4c-4e58-8b3b-52cc42b31348"
+    ],
+    "0010": [
+      "8cf03981-dafd-4b12-a51c-67847edd5eaa"
+    ],
+    "0011": [
+      "45a6a36c-9ee0-4016-a606-7c9ba51d7672"
+    ],
+    "0012": [
+      "46b1fd08-4b9d-404d-a38d-205cb590e382"
+    ],
+    "0013": [
+      "f59a31da-ab80-4750-a27c-c6a681afb6c2"
+    ],
+    "0014": [
+      "326de65c-7032-4b29-b612-8c1a5ae8efc2"
+    ],
+    "0016": [
+      "85b7e690-21c5-44d4-8bc1-1a94eff95299"
+    ],
+    "0017": [
+      "6a8d48cb-7018-4c71-a0f6-34ac42322e38"
+    ],
+    "0018": [
+      "992ba415-c867-47a1-82b5-35688f17b62e"
+    ],
+    "0019": [
+      "7e2e9133-f38d-43f9-9c7b-91ac843f8483"
+    ],
+    "0021": [
+      "ade0b9cc-183b-4b43-ad02-4bbdd94195eb"
+    ],
+    "0022": [
+      "7face8b8-2f38-4441-8d42-352bd0d3b7d4"
+    ],
+    "0023": [
+      "509bfa4d-85ca-4147-a3f8-53b8c933b851"
+    ],
+    "0024": [
+      "f4c0bd09-862c-45ef-991b-85054ecb9d70"
+    ],
+    "0025": [
+      "aac71dbf-f1a5-4f86-9554-ec2b45529ad8"
+    ],
+    "0026": [
+      "2d0ea480-1aa5-4340-b267-4533e3498f78"
+    ],
+    "0027": [
+      "f64ecd39-2599-4729-843f-f8cccc0d28a2"
+    ],
+    "0028": [
+      "088ff5e8-9719-416e-9082-74bb373fb770"
+    ],
+    "0029": [
+      "b31f6686-0fc6-4217-988b-9360abda15f9"
+    ],
+    "0031": [
+      "a269f383-db90-4a26-8dd0-0ddd995503bb"
+    ],
+    "0032": [
+      "39bafd60-a884-49e4-ab7b-3ad4c3a2fcac"
+    ],
+    "0034": [
+      "673b9e0f-903d-4634-a3e2-63f001a62f60"
+    ],
+    "0035": [
+      "e9e24e6d-6013-4b95-b0d6-b622cd301960"
+    ]
+  },
+  "node_count": 36,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:18:28.120931",
+  "article_count": 29,
+  "generation_time_s": 18.62143111228943
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "AM0073-94-16-11-1994-1994",
+  "bundle_path": "backups/all_bundles/code/AM0073-94-16-11-1994-1994.json",
+  "document_id": "30f55b7b-c369-43a5-911e-e479e6cda838",
+  "document_title": "AM0073.94.16.11.1994",
+  "tree_json": {
+    "doc_name": "AM0073-94-16-11-1994-1994",
+    "structure": [
+      {
+        "title": "AM0073.94.16.11.1994",
+        "node_id": "0000",
+        "prefix_summary": "# AM0073.94.16.11.1994",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 10",
+            "node_id": "0001",
+            "summary": "###### Article 10\n\nLe Secr�taire G�n�ral � l�Energie est charg� de l�ex�cution du\npr�sent arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 16/11/1994\nIr. KISANGA KABONGELO\nMINISTRE\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 1er",
+            "node_id": "0002",
+            "summary": "###### Article 1er\n\nNul ne peut prester ses services pour �tablir de sch�mas\n�lectriques, des maisons des particuliers ou de proc�der aux installations\n�lectriques quelque soit leur niveau technique sans Agr�ment du minist�re ayant\nl�Energie dans ses attributions.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0003",
+            "summary": "This partial document defines key terms for an electrical services regulation. It provides precise definitions for an \"Electric Service Enterprise\" (a private legal entity employing electricians) and an \"Electrician\" (a specialist qualified to perform specific electrical work, including installation, maintenance, equipment fabrication, and generator production).",
+            "line_num": 27
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0004",
+            "summary": "###### Article 3\n\nPour obtenir cet agr�ment, la personne physique ou morale doit\nadresser une demande au Ministre ayant l�Energie dans ses attributions.\nSi le\nrequ�rant r�side en R�gion, la demande est remise au Chef de Division R�gionale\nqui la transmettra � la hi�rarchie.",
+            "line_num": 51
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0005",
+            "summary": "The partial document outlines the required documentation for applying for an \"Agrément\" (likely an approval or permit) from an administrative entity. It specifies two separate application procedures:\n\n1.  **For a natural person (individual):** The application must include full personal details (names, profession, address), the administrative entity concerned, three photocopies of the national ID card, three identity photographs, and, if possible, the national electricity company (SNEL) identification number.\n\n2.  **For a legal entity (company/organization):** The application must include notarized statutes, a certificate of deposit of the statutes at the court registry, three passport photos of a statutory officer, and the national identification number.",
+            "line_num": 60
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0006",
+            "summary": "###### Article 5\n\nToute\ndemande incompl�te peut �tre rejet�e.\nLe refus d�agr�ment n�ouvre droit � aucune\nindemnit� ou d�dommagement.",
+            "line_num": 76
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0007",
+            "summary": "###### Article 6\n\nEn cas d�avis favorable, le Secr�tariat G�n�ral � l�Energie\npr�pare un projet d�Arr�t� d�Agr�ment qu�il soumet � la signature du ministre de\nl�Energie moyennant paiement de la taxe r�mun�ratoire par le demandeur.\nL�Arr�t� d�Agr�ment sign� est transmis au Secr�taire G�n�ral �\nl�Energie qui signe un titre d�Agr�ment en faveur de l�int�ress�.\nLe titre original et une ampliation de l�Arr�t� sont remis  ou\nexp�di�s au titulaire.",
+            "line_num": 84
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0008",
+            "summary": "###### Article 7\n\nLe titre d�Agr�ment est valable pour une dur�e de douze (12)\nmois renouvelable.\nLa demande de renouvellement est accompagn�e de toutes les\nstatistiques et du rapport des travaux r�alis�s durant toute l�ann�e pr�c�dente,\nde l�original du titre ainsi que de la preuve du paiement de la taxe\nr�mun�ratoire.",
+            "line_num": 95
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0009",
+            "summary": "###### Article 8\n\nLe titulaire de l�Agr�ment est tenu de :\n- d�clarer aux\nServices R�gionaux de l�Energie et au Secr�tariat G�n�ral � l�Energie tous les\ntravaux r�alis�s ou en cours d�ex�cution ;\n-\nlaisser\ninspecter ou contr�ler ses installations et ses travaux par les agents d�ment\nqualifi�s du Secr�tariat G�n�ral � l�Energie ;\n- introduire\nsa demande de renouvellement 45 jours avant la date d�expiration du titre.",
+            "line_num": 105
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0010",
+            "summary": "###### Article 9\n\nLe non respect de l�article 3. Ci-dessus peut entra�ner soit\nle retrait du titre, soit le refus de son renouvellement et ce, sans pr�judice\ndes poursuites judiciaires et des amendes transactionnelles.",
+            "line_num": 119
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e3ffc069-facf-4be7-989e-729ec395cd9c"
+    ],
+    "0002": [
+      "47f8b423-2840-45fb-9483-4c3cc9aa51c2"
+    ],
+    "0003": [
+      "cc90e6fb-6c66-4a1b-bcef-3a6c596a0ffa"
+    ],
+    "0004": [
+      "3f2d0d15-5035-4dd5-80c5-0296f86cb582"
+    ],
+    "0005": [
+      "32dffbc6-863d-4d77-ac59-10727d7ae5ff"
+    ],
+    "0006": [
+      "caab4c0e-bedd-421c-af73-ab6cce65ce08"
+    ],
+    "0007": [
+      "cf71d580-9f3d-4d8f-a68b-fd5e3c10534c"
+    ],
+    "0008": [
+      "63f5e9bf-f499-4af9-99e4-4a9a0d79e1a1"
+    ],
+    "0009": [
+      "f3a7d122-9be3-4fed-9caa-d12eda7753f5"
+    ],
+    "0010": [
+      "93cd0d9f-cc13-4223-9cf4-cc3c837a8a1a"
+    ]
+  },
+  "node_count": 11,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:16.302401",
+  "article_count": 10,
+  "generation_time_s": 5.5925891399383545
+}

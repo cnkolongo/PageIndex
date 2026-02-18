@@ -1,0 +1,125 @@
+{
+  "slug": "AIM-04-2023-2023",
+  "bundle_path": "backups/all_bundles/code/AIM-04-2023-2023.json",
+  "document_id": "9b4011c3-e6c7-4c61-8367-d50e0a1dea68",
+  "document_title": "AIM.04.2023",
+  "tree_json": {
+    "doc_name": "AIM-04-2023-2023",
+    "structure": [
+      {
+        "title": "AIM.04.2023",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.04.2023",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document defines two key terms within a mining regulation: 1) \"marketable mining product,\" which refers to commercially viable mineral substances extracted or processed according to a specified nomenclature, and 2) \"less processed marketable mining product,\" which is an intermediate product obtained during approved mineral or metallurgical treatment processes.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nSont abrog�s, toutes les\ndispositions ant�rieures contraires au pr�sent Arr�t�, notamment celles de\nl'Arr�t� interminist�riel n� 00325/CAB.MINES/ 01/2021, n�\n010/CAB.MIN/ECONAT/2021 et n� 0012/CAB.MIN/COM.EXT/2021 du 17 septembre 2021\nportant r�glementation de la commercialisation et de l'exportation ainsi que\nnomenclature des produits miniers marchands.",
+            "line_num": 23
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "This partial document contains the final articles and administrative details of an interministerial decree (Arrêté) from the Democratic Republic of Congo, dated August 4, 2023. It specifies the government officials and agencies responsible for executing the decree, which regulates the commercialization, export, and classification of marketable mining products. The decree comes into force on the date of its signature. The text includes a disclaimer stating that the published texts are provided by associations and do not engage their responsibility.",
+            "line_num": 33
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0004",
+            "summary": "This partial document outlines the ownership and export rights for marketable mining products. It states that such products belong to the holders of the relevant exploitation permits or agreements. It lists the entities considered as holders, including mining rights holders, processing entities, approved trading houses, approved mining cooperatives, and traders. Crucially, it specifies that only mining rights holders, processing entities, and approved trading houses are authorized to export these marketable mining products.",
+            "line_num": 59
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0005",
+            "summary": "###### Article 3\n\nLa vente des produits miniers\nmarchands peut se r�aliser localement ou � l'�tranger.\nLes personnes vis�es � l'alin�a 2\nde l'article 2 ci-avant se conforment � la Loi relative � la libert� desprix et\n� la concurrence en ce qui concerne les ventes locales des produits miniers\nmarchands.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0006",
+            "summary": "This partial document outlines the classification system for marketable mining products. It establishes that the official list is defined in an annex, which is an integral part of the ministerial order. The annex contains nine categories, and for each product, it specifies the recoverable substances, applicable grade ranges, specific grades to apply, and recovery rates. The nine listed categories are: Metals, Precious Metals, Salts, Alloys, Simple Concentrates, Mixed Concentrates, Other Products, Rare Earths, and Raw Ores and Concentrates for local sales.",
+            "line_num": 90
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0007",
+            "summary": "###### Article 5\n\nLes teneurs minimales des\nsubstances valorisables contenues dans les produits miniers marchands sont\nfix�es � l'annexe vis�e � l'article 4 alin�a 1er.\nLes teneurs minimales � partir\ndesquelles sont valoris�s les m�taux pr�cieux, semi-pr�cieux, les m�taux rares,\nsous-produits associ�s aux alliages, aux sels, aux concentr�s des m�taux non\nferreux et d'autres m�taux, sont fix�es comme suit :\n- Argent, indium, germanium,\ngallium : > 20 grammes/tonne ;\n- Or, platine, palladium,\nrhodium, ruth�nium, rh�nium, iridium : > 1 gramme/tonne.",
+            "line_num": 113
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0008",
+            "summary": "###### Article 6\n\nLes taux de valorisation des\nproduits miniers marchands repris � l'annexe vis�e � l'article 5, alin�a 1er\nsont des coefficients qui\nrenseignent sur le niveau de perfectionnement dans l'�laboration des substances\nvalorisables qui y sont contenues.\nLes taux de valorisation des substances\nmin�rales vis�es � l'alin�a 2 de l'article 5 ci-dessus est fix� � 30%.",
+            "line_num": 128
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0009",
+            "summary": "This partial document covers Article 7 of a mining code or regulation. Its main points are: the Minister of Mines can prohibit the export of certain commercial mining products, specifically banning the export of copper and cobalt concentrates; under a special derogation, mining rights holders may be authorized to export less-processed products for one year due to technical or economic factors; and authorized operators must provide detailed lists of valuable mineral substances in each export shipment, adhering to thresholds set in a referenced annex.",
+            "line_num": 139
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0010",
+            "summary": "###### Article 8\n\nLes Ministres vis�s � l'alin�a 1er\nde l'article 7 agissent par\nnote circulaire pour exercer les pr�rogatives leurs reconnues.",
+            "line_num": 162
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0011",
+            "summary": "###### Article 9\n\nToute violation des dispositions du\npr�sent Arr�t� sera sanctionn�e conform�ment � la L�gislation en vigueur en\nR�publique D�mocratique du Congo.",
+            "line_num": 169
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "e2cf7d9e-629e-4b70-9d56-6495e04b4e74"
+    ],
+    "0002": [
+      "f021bada-b514-4506-8c55-8935da13cf8c"
+    ],
+    "0003": [
+      "fea3ea0d-a4c6-4647-892f-926505140a39"
+    ],
+    "0004": [
+      "7a720a4b-0266-4ce7-9bff-bd8d03711e04"
+    ],
+    "0005": [
+      "b0ce4110-5eb0-4342-a2d3-0b7b6c1c2687"
+    ],
+    "0006": [
+      "c98798d0-6c91-458a-847e-21206bb6958d"
+    ],
+    "0007": [
+      "646aef4e-1d81-42d0-9786-c3f4cb16edf6"
+    ],
+    "0008": [
+      "ddee7bcd-8f71-4c1f-a78c-b0077cf83191"
+    ],
+    "0009": [
+      "27d244c7-7821-45ae-af33-3bd5dfa38484"
+    ],
+    "0010": [
+      "b2df3c63-9ed8-4ea5-9313-91f130188661"
+    ],
+    "0011": [
+      "b3cf6d8d-25c3-4e4c-a69f-5ff005313a45"
+    ]
+  },
+  "node_count": 12,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:03:25.240367",
+  "article_count": 11,
+  "generation_time_s": 11.848512887954712
+}

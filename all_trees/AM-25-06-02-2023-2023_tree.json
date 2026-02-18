@@ -1,0 +1,855 @@
+{
+  "slug": "AM-25-06-02-2023-2023",
+  "bundle_path": "backups/all_bundles/code/AM-25-06-02-2023-2023.json",
+  "document_id": "4b0b2f40-405d-4a12-9ad0-c441bf2a0ef8",
+  "document_title": "AM.25.06.02.2023",
+  "tree_json": {
+    "doc_name": "AM-25-06-02-2023-2023",
+    "doc_description": "This document is the 2023 ministerial decree that establishes the composition, organization, and functioning of the Congolese Center for Mine Action (CCLAM), detailing its national coordination, ten operational departments, provincial centers, and the government's humanitarian demining service.",
+    "structure": [
+      {
+        "title": "AM.25.06.02.2023",
+        "node_id": "0000",
+        "prefix_summary": "# AM.25.06.02.2023",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe pr�sent Arr�t� fixe la composition, l�organisation et le fonctionnement du\nCentre Congolais de Lutte Antimines, � CCLAM � en sigle, en application de\nl�article 21 de la Loi 11-007 du 9 juillet 2011 portant mise en oeuvre de la\nConvention sur l�interdiction de l�emploi, du stockage, de la production et du\ntransfert des mines antipersonnel et sur leur destruction en R�publique\nD�mocratique du Congo.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "###### Article 10\n\nSans pr�judice des\ndispositions des statuts du personnel de carri�re des services publics de\nl��tat, le Coordonnateur national du CCLAM a rang de Secr�taire g�n�ral de\nl�Administration publique. Il jouit de tous les avantages li�s � ce rang et\ndispose d�un ou plusieurs assistants pour accomplir ses missions. Il statue par\nvoie de d�cision.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLe Coordonnateur national\nadjoint assiste le Coordonnateur national et le remplace en cas d�absence ou\nd�emp�chement. Il a le rang de Directeur de l�Administration publique.",
+            "line_num": 24
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLe Coordonnateur national, le\nCoordonnateur national adjoint et le Directeur des programmes sont nomm�s et le\ncas �ch�ant, relev�s de leurs fonctions par Arr�t� du Ministre ayant la\nprotection civile dans ses attributions.\nPour assurer la stabilit� de\nservice, le Coordonnateur national ne peut �tre relev� de ses fonctions que 5\nans apr�s sa nomination sauf en cas de faute grave.",
+            "line_num": 31
+          },
+          {
+            "title": "Section 3 : Des d�partements",
+            "node_id": "0005",
+            "prefix_summary": "##### Section 3 : Des d�partements",
+            "line_num": 42,
+            "nodes": [
+              {
+                "title": "Article 13",
+                "node_id": "0006",
+                "summary": "###### Article 13\n\nLe Directeur des programmes\nest charg� de la supervision et du suivi de la mise en oeuvre des activit�s des\nprogrammes nationaux du centre. Il centralise les rapports p�riodiques des\nactivit�s de tous les d�partements et supervise au quotidien le travail de ces\nderniers.\nLe Directeur des programmes\ndoit avoir des comp�tences av�r�es en mati�re de conception et de mise en oeuvre\nde projets � caract�re op�rationnels du secteur.\nLe Directeur des programmes\nseconde le Coordonnateur national adjoint dans ses attributions et remplace ce\ndernier en cas d�absence ou d�emp�chement. Il a le rang de Directeur de\nl�Administration publique.\n\net services",
+                "line_num": 45
+              },
+              {
+                "title": "Article 14",
+                "node_id": "0007",
+                "summary": "###### Article 14\n\nLe CCLAM dispose de dix\nd�partements suivants:\n1. D�partement de\nl�administration, finances et logistique;\n2. D�partement\ndes-op�rations;\n3. D�partement de la\ns�curisation et la stabilisation des munitions;\n4. D�partement de gestion de\nl�information;\n5. D�partement d��ducation\naux risques;\n6. D�partement de\nl�assistance aux victimes;\n7. D�partement du plaidoyer;\n8. D�partement juridique et\nd�audit;\n9. D�partement de supervision\nEst;\n10. D�partement de\nsupervision Ouest.\n� 1 : Du d�partement de\nl�administration, finances et logistique",
+                "line_num": 63
+              },
+              {
+                "title": "Article 15",
+                "node_id": "0008",
+                "summary": "###### Article 15\n\nLe d�partement de\nl�administration, finances et logistique assure la coordination, la\nplanification et le suivi administratif, financier et logistique de l�ex�cution\ndu programme national.\nA ce titre, il tient la\ncomptabilit� du Centre et supervise, contr�le et assure le suivi des ressources\nhumaines, des finances et de la logistique du programme. Il comprend trois\nservices, � savoir:\na) service des ressources\nhumaines et formation;\nb) service administratif et\nfinancier;\nc) service d�appui et\nlogistique.\n1. Du service de ressources\nhumaines et formation",
+                "line_num": 90
+              },
+              {
+                "title": "Article 16",
+                "node_id": "0009",
+                "summary": "The partial document outlines the responsibilities of the Human Resources and Training department. Its main points cover the development and implementation of the human resources policy, including recruitment, contract management, personnel administration, integration of new staff, workforce planning, disciplinary actions, payroll preparation, budget documentation, social relations monitoring, and internal mobility of employees.",
+                "line_num": 110
+              },
+              {
+                "title": "Article 17",
+                "node_id": "0010",
+                "summary": "###### Article 17\n\nLe service de ressources\nhumaines et formation est charg� du programme permanent de renforcement des\ncapacit�s du personnel du CCLAM. A ce titre:\n- il identifie\nr�guli�rement et propose les besoins en formation technique et strat�gique du\npersonnel selon sa diversit�;\n- il met en place un\nplan de formation diversifi� pour tous les domaines du Centre dont il assure le\nsuivi de la mise en oeuvre.\n1. B. Du service\nadministratif et financier",
+                "line_num": 143
+              },
+              {
+                "title": "Article 18",
+                "node_id": "0011",
+                "summary": "The partial document outlines the roles and responsibilities of the Administrative and Financial Service within an organization (CCLAM). It covers two main articles:\n\n*   **Article 18:** Defines the service's general administrative mission to ensure reliable implementation and monitoring. Its key duties include coordinating administration, managing internal/external correspondence, collecting departmental reports, and overseeing archives.\n\n*   **Article 19:** Details the service's specific financial and accounting coordination duties. This extensive list includes supervising accounting and taxation, payroll, daily treasury management, budget preparation and monitoring, relations with financial partners, financial studies for new projects, coordination of purchases, analysis of accounts, preparation of financial reports, insurance management, cash flow forecasting, and implementing financial software.",
+                "line_num": 158
+              },
+              {
+                "title": "Article 2",
+                "node_id": "0012",
+                "summary": "###### Article 2\n\nLe CCLAM est plac� sous tutelle du Ministre ayant la protection civile dans ses\nattributions et agit sous l�autorit� de la Commission Nationale de Lutte contre\nles Mines Antipersonnel.",
+                "line_num": 227
+              },
+              {
+                "title": "Article 20",
+                "node_id": "0013",
+                "summary": "The partial document outlines the responsibilities of the support and logistics service for an organization (CCLAM). Its main duties include managing the organization's movable and immovable property, handling reception and mobility, ensuring operational conditions and maintenance, managing a logistics platform for acquisitions and storage, developing the overall logistics program, preparing tender documents in collaboration with the legal department, and organizing logistics meetings.",
+                "line_num": 234
+              },
+              {
+                "title": "Article 21",
+                "node_id": "0014",
+                "summary": "The partial document outlines the responsibilities of a support and logistics service, specifically focusing on stock management. It details key tasks such as monitoring procedures, managing logistics risks, maintaining equipment, handling mail and deliveries, organizing the canteen, overseeing service providers, managing supplies and delivery timelines, controlling acquisitions and inventories, contributing to budget preparation, implementing quality control tools, and producing a monthly report for departmental activities.",
+                "line_num": 260
+              },
+              {
+                "title": "Article 22",
+                "node_id": "0015",
+                "summary": "###### Article 22\n\nLe service d�appui et\nlogistique g�re le patrimoine du CCLAM et coordonne, � ce titre:\n- la gestion des\nb�timents et autres biens immobiliers ;\n-\nla gestion du charroi\nautomobile et autre meubles ;\n- la gestion de\nl��tablissement des devis en cas de panne, d�gradation, modification ainsi que\ndes commandes d�intervention aupr�s des prestataires qu�il transmet au service\nde gestion des stocks pour comp�tence;\n- la r�daction d�un\nreporting mensuel du service � int�grer dans le rapport mensuel d�activit�s du\nd�partement.\n� 2 : Du d�partement des\nop�rations",
+                "line_num": 288
+              },
+              {
+                "title": "Article 23",
+                "node_id": "0016",
+                "summary": "###### Article 23\n\nLe d�partement des op�rations\nest charg� d�assurer la planification et la gestion de la qualit� des op�rations\nde d�minage et de la d�pollution.\nA ce titre, il s�assure que\nles pratiques de gestion et les proc�dures op�rationnelles du d�minage et/ou de\nla d�pollution sont appropri�es et satisfont aux exigences des normes nationales\net internationales en la mati�re.",
+                "line_num": 308
+              },
+              {
+                "title": "Article 24",
+                "node_id": "0017",
+                "summary": "###### Article 24\n\nLe d�partement des op�rations\nest dirig� par lm technicien du niveau au moins EOD3 d�tenteur, en m�me temps,\nd�un dipl�me d�inspecteur qualit�.\nIl est compos� de quatre\nservices ci-dessous:\na) service de gestion\nqualit�;\nb) service d�accr�ditation;\nc) service d�organisation et\nplanification;\nd) service param�dical.",
+                "line_num": 319
+              },
+              {
+                "title": "Article 25",
+                "node_id": "0018",
+                "summary": "###### Article 25\n\nLe d�partement des op�rations\ndispose d�un pool d�inspecteurs qualit�s recrut�s sur concours par d�cision du\ncoordonnateur national parmi les techniciens EOD exp�riment�s d�au moins niveau\n2 et d�tenteurs d�un dipl�me en mati�re de contr�le et assurance qualit�\ncertifi�.\n1. Du service de gestion\nqualit�",
+                "line_num": 334
+              },
+              {
+                "title": "Article 26",
+                "node_id": "0019",
+                "summary": "The partial document covers the main points about the Quality Management Service within a national program. It specifies the service's responsibilities for supervision, control, and quality assurance. Its aims include confirming that management practices and operational procedures for demining/decontamination are appropriate, ensuring cleared land is safe for users, and certifying that equipment and personnel meet national and international standards. The document also states the service's role in supervising quality inspectors before, during, and after operations, and introduces a subsequent section on the Organization and Planning Service.",
+                "line_num": 345
+              },
+              {
+                "title": "Article 27",
+                "node_id": "0020",
+                "summary": "###### Article 27\n\nLe service d�organisation et\nplanification est charg� de recueillir toutes les donn�es susceptibles de\npermettre la planification des activit�s op�rationnelles de terrain ainsi que la\npr�paration et l��tablissement des projets d�ordre de t�ches � signer par le\ncoordonnateur national en vue de les d�livrer aux op�rateurs.\n2. C. Du service\nd�accr�ditation",
+                "line_num": 368
+              },
+              {
+                "title": "Article 28",
+                "node_id": "0021",
+                "summary": "###### Article 28\n\nLe service d�accr�ditation,\nest charg� de:\n- assurer le suivi et\nl��valuation de la situation d�accr�ditation de tous les op�rateurs ;\n- centraliser tous les\ndossiers de demande d�accr�ditation soumis au Centre par les op�rateurs\nnationaux et internationaux, en collaboration avec le service administratif ;\n- pr�parer les donn�es\nn�cessaires pour l�analyse des dossiers y aff�rents par la commission\nd�accr�ditation.",
+                "line_num": 379
+              },
+              {
+                "title": "Article 29",
+                "node_id": "0022",
+                "summary": "###### Article 29\n\nLe service d�accr�ditation\npr�pare, dans le d�lai requis, les projets de r�ponses � donner aux requ�rants\npar la commission d�accr�ditation ainsi que les projets d�attestation\nd�accr�ditation et assure la communication � l�endroit de tous les membres de la\ncommission d�accr�ditation (personnes physiques et repr�sentants des personnes\nmorales).\nIl fait le Secr�tariat\ntechnique de cette derni�re.\n2. D. Du service param�dical",
+                "line_num": 393
+              }
+            ]
+          },
+          {
+            "title": "Chapitre II : Des missions",
+            "node_id": "0023",
+            "prefix_summary": "#### Chapitre II : Des missions",
+            "line_num": 406,
+            "nodes": [
+              {
+                "title": "Article 3",
+                "node_id": "0024",
+                "summary": "###### Article 3\n\nLe CCLAM a son si�ge � Kinshasa capitale de la R�publique D�mocratique du Congo.\nIl dispose des repr�sentations dans les provinces appel�es Coordinations\nprovinciales.",
+                "line_num": 409
+              },
+              {
+                "title": "Article 30",
+                "node_id": "0025",
+                "summary": "###### Article 30\n\nLe service param�dical a pour\nt�ches de :\n- accompagner sur le\nterrain l��quipe des Inspecteurs qualit� ;\n- proc�der �\nl��valuation des �quipes param�dicales des op�rateurs de lutte antimines en\nR�publique D�mocratique du Congo dans le cadre de la gestion qualit� et de\nl�accr�ditation.\n� 3 : Du d�partement de la\ns�curit� physique et de stabilisation des stocks d�armes et munitions",
+                "line_num": 416
+              },
+              {
+                "title": "Article 31",
+                "node_id": "0026",
+                "summary": "The partial document describes the responsibilities and functions of a department dedicated to the physical security and stabilization of weapon and ammunition stockpiles. It outlines the department's core tasks, including the disposal of obsolete ammunition from military and police depots, the development of storage and management policies, the training of depot personnel, and providing advisory support for constructing appropriate storage infrastructure.",
+                "line_num": 430
+              },
+              {
+                "title": "Article 32",
+                "node_id": "0027",
+                "summary": "###### Article 32\n\nLe d�partement de la s�curit�\nphysique et de stabilisation des stocks d�armes et munitions est g�r� en �troite\ncollaboration avec la direction logistique des Forces Arm�es de la R�publique\nD�mocratique du Congo et dispose de deux services, � savoir:\n- le service charg�\ndes politiques, outils et renforcement des capacit�s;\n- le service charg� de\nliaison.\n1. A. Du service charg� de\npolitiques, outils et renforcement des capacit�s",
+                "line_num": 450
+              },
+              {
+                "title": "Article 33",
+                "node_id": "0028",
+                "summary": "###### Article 33\n\nLe service charg� de\npolitiques, outils et renforcement des capacit�s est charg� de la conception de\nstrat�gies, manuels et/ou canevas relatifs aux directives de gestion des\nmunitions. Il s�occupe �galement de la conception des programmes de formation et\nde la formation du personnel gestionnaire des d�p�ts et autres sites de stockage\nde munitions.\n3. B. Du service de liaison",
+                "line_num": 464
+              },
+              {
+                "title": "Article 34",
+                "node_id": "0029",
+                "summary": "###### Article 34\n\nLe service de liaison est\ncharg� d��tablir un contact permanent entre le Centre Congolais de Lutte\nAntimines et les services comp�tents de gestion de stocks de munitions des\nForces Arm�es de la R�publique D�mocratique du Congo et de la Police Nationale\nCongolaise.",
+                "line_num": 475
+              },
+              {
+                "title": "Article 35",
+                "node_id": "0030",
+                "summary": "###### Article 35\n\nLe service de liaison\nfacilite aux techniciens EOD du d�partement des op�rations, la mission de trie\net de destruction des stocks des minutions d�fectueuses ou obsol�tes localis�es\ndans les sites de stockage des Forces de d�fense et de s�curit� de la R�publique\nD�mocratique du Congo.\n� 4. Du d�partement de\ngestion de l�information",
+                "line_num": 484
+              },
+              {
+                "title": "Article 36",
+                "node_id": "0031",
+                "summary": "###### Article 36\n\nLe d�partement de gestion de\nl�information est charg� de l��valuation des besoins en information ainsi que la\ncollecte, l�analyse, le traitement, le stockage et la diffusion des donn�es\ntechniques, �conomiques et sociales relatives � la lutte antimines. Il a\n�galement pour mission, la production et l�adaptation de la cartographie li�e �\nla mise en oeuvre du programme national. Il comprend quatre services � savoir:\na) service de collecte de\ndonn�es;\nb) service d�analyse ou\ntraitement de donn�es;\nc) service de cartographie;\nd) service de communication.",
+                "line_num": 495
+              },
+              {
+                "title": "Article 37",
+                "node_id": "0032",
+                "summary": "###### Article 37\n\nLe d�partement de gestion de\nl�information dispose d�un pool d�officiers de gestion d�information recrut�s\nsur concours par d�cision du coordonnateur national parmi les experts d�tenteurs\nd�un dipl�me de gestionnaire de base de donn�es certifi� par une �cole\ninternationale de d�minage humanitaire.\n4. A. Du service de collecte\nde donn�es",
+                "line_num": 511
+              },
+              {
+                "title": "Article 38",
+                "node_id": "0033",
+                "summary": "###### Article 38\n\nLe service de collecte de\ndonn�es est charg� d�identifier et de rassembler les donn�es requises pour le\nprogramme national ainsi que leur enregistrement dans la base de donn�es en\ntoute confidentialit� et dans le respect de la vie priv�e.\n4. B. Du service de\ntraitement ou analyse de donn�es",
+                "line_num": 522
+              },
+              {
+                "title": "Article 39",
+                "node_id": "0034",
+                "summary": "###### Article 39\n\nLe service de traitement ou\nd�analyse de donn�es est charg� de la coordination de l�examen proprement dit\ndes informations fournies � la base des donn�es ainsi que leur validation avant\ndiffusion.\n1. C. Du service de\ncommunication",
+                "line_num": 532
+              },
+              {
+                "title": "Article 4",
+                "node_id": "0035",
+                "summary": "###### Article 4\n\nLe CCLAM est le point central pour la Coordination de la lutte antimines sur le\nterritoire national.\nLa coordination vis�e � l�alin�a pr�c�dent a pour mission d�assurer la lutte\ncontre les mines antipersonnel et les restes explosifs de guerre, en ce compris\nles bombes � sous minutions, conform�ment aux points 3 et 9 de l�article 2 de la\nloi de mise en oeuvre de la convention sur l�interdiction des mines\nantipersonnel en R�publique D�mocratique du Congo.",
+                "line_num": 542
+              },
+              {
+                "title": "Article 40",
+                "node_id": "0036",
+                "summary": "###### Article 40\n\nLe service de communication\nse charge de la diffusion des informations aupr�s des utilisateurs internes et\nexternes, apr�s analyse ou traitement de donn�es, conform�ment � la proc�dure et\naux m�thodes de communication mises en place par la coordination nationale du\nCCLAM.\nIl est aussi charg� d�assurer\nle suivi de l�obligation du rapportage des op�rateurs de la lutte antimines pour\nla consommation et/ou l�alimentation r�guli�re ainsi que les mises � jour de la\nbase de donn�es.\n4. D. Du service de\nCartographie",
+                "line_num": 553
+              },
+              {
+                "title": "Article 41",
+                "node_id": "0037",
+                "summary": "###### Article 41\n\nLe service de cartographie\ns�occupe de l��tablissement des donn�es cartographiques du programme ainsi que\nde leur mise � jour r�guli�re.\n� 5. Du d�partement\nd�Education aux Risques des Mines (ERM)",
+                "line_num": 568
+              },
+              {
+                "title": "Article 42",
+                "node_id": "0038",
+                "summary": "###### Article 42\n\nLe d�partement d��ducation\naux risques est charg� de la conception et de la mise en oeuvre des programmes\nde sensibilisation de toutes les couches de la population sur le danger des\nmines et des restes explosifs de guerre. Il comprend deux services � savoir:\na) service de sensibilisation\net de liaison communautaire;\nb) service charg� des\npolitiques et outils d��ducation aux risques.\n5. A. Du service de\nsensibilisation et de liaison communautaire",
+                "line_num": 577
+              },
+              {
+                "title": "Article 43",
+                "node_id": "0039",
+                "summary": "###### Article 43\n\nLe service de sensibilisation\net de liaison communautaire s�occupe de :\n- la coordination des\nactivit�s li�es � l��change d�informations avec les communaut�s � risque;\n- la diffusion de\nmessages de s�curit� aupr�s des groupes cibles;\n- le soutien � la\ngestion communautaire du risque;\n- la participation des\ncommunaut�s � l�action contre les mines.\n5. B. Du service charg� de\npolitiques et outils d��ducation aux risques",
+                "line_num": 591
+              },
+              {
+                "title": "Article 44",
+                "node_id": "0040",
+                "summary": "###### Article 44\n\nLe service charg� des\npolitiques et outils d��ducation aux risques veille � la conception de la\npolitique nationale d��ducation aux risques ainsi que ses plans de mise en\noeuvre. Il propose � la coordination la strat�gie nationale d��ducation aux\nrisques.\nIl s�occupe aussi de la mise\nen place des outils de communication et � l�uniformisation de ces derniers �\nl�endroit de tous les op�rateurs du secteur.",
+                "line_num": 607
+              },
+              {
+                "title": "Article 45",
+                "node_id": "0041",
+                "summary": "###### Article 45\n\nLe d�partement d��ducation au\nrisque soutient, par ses actions, les d�partements des op�rations et de\nl�assistance et r�insertion des victimes et communique avec toutes les parties\nprenantes du programme � ce sujet.",
+                "line_num": 619
+              },
+              {
+                "title": "Article 46",
+                "node_id": "0042",
+                "summary": "###### Article 46\n\nLe d�partement d��ducation\naux risques conduit les op�rations d�accr�ditation des op�rateurs du secteur\nd��ducation aux risques en �troite collaboration avec le d�partement des\nop�rations.\n� 6. Du d�partement de\nl�assistance aux victimes",
+                "line_num": 627
+              },
+              {
+                "title": "Article 47",
+                "node_id": "0043",
+                "summary": "###### Article 47\n\nLe d�partement de\nl�assistance aux victimes assure la conception et la mise en oeuvre du programme\nnational d�assistance aux victimes des mines et des restes explosifs de guerre\net ce, en �troite collaboration avec les autres services �tatiques et non\n�tatiques concern�s.",
+                "line_num": 637
+              },
+              {
+                "title": "Article 48",
+                "node_id": "0044",
+                "summary": "###### Article 48\n\nLe d�partement de\nl�assistance aux victimes est charg� d�identifier toutes les victimes des mines\net des restes explosifs de guerre ainsi que leurs besoins en assistance sur\ntoute l��tendue du territoire national.",
+                "line_num": 646
+              },
+              {
+                "title": "Article 49",
+                "node_id": "0045",
+                "summary": "###### Article 49\n\nLe d�partement de\nl�assistance aux victimes est charg� aussi de :\n- �tablir des rapports\np�riodiques;\n- assurer des mises �\njours de la base de donn�es nationales sur les statistiques des victimes selon\nleur cat�gorisation (�ge, sexe, etc.);\n- identifier les\npartenaires �tatiques et non �tatiques pour l�assistance sociale, �conomique,\nmat�rielle, psychologique, m�dicale ou toute autre forme de r�adaptation\nphysique en faveur des victimes.",
+                "line_num": 654
+              }
+            ]
+          },
+          {
+            "title": "Chapitre III : De la",
+            "node_id": "0046",
+            "prefix_summary": "#### Chapitre III : De la",
+            "line_num": 669,
+            "nodes": [
+              {
+                "title": "Article 5",
+                "node_id": "0047",
+                "summary": "This partial document, Article 5, lists the specific missions and responsibilities of the \"CCLAM\" (likely the Congolese Center for Mine Action). The main points covered are the 16 specific tasks assigned to this body, which include implementing anti-personnel mine legislation, managing national and international mine action programs, victim assistance, risk education, supervising and accrediting operators, controlling explosives, preparing reports, and representing the country in international forums. The document also begins to outline the body's composition, organization, and functioning.",
+                "line_num": 672
+              },
+              {
+                "title": "Article 50",
+                "node_id": "0048",
+                "summary": "###### Article 50\n\nLe d�partement de\nl�assistance aux victimes comprend deux services � savoir:\na) de r�insertion\nsocio�conomique;\nb) d�assistance m�dicale et\nr�adaptation physique.\n6. A. Du service de\nr�insertion socio�conomique",
+                "line_num": 722
+              },
+              {
+                "title": "Article 51",
+                "node_id": "0049",
+                "summary": "###### Article 51\n\nLe service de r�insertion\nsocio�conomique coordonne les activit�s li�es � l�assistance sociale,\npsychologique et �conomique des victimes. Il �labore et coordonne, en\ncollaboration avec le Minist�re ayant dans ses attributions les Affaires\nhumanitaires et les partenaires sociaux impliqu�s, une politique coh�rente\nd�identification des besoins des victimes et les modalit�s de leur assistance.\n6. B. Du service d�assistance\nm�dicale et r�adaptation physique",
+                "line_num": 734
+              },
+              {
+                "title": "Article 52",
+                "node_id": "0050",
+                "summary": "###### Article 52\n\nLe service d�assistance\nm�dicale et r�adaptation physique travaille en collaboration avec le Minist�re\nde la Sant� ainsi que tous les autres partenaires du secteur pour promouvoir les\nsoins de sant� aux victimes des mines et restes explosifs de guerre ainsi que la\nr�adaptation physique de ces derni�res.\n� 7 : Du d�partement du\nplaidoyer",
+                "line_num": 746
+              },
+              {
+                "title": "Article 53",
+                "node_id": "0051",
+                "summary": "###### Article 53\n\nLe d�partement du plaidoyer\ns�occupe de la mobilisation des institutions et organisations nationales et\ninternationales ainsi que des autres pays partenaires et assure la promotion de\nla lutte antimines dans le programme national.\nIl s�occupe aussi de\nl�universalisation de tous les instruments juridiques internationaux de lutte\nantimines � l��gard de la R�publique D�mocratique du Congo.",
+                "line_num": 757
+              },
+              {
+                "title": "Article 54",
+                "node_id": "0052",
+                "summary": "###### Article 54\n\nLe d�partement du plaidoyer\nest aussi charg� de promouvoir le genre dans le programme national, notamment en\nmettant l�accent sur la participation de la femme congolaise � la mise en oeuvre\nde cinq piliers de la lutte antimines.",
+                "line_num": 768
+              },
+              {
+                "title": "Article 55",
+                "node_id": "0053",
+                "summary": "###### Article 55\n\nLe d�partement du plaidoyer\ndispose de deux services � savoir:\na) service de l�gislations et\nde conventions;\nb) service de genre et lutte\nantimines.\n7. A. Du service de\nl�gislations et de conventions",
+                "line_num": 776
+              },
+              {
+                "title": "Article 56",
+                "node_id": "0054",
+                "summary": "###### Article 56\n\nLe service de l�gislations et\nde conventions est charg� de:\n- identifier des\nconventions ou trait�s internationaux, des accords r�gionaux ainsi que des lois\net r�glements nationaux relatifs � la lutte antimines;\n- r�diger des projets\nde textes des lois de ratification des instruments juridiques internationaux et\nr�gionaux ainsi que des projets de texte de mise en oeuvre des conventions ou\ntrait�s sur la lutte antimines ratifi�s et/ou sign�s par la R�publique\nD�mocratique du Congo.",
+                "line_num": 788
+              },
+              {
+                "title": "Article 57",
+                "node_id": "0055",
+                "summary": "###### Article 57\n\nLe service de l�gislations et\nde conventions est aussi charg� de:\n- promouvoir la\nvisibilit� du Centre congolais de lutte antimines;\n- assurer la\nmobilisation des ressources du programme aupr�s des partenaires;\n- promouvoir des\ninitiatives sur les m�canismes de ratification par les Institutions attitr�es du\npays, des conventions et autres trait�s internationaux et r�gionaux sur la lutte\nantimines;\n- vulgariser les\nconventions internationales, les lois et autres mesures d�application nationales\nde lutte antimines.\n7. B. Service de genre et\nlutte antimines",
+                "line_num": 802
+              },
+              {
+                "title": "Article 58",
+                "node_id": "0056",
+                "summary": "###### Article 58\n\nLe service de genre et lutte\nantimines est charg� d�assurer principalement la mobilisation et l�int�gration\ndes femmes dans l�action antimines en R�publique D�mocratique du Congo.",
+                "line_num": 821
+              },
+              {
+                "title": "Article 59",
+                "node_id": "0057",
+                "summary": "###### Article 59\n\nL�int�gration consiste �\nconcevoir et faire appliquer la politique nationale de participation des femmes\net des hommes selon une proportion raisonnable dans la mise en oeuvre du\nprogramme national de lutte antimines et ce, dans tous ses piliers.\nLe service de genre et lutte\nantimines veille sp�cialement � promouvoir l�int�gration de la femme dans les\nactivit�s tant administratives qu�op�rationnelles.",
+                "line_num": 828
+              },
+              {
+                "title": "Section 2 : De la coordination nationale",
+                "node_id": "0058",
+                "prefix_summary": "##### Section 2 : De la coordination nationale",
+                "line_num": 839,
+                "nodes": [
+                  {
+                    "title": "Article 6",
+                    "node_id": "0059",
+                    "summary": "###### Article 6\n\nPour accomplir les missions lui assign�es, le CCLAM est organis� en coordination\nnationale, d�partements, services et coordinations provinciales des op�rations.\nUn service gouvernemental de d�minage humanitaire appuie le Centre sur le\nterrain avec les op�rations de d�minage et d�pollution.",
+                    "line_num": 842
+                  },
+                  {
+                    "title": "Article 60",
+                    "node_id": "0060",
+                    "summary": "###### Article 60\n\nLa mobilisation consiste �\nconcevoir et vulgariser des outils de sensibilisation des institutions du pays,\nde la soci�t� civile, des op�rateurs du secteur ainsi que de la population sur\nl�importance de la participation des femmes dans la lutte antimines.\nA ce titre, le service de\ngenre et lutte antimines organise des activit�s incitatives aux femmes pour la\nlutte antimines, notamment :\n- des conf�rences;\n- des ateliers de\nformation, de sensibilisation et de vulgarisation;\n- des activit�s\nsportives et autres de loisirs;\n- etc.\n� 8. Du d�partement juridique\net d�audit",
+                    "line_num": 850
+                  },
+                  {
+                    "title": "Article 61",
+                    "node_id": "0061",
+                    "summary": "###### Article 61\n\nLe d�partement juridique et\nd�audit a la responsabilit� de tous les aspects juridiques de la vie du CCLAM,\nnotamment sur la connaissance des r�glementations � respecter sur diff�rents\naspects du droit: Droit international, humanitaire, du travail, des soci�t�s,\ndes contrats, des affaires, de la propri�t�, des marques, social, fiscal, etc.\nIl dispose de deux services �\nsavoir:\na) service de contentieux;\nb) service de normes et\ndirectives.\n8. A. Du service de\ncontentieux",
+                    "line_num": 869
+                  },
+                  {
+                    "title": "Article 62",
+                    "node_id": "0062",
+                    "summary": "The main points covered in this partial document describe the responsibilities and functions of the \"service de contentieux\" (likely a litigation or legal affairs department) within the CCLAM. Specifically, it covers three key roles: serving as the legal advisor to the CCLAM; conducting internal audits of all CCLAM services through analysis and controls; and, as part of the audit function, being tasked with developing analytical tools and performance indicators, proposing norms and processes for smooth operation, and writing and transmitting audit reports to the CCLAM coordination.",
+                    "line_num": 885
+                  },
+                  {
+                    "title": "Article 63",
+                    "node_id": "0063",
+                    "summary": "###### Article 63\n\nLe service de contentieux\nassure le suivi des actes juridiques en ce compris les contrats et accords\nconclus par le Centre Congolais de Lutte Antimines.\n8. B. Du service de normes et\ndirectives",
+                    "line_num": 903
+                  },
+                  {
+                    "title": "Article 64",
+                    "node_id": "0064",
+                    "summary": "###### Article 64\n\nLe service de normes et\ndirectives joue le r�le de conseil et de support de l�ensemble des d�partements\nop�rationnels et fonctionnels du CCLAM et propose diff�rentes orientations\npratiques tout en �vitant un risque juridique excessif. Il assure, en outre, les\nmises � jour des normes et/ou directives nationales en �troite collaboration\navec tous les services et veille au suivi de l�accr�ditation des op�rateurs de\nla lutte antimines.\n� 9. D�partement de\nsupervision Est",
+                    "line_num": 912
+                  },
+                  {
+                    "title": "Article 65",
+                    "node_id": "0065",
+                    "summary": "###### Article 65\n\nLe d�partement de supervision\nEst est charg� de faire le relai des activit�s du Centre congolais de lutte\nantimines sur la partie orientale de la R�publique D�mocratique du Congo.\n� 10. D�partement de\nsupervision Ouest",
+                    "line_num": 925
+                  },
+                  {
+                    "title": "Article 66",
+                    "node_id": "0066",
+                    "summary": "###### Article 66\n\nLe d�partement de supervision\nOuest est charg� de faire le relai des activit�s du Centre congolais de lutte\nantimines sur la partie occidentale de la R�publique D�mocratique du Congo.",
+                    "line_num": 934
+                  },
+                  {
+                    "title": "Article 67",
+                    "node_id": "0067",
+                    "summary": "###### Article 67\n\nLes d�partements sont dirig�s\npar les Chefs de d�partements second�s par les Chefs de services recrut�s sur\nconcours par d�cision du Coordonnateur national parmi les personnes ayant une\nconnaissance suffisante dans la lutte antimines.",
+                    "line_num": 941
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre IV: Des centres",
+            "node_id": "0068",
+            "prefix_summary": "#### Chapitre IV: Des centres",
+            "line_num": 949,
+            "nodes": [
+              {
+                "title": "Article 68",
+                "node_id": "0069",
+                "summary": "###### Article 68\n\nLe recrutement des membres du\npersonnel par le Coordonnateur national du CCLAM tient compte du profil et de\nl�exp�rience des candidats par rapport � la sp�cificit� de chaque poste.\nLe Coordonnateur national\npeut solliciter des experts aupr�s des autres minist�res et services impliqu�s\ndans la lutte antimines en R�publique d�mocratique du Congo.\n\nprovinciaux d�op�rations\nSection 1 : De la composition",
+                "line_num": 952
+              },
+              {
+                "title": "Article 69",
+                "node_id": "0070",
+                "summary": "###### Article 69\n\nLes centres provinciaux d�op�rations sont des repr�sentations du CCLAM en\nprovince. Ils sont g�r�s par une �quipe compos�e de:\n- un Charg� des op�rations;\n- un Charg� de collecte des donn�es et\ntransmission;\n- un chauffeur;\n- une section-d�minage;\n- un d�tachement EOD.",
+                "line_num": 965
+              },
+              {
+                "title": "Article 7",
+                "node_id": "0071",
+                "summary": "###### Article 7\n\nLe CCLAM est g�r� par une coordination nationale compos�e d�un Coordonnateur\nnational, d�un Coordonnateur national adjoint et d�un Directeur des programmes,\ntous assist�s d�un secr�tariat administratif.",
+                "line_num": 977
+              },
+              {
+                "title": "Article 70",
+                "node_id": "0072",
+                "summary": "###### Article 70\n\nLes animateurs des centres provinciaux d�op�rations exercent leurs attributions\nsous la supervision du Coordonnateur national du CCLAM en �troite collaboration\navec le Ministre provincial ayant la protection civile dans ses attributions.",
+                "line_num": 984
+              },
+              {
+                "title": "Article 71",
+                "node_id": "0073",
+                "summary": "###### Article 71\n\nLes centres provinciaux d�op�rations sont install�s dans chaque province du pays\net peuvent collaborer entre eux pour r�soudre les probl�mes d�int�r�t commun.\nSur d�cision du coordonnateur national du CCLAM, un centre provincial peut\ncouvrir deux ou plusieurs provinces pour des raisons d�efficience et\nd�efficacit�.",
+                "line_num": 991
+              },
+              {
+                "title": "Article 72",
+                "node_id": "0074",
+                "summary": "###### Article 72\n\nLe personnel des centres provinciaux d�op�rations est recrut� par d�cision du\ncoordonnateur national du CCLAM parmi les personnes ayant une connaissance\nsuffisante de la lutte antimines.",
+                "line_num": 1000
+              },
+              {
+                "title": "Section 2: Des �quipes des op�rations",
+                "node_id": "0075",
+                "prefix_summary": "##### Section 2: Des �quipes des op�rations",
+                "line_num": 1007,
+                "nodes": [
+                  {
+                    "title": "Article 73",
+                    "node_id": "0076",
+                    "summary": "###### Article 73\n\nLes centres provinciaux d�op�rations peuvent b�n�ficier des subventions,\ndotations ou autres dons et legs des provinces pour leur fonctionnement.",
+                    "line_num": 1010
+                  },
+                  {
+                    "title": "Article 74",
+                    "node_id": "0077",
+                    "summary": "###### Article 74\n\nLes �quipes des op�rations sont constitu�es des diff�rentes sections de d�minage\net des diff�rents d�tachements EOD.",
+                    "line_num": 1016
+                  },
+                  {
+                    "title": "Article 75",
+                    "node_id": "0078",
+                    "summary": "###### Article 75\n\nUne section de d�minage est compos�e de 36 (trente-six) personnes r�parties\ncomme suit:\n- un superviseur;\n- un Charg� de section;\n- trois Charg�s d��quipe;\n- vingt-quatre d�mineurs;\n- un officier de liaison;\n- un infirmier;\n- cinq chauffeurs.",
+                    "line_num": 1022
+                  },
+                  {
+                    "title": "Article 76",
+                    "node_id": "0079",
+                    "summary": "###### Article 76\n\nUn d�tachement EOD est compos� de 17 (dix-sept) personnes r�parties comme suit :\n- un superviseur;\n- deux Charg�s d��quipes;\n- huit techniciens EOD;\n- deux infirmiers;\n- quatre chauffeurs.",
+                    "line_num": 1035
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Chapitre V : Du service",
+            "node_id": "0080",
+            "prefix_summary": "#### Chapitre V : Du service",
+            "line_num": 1045,
+            "nodes": [
+              {
+                "title": "Article 77",
+                "node_id": "0081",
+                "summary": "###### Article 77\n\nEn collaboration avec tous les services et organismes publics ou priv�s\nint�ress�s, le CCLAM �labore un programme de formation du personnel vis� aux\narticles 70 ci-dessus.\n\ngouvernemental de d�minage humanitaire",
+                "line_num": 1048
+              },
+              {
+                "title": "Article 78",
+                "node_id": "0082",
+                "summary": "###### Article 78\n\nL�ensemble des sections de d�minage et d�tachements EOD constituent le � Service\ngouvernemental de d�minage humanitaire �, SGDH en sigle.\nIl est plac� sous la\nresponsabilit� d�un technicien de niveau au moins EOD3 exp�riment� nomm� par le\nMinistre ayant la protection civile dans ses attributions, sur proposition du\nCoordonnateur national du CCLAM. Il est appel� commandant du SGDH.",
+                "line_num": 1057
+              },
+              {
+                "title": "Article 79",
+                "node_id": "0083",
+                "summary": "###### Article 79\n\nLe personnel du service\ngouvernemental de d�minage Humanitaire provient des effectifs mis en\ndisponibilit� et recycl�s au d�minage humanitaire du corps de g�nie des Forces\narm�es de la R�publique D�mocratique du Congo et de la Police Nationale\nCongolaise.\nLe personnel civil peut aussi\nfaire partie du service gouvernemental de d�minage humanitaire.",
+                "line_num": 1067
+              },
+              {
+                "title": "Article 8",
+                "node_id": "0084",
+                "summary": "###### Article 8\n\nLa Coordination nationale assure la supervision, le contr�le et l�administration\ndu Centre ainsi que de toutes les activit�s relatives � la lutte antimines en\nR�publique D�mocratique du Congo.",
+                "line_num": 1078
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VI : Du Secr�tariat",
+            "node_id": "0085",
+            "prefix_summary": "#### Chapitre VI : Du Secr�tariat",
+            "line_num": 1085,
+            "nodes": [
+              {
+                "title": "Article 80",
+                "node_id": "0086",
+                "summary": "###### Article 80\n\nLes modalit�s de\nfonctionnement du SGDH sont fix�es par d�cision du Coordonnateur national du\nCCLAM et ses activit�s sont financ�es par dotation budg�taire.\n\nadministratif",
+                "line_num": 1088
+              },
+              {
+                "title": "Article 81",
+                "node_id": "0087",
+                "summary": "###### Article 81\n\nLe secr�tariat administratif est compos� de:\n- un Secr�taire administratif;\n- un Secr�taire administratif adjoint;\n- un Intendant;\n- un Intendant adjoint;\n- un Comptable;\n- un Chef de protocole;\n- un Chef de protocole adjoint;\n- Deux archivistes;\n- Deux Charg�s de courriers;\n- Quatre op�rateurs de saisie;\n- Quatre agents de protocole;\n- Deux huissiers;\n- Trois chauffeurs;\n- Quatre agents d�entretien;\n- Quatre attach�s de s�curit�.",
+                "line_num": 1097
+              },
+              {
+                "title": "Article 82",
+                "node_id": "0088",
+                "summary": "###### Article 82\n\nLe personnel du secr�tariat administratif est nomm� par d�cision du\nCoordonnateur national du CCLAM.",
+                "line_num": 1117
+              }
+            ]
+          },
+          {
+            "title": "Chapitre VII : Des dispositions",
+            "node_id": "0089",
+            "prefix_summary": "#### Chapitre VII : Des dispositions",
+            "line_num": 1123,
+            "nodes": [
+              {
+                "title": "Article 83",
+                "node_id": "0090",
+                "summary": "###### Article 83\n\nConform�ment � l�article 21 de la Loi 11-007 du 9 juillet 2011 portant mise en\noeuvre de la Convention sur l�interdiction des mines antipersonnel en R�publique\nD�mocratique du Congo, les activit�s du CCLAM �margent du budget de l��tat.\nToutefois, le CCLAM peut b�n�ficier des dons et legs de toutes sources.\n\ntransitoires et finales",
+                "line_num": 1126
+              },
+              {
+                "title": "Article 84",
+                "node_id": "0091",
+                "summary": "###### Article 84\n\nEst modifi�, l�Arr�t� minist�riel n�25/CAB/MINITER SECDAC/069/2014 du 28\nnovembre 2014 portant composition, organisation et fonctionnement du Centre\nCongolais de Lutte Antimines tel que modifi� par l�Arr�t� minist�riel\nn�25/CAB/VPM/MININTER SECDAC/HMS/066/2018 du 25 juin 2018.",
+                "line_num": 1136
+              },
+              {
+                "title": "Article 85",
+                "node_id": "0092",
+                "summary": "###### Article 85\n\nLe Directeur de Cabinet est charg� de l�ex�cution du pr�sent Arr�t� qui entre en\nvigueur � la date de sa signature.\nFait � Kinshasa, 06 f�vrier 2023.\n___________\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession des associations qui\nn'engagent pas leur responsabilit�.",
+                "line_num": 1144
+              },
+              {
+                "title": "Article 9",
+                "node_id": "0093",
+                "summary": "This partial document outlines the specific responsibilities and duties of the National Coordinator within the national anti-personnel mine action center in the Democratic Republic of the Congo. The main points covered are the Coordinator's roles in program management, legal compliance, government liaison, strategic implementation, coordination of all mine and explosive remnants of war clearance activities, personnel and budget management, asset administration, task delegation, and the authorization of operational task orders for both state and non-state organizations.",
+                "line_num": 1158
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "70110f03-3d59-4be5-908b-941888de4e5b"
+    ],
+    "0002": [
+      "dd3c69d3-502a-4548-81f8-2c9abd85c165"
+    ],
+    "0003": [
+      "aacf1cbc-f29c-44fe-b276-dba5c1d9bb51"
+    ],
+    "0004": [
+      "31a1bb52-de57-4b58-8e6a-66f5dcfa61f3"
+    ],
+    "0006": [
+      "74803df4-8c4a-4c94-8c03-17edcd31f48f"
+    ],
+    "0007": [
+      "d4f1151e-5588-413b-8234-a4a1783184ca"
+    ],
+    "0008": [
+      "bd5c3957-09f4-4d7b-bf4c-3d16347edd7d"
+    ],
+    "0009": [
+      "d65879f8-fb14-4373-ba0c-532d5e06ff72"
+    ],
+    "0010": [
+      "05bfc069-bb25-4d52-9d1a-85080c707605"
+    ],
+    "0011": [
+      "1d3e49b0-6f5b-4a29-ae50-2fcd0bdd3b32"
+    ],
+    "0012": [
+      "1ce7daca-5cb0-46fd-a80b-28b763b5bc9b"
+    ],
+    "0013": [
+      "fb51e0b9-1330-467f-a778-abe3a11b113b"
+    ],
+    "0014": [
+      "9d34caa3-2e68-4e6a-a834-4363f32fb03c"
+    ],
+    "0015": [
+      "321cee6a-5c07-454a-b53c-421c853bffec"
+    ],
+    "0016": [
+      "8b803e49-3368-45e0-af51-079d6974ba30"
+    ],
+    "0017": [
+      "2128e519-39a2-4e92-9453-3049b6e42031"
+    ],
+    "0018": [
+      "113129a8-eede-4eb8-befe-6789cd224133"
+    ],
+    "0019": [
+      "7627a5ad-8cef-4fe1-b5f4-23e5b25612a0"
+    ],
+    "0020": [
+      "bf06f31d-8134-48b4-bc1f-cd30e275e897"
+    ],
+    "0021": [
+      "3c039aae-36ac-4c59-b6ff-09bfee889042"
+    ],
+    "0022": [
+      "b3207ea4-b813-4759-ade7-5b70ca4257d3"
+    ],
+    "0024": [
+      "95228542-9f08-41b9-a885-c362543315c0"
+    ],
+    "0025": [
+      "0b9b093e-c42e-4c5b-b02f-c57db53b6269"
+    ],
+    "0026": [
+      "cec47bce-b2be-4080-accc-7029cbbe3440"
+    ],
+    "0027": [
+      "57083afd-255e-4c17-96dd-5323abe8d955"
+    ],
+    "0028": [
+      "13aa1d64-a98f-4aa7-af6f-b1fe919b0b7d"
+    ],
+    "0029": [
+      "c4524724-cfe6-4c04-b8ba-2c02d24f04bc"
+    ],
+    "0030": [
+      "b7c07716-44c8-4fc9-94b3-4296a7e58fc8"
+    ],
+    "0031": [
+      "abc1fda2-cfc2-4f82-8d0d-05232b799c05"
+    ],
+    "0032": [
+      "1bdc21de-bbb0-4274-b733-8f373dff8b61"
+    ],
+    "0033": [
+      "a066bdf4-ce2b-4631-a836-f828944fe282"
+    ],
+    "0034": [
+      "57e804f8-f758-4007-b708-c6e9be8140b9"
+    ],
+    "0035": [
+      "e6060403-59f4-4a56-ae71-5b007fba4038"
+    ],
+    "0036": [
+      "2fb9e113-347a-4695-9678-6fbfc4183391"
+    ],
+    "0037": [
+      "e31ecf5a-e8e6-4adc-8934-1d65b60a075b"
+    ],
+    "0038": [
+      "b5003409-423c-48fd-9080-8663e32cf65e"
+    ],
+    "0039": [
+      "4cc26dd0-baab-44a8-ba8b-c715142096f9"
+    ],
+    "0040": [
+      "8925808b-7b10-48f5-a1ab-0475bef6d9c7"
+    ],
+    "0041": [
+      "62e8ee34-86f2-4bdc-9563-491457317aff"
+    ],
+    "0042": [
+      "c8ec04ed-c805-4d1b-bc13-bf5ef5b2b8f1"
+    ],
+    "0043": [
+      "143a83d1-b9b9-4276-b0d1-ef210ff06a2b"
+    ],
+    "0044": [
+      "55143f8f-0c7d-4ef7-8052-2b6636139ffb"
+    ],
+    "0045": [
+      "81e82b9d-7b51-4964-b065-79e6592c6412"
+    ],
+    "0047": [
+      "f1fa3371-1950-4b40-8057-b27441d22a11"
+    ],
+    "0048": [
+      "82f0a58a-882f-4c17-b198-d2f9d44171e6"
+    ],
+    "0049": [
+      "2963a1ff-e979-4940-8cf6-6e78b4852ba6"
+    ],
+    "0050": [
+      "af1a9cec-4bf1-411c-b999-78e1e5b3e94f"
+    ],
+    "0051": [
+      "a252070e-edbd-45aa-9af1-9575a5a337b2"
+    ],
+    "0052": [
+      "3181ec25-d500-41c5-833d-179bfebb146e"
+    ],
+    "0053": [
+      "e1bec9c5-b6c5-41cb-8118-394a0c674479"
+    ],
+    "0054": [
+      "72d3dc4c-0dd7-46f8-b406-9ef952c4d8d3"
+    ],
+    "0055": [
+      "f0d8006e-20a4-40b5-9ec7-1011c5745a2a"
+    ],
+    "0056": [
+      "de6a355b-e2a7-49b9-afca-be55501de870"
+    ],
+    "0057": [
+      "7eae3d43-09be-44f1-9ec5-5160a0ab6f96"
+    ],
+    "0059": [
+      "db27b013-b478-4f76-91cf-8ded9d5614b0"
+    ],
+    "0060": [
+      "38927159-ea11-44b1-a89e-d10ea8e4c12d"
+    ],
+    "0061": [
+      "c90e3e01-8513-460a-a6a8-bb2d9f9621a9"
+    ],
+    "0062": [
+      "83f6d350-498f-4513-8aea-119ebd30a52b"
+    ],
+    "0063": [
+      "dafdeb1f-9157-4d6d-80f0-9a6c4bd1bc44"
+    ],
+    "0064": [
+      "f913e90f-2f02-44ca-bcd1-16fd8a8cc914"
+    ],
+    "0065": [
+      "d2182aa2-a944-4317-9051-b97b6b4e0968"
+    ],
+    "0066": [
+      "8b49e0dd-b745-407c-b47b-237afc899d2c"
+    ],
+    "0067": [
+      "e9ad44e4-e115-434c-bbe9-74d4c69fc5dc"
+    ],
+    "0069": [
+      "a5c7df36-5e8f-4e58-97ac-b14cf63adcdd"
+    ],
+    "0070": [
+      "7baeef61-4357-48b5-9bab-67dc04ab8a68"
+    ],
+    "0071": [
+      "c4abe20d-bf68-4fef-a66c-09814f7ce3d0"
+    ],
+    "0072": [
+      "88202655-c148-43b7-a339-ee9c46fea68a"
+    ],
+    "0073": [
+      "ae56669d-2776-471e-99c3-b8fce68fe4dd"
+    ],
+    "0074": [
+      "0fb98dca-fbe3-4dfd-93ef-2ea080c8e4fd"
+    ],
+    "0076": [
+      "283c903b-2ae2-44a7-ad56-1a29a723d9f3"
+    ],
+    "0077": [
+      "1fa6e4ab-6bba-4abc-b43d-ca8390e7b026"
+    ],
+    "0078": [
+      "e7e8bcd1-c0c4-4d2c-bb07-a894a3c17094"
+    ],
+    "0079": [
+      "527a7e5e-9b7c-4b92-ab3c-75054a6e967c"
+    ],
+    "0081": [
+      "85b6a012-b77a-45cd-8d35-caf62d538713"
+    ],
+    "0082": [
+      "b97ef4ee-94ad-4212-920c-a2ecb54be0bd"
+    ],
+    "0083": [
+      "c6e10c06-bcde-4630-bea1-81498d63dae7"
+    ],
+    "0084": [
+      "aa3c0e83-a5d3-4f37-9789-2a59bf85668a"
+    ],
+    "0086": [
+      "9b69c6b2-94bd-4fdc-95b5-47699ff53d09"
+    ],
+    "0087": [
+      "7f6c1b2b-0b8a-4c9c-ab49-eef06a43beeb"
+    ],
+    "0088": [
+      "c4d55c1d-70d2-44db-9c4a-8ab7d10d78f8"
+    ],
+    "0090": [
+      "46ba5b86-f177-4173-ba80-dae044169b2a"
+    ],
+    "0091": [
+      "4f7ea479-34ac-4ab8-a52d-6c7c1f3b13c6"
+    ],
+    "0092": [
+      "74eef500-ba69-4463-9ecc-e7080c4743ca"
+    ],
+    "0093": [
+      "7b55d89a-ae85-4be3-a5b3-45e7d7e16a3a"
+    ]
+  },
+  "node_count": 94,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:21:36.045235",
+  "article_count": 84,
+  "generation_time_s": 19.054270029067993
+}

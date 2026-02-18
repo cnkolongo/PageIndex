@@ -1,0 +1,296 @@
+{
+  "slug": "AM-2100-31-12-1999-1999",
+  "bundle_path": "backups/all_bundles/code/AM-2100-31-12-1999-1999.json",
+  "document_id": "b183a1cf-de1e-4e1d-8b94-718d619a3509",
+  "document_title": "AM.2100.31.12.1999",
+  "tree_json": {
+    "doc_name": "AM-2100-31-12-1999-1999",
+    "structure": [
+      {
+        "title": "AM.2100.31.12.1999",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2100.31.12.1999",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article S1",
+            "node_id": "0001",
+            "summary": "###### Article S1\n\nLEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD�",
+            "line_num": 4
+          },
+          {
+            "title": "SECTION I",
+            "node_id": "0002",
+            "prefix_summary": "##### SECTION I",
+            "line_num": 9,
+            "nodes": [
+              {
+                "title": "Article S10",
+                "node_id": "0003",
+                "summary": "###### Article S10",
+                "line_num": 12
+              },
+              {
+                "title": "Article S11",
+                "node_id": "0004",
+                "summary": "This partial document covers the rules governing the General Assembly of a Youth Council. It outlines the Assembly's supreme authority and its main duties, which include representing youth groups, deliberating on Council matters, determining policy, adopting action programs, approving budgets, electing the Council's bureau, and amending statutes. It details the convocation procedures, specifying regular meeting frequencies at national, provincial, and local levels, as well as rules for extraordinary meetings and quorum requirements. Finally, it describes the composition of the National Youth Council's General Assembly, listing its members from the bureau, provincial youth councils, and various involved state ministries and international organizations.",
+                "line_num": 15
+              },
+              {
+                "title": "Article S12",
+                "node_id": "0005",
+                "summary": "This partial document outlines the composition rules for the general assemblies of youth councils at different administrative levels: provincial, urban/district, communal/territorial, and local. It specifies the members of each assembly, including elected bureau members, delegates from lower-level councils or associations, and delegates from public or private youth-focused services, who participate with a consultative voice.",
+                "line_num": 98
+              }
+            ]
+          },
+          {
+            "title": "SECTION II",
+            "node_id": "0006",
+            "prefix_summary": "##### SECTION II",
+            "line_num": 164,
+            "nodes": [
+              {
+                "title": "Article S13",
+                "node_id": "0007",
+                "summary": "###### Article S13",
+                "line_num": 167
+              },
+              {
+                "title": "Article S14",
+                "node_id": "0008",
+                "summary": "This partial document outlines the structure and composition of the executive bureau for various levels of Youth Councils. It defines the bureau as the executive organ with key missions: executing directives, ensuring general functioning, and managing finances. The main focus is detailing the specific members of the bureau for five council levels (National, Provincial, Urban/District, Communal/Territory, and Local), listing honorary presidents (who are government officials), presidents, vice-presidents, secretaries, treasurers, and various officers in charge of cultural, sports, public relations, and project evaluation activities. It concludes by stating each bureau is assisted by administrative personnel provided by the relevant ministry.",
+                "line_num": 170
+              }
+            ]
+          },
+          {
+            "title": "SECTION III",
+            "node_id": "0009",
+            "prefix_summary": "##### SECTION III",
+            "line_num": 298,
+            "nodes": [
+              {
+                "title": "Article S15",
+                "node_id": "0010",
+                "summary": "###### Article S15",
+                "line_num": 301
+              },
+              {
+                "title": "Article S16",
+                "node_id": "0011",
+                "summary": "This partial document outlines the election procedures and eligibility requirements for the executive bureau (\"bureau du conseil\") of a youth council in the Democratic Republic of Congo. The main points covered are:\n\n1.  **Election of Bureau Members:** Members (excluding honorary presidents and permanent secretaries) are elected by the council's general assembly.\n2.  **Eligibility Criteria:** Candidates must be Congolese nationals (or a foreigner with 10+ years of residency), demonstrate moral and intellectual integrity, and have at least two years of experience in a government-approved youth organization.\n3.  **Candidacy Process:** Applications are submitted to the relevant ministry's services and then forwarded to the electoral general assembly.\n4.  **Election Process:** Elections follow democratic and universal mechanisms accepted by the general assembly, with candidates elected by simple majority.\n5.  **Term of Office:** The term for bureau members is three years, renewable once.\n6.  **Installation:** The installed bureau is formally inaugurated by the Minister of Youth or a delegated political-administrative authority.",
+                "line_num": 304
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE III",
+            "node_id": "0012",
+            "prefix_summary": "#### CHAPITRE III",
+            "line_num": 349,
+            "nodes": [
+              {
+                "title": "Article S17",
+                "node_id": "0013",
+                "summary": "###### Article S17",
+                "line_num": 352
+              },
+              {
+                "title": "Article S18",
+                "node_id": "0014",
+                "summary": "###### Article S18\n\nDU FINANCEMENT DU CONSEIL NATIONAL DE LA\nJEUNESSE\nArt. 34.\n� Le financement des\nactivit�s du Conseil national de la jeunesse rel�ve du budget de l��tat.\nToutefois, le Conseil peut\nb�n�ficier des dons, legs et autres lib�ralit�s.",
+                "line_num": 355
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE IV",
+            "node_id": "0015",
+            "prefix_summary": "#### CHAPITRE IV",
+            "line_num": 366,
+            "nodes": [
+              {
+                "title": "Article S19",
+                "node_id": "0016",
+                "summary": "###### Article S19",
+                "line_num": 369
+              }
+            ]
+          },
+          {
+            "title": "TITRE I",
+            "node_id": "0017",
+            "prefix_summary": "#### TITRE I",
+            "line_num": 372,
+            "nodes": [
+              {
+                "title": "Article S2",
+                "node_id": "0018",
+                "summary": "###### Article S2\n\nARR�T� MINIST�RIEL MJS/CAB/\n2100/024/99 du 31 d�cembre 1999 portant organisation et fonctionnement du\nConseil national de la jeunesse en R�publique d�mocratique du Congo. (Minist�re\nde la Jeunesse et des Sports)\ner",
+                "line_num": 375
+              },
+              {
+                "title": "Article S20",
+                "node_id": "0019",
+                "summary": "This partial document outlines the control and oversight mechanisms for the National Youth Council and its subordinate councils at various levels. The main points covered are: 1) The requirement for the statutes and internal regulations (and their amendments) of the National Youth Council to be submitted to the relevant ministry for approval. 2) The same requirement for the statutes and regulations of councils at each administrative level. 3) The obligation for annual reports and financial accounts from all council levels to be submitted for monitoring and compliance control. 4) The stipulation that disciplinary sanctions and measures are to be defined within each council's own statutes and internal regulations.",
+                "line_num": 384
+              }
+            ]
+          },
+          {
+            "title": "TITRE III",
+            "node_id": "0020",
+            "prefix_summary": "#### TITRE III",
+            "line_num": 409,
+            "nodes": [
+              {
+                "title": "Article S21",
+                "node_id": "0021",
+                "summary": "###### Article S21",
+                "line_num": 412
+              },
+              {
+                "title": "Article S22",
+                "node_id": "0022",
+                "summary": "###### Article S22\n\nDES DISPOSITIONS FINALES\nArt. 39.\n� Toutes les dispositions\nant�rieures contraires au pr�sent arr�t� sont abrog�es.\nArt. 40.\n�Le secr�taire g�n�ral � la\nJeunesse est charg� de l�ex�cution du pr�sent arr�t� qui sort ses effets � la\ndate de sa signature.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+                "line_num": 415
+              }
+            ]
+          },
+          {
+            "title": "TITRE II",
+            "node_id": "0023",
+            "prefix_summary": "#### TITRE II",
+            "line_num": 432,
+            "nodes": [
+              {
+                "title": "Article S3",
+                "node_id": "0024",
+                "summary": "The partial document describes the establishment, purpose, and functions of the \"Conseil national de la jeunesse\" (National Youth Council) in the Democratic Republic of Congo. The main points covered are: its existence as a consultative, coordinating, and advisory body for youth associations; its specific missions, which include coordinating youth activities, advising on national youth policy, representing youth organizations to the government, submitting annual reports, and fostering collaboration with national and international youth-focused institutions.",
+                "line_num": 435
+              },
+              {
+                "title": "Article S4",
+                "node_id": "0025",
+                "summary": "###### Article S4\n\nDE L�ORGANISATION ET DU",
+                "line_num": 469
+              },
+              {
+                "title": "Article S5",
+                "node_id": "0026",
+                "summary": "###### Article S5\n\nFONCTIONNEMENT DU CONSEIL NATIONAL DE LA JEUNESSE\nCHAPITRE 1er",
+                "line_num": 474
+              },
+              {
+                "title": "Article S6",
+                "node_id": "0027",
+                "summary": "###### Article S6\n\nDE L�ORGANISATION DU CONSEIL NATIONAL DE",
+                "line_num": 480
+              },
+              {
+                "title": "Article S7",
+                "node_id": "0028",
+                "summary": "This partial document outlines the hierarchical structure and organization of the National Youth Council (Conseil national de la jeunesse) of the Democratic Republic of Congo. It details the council's decentralized geographical levels (national, provincial, urban/district, communal/territorial, and local), describes each level as a coordinating body for youth associations, and specifies that each level has a General Assembly and a Bureau (executive committee) to carry out the national council's mission locally.",
+                "line_num": 485
+              }
+            ]
+          },
+          {
+            "title": "CHAPITRE II",
+            "node_id": "0029",
+            "prefix_summary": "#### CHAPITRE II",
+            "line_num": 558,
+            "nodes": [
+              {
+                "title": "Article S8",
+                "node_id": "0030",
+                "summary": "###### Article S8",
+                "line_num": 561
+              },
+              {
+                "title": "Article S9",
+                "node_id": "0031",
+                "summary": "###### Article S9\n\nDU FONCTIONNEMENT DU CONSEIL NATIONAL DE LA\nJEUNESSE",
+                "line_num": 564
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "d45d1d94-53ce-4d4a-8318-f28f12e7b453"
+    ],
+    "0003": [
+      "4dbd6a4b-9afe-44dd-9c35-34290db89b45"
+    ],
+    "0004": [
+      "1a1a4861-0b79-47ac-805b-43c1c15006ce"
+    ],
+    "0005": [
+      "f0ec2db3-5bc0-4c5e-a90c-9f7fcd55c447"
+    ],
+    "0007": [
+      "776f3fc4-91b6-46a3-95c9-27018d91bd4f"
+    ],
+    "0008": [
+      "0b92910b-cf1c-44fe-8dd9-5dd626669da9"
+    ],
+    "0010": [
+      "630c1cba-c813-471d-9903-e4edf31dcfa2"
+    ],
+    "0011": [
+      "1b704b5b-bf66-4f2d-a809-95ccb8a52610"
+    ],
+    "0013": [
+      "3efa68cc-9a9c-4bc8-8a64-4bdc66f3bd03"
+    ],
+    "0014": [
+      "296d28be-7bad-4925-9b49-ac6fe1ba9ac2"
+    ],
+    "0016": [
+      "f187e91a-b169-477d-8ba1-d62d12de1ec2"
+    ],
+    "0018": [
+      "847741e8-4560-4dee-a1b4-f23087380f87"
+    ],
+    "0019": [
+      "d945c21c-affa-47ca-82ca-a2b8294516fc"
+    ],
+    "0021": [
+      "313be840-2972-4eaf-a563-867ca3f0a992"
+    ],
+    "0022": [
+      "564801eb-3b1c-4f81-a282-1f555886a6eb"
+    ],
+    "0024": [
+      "108c78f0-66d9-429e-bb3e-dd7b28c3f783"
+    ],
+    "0025": [
+      "954cae28-186d-47b6-8511-cecc89c83a25"
+    ],
+    "0026": [
+      "58b371bc-1319-424f-8a7f-3861bdee7e61"
+    ],
+    "0027": [
+      "b76fa816-64f2-4d24-a4e6-d3078f658609"
+    ],
+    "0028": [
+      "740ef75e-3383-4911-9a7d-8945628f6aa9"
+    ],
+    "0030": [
+      "f0057923-a8bf-4514-941a-c67b3a8715ac"
+    ],
+    "0031": [
+      "37b224ee-b363-4f79-bc01-e70d562e44db"
+    ]
+  },
+  "node_count": 32,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:44:51.547912",
+  "article_count": 22,
+  "generation_time_s": 17.6049587726593
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "AM-2017-028-29-08-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM-2017-028-29-08-2017-2017.json",
+  "document_id": "64ad9462-ab08-4cd9-950e-9eee05201c52",
+  "document_title": "AM.2017.028.29.08.2017",
+  "tree_json": {
+    "doc_name": "AM-2017-028-29-08-2017-2017",
+    "structure": [
+      {
+        "title": "AM.2017.028.29.08.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM.2017.028.29.08.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "This partial document outlines the legal rules for calculating and distributing financial compensation (economic loss) to the heirs of a deceased victim. The main points covered are:\n\n1.  **Calculation Basis:** Compensation is a capital sum based on a percentage of the deceased's proven annual income, multiplied by a conversion factor based on each heir's age.\n2.  **Default Income:** If no income is proven, a fictitious annual SMIG (minimum wage) is used as the base.\n3.  **Capitalization Limit for Children:** Compensation for children is capped at 21 years, extended to 28 years if they pursue higher education.\n4.  **Distribution Percentages:** Percentages for distributing the deceased's income among family members (ascendants, spouse, children) are defined in attached tables.\n5.  **Equal Distribution within Groups:** Shares are divided equally among beneficiaries within each group (children, parents, spouse).\n6.  **Preference for Double Orphans:** If a family includes both partial and full orphans, the calculation table for full orphans applies.\n7.  **Overall Cap:** The total compensation for economic loss is capped at 85 times the annual SMIG.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLa table de conversion figurant en annexe du\npr�sent Arr�t� sera mise � jour tous les deux ans.",
+            "line_num": 33
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLa table de conversion, ayant �t� con�ue sur\nbase des formules de rentes imm�diates, le calcul des indemnit�s devront �tre\nmajor�es des int�r�ts chaque fois qu'une p�riode d�passant 12 mois sera observ�e\nentre la date de survenance du sinistre et celle de son r�glement.",
+            "line_num": 39
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nL'�ge consign� dans la table de conversion\ncorrespond � l'�ge r�volu, c'est-�-dire l'�ge au dernier anniversaire du d�funt.",
+            "line_num": 47
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nSont abrog�es, toutes les dispositions\nant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 53
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nL'Autorit� de R�gulation et de contr�le des\nassurances est charg�e de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 29 ao�t 2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 59
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "83d44e98-534f-4992-9b47-5f3cdf259d1e"
+    ],
+    "0002": [
+      "939ab7fe-582b-49ea-ab0e-feea2465a3ad"
+    ],
+    "0003": [
+      "fd12aa0c-8ac5-4dd1-b49f-841c71d60bd0"
+    ],
+    "0004": [
+      "2fa68fc7-f21f-4794-a51f-7a8876cdbb74"
+    ],
+    "0005": [
+      "bd5cfec4-62de-4b5a-b253-bdc58a4decd3"
+    ],
+    "0006": [
+      "bb714e65-4e7f-4d46-a8bb-545ebed8ba3b"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:35:15.918085",
+  "article_count": 6,
+  "generation_time_s": 12.631356239318848
+}

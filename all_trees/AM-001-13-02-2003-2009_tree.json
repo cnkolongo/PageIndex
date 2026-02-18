@@ -1,0 +1,134 @@
+{
+  "slug": "AM-001-13-02-2003-2009",
+  "bundle_path": "backups/all_bundles/code/AM-001-13-02-2003-2009.json",
+  "document_id": "57d8b937-ecd7-427d-9d49-4e2d267bf372",
+  "document_title": "AM.001.13.02.2003",
+  "tree_json": {
+    "doc_name": "AM-001-13-02-2003-2009",
+    "structure": [
+      {
+        "title": "AM.001.13.02.2003",
+        "node_id": "0000",
+        "prefix_summary": "# AM.001.13.02.2003",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nIl est cr��, au sein\ndu Minist�re du Budget, un Comit� charg� de la mise en place du processus d'�laboration,\ndu suivi et d'�valuation du Cadre des D�penses � Moyen Terme (CDMT)\net des Budgets Programme ainsi que de l'Instauration de la gestion ax�e sur les\nr�sultats, CCDMTen sigle.\nLe CCDMT est plac� sous la supervision du Ministre du Budget.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 10",
+            "node_id": "0002",
+            "summary": "The partial document outlines the meeting schedules and responsibilities of various committees and units involved in a planning and execution process (likely for a CDSMT or similar strategic document). It specifies the Pilot Committee's monthly meetings, the Coordination's weekly meetings, and the Conception and Execution Unit's bi-weekly meetings. It also notes the role of funders in providing support, defines the Focal Point's responsibility for developing the plan, and states that the internal relationships are governed by the Committee's Internal Regulations.",
+            "line_num": 14
+          },
+          {
+            "title": "Article 11",
+            "node_id": "0003",
+            "summary": "###### Article 11\n\nLes membres charg�s de l'�laboration, du suivi et de l'�valuation\ndu CDMT ont droit � une indemnit� dont le montant est fix� par le Ministre du\nBudget.",
+            "line_num": 35
+          },
+          {
+            "title": "Article 12",
+            "node_id": "0004",
+            "summary": "###### Article 12\n\nLes Secr�taires G�n�raux au Budget, aux Finances et au Plan sont\ncharg�s, chacun en ce qui le concerne, de l'ex�cution du pr�sent Arr�t� qui sort\nses effets � la date de sa signature.\nFait � Kinshasa, le 12 f�vrier 2009 Michel Lokola Elemba\nMinist�re\nde l'Emploi, du Travail\net\nde la Pr�voyance Sociale\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 42
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0005",
+            "summary": "###### Article 2\n\nLe CCDMT a pour mission de :\n-\nconduire le processus articul� sur la pr�vision des ressources\nmobilisables ;\n-\nd�terminer des plafonds sectoriels pr�liminaires ;\n-\n�laborer des cadres, pr�liminaires par Minist�res, des d�penses\nsectorielles � Moyen Terme (CDSMT).\n-\nrevoir les plafonds budg�taires sectoriels et pr�parer leur approbation\npar le Gouvernement ;\n-\nfinaliser le CDMT et le soumettre � l'approbation du Gouvernement et du\nParlement ;\n-\npr�voir les phases de suivi et d'�valuation.",
+            "line_num": 59
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0006",
+            "summary": "###### Article 3\n\nLe CCDMT est compos�\nd'un Comit� de pilotage, d'une Coordination, d'une unit� de Conception et\nd'Ex�cution ainsi que d'un Secr�tariat Administratif et Technique.\nDans l'exercice de\nleurs fonctions, ces organes sont �paul�s par le point focal institu� au sein de\nchaque minist�re.",
+            "line_num": 80
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0007",
+            "summary": "This partial document outlines the five key missions of a Steering Committee (\"Comité de pilotage\"). These missions are: providing methodological guidance to ministries for developing strategic plans and program budgets; consolidating and analyzing these plans to create a global framework; reporting on challenges and constraints related to the planning process; monitoring the application of management principles; and proposing reforms for better integration of program budgets into the annual budget.",
+            "line_num": 90
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0008",
+            "summary": "###### Article 5\n\nLe Comit� de pilotage du processus CDMT est\ncompos� des Ministres du Budget, des Finances et du Plan.\nLa Coordination est assur�e par les\nSecr�taires G�n�raux des trois Minist�res respectifs et par les Coordinateurs du\nCTR et de l'UPPE ainsi que par le Conseiller du Cabinet du Minist�re du Budget\nen charge des R�formes.",
+            "line_num": 112
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0009",
+            "summary": "The partial document outlines the technical coordination structure for field work, specifying three distinct coordinators and their respective areas of responsibility: 1) the Deputy Coordinator of UPPE for strategic planning elements (visions, objectives, logical frameworks), 2) the Director of Budget Preparation and Monitoring for medium-term budgetary frameworks and program development, and 3) the Deputy Coordinator of CTR for monitoring, evaluation, and administrative reforms. It states that this coordination's role is to guide and correct the proposals made by the design and execution unit.",
+            "line_num": 122
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0010",
+            "summary": "###### Article 7\n\nL'Unit� de\nConception et d'Ex�cution a pour t�ches l'ex�cution et l'harmonisation des\n�tapes d�crites � l'article 6 du pr�sent Arr�t�.\nElle est compos�e des Experts du Gouvernement\ndont les services des experts sont concern�s par le processus CDMT.\nLes Membres de cet organe sont d�sign�s, sur\nproposition de la Coordination Technique, et classifi�s suivant la\ncat�gorisation des mati�res �nonc�es � l'article 6.",
+            "line_num": 142
+          },
+          {
+            "title": "Article 8",
+            "node_id": "0011",
+            "summary": "###### Article 8\n\nLe Secr�tariat\nAdministratif et Technique permanent assure la logistique et la permanence dans\nles relations entre intervenants ainsi que les points focaux. Ces derniers sont\nd�sign�s, es qualit�, par les Secr�taires G�n�raux pr�cit�s.",
+            "line_num": 154
+          },
+          {
+            "title": "Article 9",
+            "node_id": "0012",
+            "summary": "###### Article 9\n\nLe Point Focal est\nMembre Permanent du CCDMT. Il est install� dans chaque Minist�re et est anim�\npar le Directeur des Etudes et Planification dudit Minist�re.",
+            "line_num": 162
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "0937b3be-8929-45c6-826f-afda60aae2f8"
+    ],
+    "0002": [
+      "858b3aa7-0753-4147-bb38-ed952c16c8e9"
+    ],
+    "0003": [
+      "ab4f0198-6ccb-403b-a625-9accc3740430"
+    ],
+    "0004": [
+      "aeb8b317-5948-4ea9-a6be-468f9ce22e8c"
+    ],
+    "0005": [
+      "2ecdc316-1a82-4fe4-aaf2-955e51553678"
+    ],
+    "0006": [
+      "6ab8669d-8998-4ff9-8791-7a82b159358c"
+    ],
+    "0007": [
+      "dfe85af4-ed8f-4d21-815c-acededdac7cd"
+    ],
+    "0008": [
+      "057eccba-9289-484a-b022-85a2e3f07475"
+    ],
+    "0009": [
+      "81bc1a76-33aa-4044-abe3-691e58356de0"
+    ],
+    "0010": [
+      "bbb7138c-b1c3-46e9-96c6-36a98b95735e"
+    ],
+    "0011": [
+      "876d7411-eb1d-4de8-a67d-533fcdc1fdbd"
+    ],
+    "0012": [
+      "51c1c3db-452a-4e6e-a1cb-6217e05b8e3b"
+    ]
+  },
+  "node_count": 13,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:00:44.832719",
+  "article_count": 12,
+  "generation_time_s": 10.324361085891724
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "AM-28-08-2017-2017",
+  "bundle_path": "backups/all_bundles/code/AM-28-08-2017-2017.json",
+  "document_id": "d7c6c8ae-6b55-406e-b753-f3425b7f1406",
+  "document_title": "AM.28.08.2017",
+  "tree_json": {
+    "doc_name": "AM-28-08-2017-2017",
+    "structure": [
+      {
+        "title": "AM.28.08.2017",
+        "node_id": "0000",
+        "prefix_summary": "# AM.28.08.2017",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nEn application de l'article 161 du Code des\nassurances, le co�t total des frais de toute nature n�cessaires pour le\ntraitement d'une victime d'accident de la circulation, pris-en charge\ndirectement par l'assureur du v�hicule impliqu� dans l'accident ou rembours�s �\nla victime, est limit� � deux fois le tarif le plus �lev� des h�pitaux publics\nou � une fois le tarif le plus �lev� des formations hospitali�res et m�dicales\nconventionn�es.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nLes formations hospitali�res ou m�dicales\nconventionn�es sont des Etablissements de soins, publics ou priv�s, qui ont\npass�, avec l'Association professionnelle des organismes d'assurance agr��s pour\npratiquer les op�rations d'assurance de responsabilit� civile r�sultant de\nl'usage de v�hicules terrestres � moteur, une convention qui les engage �\nfournir des prestations m�dicales, g�n�rales ou sp�cialis�es, aux victimes des\naccidents de la circulation, dans la limite des tarifs cadres convenus, et\napprouv�s par un Arr�t� conjoint des Ministres ayant respectivement les\nassurances et la sant� dans leurs attributions.",
+            "line_num": 15
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nEn cas d'urgence qui n�cessite des soins\nexceptionnels non pr�vus dans la convention vis�e � l'article 2 ci-avant,\nl'Association professionnelle des organismes d'assurance agr��s n�gociera avec\nles formations hospitali�res ou m�dicales habilit�es les modalit�s de prise en\ncharge des soins de toute nature par l'assureur. Cette exception sera, le cas\n�ch�ant, ult�rieurement int�gr�e dans la convention et approuv�e par Arr�t�\nconjoint des Ministres ayant respectivement les assurances et la sant� dans\nleurs attributions.",
+            "line_num": 28
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLorsque l'�vacuation sanitaire de la victime\n� l'�tranger est justifi�e par expertise m�dicale, le co�t total des frais est\nlimit�, � une fois le tarif le plus �lev� des h�pitaux publics du pays\nd'accueil. A la demande de la victime, l'assureur du v�hicule ayant caus�\nl'accident ou celui dans lequel la victime �tait transport�e, est tenu de\nd�livrer, dans la limite du tarif pr�vu ci-dessus, une lettre de garantie pour\nla prise en charge des frais m�dicaux.",
+            "line_num": 40
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nSont abrog�es, toutes les dispositions\nant�rieures contraires au pr�sent Arr�t�.",
+            "line_num": 51
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nL'Autorit� de r�gulation et de contr�le des\nassurances est charg�e de l'ex�cution du pr�sent Arr�t� qui entre en vigueur �\nla date de sa signature.\nFait � Kinshasa, le 28 ao�t 2017\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 57
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "642b3e05-5e55-4abb-a069-ee56650c3023"
+    ],
+    "0002": [
+      "6157c4a5-37cc-46f8-bf57-7c2efa22b462"
+    ],
+    "0003": [
+      "5585ebad-5b54-4a61-ace4-90173b6557d7"
+    ],
+    "0004": [
+      "6d00e850-7be2-4576-8c44-b9cc4da363d7"
+    ],
+    "0005": [
+      "f52b45ea-7e7a-49f0-af07-a1df86e0d91b"
+    ],
+    "0006": [
+      "008e0305-0e2d-4fa0-a348-6d2bcc80fd05"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:23:16.341673",
+  "article_count": 6,
+  "generation_time_s": 0.02568793296813965
+}

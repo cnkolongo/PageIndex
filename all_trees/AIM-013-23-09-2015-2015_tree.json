@@ -1,0 +1,89 @@
+{
+  "slug": "AIM-013-23-09-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AIM-013-23-09-2015-2015.json",
+  "document_id": "568fdc1b-7684-4da6-943b-32ce5bef0279",
+  "document_title": "AIM.013.23.09.2015",
+  "tree_json": {
+    "doc_name": "AIM-013-23-09-2015-2015",
+    "structure": [
+      {
+        "title": "AIM.013.23.09.2015",
+        "node_id": "0000",
+        "prefix_summary": "# AIM.013.23.09.2015",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLes taux des droits, taxes et redevances � percevoir � l'initiative du Minist�re\nde l'Industrie sont ceux repris aux annexes cot�es de 1 � 4 du pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\n-La taxe sur le transfert des royalties est payable par trimestre;\n-Le d�p�t de la d�claration doit intervenir dans les 10 jours qui suivent le\ntrimestre �chu ;\n-Le paiement de la taxe de transfert des royalties doit s'effectuer end�ans 8\njours � dater de la r�ception de la note de perception �mise par la DGRAD.",
+            "line_num": 10
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\n-Le taux de la taxe sur le transfert des royalties et savoir faire est de 5% sur\nla valeur transf�rable ;\n-La valeur transf�rable est calcul�e sur le chiffre d'affaires � multiplier par\nle taux contractuel de la licence d'exploitation.",
+            "line_num": 19
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLe d�faut de d�claration, les d�clarations tardive, incompl�te et inexacte\ndonnent lieu � des p�nalit�s d'assiette pr�vues aux articles 11 et 12 de\nl'Ordonnance� loi n�13/003 du 23 f�vrier 2013 portant r�forme des proc�dures\nrelatives � l'assiette, au contr�le et aux modalit�s de recouvrement des\nrecettes non fiscales;",
+            "line_num": 27
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLes arri�r�s des paiements de l'exercice 2014 au titre de taxe sur la d�tention\ndes instruments de mesure � usage industriel et/ou commercial ainsi que les\npaiements des droits, taxes et redevances des exercices partant de 2015\ns'effectueront conform�ment aux dispositions de l'article 1er du pr�sent Arr�t�.",
+            "line_num": 36
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLes dispositions ant�rieures contraires au pr�sent Arr�t� sont abrog�es.",
+            "line_num": 44
+          },
+          {
+            "title": "Article 7",
+            "node_id": "0007",
+            "summary": "###### Article 7\n\nLe Secr�taire g�n�ral � l�Industrie et le Directeur g�n�ral de la Direction\nG�n�rale des Recettes Administratives, Judiciaires, Domaniales et de\nParticipations sont charg�s, chacun en ce qui le concerne, de l'ex�cution du\npr�sent Arr�t� qui entre en vigueur � la date de sa signature.\nFait � Kinshasa, le 23 septembre 2015\nCe site est en construction - pour toutes\ninformations; remarques\n[adressez\nnous un courriel]Les textes ne font\nque refl�ter les textes en possession de l'association qui\nn'engage pas sa responsabilit�.",
+            "line_num": 49
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "3dac75df-b55b-4eb6-a66e-6c3b1c03da1c"
+    ],
+    "0002": [
+      "89442cf0-194b-466f-92e9-c502e63b2a7d"
+    ],
+    "0003": [
+      "d33ec4c3-fcd7-439a-a922-82d8fa70afb4"
+    ],
+    "0004": [
+      "7955cb73-aa7b-4a80-9983-7d94e57bd347"
+    ],
+    "0005": [
+      "4cde7c1c-a619-4793-90d3-a202fc289cef"
+    ],
+    "0006": [
+      "0b3fed0e-855b-4522-8bf0-3fd02a0796fe"
+    ],
+    "0007": [
+      "a7aabf2a-ddca-4d82-a79c-684fb1bf4947"
+    ]
+  },
+  "node_count": 8,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:04:32.902310",
+  "article_count": 7,
+  "generation_time_s": 0.01320505142211914
+}

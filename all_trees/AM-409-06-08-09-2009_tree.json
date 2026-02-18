@@ -1,0 +1,80 @@
+{
+  "slug": "AM-409-06-08-09-2009",
+  "bundle_path": "backups/all_bundles/code/AM-409-06-08-09-2009.json",
+  "document_id": "680b8203-b516-4e49-84d2-e2ab4fa6c91f",
+  "document_title": "AM.409.06.08.09",
+  "tree_json": {
+    "doc_name": "AM-409-06-08-09-2009",
+    "structure": [
+      {
+        "title": "AM.409.06.08.09",
+        "node_id": "0000",
+        "prefix_summary": "# AM.409.06.08.09",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "Article 1",
+            "node_id": "0001",
+            "summary": "###### Article 1\n\nLe contr�le d'ex�cution des projets\nrelatifs aux travaux de g�nie civil, de fournitures d'�quipements ou des\nmat�riels de transport, initi�s directement ou indirectement par les entreprises\nou les �tablissements publics d�pendant du Minist�re des transports et voies de\ncommunication est r�alis�e conform�ment aux dispositions du pr�sent Arr�t�.",
+            "line_num": 4
+          },
+          {
+            "title": "Article 2",
+            "node_id": "0002",
+            "summary": "###### Article 2\n\nPour chaque projet de march� public\nvis� � l'article\nle`,\nle Secr�taire g�n�rale aux transports et voies de communication d�signe un\nfonctionnaire de la direction de l'inspection des transports qui sera charg� de\nsuivre et d'en contr�ler l'ex�cution.",
+            "line_num": 13
+          },
+          {
+            "title": "Article 3",
+            "node_id": "0003",
+            "summary": "###### Article 3\n\nLe contr�le et le suivi de qualit�, de\nquantit� et des d�lais par le pr�pos� de la direction de l'inspection de\ntransports s'effectue dans toutes les phases de r�alisation du projet.\nEn particulier, le contr�le est\npr�ventif, concomitant et � posteriori.",
+            "line_num": 23
+          },
+          {
+            "title": "Article 4",
+            "node_id": "0004",
+            "summary": "###### Article 4\n\nLe fonctionnaire ainsi d�sign� ex�cute\nsa t�che au regard des sp�cifications d�finies dans le r�glement du march�\n(cahier sp�cial de charges, termes de sp�cifications techniques, etc.),\nLe Ma�tre d'ouvrage et l'adjudicataire,\nselon le cas, sont tenus d'accorder au fonctionnaire le libre acc�s �\nla documentation aff�rente au march�, objet du contr�le, au chantier, et de lui\napporter toutes les facilit�s pour le bon accomplissement de son devoir.",
+            "line_num": 32
+          },
+          {
+            "title": "Article 5",
+            "node_id": "0005",
+            "summary": "###### Article 5\n\nLe fonctionnaire dresse mensuellement �\nl'attention de la hi�rarchie un rapport sur l'�volution du projet et propose\nl'adoption de toutes mesures qu'il juge n�cessaires afin de garantir la s�curit�\nd'exploitation de l'objet du march� dans la cha�ne de transport.",
+            "line_num": 43
+          },
+          {
+            "title": "Article 6",
+            "node_id": "0006",
+            "summary": "###### Article 6\n\nLe Secr�taire g�n�ral aux transport et\nvoies de communication est charg� de l'ex�cution du pr�sent Arr�t� qui annule\ntoutes les dispositions ant�rieures contraires et prend effet � la date de sa\nsignature.\nFait � Kinshasa, le 06 ao�t 2009\nMatthieu Mpita.\nCe\nsite est en construction - pour toutes informations; remarques\n[adressez nous un courriel]Les\ntextes ne font que refl�ter les textes en possession des\nassociations qui n'engagent pas leur responsabilit�.",
+            "line_num": 51
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0001": [
+      "4875485f-7ca4-4aa9-ad7a-2977e3667388"
+    ],
+    "0002": [
+      "c8cc6787-baea-489f-b884-b7cd83ae306e"
+    ],
+    "0003": [
+      "53c52dce-c2e1-4f44-98dd-1598889bf422"
+    ],
+    "0004": [
+      "f6b172fe-3976-44b8-b2c1-b82f225ba80c"
+    ],
+    "0005": [
+      "5853bb52-221d-43da-828d-f41a7ecb7472"
+    ],
+    "0006": [
+      "49ba9e91-d386-43e0-8e81-4d713f859657"
+    ]
+  },
+  "node_count": 7,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T05:22:14.162218",
+  "article_count": 6,
+  "generation_time_s": 0.00984811782836914
+}

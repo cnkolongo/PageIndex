@@ -1,0 +1,40 @@
+{
+  "slug": "AM-45-08-10-2015-2015",
+  "bundle_path": "backups/all_bundles/code/AM-45-08-10-2015-2015.json",
+  "document_id": "aca8d18d-01ba-41f0-bc6f-46001f49e443",
+  "document_title": "AM.45.08.10.2015",
+  "tree_json": {
+    "doc_name": "AM-45-08-10-2015-2015",
+    "structure": [
+      {
+        "title": "AM.45.08.10.2015",
+        "node_id": "0000",
+        "line_num": 1,
+        "nodes": [
+          {
+            "title": "livre III",
+            "node_id": "0001",
+            "line_num": 4,
+            "nodes": [
+              {
+                "title": "Article 85",
+                "node_id": "0002",
+                "line_num": 7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_article_mapping": {
+    "0002": [
+      "8d7a970b-10a2-43c2-863f-2db2ab3a4c01"
+    ]
+  },
+  "node_count": 3,
+  "generation_model": "deepseek-v3.2",
+  "generated_at": "2026-02-10T04:45:39.311509",
+  "article_count": 1,
+  "generation_time_s": 0.0033309459686279297
+}
